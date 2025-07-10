@@ -1,0 +1,9 @@
+pdf2image
+pytesseract
+opencv-python
+pandas
+streamlit
+scikit-learn
+sentence-transformers
+fastapi
+uvicorn
