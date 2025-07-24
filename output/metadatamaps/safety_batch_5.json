@@ -1,0 +1,917 @@
+[
+  {
+    "page": 1,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "The Airbus safety magazine 38 Safety first"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Safety first, 38 July 2024. Safety first is published by Airbus S.A.S. 1, rond point Maurice Bellonte 31707 Blagnac CedexFrance. Editor Yannick Malinge, SVP Head of Aviation Safety. Concept Design by Airbus MultiMedia Studio 20240359. Reference X00D16031905. Photos by Airbus, S. Ramadier, Masterfilm P. Pigere, P. Masclet, H. Gousse, A. Domenjou. This brochure is printed on Symbol Tatami White. This paper is produced in factories that are accredited EMAS and certified ISO 900114001, PEFC and FSC CoC. It is produced using pulp that has been whitened without either chlorine or acid. The paper is entirely recyclable and is produced from trees grown in sustainable forest resources. The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous metals from the cadmium, lead, mercury or hexavalent chromium group. The printer, Art Caract\u00e8re France 81500, is engaged in a waste management and recycling programme for all"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "resulting byproducts. Editorial Team Guillaume Javier Vanessa Estragnat Martinez Sadi Gwyneth Tim Duggan Roach Airbus S.A.S. 2024 All rights reserved. Proprietary documents. By taking delivery of this Brochure hereafter Brochure, you accept on behalf of your company to comply with the following guidelines No other intellectual property rights are granted by the delivery of this Brochure than the right to read it, for the sole purpose of information. This Brochure and its content shall not be modified and its illustrations and photos shall not be reproduced without prior written consent of Airbus. This Brochure and the materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment. This Brochure contains sensitive information that is correct at the time of going to press. This information involves a number of factors that could change over time, affecting the true public representation."
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Airbus assumes no obligation to update any information contained in this document or with respect to the information described herein. Airbus S.A.S. shall assume no liability for any damage in connection with the use of this Brochure and of the materials it contains, even if Airbus S.A.S. has been advised of the likelihood of such damage. Safety first The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety first is published by the Aviation Safety department. It is a source of specialist safety information for the use of airlines who fly and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confidential Reporting System, incident and accident investigation reports, system tests and"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "fight tests. Material is also obtained from sources within the airline industry, studies and reports from government agencies and other aviation sources. All articles in Safety first are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The contents do not supersede any requirements mandated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily reflect the views of Airbus, nor do they indicate Company policy. Contributions, comments and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Aviation Safety department W 1, rond point Maurice Bellonte"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "31707 Blagnac Cedex France safetycommunicationairbus.com Visit us at safetyfirst.airbus.com or install the Safety first app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "YANNICK MALINGE SVP Head of Aviation Safety editorial Dear Aviation Colleagues, The demand for air travel is very strong, and we are likely to continue growing beyond the prepandemic levels achieved in 2019. This is positive for the industry, but we also must acknowledge the challenge of our air transport system to cope with the need to increase capacity. This is true for operators and manufacturers alike and requires extra vigilance to avoid increasing the risk of a fatal accident linked to this growth. When the air transport system, its existing infrastructure and supply chain are stretched, more than ever, collaboration with all actors across the air transport system is key to ensure that our safety values are maintained. It is a continuous challenge to retain existing skills, attracting more people to work in aviation, and to train them. It can begin with a reminder of the basics, including lessons"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "from past accidents or reported events, and ensuring the knowledge is passed on. This relies on openly sharing information and data, ensuring a shared spirit of speakup, listenup, and closingtheloop. How can we support? By sharing safety information and the materials that you can use to promote safety values, including our own lessons learned and best practices, which can be relevant for pilots, technicians, cabin crew, dispatchers, and everyone who works in aviation. It is what we aim to provide through the Safety first articles, instructive videos, and infographics in an easytoaccess safety information portal at flightsafety.airbus.com. Because it is all about learning from each other and we encourage all of our operators to join with us in the safety information sharing forums such as our annual Flight Safety Conference and Destination 10X collaborative regional events. It is this connection around shared safety values that maintains our safety culture, which"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "is the most effective means to prevent increasing the risk of an aircraft accident. I look forward to continuing to grow our aviation safety culture together, for safe work and safe journeys ahead."
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Airbus Flight Safety Website Safety is our top priority, at the heart of everything we do Find links to the Airbus safety information sharing channels Search for safety topics accross all of the channels Check out the latest safety publication in the News section"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "NEWS"
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Safety 38 first OPERATIONS P06 Under the Spotlights P14 Bird or Hail Strikes on the Radome P24 Is it a Loss of Braking? P34 Correct Cargo Door Seal Installation for Safe Operation"
+  },
+  {
+    "page": 8,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Under the Spotlights"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "CASE STUDY Event Description An A321neo aircraft was performing a positioning flight before several sectors of operations. A limited number of people including some cabin crew members were on board. The aircraft was climbing toward its target altitude. At 10 000 ft, one of the cabin crew noticed an excessive amount of cabin noise and cold temperature while walking toward the empty middle part of the aircraft. He discovered that one of the windows on the left side of the cabin appeared to have slipped down from its usual position and that the window seal was flapping in the outside airflow fig.1 . He immediately informed the flight crew who decided to descend to 9 000 ft and to perform an inflight turnback. The aircraft landed safely and without further incident. When on the ground and with the aircraft parked, the flight crew performed an inspection of the aircraft exterior."
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "They observed that two windows were missing and one was dislodged fig.2 . Damage to the lower side of the left stabilizer, probably due to an impact of a departing part, was also noticed. Further inspection revealed that two additional windows were damaged on the left side of the fuselage and one window also showed signs of damage on the right side of the fuselage. Event Analysis Safety first 38 July 2024 007 fig.1 Picture of the window during the event source operator fig.2 Picture of the damaged and missing windows after landing source investigation board fig.3 Lighting setup during the filming session not to scale"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Under the Spotlights fig.4 Picture of the filming session source operator fig.5 Window protrusion due to deformation left and burn marks on the top of an outer pane right source investigation board Heat damage The combined power of the 6 lamps in the halogen lighting setup was 72 kW. The exposure of the fuselage area to the spotlights lasted more than 4 hours on each side of the aircraft. The heat produced by the infrared radiation from the halogen spotlights damaged several cabin windows. This damage was not detected prior to the next flight. The damage found on the affected windows during postflight inspection included Two window assemblies completely missing one pane was retrieved on the runway One window with missing outer pane Deformation of several other window panes Window seals in degraded condition Visible burn marks Melted foam ring at the interface between the window and the cabin"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "lining."
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "CABIN WINDOWS A cabin window assembly is typically composed of one inner and one outer pane made of stretched acrylic contained in a window seal fig.6 . An additional transparent lining not shown in the illustration is present on the cabin side to protect the inner pane from impacts or scratches from the passenger side. A plugtype structural element The cabin window assembly is a plugtype structural component. In other words, it is positioned from the inside of the aircraft and its size is bigger than the window frame so that the differential pressure pushes it against the window frame. The window assembly is maintained in place by a retainer, which is attached to the window frame by bolts. A failsafe structural part Each cabin window pane i.e. both the inner and outer panes are able to independently sustain the maximum cabin differential pressure usually experienced during a flight. The"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "outer pane sustains the loads. A small vent hole on the inner pane lets the cabin pressure into the space between the two panes. This prevents the inner pane from sustaining pressurization cycles on each flight. The inner pane is, therefore, not exposed to structural fatigue. If the outer pane fails during a flight, the inner pane is designed to sustain the differential pressure loads and maintain the cabin pressure, which allows the continuation of the flight. The window assembly can then be replaced when the aircraft is back on the ground. Safety first 38 July 2024 009 fig.6 Typical structure of a cabin window"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Under the Spotlights fig.7 Shrinkback effect of the stretched acrylic under abnormally high temperature fig.8 Risk of window pane ejection if the heat damage is not detected before the next flight Seal Window frame Risks associated with abnormal heat exposure Shrinkback effect of acrylic Cabin window panes are manufactured from a thick acrylic sheet that is heated to become softer, then stretched until the required thickness is reached. In normal operating temperature conditions, the acrylic remains in a stable state. However, if excessive heat is applied to a stretched acrylic object, the acrylic softens and the object tends to shrink back to its original shape fig.7 . Stable state in normal Shrinkback effect under temperature conditions abnormally high temperature Risk of window pane ejection If the passenger window panes are exposed to an excessive amount of heat, the panes may start to shrink and could become smaller than the"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "window frame . If a damaged window is not detected before the aircraft returns to service, as in the event described earlier, there is a risk that the cabin pressure differential at altitude will force the affected window pane outwards, causing cabin air pressure leaks and eventually the ejection of the window pane fig.8 . If both the inner and outer panes are affected by the heat damage, the complete window assembly could fail and be ejected. Cabin pressure Outer pane assembly in the window frame no damage may cause window panes to shrink Cabin pressure may push the panes outwards if damage is not detected before the next flight"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Safety first 38 July 2024 011 PREVENTING HEAT DAMAGE When performing a filming session or photoshoot that requires the use of artificial lighting in close proximity to an aircraft, the following recommendations will prevent heat from the lights causing damage to the windows and fuselage. Avoid using high thermal radiation lighting Airbus recommends not to use high thermal radiation lighting devices, such as halogen tungsten or HMI lighting, during photoshoots or filming sessions outside or inside an aircraft. This type of lighting device emits a large amount of thermal energy. Only use low energy lighting devices, such as LED lights, which provide good lighting capabilities with low heat emission. Limit exposure and regularly monitor the surface temperature Switch off any lighting devices when not necessary to limit the exposure time to the minimum . Even though Airbus aircraft materials have been qualified for use in elevated temperature environments, for example,"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "taking into account operations or storage in hot weather regions, Airbus recommendation is to make sure that the surface temperature of cabin and passenger windows, fuselage, interior equipment and all aircraft parts exposed to the lighting sources, are monitored and do not exceed 55C ."
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Under the Spotlights Minimum distance Check the aircraft for damage before return into service After the filming session or photoshoot is finished, Airbus recommends performing a visual inspection of all cabin windows that were exposed to the lightning to check they are free of any damage or distortion before returning the aircraft to service. INFORMATION The European Union Aviation Safety Agency EASA published a Safety Information Bulletin related to this subject in March 2024 SIB 202404 Risks from using high power lights close to aircraft structures. It can be found on the EASA website."
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "CONTRIBUTORS BRUNO ESTEBE Thermal Analysis Expert Design Office J\u00c9R\u00d4ME GRAS Cockpit and Cabin Windows Expert Design Office PIERRE LABRO AccidentIncident Investigator Aviation Safety KAMEL NAIT ATIA Nose and Fwd fuselage windows product leader Customer Support JENS WIETING Compositehybrid structural design engineering Design Office With thanks to Damien PARISE from Customer Support and Sylvain RAMADIER from the Flight and Integration Tests Centre photo lab Safety first 38 July 2024 013 The use of lighting devices during a filming session or photoshoot around an aircraft, or in the cabin, can have unintended consequences. High energy lighting devices can emit a level of thermal radiation that can damage the aircrafts fuselage, windows, or cabin interiors. This may even result in a failure in flight of the window assemblies due to the effects of the heat damage, leading to a loss of cabin pressure at altitude and potential injury to passengers or crew. Several"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "recommendations should be taken into consideration when planning a filming session or photo shoot involving any aircraft. These include only using low heat emitting lighting devices, such as LED lighting equipment, limiting the exposure of the fuselage, windows, or cabin interior to the lights, and regularly monitoring the surface temperature so that it does not exceed 55C when exposed to the lights. After the completion of the filming session, it is important to perform a thorough visual inspection of the areas that were exposed to the lighting to ensure there is no damage and that the aircraft is in a safe condition for its return to service."
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Bird or Hail Strikes on the Radome Bird or Hail Strikes on the Radome Abnormal events such as bird strikes and hail strikes can occur at any time. When the aircraft is struck by birds or Foreign Object Debris FOD, the correct inspection process must be followed, before the next flight, to determine if the aircraft is safe to fly. This article focuses on the effect that a bird or hail strike can have on the radome of the aircraft. It recalls the recommendations to flight and maintenance crews to ensure correct detection, reporting, and management of a bird or hail strike. It also explains why it is important to always check both the outer and inner sides of a radome after any bird or hail strike event. Check the latest version of this article on safetyfirst.airbus.com and on the Safety first app for iOS and Android devices."
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "CASE STUDY Event Description An A350 aircraft was climbing towards its cruise altitude when the SURV WXR 1 FAULT ECAM alert triggered just before reaching 12 000 ft. The flight crew pressed the WXR SYS 2 pushbutton of the SURV panel to switch to weather radar system 2. The SURV WXR 2 FAULT ECAM alert triggered shortly after. The flight crew then performed several weather radar system switchovers with the same result during the climb. The aircraft eventually reached its cruising altitude of 35 000 ft. The SURV WXR 12 FAULT ECAM alert triggered. The flight crew contacted their Operations Control Center and decided to perform an inflight turnback. They initiated the turnback and started to descend. The flight crew then heard a loud noise, followed by strong aerodynamic noise, and observed indicated speed discrepancies. The following ECAM cautions subsequently collapse, the flight control system temporarily reverted to alternate law"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "for 17 minutes. Normal law was then recovered and was maintained for the remainder of the descent. There was another reversion to alternate law that occurred at the beginning of the approach lasting almost two minutes, after which normal law was recovered and maintained until landing. When the aircraft reached the gate, the ground crew observed that the nose radome had collapsed onto the radar fig.1 . Event Analysis Previous report of bird strike The aircraft technical logbook revealed that the aircraft had a bird strike on the left side of the radome one month prior to the event. The technical logbook stated that an inspection was performed in accordance with the MP A350A05511400001282AA Inspection of the Aircraft after a Bird Strike and that traces of bird strike were found on the outer surface left side of the radome, but there was no damage detected. The logbook did not specifically"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "mention if the inner surface of the radome was also inspected. Therefore, it is not possible to confirm if a complete inspection of the radome was performed. Confirmation of the bird strike A detailed examination of the collapsed radome by Airbus confirmed that there was a bird strike to the left side of the radome prior to the event where the radome collapsed. DNA of a hawk was found as well as some paint microcracking around the likely impact area fig.2 . Safety first 38 July 2024 015 fig.1 View of the collapsed radome source operator"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Bird or Hail Strikes on the Radome fig.2 Location of the bird strike based on the observed paint microcracks Radome front view Damage at the impact area DNA traces of a hawk Concentric paint microcracks The inner skin disbonded from the composite structure of the radome, and there was damage to the honeycomb structure near the location of the bird strike. This damage compromised the structural resilience of the radome, which resulted in the radome collapsing. WXR antenna drive failure messages on previous flights The Post Flight Reports PFR of the aircraft showed intermittent and repetitive SURV WXR 1 FAULT, SURV WXR 2 FAULT, and SURV WXR 12 FAULT ECAM alerts triggered during the three previous flights with the associated Drive Unit WXR antenna failure message. This failure message is triggered if the antenna fails to move to its commanded position during an antenna scan cycle. It may be"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "the result of a failure of the drive unit of the antenna or of a mechanical blockage of the antenna. System tests were performed on the ground at the end of each of the three flights with no fault found. The condition of the inner skin that had disbonded from the radome structure was not detected during these ground checks."
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "EFFECTS OF A BIRD OR HAIL STRIKE ON A RADOME The radome is an aerodynamic weatherproof fairing that protects the radar antenna. It is manufactured with materials that allow transmission and reception of the radar radio waves with minimal interference. Radome Structure All radomes on Airbus commercial aircraft since the A300 are composed of a composite sandwich structure constructed of a honeycomb core located between internal and external skins except A380 which has a double sandwich honeycomb core. These skins were previously manufactured from Glass, Kevlar quartz. The latest radomes are manufactured from S2glass materials. Front view Honeycomb S2glass inner core and outer skin kevlar or quartz on older aircraft Section view Effect of an impact on the radome When impacted by hail, a bird strike, or other foreign objects, a sandwich composite structure deforms and then may return to its original shape with little to no damage visible on"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "its external surface, but with potentially significant damage to its internal structure fig.4 . Inservice experience shows that there is often very little trace of the impact on the outer surface of the radome whereas the honeycomb core can be damaged and the radome inner skin can be disbonded around the impact zone. Safety first 38 July 2024 017 fig.3 Typical structure of a radome the shape of the honeycomb may vary depending on the aircraft"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Bird or Hail Strikes on the Radome fig.4 Example of damage due to an impact on a composite panel fig.5 Damaged honeycomb Outer skin back to its original Disbonded shape inner skin Inflation of the disbonding during flight If the damage due to bird or hail strikes is not detected on the ground, the damaged area will be subject to several flight cycles. The air trapped between the honeycomb and disbonded skin around 1 bar on the ground will tend to inflate during each flight and create a bubble where the skin is disbanded due to the lower ambient air pressure at altitude around 0.2 bar at cruise altitude fig.5 . Bubble inflation due to low external pressure Inner skin disbonding Inflation effect at altitude where the Col1Ibrd skin has disbonded Ground Flight from the structure"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Weather radar faults as a secondary effect If a damage is not detected, depending on its size and location, it may impair the movement of the weather radar antenna and trigger the weather radar alerts fig.6 . ECAM Alert Failure message on ND NAV PRED WS DET FAULT WXR ANT Inflight Inflation of the inner skin bubble during flight impairing radar antenna movement When the aircraft is back on the ground and the radome inner skin bubble deflates, it may no longer impair the movement of the antenna fig.7 . This can explain why there was no fault found during the troubleshooting test of the weather radar system on ground. On ground The bubble in the inner surface skin deflates with the aircraft on ground and there may be no fault found during the weather radar system test Safety first 38 July 2024 019 fig.6 Example of secondary effects of"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "radome damage on A320 aircraft fig.7 Radar system troubleshooting tests performed on ground may not identify the fault despite the radome damage still being present"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Bird or Hail Strikes on the Radome OPERATIONAL CONSIDERATIONS Flight crews have an important role to play in reporting and detecting damage due to bird or hail strikes. Report any bird or hail strikes to maintenance personnel In the case of an actual or suspected bird or hail strike during flight, and regardless of the location on the aircraft, the flight crew must make a logbook entry to report the event to maintenance personnel, so that they can perform the appropriate aircraft inspection. The flight crew report should provide detailed information to aid in isolating any issues such as At the time of the bird or hail strike event Aircraft configuration position of the landing gears and flight controls Flight phase At the time of and after the bird or hail strike event Any erroneous engine, radio, or navigation system behaviors Any smells noticed in the air conditioning system"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "burning smells or other odors List of ECAM EICAS for A220 alerts that triggered Description of any other system malfunctions during or after the event Check for bird or hail strike during exterior walkaround Conducting a thorough exterior walkaround inspection of the aircraft is also an opportunity to detect any potential birdhail or FOD related damage. Should traces of bird or hail strike or FOD be found on any aircraft part, the flight crew must inform maintenance personnel and make a logbook entry. MAINTENANCE CONSIDERATIONS Aircraft Inspection after a Bird or Hail Strike Careful inspection of the aircraft as per the AMMMPAMP after a reported bird or hail strike is essential, to check if the aircraft is safe to perform the next flight or if component repair or replacement is required. Perform bird or hail strike inspections as soon as possible Inservice experience shows that it may be difficult to"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "identify the signs of a bird or hail strike due to the fact that composite parts may return back to their original profiles after impact and this may mask or hide damage to the internal structure. The inspection must, therefore, be performed right after the bird or hail strike event to maximize the chance of findings."
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Use lights for accurate detection High quality additional lighting should be used to perform the inspection if in low light conditions. The use of a grazing light applying directional light near the surface and lighting it at a narrow angle to accentuate the shadows of uneven areas can help to detect defects. Perform a radome inspection for any reported bird or hail strikes In the case of a bird or hail strike, the damage may not be limited to a single zone. Therefore, regardless of the location of the reported bird or hail strike e.g. engine, fuselage, wing leading edges, etc. the radome must always be inspected since it may also be affected by the strike. Inspect the Radome external AND internal structure In all cases after bird or hail strikes, in addition to the external inspection, it is mandatory to open and inspect the internal structure and surface of"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "the radome for signs of delamination and disbonding, even if there is no trace on the external side of the radome. Typical signs of disbonding of the inner skin can be uneven surfaces or skin discoloration fig.8 . If any damage is detected, it must be checked that it is within the allowable damage limit provided in the SRMASR ASRP to continue in service. If the damage is outside the allowable damage limits, then the radome must be repaired or replaced. The documentation for A380 aircraft with double sandwich honeycomb core structure, and for A220 aircraft single sandwich honeycomb core structure but with a different manufacturing process, does not currently require a systematic inspection of the internal surface of the radome in the case of every reported bird or hail strike. An update is under evaluation of the need to harmonize the procedure with the other Airbus aircraft types. Safety"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "first 38 July 2024 021 fig.8 Example of outoflimits damage on the inner surface of the radome source Operator Weather radar antenna"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Bird or Hail Strikes on the Radome Weather Radar Antenna Drive Troubleshooting At the time of the event described above, the A350 fault isolation task to be applied in the case of a fault message concerning the weather antenna drive requested the confirmation of the fault by performing a radar system test If the system test failed, the task requested an inspection of the inner structure and surface of the radome. If the system test revealed no fault, no further action was requested. However, as per Aircraft Fault Isolation philosophy, after three or more occurrences of a fault, the full fault identification procedure must be done. This includes inspecting the inner structure and surface of the radome when there are three or more occurrences of a weather radar antenna fault message. Troubleshooting and fault isolation task improvements An update of the troubleshootingaircraft fault isolation task linked to the weather"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "antenna drive failure was launched for A320A330A340 and A350 aircraft. This is to take into account the conditions described in the above event causing the possible inflation at altitude, and deflation on the ground of the disbonded inner skin bubble of the radome. The procedure now requires a systematic inspection of the inner structure or surface of the radome to check for damage whenever there is a failure message related to the weather antenna or antenna drive. INFORMATION Further information can be found in the AMMMPAMP, SRMASRASRP documents available on the AirbusWorld portal and in the following published documents ISI 53.15.00024 A320Fam Radome Information standardsinterchangeability events procedures. ISI 53.51.00001 A300, A330 A340Fam Radomes information standard and interchangeability possibilities. ISI 53.15.00026 A350 Radome Information standardsinterchangeability event procedures."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "CONTRIBUTORS JEANCHARLES ANTUNES Abnormal Events MultiATA Engineer Customer Support ANDREI BULANCEA Radome Expert Design Office H\u00c9L\u00c8NE CARROLS AccidentIncident Investigator Aviation Safety ADAM FLETCHER Structure Support Engineer Customer Services JACQUES FOURNIE Radome Specialist Design Office MAXIME LANSONNEUR Director SafetyTraining and Flight Operations Customer Support Safety first 38 July 2024 023 Any bird strike, hail strike, or foreign object debris striking any part of the aircraft must be reported to maintenance personnel, and the flight crew must make an entry in the logbook. It is important to provide as much detailed information as possible to aid in isolating any issues. The inspection should be carried out as soon as possible, because damage to composite parts may not be easily detected if the external surface is left to return to its original profile over time, masking or hiding the damage to the internal structure. Whenever a bird or hail strike occurs anywhere on"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "the aircraft, the radome must always be inspected using good quality lighting to check both the external and internal surfaces and structures. A fault message concerning the weather radar antenna may also be indicative of damage to the radome. When there is a weather radar antenna fault message, the updated troubleshooting procedures request a thorough inspection of the internal surfaces and structures of the radome to check for damage that could impair the movement of the radar in flight. It is also important to recall the fault isolation philosophy that requires the full fault identification procedure to be carried out for the system when there are three or more occurrences of the same fault."
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Is it a Loss of Braking? for iOS and Android devices."
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "CASE STUDY Event Description An A320 aircraft was stabilized in final approach in CONF FULL. Autobrake MED was selected. The runway length was 3700 m. Autopilot and autothrust were both engaged. External conditions were combining snow showers and left crosswinds between 16 kt and 22 kt. The runway was reported as contaminated with snow. Normal touchdown 1 The touchdown was performed nominally at 140 kt ground speed GS. The spoilers extended, 2 MAX REV was applied, and the MED autobrake mode activated. 3 The DECEL light on the MED pushbutton switch transiently turned on and 4 then went OFF shortly after. The ON light remained ON. Application of the LOSS OF BRAKING procedure 5 At around 70 kt, the flight crew set the ASKID NW STRG switch to OFF. The PF selected REV IDLE almost simultaneously. The aircraft was slightly diverging from the centerline toward the left edge of the"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "runway. Lateral runway excursion 6 The PF applied differential braking and rudder inputs to the right to try to recover the runway centerline. 7 The flight crew set the engine thrust levers to IDLE and 8 the PF released the brake pedals for some seconds. 9 They selected REV MAX again and 10 applied maximum pedal braking. The aircraft skidded, deviated from the centerline and 11 came to a stop at 90 from the centerline with the nose landing gear out of the runway. Safety first 38 July 2024 025 fig.1 Description of the first event rudder inputs not illustrated"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Is it a Loss of Braking? Event Analysis Autobrake and antiskid correct activation Analysis of the flight recorder data showed that the autobrake activated correctly and that the antiskid function released the brake pressure several times to prevent wheel blockage due to the snow on the runway surface. This resulted in an average deceleration of 0.2 g, below the autobrake MED target of 0.3 g. As a consequence, the DECEL light briefly illuminated at the beginning of the landing roll. Inappropriate application of the LOSS OF BRAKING procedure The pilot report confirmed that the LOSS OF BRAKING procedure was applied with no further details provided. Airbus could not identify the reason for application of the LOSS OF BRAKING procedure because analysis of the flight recorder data showed the brake system functioned normally in autobrake normal braking mode until the flight crew switched the ASKID NW STRG switch to OFF."
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "A possible explanation is that the limited deceleration, due to the runway contamination with snow, may have been interpreted as a loss of braking function by the flight crew. CASE STUDY 2 Event Description An A321 was stabilized in final approach in CONF FULL. The runway length was 2400 m. The Captain was PF, autobrake MED was selected, autopilot was OFF and autothrust engaged. The airport was subject to heavy rainfall. The ATIS and tower reported WET runway condition. The ENG 2 thrust reverser was inhibited as per MEL item 783001A. The flight crew planned to select REV IDLE during the landing roll. Nominal touchdown and autobrake activation 1 The touchdown was performed nominally at 142 kt ground speed, with a 2 kt tailwind. The spoilers extended, 2 REV IDLE was selected as planned, and the MED autobrake mode activated. The aircraft began to decelerate and 3 the DECEL light"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "of the MED pushbutton switch illuminated. Sudden deceleration drop followed by manual braking application The flight crew then felt a sudden deceleration drop. 4 The PM observed that the ON light of the autobrake MED pushbutton switch was illuminated but the DECEL light had extinguished. He announced that the autobrake was lost. 5 The PF took over from the autobrake by applying full manual braking."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Safety first 38 July 2024 027 Col1Col2 OFFbrPARK Application of the LOSS OF BRAKING procedure The flight crew could not feel an increase in deceleration and decided five seconds later to apply the LOSS OF BRAKING procedure, 6 by setting the ASKID NW STRG switch to OFF while the brake pedals were still fully deflected. This resulted in the instantaneous blocking of the four main landing gear wheels. Aircraft skidding and REV MAX application The aircraft skidded for 10 seconds and the PF applied right rudder input to maintain the aircrafts alignment with the runway. The PF then 7 set both reversers to REV MAX, whilst maintaining right rudder inputs. Application of differential braking and nose wheel steering tiller inputs 8 While maintaining right rudder input, the PF started to apply differential braking by transiently releasing the left hand brake pedal. The aircraft veered to the left. 9 The PF"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "applied full right inputs on the nose wheel steering tiller whilst differential braking was maintained. The aircraft quickly deviated toward the left hand edge of the runway. Parking brake application and runway excursion 10 The flight crew applied the parking brake and 11 the aircraft exited the runway at 16kt before coming to a stop with the aircraft nose positioned at around 90 from the runway axis and 200 m from the end of the runway. The flight crew set the thrust lever to IDLE and switched off both engines. fig.2 Description of the second event rudder inputs not illustrated"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Is it a Loss of Braking? fig.3 Braking efficiency per reported braking action for landing distance computation data from the FAA AC2532 Braking efficiency DRY GOOD GOOD TO MEDIUM MEDIUM Event Analysis Autobrake correct activation Analysis of the flight recorder data showed the autobrake MED activated correctly. Sudden change in deceleration The sudden change in deceleration felt by the flight crew, and confirmed by the analysis of the flight recorder data, was due to the fact that the aircraft entered a portion of the runway with a very degraded runway friction performance, which is probably due to a significant layer of standing water. Performance computation based on the actual aircraft deceleration showed that the runway condition dropped abruptly from an equivalent of GOOD to POOR and remained POOR until the end of the landing roll. This runway condition was below the MED TO POOR condition that would be expected"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "in the case of a runway contamination by standing water and used for landing distance computation fig.3 . Significant antiskid activation The POOR runway friction caused the antiskid function to be very active as it released the brakes several times to prevent wheel skidding. This reduced the deceleration rate below 80 of the target rate of the MED autobrake mode. This caused the DECEL light of the MED pushbutton switch to extinguish. Inappropriate application of the LOSS OF BRAKING procedure The sudden change in deceleration due to the uneven runway contamination, combined with the significant activation of the antiskid function when manual braking was applied, led the flight crew to interpret the situation as a loss of braking and inappropriately apply the LOSS OF BRAKING. ASKID NW STRG switch set to OFF with pedals fully pressed The flight crew set the ASKID NW STRG switch to OFF while the PF"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "was pressing the brake pedals. This caused the wheels to lock instantly due to full application of the alternate brake pressure without antiskid modulation. Use of the nose wheel steering tiller The attempt to use the steering tiller during the final seconds of the landing roll was ineffective because the nose wheel steering was unavailable due to the application of the LOSS OF BRAKING procedure. MEDIUM TO POOR POOR Varies with speed due to aquaplanning"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Safety first 38 July 2024 029 OPERATIONAL CONSIDERATIONS The LOSS OF BRAKING procedure was introduced to cover an extremely rare failure of the automatic switching to the alternateemergency braking mode, in cases where the normal braking mode failed . This may happen after a takeover from automatic to manual braking during landing or rejected takeoff. It may also happen during taxi. In service experience has shown that the application of this procedure has been also efficient to cope with other kinds of braking system malfunction. The LOSS OF BRAKING procedure consists in a manual activation of the alternate braking mode without antiskid emergency braking mode on A350 and A380 aircraft using the ASKID NW STRG switch on A320 family, A330 and A340200300 aircraft, or the ASKID switch onA340500600, A350 and A380 aircraft, or the BRKANTI SKID switch on A300600 and A310 aircraft. Ultimately, the procedure requests the application of the"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "PARK BRK if the alternateemergency braking also fails. There is no equivalent LOSS OF BRAKING procedure on A220 aircraft because it has a different braking system design. When to apply the procedure The procedure must only be applied during manual braking, and only if the flight crew does not feel any effect on the deceleration while pressing on the brake pedals . Consequences of the application of the LOSS OF BRAKING procedure Applying the LOSS OF BRAKING procedure has non negligeable consequences which depends on the aircraft type Loss of antiskid function only on A300, A300600, A310, A340500600, A350 and A380 aircraft . This may reduce the braking performance of the aircraft, increase the risk of tyre burst, and potentially lead to runway excursion. Loss of both the antiskid function and the Nose Wheel Steering NWS on A320 family, A330 and A340200300 aircraft . The braking performance may be reduced"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "as well as the ground handling capabilities. The flight crew has to use the rudder at high speed and differential braking at lower speed for lateral control."
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Is it a Loss of Braking? Wet and Contaminated Runway Is it a Loss of Braking? The two case studies described previously highlight the need to pay particular attention when landing on wet or contaminated runways in order to prevent inappropriate application of the LOSS OF BRAKING procedure. It is important that flight crews are aware of the behavior of the aircraft and its braking system when landing on wet or contaminated runways. This will prevent them from interpreting some normal phenomena linked to the conditions of the runway as loss of braking. Lower deceleration in the case of a high antiskid activity The rate of deceleration perceived by the flight crew may be less on a contaminated runway than on a dry runway, particularly in the case of standing water or presence of other contaminants. There is a high probability that the antiskid function will activate, reducing the"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "perceived rate of deceleration. Even if it is the case, flight crew should be aware that the antiskid is designed to ensure the optimum deceleration rate adapted for the runway condition . Sudden deceleration change due to inconsistent contamination The second case study showed the level of contamination of a runway, and therefore the runway condition, may vary along its length. This can lead to sudden changes in the rate of deceleration perceived by the flight crew, which may cause them to incorrectly determine they have a loss of braking. Change in deceleration during transition from REV MAX to REV idle Flight crews should also be aware that a sudden deceleration drop may be felt during the transition from REV MAX to REV IDLE, especially on wet or contaminated runways since the braking efficiency is reduced. This does not mean that the braking capability is lost."
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Safety first 38 July 2024 031 Autobrake DECEL light A320A330A340 and DECEL message on the PFD A320A330A340A380 On A320, A330 and A340 aircraft, if the DECEL light of the autobrake pushbutton switch is not illuminated, or extinguishes during the landing roll, this does not mean that the autobrake mode has failed. As explained in the FCOM description chapter, the DECEL light of the autobrake pushbutton switches is an indication that the deceleration is above 80 of the target deceleration of the selected braking mode. As a consequence, the DECEL light may not illuminate or extinguishbrdue to the runway condition and antiskid actibrThe use of the MED mode on wet or contaminabrlight. The illumination threshold of the DECELbrA display of a DECEL message below the PFbris available on A350 and A380 aircraft as well abrBSCU L410 MOD 157491 and SDAC H2EbrA330A340 aircraft equipped with EIS 2 standbrand SDAC C11 MOD 203928,"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "and subsequbrAutobrake mode OFCol2during the landing roll, or dubrvation.brted runways increases the prbrlight may not be reached obrD speedscale as well as a disbrs on A320 aircraft equippedbr3 MOD 151314, and subsebrard L10 MOD 205162 combrent standards.Col4ring RTO, if the decelerationbrobability of an extinction of thbrr only temporarily reached.brplay of the autobrake mode obrwith EIS 2 standard S14 combrquent standards. It is also abrbined with BSCU S9D MOCol6is reducedbre DECELbrn the FMAbrbined withbrvailable onbrD 205183, DECEL light may not illuminate or extinguishbrdue to the runway condition and antiskid actibrThe use of the MED mode on wet or contaminabrlight. The illumination threshold of theDECELbrA display of aDECEL message below the PFbris available on A350 and A380 aircraft as well abrBSCU L410 MOD 157491 and SDAC H2EbrA330A340 aircraft equipped with EIS 2 standbrand SDAC C11 MOD 203928, and subsequbrAutobrake mode OFAutobrake mode OFFAutobrake mode armbror engaged with decbrbelow 80 of thebrdeceleration rateedbrelerationbr"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "targetAutobrake mode engbrdecelerationabovebrtarget deceleration raged withbr80 of thebrate Autobrake pushbutton switchbrA320A330A340 only DECEL on PFD speed scalebrif installed Autobrake mode on FMAbrif installedbrorbrbrorbr Once illuminated, the DECEL light extinguishes if the deceleration diminishes below 60 or 70 of the target rate, depending on the aircraft type. DECEL standard callout As per SOP, the PM should make the DECEL standard callout when they feel the deceleration and confirm it with the speed trend on the PFD. It is not based on the display of the DECEL light of the autobrake pushbutton switch. If no deceleration is felt, and it is confirmed on the PFD speed trend, the PF should call NO DECEL ."
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Is it a Loss of Braking? Importance of the Arrival Briefing Being prepared to manage the effects of a wet or contaminated runway on the aircraft deceleration prevents any surprise effects during landing that could lead to the flight crew inappropriately applying the LOSS OF BRAKING procedure. During the arrival briefing Discuss the runway conditions based on the available information Discuss the stop margin and the available deceleration means. A drop in deceleration may be felt during the landing roll if the antiskid activates, and when reversers are selected from REV MAX to REV IDLE, and If the weather conditions are expected to change or in the case of significant precipitation at the airport, the flight crew should be prepared for a reduction of the braking performance. The case study n2 showed us that a reported WET runway can quickly be contaminated with standing water, degrading the braking action"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "from an expected MEDIUM to a MEDIUM TO POOR. The flight crew should therefore consider making a second computation of the landing distance with the worst condition possible. TRAINING CONSIDERATIONS The Flight Crew Training Standard FCTS manual recommends training the LOSS OF BRAKING procedure in the simulator in order to recall and apply the memory items with the associated callouts. Train LOSS OF BRAKING at low speed and at high speed This can be performed at low speed such as during taxi, and also at high speed during landing. It is recommended to perform one of these scenarios with a startle effect situation. Simulator limitation Due to the limitation of the simulator ground model, instructors must not mix a LOSS OF BRAKING with contaminated runway conditions . Combining both situations would not be representative of the real aircraft behavior and would therefore give a negative training scenario. However, the specific"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "behavior of the aircraft on wet and contaminated runways and possible confusion with a loss of braking should be reviewed during the briefing of the simulator session using the LOSS OF BRAKING section of the Flight Crew Techniques Manual FCTM. INFORMATION A video dedicated to the LOSS OF BRAKING procedure is also available on the Airbus Worldwide Instructor News WIN website."
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "CONTRIBUTORS LIVIER BEN Braking Steering Expert Flight Tests DENIS CADOUX AccidentIncident Investigator Aviation Safety PHILIPPE CASTAIGNS Experimental Test Pilot Flight Tests MAXIME LANSONNEUR Director Safety Training and Flight Operations Customer Support ALBERT URDIROZ AccidentIncident Investigator Aviation Safety With thanks to Cesar GARCIA CASTILLA from Aviation Safety and Thomas GOBEAUT from the A300A310 Flight Operations Support. Safety first 38 July 2024 033 The LOSS OF BRAKING procedure was introduced to cover an extremely rare failure of the automatic switching to the alternate emergency braking mode, in cases where the normal braking mode failed. It must only be applied during manual braking, and only if the flight crew does not feel any effect on the deceleration while pressing on the brake pedals. To prevent inappropriate application of the LOSS OF BRAKING PROCEDURE, flight crew should be aware that, on contaminated runways, the perceived rate of deceleration may be lower than the rate"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "of deceleration felt on dry runways. It is likely when there is activation of the antiskid function. Flight crew should also be aware that an uneven contamination of the runway, or the presence of standing water in some areas of the runway after a heavy rainfall, may cause sudden changes in the deceleration rate. This could cause the flight crew to incorrectly determine they have a total loss of braking. Flight crew should also be prepared for the sudden change in the perceived rate of deceleration when they transition from REV MAX to REV IDLE, especially on wet or contaminated runways, since the braking efficiency is reduced. It is essential to discuss these effects during the arrival briefing so that the flight crew will not be surprised should they perceive a sudden change in the rate of deceleration during the landing roll. This will prevent inappropriate application of the LOSS"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OF BRAKING procedure. Training of the LOSS OF BRAKING PROCEDURE should be performed according to the Flight Crew Training Standard FCTS manual requirements and taking into account the limitations of the simulator ground simulation model."
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Correct Cargo Door Seal Installation for Safe Operation for iOS and Android devices."
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Safety first 38 July 2024 035 CASE STUDY Event Description An A319 aircraft was performing a nonrevenue flight from its main base, following a maintenance check. There were two passengers and two flight crew members onboard. During climb, a CAB PR EXCESS CAB ALT ECAM warning triggered. The flight crew initiated an emergency descent and opted to perform an inflight turn back. The aircraft safely landed without further incident. Event Analysis Cargo door seal found incorrectly installed During troubleshooting, the maintenance crew observed that the aft cargo door pressure seal was incorrectly installed. Records showed that the cargo door seals were replaced during the maintenance check as per the mandatory Service Bulletin SB A320521195. The seal of the aft cargo door failed to inflate due to its incorrect installation causing an air leak, which caused the CAB PR EXCESS CAB ALT ECAM warning to trigger. The aircraft safely returned to"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "operation when the aft cargo door seal was reinstalled correctly and inspected. CARGO DOOR SEAL Cargo door seals are made of reinforced silicone rubber and are installed in the retainer around the door structure. They ensure air tightness around the cargo door to maintain aircraft pressurization."
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Correct Cargo Door Seal Installation for Safe Operation Seal Design On Airbus aircraft, the airtightness of the cargo doors are ensured by inflatable seals. Inflatable cargo door seals have inflation holes located on their inner surface the cargo facing side of the seal, that allows the pressurized air from the cabin to enter the seal, which causes it to inflate as the altitude increases and this ensures the airtightness around the seal fig.1 . fig.1 Concept of an inflatable seal typical view fig.2 Incorrect installation of the inflatable seal can create air leaks Opened door on the ground Closed door in flight noninflated seal Effects of incorrect installation Two potential effects from incorrect seal installation include pressurization issues and the reduced effectiveness of the cargo fire extinguishing system. Air leaking around the cargo door seal can make it difficult to pressurize the aircraft, or it can potentially cause an"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "inflight depressurization event requiring an emergency descent. In the event of a cargo fire, the air leaking around the seal may allow the extinguishing agent to escape the cargo compartment and fail to extinguish the fire. Opened door on the ground Closed door in flight inflated seal Incorrect Installation Causing Air Leaks If the inflatable seal is installed incorrectly, and the inflation hole is in the wrong position, the pressurized air can compress the seal and create air leaks fig.2 ."
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Safety first 38 July 2024 037 Increased Risk Exposure on A320 Family Aircraft Most of the reported cases of incorrect seal installation occurred on A320 family aircraft for two main reasons High number of cargo door seal replacements required by service bulletin The Airworthiness Directive AD 20210049 published by the EASA in March 2021 mandates the installation of a new seal via Service Bulletins SB before March 2029 on all inservice A320 family aircraft delivered before November 2019. SB A320 521195 for CEO aircraft and SB A320 521196 for NEO aircraft require replacement of the aircrafts cargo doors seals, canceling the need for repetitive cleaning and greasing of the old seal requested by the AD pending its replacement. The new seal has improved airtightness and does not require regular greasing to improve its efficiency. This mandatory replacement of the seals on A320 family aircraft significantly increases the risk exposure to"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "incorrect installation of the seal. Replacement of a cargo door seal is normally only performed when it is damaged during operation. Different seal characteristics Another reason A320 family cargo doors may have reported incorrect installations is because the seals on A320 family aircraft have a symmetrical shape and they are more flexible when compared to the seals installed on other Airbus aircraft models. On the other aircraft types A220, A330, A340, A350 and A380 aircraft, the seals have a higher rigidity and some have an asymmetrical shape, which can aid the operator to correctly install the seal. ENSURING CORRECT CARGO DOOR SEAL INSTALLATION Even if A330, A340, A350, A380 and A220 aircraft are less prone to incorrect installation, maintenance personnel must carefully follow the AMMMPAMP instruction to ensure that the seals are installed correctly. This includes careful consideration of the warnings, cautions, procedure and illustrations. Additional inspection and dual signature"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "A recommendation as an additional safety barrier is to require an additional inspection and dual signature for the cargo door seal installation task."
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Correct Cargo Door Seal Installation for Safe Operation Ensuring correct seal installation on A320 family Introduction of a caution tag To prevent incorrect seal installation, the seal manufacturer has introduced an instruction notice included with seal deliveries fig.3 . This notice highlights the need to pay particular attention to the correct orientation of the cargo door seal holes. fig.3 Instruction notice included with seal deliveries Correct positioning of the seal Maintenance personnel must ensure that the inflation holes are located on the fig.4 Example of Correct positioning of an aft cargo door seal on an A320 family aircraft"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "Installation of preformed corners Maintenance personnel should install the four preformed corners first to ensure the seal is in the correct position and to prevent wrinkles. White alignment marks help to identify and correctly position the preformed corners fig.5 . Mandatory Visual inspection A careful inspection of the seal as per AMM is required to ensure correct seal installation. The maintenance personnel must inspect the entire circumference of the cargo door seal. They must ensure the seal is not twisted and check that the inflation holes are facing towards the inner side of the cargo door by gently bending the seal fig.6 . Safety first 38 July 2024 039 fig.5 Installation of the preformed corners before the straight sides ensures correct installation of the seal along the door frame fig.6 Slightly bending the seal enables the maintenance personnel to check the inflation holes are facing towards the inner surface of"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "the door, which is the cargo side"
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "OPERATIONS Correct Cargo Door Seal Installation for Safe Operation A320 Cargo Doors Seal Installation Video Airbus developed an awareness video to illustrate these essential steps for correct cargo doors seal installation on the A320 family. Video A320 Family Cargo door installation i i INFORMATION i i Further information can be found in the AMMAMP and on the AirbusWorld portal and in the following documents OIT Ref. 999.004023 ATA 52 CARGO DOORS SEALS INSTALLATION ISI Ref. 00.00.00437 A320 Family Systems Ageing global ISI Maintenance Briefng Notes MBN Forward aft cargo door seal installationi TFU Ref. 52.30.00034 A320 Fam CARGO COMPARTMENT DOORS SEAL ADAPTATION FOR HALON LEAKAGE IMPROVEMENT RIL Reference SA52M20001620 i"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "CONTRIBUTORS MARKUS ADLER Metallic Structure Design Responsible Design Office CHRISTOPHE DELMAS Aircraft Safety Enhancement Manager Specialist Design Office JEAN PHILIPPE JACQ Safety Maintenance Expert Customer Support CYRIL MONTOYA Product Safety Enhancement Manager Customer Support With thanks to Cesar GARCIA CASTILLA Product Safety Enhancement, Damien PARISE Customer Support Structure Fuselage Engineer On Airbus aircraft, the airtightness around the cargo doors is ensured by an inflatable cargo door seal. The inflation holes must be correctly oriented towards the inner surface of the door, which is facing the cargo, to function correctly. Incorrect installation of the seal may lead to a failure to pressurize the aircraft, loss of aircraft cabin pressure inflight, or cause the cargo fire extinguishing system to be less effective in the event of a cargo fire. The AMMMPAMP provides instructions, warnings and illustrations to ensure correct installation of the cargo door seal and reminders are now also attached to"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_38.pdf",
+    "text": "each replacement seal for A320 family aircraft. Once the seal is installed, a visual inspection of the entire seal is required to ensure that the seal is not twisted and the inflation holes are oriented towards the inner side of the cargo doors. It is recommended to require an additional inspection and dual certification of a cargo door seal installation task as an additional safety barrier."
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Safety first, 39 January 2025. Safety first is published by Airbus S.A.S. 1, rond point Maurice Bellonte 31707 Blagnac CedexFrance. Editor Yannick Malinge, SVP Head of Aviation Safety. Concept Design by MMS Global Studio 20241982. Reference X00D16031905. Photos by Airbus, S. Ramadier, Masterfilm P. Pigere, P. Masclet, H. Gousse, A. Domenjou. This brochure is printed on Symbol Tatami White. This paper is produced in factories that are accredited EMAS and certified ISO 900114001, PEFC and FSC CoC. It is produced using pulp that has been whitened without either chlorine or acid. The paper is entirely recyclable and is produced from trees grown in sustainable forest resources. The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous metals from the cadmium, lead, mercury or hexavalent chromium group. The printer, Art Caract\u00e8re France 81500, is engaged in a waste management and recycling programme for all"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "resulting byproducts. Editorial Team Guillaume Javier Vanessa Estragnat Martinez Sadi Gwyneth Tim Duggan Roach Airbus S.A.S. 2025 All rights reserved. Proprietary documents. By taking delivery of this Brochure hereafter Brochure, you accept on behalf of your company to comply with the following guidelines No other intellectual property rights are granted by the delivery of this Brochure than the right to read it, for the sole purpose of information. This Brochure and its content shall not be modified and its illustrations and photos shall not be reproduced without prior written consent of Airbus. This Brochure and the materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment. This Brochure contains sensitive information that is correct at the time of going to press. This information involves a number of factors that could change over time, affecting the true public representation."
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Airbus assumes no obligation to update any information contained in this document or with respect to the information described herein. Airbus S.A.S. shall assume no liability for any damage in connection with the use of this Brochure and of the materials it contains, even if Airbus S.A.S. has been advised of the likelihood of such damage. Safety first The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety first is published by the Aviation Safety department. It is a source of specialist safety information for the use of airlines who fly and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confidential Reporting System, incident and accident investigation reports, system tests and"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "fight tests. Material is also obtained from sources within the airline industry, studies and reports from government agencies and other aviation sources. All articles in Safety first are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The contents do not supersede any requirements mandated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily reflect the views of Airbus, nor do they indicate Company policy. Contributions, comments and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Aviation Safety department W 1, rond point Maurice Bellonte"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "31707 Blagnac Cedex France safetycommunicationairbus.com Visit us at safetyfirst.airbus.com or install the Safety first app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "editorial YANNICK MALINGE SVP Head of Aviation Safety Dear Aviation Colleagues, Firstly, I wish to extend my sincerest condolences to the families, friends, and colleagues of the 225 people who lost their lives in the tragic events involving commercial jet aircraft in 2024. This is in contrast to the remarkable year in 2023, with no fatal accidents recorded for commercial jet aircraft. As we enter 2025, the industry faces compounding challenges with global supply chain issues, geopolitical tensions, and this is particularly critical considering the increasing demand of constant traffic growth. It is a clear reminder about the importance of our relentless mission of prevention. It is our permanent quest to reach zero accidents. The last 30 years has seen huge changes and global events that affected aviation transport. It has also been an era of overall improvement in the industrys safety record, despite the huge growth of aircraft in"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "service. Today, flying in a commercial jet is still one the safest forms of transport, but complacency is the enemy of safety. The key to preventing aviation accidents lies in our safety culture. This edition marks 30 years since we first produced our safety magazine. We had in mind the aim of increasing aviation safety knowledge, maintaining transparency in sharing safety information, and working together to continuously enhance safety. The earliest versions were called Hangar Flying, which was first published following a series of accidents in the early 1990s, including an A330 flight test accident in 1994. It was imperative to maintain regular and recurring sharing of valuable lessons learned and experience from Airbus to its operators. This is especially important today with the large number of newcomers to the Air Transport System, and so I encourage every reader to share this publication with any aviation professionals in your networks"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "who may not yet be aware of it. As we commit ourselves to continuing our shared safety journey, I also want to take this opportunity to wish all of you, your family, friends, and colleagues a safe and prosperous new year."
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Airbus Flight Safety Website Safety is our top priority, at the heart of everything we do A unique way to access Airbus safety Find links to the Airbus safety information sharing channels Search for safety topics accross all of the channels Check out the latest safety publication in the News section"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "NEWS The 29 th Airbus Flight Safety Conference will be held in Amsterdam, 1720 March 2025 This event provides the opportunity for Airbus and its customers to exchange and share experiences to further strengthen safety across our air transport system. The agenda of the conference will focus on the importance of manual flying including training and certification considerations. It will also cover the benefits of technology for safety and airlines speakers will share perspectives about safety challenges in organisations managing operations across multiple AOC. Growing our safety culture, sharing experiences, and building safety networks is essential for safety and so we encourage all our customers to join us at our 29 th Flight Safety Conference."
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Safety first 39 OPERATIONS P06 Closing MEL Items Why Sooner is Better P14 Preventing Tailstrike During Goaround near the Ground P24 Engine Relight After an AllEngine Flameout AIRCRAFT P34 Further Preventing Loss of Control Inflight"
+  },
+  {
+    "page": 8,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Closing MEL Items Why Sooner is Better"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "CASE STUDY Event Description An A330 aircraft was dispatched on a nonETOPS flight under MEL item 361101A ENGINE BLEED AIR SUPPLY SYSTEM on engine 1. Before departure, ENG 1 BLEED push button switch was set to OFF, the X BLEED selector set to OPEN and APU and APU BLEED were confirmed as operative, as per the dispatch condition of the MEL item fig.1. During the cruise phase at FL390, the AIR ENG AIR ENG 12 BLEED FAULT ECAM alert triggered. The flight crew followed the ECAM instructions and managed to reset the ENG 2 bleed system. 20 seconds later, the AIR ENG 12 BLEED FAULT ECAM alert triggered again. The flight crew attempted to reset the ENG 2 bleed system but the reset was unsuccessful. The flight crew then declared a PAN PAN situation to ATC and requested to descend to FL100. The CAB PR EXCESS CAB ALT ECAM alert"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "triggered. The flight crew put on their oxygen masks and performed an emergency descent. Passenger oxygen masks automatically deployed during the descent. At FL190, the flight crew started the APU and set APU BLEED to ON . The APU bleed remained ON until the end of the flight. At FL100, the flight crew again attempted a reset of the ENG 2 bleed system, which was successful. A decision to divert was taken and the aircraft climbed to FL170, then performed an approach and landed without further events. Event Analysis Significant operational impact With the MEL applied for the inoperative ENG 1 bleed air supply system, the failure of the ENG 2 bleed air supply system during the flight led to the loss of cabin pressure at cruise altitude requiring an emergency descent and diversion. This had a notable operational impact, including the impression on the passengers who were aware of"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "the sudden descent and observed the deployment of the oxygen masks in the cabin. Safety first 39 January 2025 007 fig.1 MEL item 361101 Engine Bleed Air System"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Closing MEL Items Why Sooner is Better An acceptable margin of safety Despite the significant operational impact, an acceptable margin of safety was maintained throughout this event thanks to the correct application of the MEL item dispatch conditions and operational procedures by the flight crew. The impacts of one inoperative engine bleed system, combined with a subsequent failure of the other engine bleed system, are described and addressed in the dispatch conditions and operational procedures of the MEL item. The condition of an operative APU BLEED, and the likelihood of passenger oxygen masks deploying when at cruise altitude above 37 400 ft, are also described. INFORMATION The dispatch conditions are defined following a 3step safety methodology that is detailed in a previous Safety first article A Recall on the Correct Use of the MEL and which ensures that an acceptable level of safety is always maintained. POSSIBLE BUT TEMPORARY"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "SOLUTIONS TO FACE DISPATCH CHALLENGES Raise of Dispatch Challenges An increase of the operational pressure to fly is observed. In addition, various operational constraints such as supply chain disruption affecting parts availability or the lack of qualified maintenance personnel may make it difficult to repair or replace the equipment within the time frame allowed by the MEL. This leads to an increase of the number of aircraft dispatched with open MEL items and therefore an increased exposure to multiple failure situations as described in the case study. Inservice reports also show that the number of incorrectly applied MEL items is increasing. INFORMATION The Safety first article A Recall on the Correct Use of the MEL describes how to use the MEL and gives recommendations on how to identify the correct MEL item associated with the failure."
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Safety first 39 January 2025 009 MMELMEL Extension Management In limited cases, the initial MEL repair interval time can be extended to face the dispatch challenges described above. Onetime extension of an MEL A onetime extension of standard repair intervals B, C, D is possible as defined by regulations EASA PartORO.MLR.105f, CS MMEL.135 and TCCA CASA 202202 for repair intervals B, C and D FAA OpsSpecD095 for repair intervals B and C. Where applicable, this onetime extension is taken into account in the safety analysis of each MMEL item. An acceptable level of safety is therefore maintained for such cases. A dedicated process for the application of onetime extensions must be defined with the operators national airworthiness authority. Operations outside MEL conditions but still within the MMEL The MEL defined by the operator for their aircraft is either as restrictive or more restrictive than the MMEL provided by the OEM"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "for the aircraft type. An operator has the option to operate the aircraft outside the conditions of their MEL provided it complies with the equivalent conditions of the MMEL. An acceptable level of safety is maintained as the dispatch remains within the certified MMEL scope. It is however considered as a deviation from the operators MEL and formal approval must be given by their relevant national aviation authority each time this option is required. In AOG situations To avoid AOG situations, under exceptional circumstances, Airbus has developed a process called A pproved D eviation to O SD M MEL ADOM. It is a document issued by Airbus to support operators if they need to urgently dispatch an aircraft outside of the scope of the MMEL. For each ADOM, a safety analysis is performed following the same safety methodology as for the development of the MMEL items refined to the actual"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "aircraft status and the planned mission to ensure that sufficient safety margins are maintained. Additional limitations can be required."
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Closing MEL Items Why Sooner is Better INFORMATION An ADOM is an EASA approved document and can be used only for deviation from the EASA MMEL . It cannot be applied for the FAA MMEL or the TCCA MMEL. For the FAA MMEL, extensions for intervals A and D and additional extensions can be granted on a casebycase basis by the FAA according to FAA AC 120125 and FAA Order 8900.1 Vol 4, Chap 4, Section 3, 4688. ADOM can be used to further extend the repair interval A or the other intervals B, C and D following the first extension, or to dispatch the aircraft with a combination of open MEL items not permitted by MMEL, or when the operational or maintenance procedure cannot be applied. It is a document issued by Airbus on a casebycase basis following analysis of the specific aircraft configuration and conditions. It is"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "valid for a limited period of time and operators have to obtain authorisation from their relevant national aviation authority to apply the MEL deviation in accordance with the ADOM. fig.2 Possible MMELMEL extensions Any MEL extension must be agreed with the Operators local authorities Not applicable to repair interval A Applicable to EASA MMEL only KEYPOINT The ADOM is only issued if the safety analysis demonstrates that an acceptable level of safety margin can still be maintained."
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Safety first 39 January 2025 011 Increase of ADOM Requests The number of ADOM requests has increased significantly each year since 2021. One reason is the difficulty to obtain parts due to the post pandemic supply chain challenges. This can further delay the repair or replacement of the affected equipment, increasing the exposure to multiple failure situations as described in the case study above. fig.3 Evolution of the number of ADOM requests between 2021 and 2023 ADOM requests 2021 2022 2023 KEYPOINT The ADOM has to be used on an exceptional basis"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Closing MEL Items Why Sooner is Better BEST PRACTICES FOR SAFE DISPATCH Dispatch with open MEL items requires specific attention from both flight crews and maintenance crews with dedicated tasks. In case of extended MEL items and multiple MEL items, those tasks can take more time, be more complex and have a significant impact on the crews workloads. Best Practices for Flight Crews Aircraft acceptance It is the responsibility of the flight crew to review all open MEL items, confirm that the associated dispatch conditions and limitations are taken into account, and are compatible with the flight and the crew workload. It is also necessary to confirm that any applicable maintenance procedures described in the MEL dispatch conditions have been performed and are recorded in the technical logbook. The flight crew have to also assess the consequences of the inoperative equipment in combination with other possible, or multiple, failures."
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "The complexity of their tasks can increase with multiple open MEL items. The captain has the final decision to accept the aircraft or can refuse to depart if they conclude that the number of open MEL items is impacting too much on the flight crew workload during a flight or erodes the margin of safety. Best Practices for Maintenance Crews As part of the dispatch, the maintenance crew has to define an equipment repair or replacement strategy at the earliest opportunity and order the necessary parts as soon as possible. It is important to confirm the time limited MELs do not expire before the next confirmed maintenance opportunity. They should also take actions to prevent accumulation of multiple open MEL items, especially where they can directly impact the flight crew workload and increase the risk of multiple failure situations. Extended MEL items and the number of open MEL items can"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "increase the workload and the complexity of these monitoring actions of the maintenance crews. BEST PRACTICE It is important that both the maintenance crew, who are responsible to apply and close the MEL items, and the flight crew, who manage the dispatch conditions of the open MEL items during the flight, are aware of each others tasks. They can better assess the operational consequences of their decisions and find more appropriate solutions to reduce the risks associated with multiple open MEL items situations."
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "CONTRIBUTORS XAVIER BARRIOLA IncidentAccident Investigator Aviation Safety OLIVIER FERRAN MMEL Expert Customer Support IAN GOODWIN Safety Enhancements Expert Aviation Safety Safety first 39 January 2025 013 Dispatch of aircraft with MEL items is a common practice in operations. It enables the repair and replacement of inoperative equipment at a next maintenance opportunity within a defined timeframe. Each MEL item is assessed to ensure that an acceptable level of safety is always maintained when it is applied. Certain situations, such as spares availability issues, may cause a delay in the repair or replacement of the inoperative equipment. Aviation authorities and Airbus have defined possibilities to extend the MEL time limit on a caseby case basis. These include operating outside the MEL conditions, but within the constraints of the MMEL, or requesting an ADOM, which is an approved document issued by Airbus to temporarily operate beyond the MMEL conditions. Both of these"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "actions must be authorized by the operators own national aviation authority. Inservice reports show that the number of ADOM requests received by Airbus is increasing, as is the number of dispatches of aircraft with multiple open MEL items. This requires extra vigilance, especially to anticipate the potential consequences of multiple failure situations in flight. Communication and collaboration between the maintenance crew and the flight crew is essential to understand and to mitigate these risks together."
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Preventing Tailstrike During Goaround near the Ground Preventing Tailstrike During Goaround near the Ground The focus of this article is goaround near the ground, sometimes called, rejected landing. This follows our previous article A Focus on the Landing Flare article published September 2020 and A Focus on the Takeoff Rotation published January 2021. Those articles provided recommendations for avoiding tailstrikes when performing landing flare and takeoff rotation. There is also a higher risk of tailstrike when a goaround is required near the ground. This article provides additional recommendations and observations for flight crews to help them avoid tailstrike events during this phase. Check the latest version of this article on safetyfirst.airbus.com and on the Safety first app for iOS and Android devices."
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "CASE STUDY 1 Event Description An A320 aircraft was performing an RNAV approach on a day with good weather conditions. The METAR indicated wind with a 10 kt headwind component and a negligible crosswind. The landing was intended to be done in CONF FULL. The VAPP was 137 kt. The First Officer, who was the PF, disconnected the autopilot at 930 ft RA and maintained the autothrust ON. At 500 ft, the approach was stabilized. Nose down input and wind gradient at 80 ft 1 At 80 ft RA, the PF applied 13 of full nosedown input fig.1. Simultaneously, the wind, which was about 5 kt headwind, suddenly changed to a 3 kt tailwind. The aircraft pitch reduced from 3.5 at 80 ft to 2 2.5 at 40 ft. Goaround initiation during a light bounce From 40 ft RA, the PF started the flare with a progressive noseup input up"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "to a full noseup input in the last 10 ft. 3 Thrust levers were retarded to idle at 10 ft RA. The pitch increased from 2.5 up to 4 9 up at touchdown. The aircraft slightly bounced while the ground spoilers started to extend, and the PF maintained an average 13 noseup input during 2 s. 5 The pitch reached 12 when the PF applied TOGA thrust and applied a full noseup input. Tailstrike during second touchdown 6 The aircraft touched down a second time during the engine spoolup and ground spoilers retraction. A tailstrike occurred with a pitch of 12.7 at a speed of 127 kt VAPP 10kt. The PF maintained the full noseup input for 1 more second. The aircraft speed at that point was 122 kt VAPP 15 kt. The PF then partially released the noseup input to 13 of full noseup input. 7 The pitch reduced"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "to 11 and the aircraft achieved liftoff when the speed reached 128 kt. The PF continued the goaround maneuver and performed a successful second approach. Safety first 39 January 2025 015 fig.1 Illustration of the event Case Study 1"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Preventing Tailstrike During Goaround near the Ground Event Analysis Light bounce due to high vertical speed and high pitch at touchdown Both the wind gradient and PF input at 80 ft RA created a lift reduction that led the aircraft vertical speed to increase to 800 ftmin at 40 ft RA. The flare reduced the vertical speed, which was still 350 ftmin at the first touchdown. The energy returned through the main landing gear shock absorbers, combined with the lift provided by the high pitch at touchdown 9, caused the aircraft to bounce. Continuous noseup input during the bounce and full backstick input at the initiation of the goaround near the ground caused the tailstrike The ground spoilers extension during the bounce reduced the lift, and caused the second touchdown. The continuous noseup input of the PF after the first touchdown, in addition to the full noseup input when"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "TOGA was selected, led to the pitch increase from 9 to 12.7, which caused the tailstrike on the second touchdown. Image above A320 aircraft with a specific tail bumper fitted to protect the fuselage when performing Velocity Minimum Unstick VMU test"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "CASE STUDY 2 Event Description An A330 aircraft was performing an ILS approach with good visibility, but in gusty wind conditions. The intended landing configuration was CONF FULL. The approach was stabilized at 500 ft RA. The First Officer, who was PF, disconnected the autopilot and kept the autothrust ON. The VAPP was 139 kt. 1 From 90 ft RA, the PF alternated nosedown and noseup inputs, leading to a nosedown tendency. The pitch reduced from 5.5 to 2 2.5 at 30 ft. The flare was initiated at 30 ft by application of a close to full noseup input, which was partially released and then followed by another full noseup input just prior to touchdown. 3 The thrust levers were retarded to IDLE simultaneously at the point of the hard touchdown. The pitch was 7 and the speed was 135 kt VAPP 4 kt decreasing. The PF maintained \u00bd full"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "noseup input for 2s and then 4 set the thrust levers to the TOGA detent combined with a full noseup input. The Captain simultaneously applied 13 nose down input briefly, which led to a DUAL INPUT callout. The engines began spool up to TOGA thrust, but the speed was still decreasing and the pitch increasing due to the full noseup inputs applied by the PF. 5 A tailstrike occurred and the pitch reached 10.9 at a speed of 116 kt VAPP 23 kt. 6 The aircraft then accelerated and liftoff was achieved at around 130 kt. The PF continued the goaround maneuver and performed a successful second approach. Safety first 39 January 2025 017 fig.2 Illustration of the event Case Study 2 Col1IDLE TOGA DUAL INPUTbrCaptain 13br90 30 nosedownbrAlternate nosedown andbrnoseup inputsbrFull noseup 12 noseup Full noseupbr140br1 5.5 140 140 120Col3Col4Col5Col6Col7Col8Col9Col10Col11Col12Col13Col14 TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br1204040 TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120TOGAbrIDLEbr1br30br90brAlternate nosedown andbrnoseup inputsbrCaptain 13brnosedownbrFull noseupbr12 noseupbrFull noseupbr 5.5brDUAL INPUTbr140br140br140br120 14023br 2.53br 2.54br 74br 74br 75br 8.55br 8.5 10.96 14"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Preventing Tailstrike During Goaround near the Ground Event Analysis Hard landing caused by a nosedown tendency at 30 ft and a late flare The alternate noseup and nosedown inputs, between 90 ft and 30 ft, led to a vertical speed increase from 550 ftmin at 90 ft up to 850 ftmin at 30 ft when the PF started the flare. This late flare, combined with the high vertical speed, led to the hard landing. Continuous noseup inputs after touchdown and full backstick order at low speed led to the tailstrike The PF maintained a noseup input after touchdown, leading the pitch to increase from 7 to 8.5 when the goaround was initiated. The PF then applied full noseup input simultaneously with the TOGA thrust selection while the aircraft speed was as low as 116 kt VAPP 23 kt. This led to the tailstrike. Dual input The brief nosedown input"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "performed by the Captain, without pressing the sidestick priority pushbutton when the goaround was initiated, was not sufficient to counteract the full noseup demand by the First Officer. OPERATIONAL CONSIDERATIONS Between January 2022 and September 2024, 49 tailstrike events were reported to Airbus with 5 10 during takeoff, 23 47 during landing and 21 43 during a goaround near the ground fig.3. fig.3 Percentage of tailstrike events per flight phase INFORMATION For more information on tailstrike prevention during takeoff and landing, refer to the A Focus on the Landing Flare article published in September 2020, and A Focus on the Takeoff Rotation published later in January 2021."
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Performing a Safe Goaround Near the Ground The PF and the PM must carefully monitor the pitch during the maneuver When going around close to the ground, both the PF and the PM must carefully monitor the pitch during the maneuver. The PM must make the PITCH callout when the pitch reaches the value provided in the standard callout chapter of the SOP. Avoid high rotation rate The application of full back stick by the flight crew was reported in many of the tailstrikes during goaround near to the ground events. This was a common contributor to these events as this action led to a high rate of rotation. When performing a goaround near the ground, the PF and PM must monitor the pitch and the PF must avoid excessive noseup input fig.4. Retract flaps and landing gear only when safely established into the goaround During a goaround near the"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "ground, the flight crew must delay the flaps and landing gear retraction until the aircraft is established on its goaround trajectory fig.4. Delaying the flaps retraction prevents the need for higher pitch in the early stage of the maneuver, when the aircraft is closer to the ground. Landing gear contact with the ground may happen If the goaround is initiated when the aircraft is very close to the ground, the landing gear may contact the runway. The PF should not try to avoid this contact by further increasing the pitch. Safety first 39 January 2025 019 fig.4 Management of a goaround near the ground"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Preventing Tailstrike During Goaround near the Ground Manage the energy of the aircraft In many reported cases of tailstrike during goaround, the high noseup demand applied when the aircraft was on ground, and at low speed, led to the tailstrike. fig.5 Management of energy after landing gear contact If engines are at idle when the goaround is initiated, they can take a few seconds to spool up. The flight crew should wait until the aircraft speed reaches at least VAPP to rotate the aircraft fig.5. Dont try to avoid a second touchdown in the case of a goaround initiated during a bounce If a goaround is initiated during a bounce, the PF should maintain the pitch, allowing a potential second touchdown to happen. Then the PF can further adjust the pitch, ask the PM to retract one flap setting and retract the landing gear when the aircraft is established"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "on its goaround trajectory fig.6. fig.6 Management of a bounce during goaround"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Safety first 39 January 2025 021 Only one flight crew flies at a time Case study 2 shows that the PM may intend to take control in such dynamic situations. As per the FCTM chapter about the use of sidestick only one flight crew flies at a time. If the PM intends to apply inputs using the sidestick, they must do the following actions Clearly announce I have control Press and maintain the sidestick priority pushbutton in order to get full control of the FlyByWire system. The flight crew should keep in mind that sidestick inputs are algebraically added and the DUAL INPUT alert triggers if the priority pushbutton is not pressed and maintained. In case study 2, the dual input of the PM on the Captains sidestick did not prevent the tailstrike. In other reported cases, the dual input from the PM in the same direction as the PF"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "increased the inputs up to an equivalent of full noseup, and the resulting increased rate of rotation contributed to the tailstrike. Thrust reversers selection means full stop It is important to recall the SOP that states the flight crew must not initiate a goaround once the reversers have been selected. In several tailstrike events reported to Airbus, the goaround was initiated after the reversers selection. This contributed to the tailstrike due to the reduction of the aircraft speed before the goaround was initiated. The time taken for the thrust reversers to retract and lock also causes a delay of the engine spoolup to TOGA. INFORMATION For more information, refer to the Thrust Reverser Selection is a Decision to Stop article published in June 2023."
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Preventing Tailstrike During Goaround near the Ground TRAINING CONSIDERATION The Airbus Flight Crew Training Standards Manual FCTS recommends to train goaround near the ground in a simulator. To create surprise effect and to have training conditions close to the conditions observed during inservice events, the instructor should order the goaround once thrust levers are set in idle position during the flare initiation. INFORMATION For more information on the management of goarounds, including goarounds near the ground, refer to the Goaround Some threats and mitigations video available on the Airbus Worldwide Instructor News WIN website."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "CONTRIBUTORS BERNARD BESINET AccidentIncident Investigator Aviation Safety H\u00c9L\u00c8NE CARROLS AccidentIncident Investigator Aviation Safety NICOLAS GERARD Flight Controls development Engineer Design Office MEHIEDDINE KHENNOUSSI Flight Controls development Engineer Design Office MAXIME LANSONNEUR Director Safety Training and Flight Operations Customer Support DENIS MAZARGUIL Handling Quality Activity Product Leader Customer Support CAPT. GILBERT SAVARY Director Flight Operations and Training Standards Customer Support With thanks to Eric JEANPIERRE from the Product Safety Enhancement team in Aviation Safety Safety first 39 January 2025 023 Performing a Goaround near the ground is a very dynamic phase with a risk of tailstrike. If a goaround is initiated, the maneuver must be completed. To ensure a safe goaround near the ground, the flight crew must avoid application of inputs that lead to a high rate of rotation, retract flaps, and retract the landing gear only when the aircraft is safely established in the goaround maneuver. If the landing"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "gear is in brief contact with the ground, this is acceptable. The PF should not try to avoid this contact by further increasing the pitch. If the engines are already at idle when the goaround is initiated and the aircraft energy is low, the flight crew should wait until the aircraft speed reaches at least VAPP to rotate the aircraft. Do not try to avoid the secondary touchdown in the case of a goaround initiated during a bounce. The PF should maintain the pitch, allowing a potential second touchdown to happen. Then the PF can further adjust the pitch, ask the PM to retract one flap setting and retract the landing gear when the aircraft is established on its goaround trajectory. In all cases, it is important to recall that the SOP requires that a flight crew must not initiate a goaround once the reversers have been selected. For further"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "reading about avoiding tail strikes in other phases, you can read A Focus on the Landing Flare article published September 2020 and A Focus on the Takeoff Rotation published January 2021."
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Engine Relight After an AllEngine Flameout Engine Relight After an AllEngine Flameout An allengine flameout is one of the most stressful situations where flight crews need to urgently relight the aircraft engines. Incorrect application of the engine relight sequence can lead to delayed or unsuccessful engine restarts. This article describes an inservice event in which such a situation was encountered. It recalls the various steps of the engine relight sequence in the ALL ENG FAIL procedure of the QRH and highlights the improvements that have been made on the operational procedure of A300, A310, A320 family, A330, A340, A350 and A380 aircraft."
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Safety first 39 January 2025 025 CASE STUDY Event Description Diversion to alternate airport An A320 aircraft equipped with CFM565B engines was approaching its destination airport. Due to adverse weather conditions, the flight crew decided to divert to an alternate airport, where they performed a safe landing at 1840 local time. After a threehour stopover, the aircraft departed the diversion airport at 2151 local time, heading towards its initial destination. Weather avoidance and storm encounter During the night flight, persistent adverse weather remained along their route. 1 The flight crew requested a northward deviation to avoid storm cells that they detected on their weather radar. 2 The aircraft was cruising at FL 240 with autopilot and autothrust ON when the flight crew executed a 90 left turn toward their final destination. Severe storm and dual engine flameout 3 Shortly after the turn, the aircraft encountered severe turbulence and hail. Loud"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "impact noises were heard, and both the left and right windscreen sustained damage. Several ECAM alerts were triggered, including ANTI ICE R WINDSHIELD, ANTI ICE L WINDSHIELD, ENG 1 STALL, NAV RA 2 FAULT . 4 The autopilot and autothrust disconnected, and within one second, the cockpit went dark. Flight recorder data is not available for the following 2 min and 46 s due to an EMER ELEC configuration. 5 During this time, the thrust levers were moved to TOGA position. Both engines had flamed out combined with an unreliable airspeed indication. The flight crew switched the APU to ON. 6 When the APU came online, electrical power was restored. The aircraft pitch was 3.5, corresponding to the pitch provided in the QRH to reach the optimum windmill relight speed. The speed, which was unreliable, was 232 kt indicated on the captain PFD and the aircraft altitude was 18 100"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "ft 5 900 ft lost from cruise altitude. The aircraft was in ALTERNATE flight control law and thrust levers remained in the TOGA position. 7 One windmilling relight attempt of ENG 2 was recorded, then 8 the flight crew switched APU BLEED ON and performed several simultaneous attempts both ENG Master switches ON at the same time of starterassisted engine relight with the thrust levers still in the TOGA position. 9 The flight crew eventually set the thrust levers to IDLE and both master levers OFF before performing a successful ENG1 starterassisted relight with ENG 2 master switch left to the OFF position. The altitude was 9 100 ft, representing a loss of 14 900 ft from the cruise altitude. The flight crew then tried to relight engine 2 twice, but both attempts were unsuccessful."
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Engine Relight After an AllEngine Flameout Safe landing with single engine, unreliable airspeed and ALTERNATE law The aircraft emerged from the storm and continued to the destination airport. fig.1 Lateral trajectory of the aircraft during the event 10 The flight crew performed a safe landing with a single engine operative, ALTERNATE flight control law, unreliable airspeed indication, and significantly damaged windshields impairing visibility. fig.2 View of the damaged windshield and radome after the event photos Investigation Board Severely damaged aircraft When the aircraft came to a stop, the crew assessed the aircrafts damage, including a destroyed radome. Event Analysis Unsuccessful weather avoidance Night conditions and numerous storms in the area made effective weather avoidance challenging. Despite having an automatic radar and performing both automatic and manual scanning, the flight crew entered a severe hailstorm."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "INFORMATION For more information on the use of weather radar for weather avoidance, refer to the FCTM Aircraft Systems Weather Radar chapter, the Optimum use of weather radar article published in July 2016, the Operational use of the weather radar WIN video. the Pilots guide of the weather radar manufacturer. Extreme weather conditions The hailstorm significantly exceeded the engine design and certification criteria. The waterice content was approximately twice the level for which engines are designed and certified. This explains the observed engine damage and flameout. Radome damage impact Radome damage disrupted airflow around the air data probes, causing unreliable airspeed indications and reversion to the ALTERNATE flight control law. Thrust lever positioning The thrust levers remained in the TOGA position during seven relight attempts. The ALL ENG FAIL QRH procedure requires setting the thrust levers to IDLE before attempting to relight the engines. Unsuccessful engine relight attempts Recorders data"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "enabled analysis of the sequence of the various engine relight attempts. 1 The flight crew cycled the ENG 2 master switch OFF then ON 2 s later. 2 They switched the ENG 1 master switch to OFF. APU BLEED was set to ON shortly after. The ENG 1 master switch was then set back to ON 6s after being switched OFF. 10 s later, 3 the ENG 1 master switch was cycled OFF then ON. 25 s later, both 4 ENG 1 and 5 ENG 2 master switches were cycled OFF then ON. The flight crew then 6 cycled ENG 1 master switch again shortly followed by 7 ENG 2 master switch. All relight attempts were unsuccessful. The thrust levers remained in the TOGA position. APU BLEED Safety first 39 January 2025 027 fig.3 Sequence of unsuccessful relight attempts during the event 3 4 6 MASTER 1 ONCol21ONbr0 sCol5ON 25"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "sCol7ON 38 sCol9ON 1 min 46 s OFbr6br2OFbr6br2FbrsbrOFFbr1 sbrOFFbr1 sbrOFFbr2 sFbrsbrOFFbr1 sbrOFFbr1 sbrOFFbr2 sFbrsbrOFFbr1 sbrOFFbr1 sbrOFFbr2 sFbrsbrOFFbr1 sbrOFFbr1 sbrOFFbr2 sFbrsbrOFFbr1 sbrOFFbr1 sbrOFFbr2 sFbrsbrOFFbr1 sbrOFFbr1 sbrOFFbr2 sFbrsbrOFFbr1 sbrOFFbr1 sbrOFFbr2 sFbrsbrOFFbr1 sbrOFFbr1 sbrOFFbr2 s MASTER 2"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Engine Relight After an AllEngine Flameout These Simultaneous starterassisted relight attempts failed due to the fact that APU bleed provides sufficient air pressure to restart only one engine at a time. It was observed that no ventilation of 30s was performed between each relight attempt. Successful ENG 1 relight 8 The crew then set the thrust levers to IDLE and 9 set both engine master switches to OFF. The ENG 1 master switch was set back to ON, while the ENG 2 master switch was briefly set to ON then back to OFF. Within 1 minute and 45 seconds, ENG1 N2 and EGT increased and 10 ENG1 successfully restarted. fig.4 Successful ENG 1 relight MASTER 1 The ENG 2 master switch being OFF enabled sufficient bleed pressure to be delivered to ENG 1 starter for a successful relight. MASTER 2 IDLEbr8 10brONbrON 1 min 45 s ENG 1 AVAILbr1"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "min 46 sCol2Col3Col4Col5Col6Col7 1 min 46 sbrON1 min 45 sbr8br10brENG 1 AVAILbrIDLEbrON1 min 46 sbrON1 min 45 sbr8br10brENG 1 AVAILbrIDLEbrON1 min 46 sbrON1 min 45 sbr8br10brENG 1 AVAILbrIDLEbrONON1 min 45 sON1 min 45 sENG 1 AVAILENG 1 AVAIL OFF10 sbrON1 sbr9br11OFF10 sbrON1 sbr9br11OFF10 sbrON1 sbr9br11OFF10 sbrON1 sbr9br11OFF10 sbrON1 sbr9br11OFF10 sbrON1 sbr9br11 1 min 37brONsbr OFF10 sbrOFFOFF10 sbrOFFOFF10 sbrOFFOFF10 sbrOFFOFF10 sbrOFFOFF10 sbrOFF Damaged ENG2 11 The flight crew then tried two ENG 2 relights, but both attempts remained unsuccessful. Detailed inspection revealed sufficient damage to ENG 2 preventing successful inflight restart. Significant relight time and altitude loss ENG 1 became available 8 min 26 s after the allengine flameout. The aircraft altitude was 9 100 ft, representing a loss of 14 900 ft from the 24 000 ft initial cruise altitude. OPERATIONAL CONSIDERATIONS Careful application of the windmill and starterassisted relight procedures in the ALL ENG FAIL QRH procedure A300, A310,"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "A320 family, A330 and A340 aircraft and in the ENG ALL ENGINES FAILURE ECAM alert A350 and A380 aircraft is critical for successful inflight engine restart. Windmill Relight In the case of an allengine flameout, the windmill relight is possible at higher altitudes while the starter assisted relight is only available below FL200. In addition, a windmill relight enables the flight crew to perform simultaneous engine restart attempts."
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "1 Maintain optimum relight speed Maintaining aircraft optimum relight speed provides sufficient airflow for the engines to reach a rotation speed that produces sufficient compression of the air in the compressor and combustion chamber necessary for a successful engine relight. The optimum relight speed is provided in the ENG ALL ENGINES FAILURE ECAM alert and in the QRH ALL ENG FAIL procedure of A320 family, A330 and A340 aircraft in the ENG ALL ENGINES FAILURE ECAM alert of A350 and A380 aircraft in the ALL ENG FAIL FCOMQRH memory item of A300 and A310 aircraft. 2 Thrust levers set to IDLE Positioning the thrust levers to idle will enable stable idle restart, and a reduced risk of stall that may be caused by immediate acceleration to high thrust if the thrust levers remained above the idle position. 3 ENG mode selector set to IGN Set ENG mode selector to IGN"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "to activate combustion chamber ignitors. 1 2 3 Optimum relight IDLE Thrust IGN START speed selection Safety first 39 January 2025 029 fig.5 First steps of the windmill relight sequence 4 ALL ENG MASTER switches to OFF for 30 s This step will ventilate the combustion chamber to remove any residual fuel before the first relight attempt, and between relight attempts. Failure to ventilate the engine may result in an engine stall, an EGT overlimit, a tailpipe fire, or an 5 ALL ENG Master switches to ON All ENG MASTER switches can be simultaneously set to ON for windmill relight attempts. 6 Monitor Engine parameters for at least 30 s Monitor the EGT and N2 N3 for Rolls Royce engines for signs of relight for at least 30 s. If increase in N2N3 and EGT is observed, continue with the relight attempt. A successful inflight windmill relight can take up"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "to 2 minutes."
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Engine Relight After an AllEngine Flameout 7 Repeat attempts if no restart occurs fig.6 Windmill relight sequence simultaneous relight attempts MASTER 1 If no sign of relight appears within 30 s, switch both engine master levers to OFF for 30 s to ventilate the engines and repeat the relight attempts until successful, or until reaching FL 200 where a starterassisted relight can be attempted. If no sign of relight OFF 30 s 4 5 6 7 OFF 30 s MASTER 2 fig.7 First steps of the starterassisted relight sequence IGN START All ENG master Green dot APU IDLE Thrust selection switches OFF speed BLEED ON OFF 30 s OFF 30 s StarterAssisted Relight Below FL 200 The ALL ENG FAIL QRH procedure requests to start the APU when below the upper ceiling of the APU starting envelope, enabling recovery of the electrical power and the use of APU bleed."
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Below FL 200, if the windmill relight was unsuccessful and if the APU is available, the flight crew can attempt a starterassisted relight. Only one engine two on A380 aircraft can be restarted at a time when attempting a starterassisted engine relight. Thrust levers set to IDLE The thrust levers should already be set to IDLE in the first part of the procedure. ENG mode selector set to IGN The ENG mode selector should also already be in the IGN position to activate combustion chamber ignitors. 1 ENG MASTER switches to OFF Each engine must first be switched off for ventilation to remove residual fuel from the combustion chamber before any engine relight attempt. The time to perform the next two steps ensure a sufficient ventilation close to 30 s. 2 Reduce speed to green dot speed Reducing the speed down to green dot speed reduces the aircraft rate of"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "descent. 3 APU BLEED ON APU BLEED should be set to ON. 3 Already set 1 2 MODE NORM APU BLEED MASTER 1 ENG MASTER 2 ON ENG ENG OFF 1 2 CRANK IGN START ON OFF"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "4 Only one ENG MASTER switch to ON two on A380 aircraft The flight crew must attempt to relight only one engine at a time during a starterassisted relight on A300, A310, A320, A330, A340 and A350 aircraft. The APU cannot provide sufficient bleed pressure to relight two or four engines at the same time. On A380 aircraft, the relight attempt can be done on two engines simultaneously. 5 Monitor Engine parameters Monitor the EGT and N2 N3 for Rolls Royce engines for signs of relight for at least 30 s. If increase in N2N3 and EGT is observed, continue with the relight attempt. A successful inflight starterassisted relight can take up to 2 minutes. 6 If no sign of relight within 30 s, all ENG MASTER switches OFF If there is no sign of relight within 30 s, the flight crew should switch the engine master switch back to"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OFF to ventilate the engine. Two options are then possible 7 Immediate relight attempt of the other engine The flight crew can attempt to relight the other engine immediately since it was ventilated during the relight attempt of the first engine. OR 7 Relight attempt of the same engine after a 30 s ventilation If the flight crew wants to relight the same engine if the other engine is damaged, they have to wait for 30s with the master switch to OFF until the engine is ventilated. MASTER 1 Safety first 39 January 2025 031 fig.8 Starterassisted relight sequence one engine at a time Ventilation OFF If no sign of relight 1 2 3 4 5 6 3 4 MASTER 2 MASTER 1 OFF OR MASTER 2 MASTER 1 OFF OFF 30 s Col1O MASTER 2 OFF"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "OPERATIONS Engine Relight After an AllEngine Flameout PRODUCT ENHANCEMENTS Operational Documentation Improvement The event described previously led Airbus to improve the operational documentation to prevent misinterpretation of the starterassisted relight procedure included in the ALL ENG FAIL procedure of A300, A300600, A310, A320 family, A330, A340, A350 and A380 aircraft. The update of the ALL ENG FAIL procedure in QRHFCOM for A300A310A320A330A340 and ECAM FCOM for A350A380 is also associated to an update of the All Engines Failure procedure in the FCTM. This improvement is available in the following documentation revisions A320 family, A330 and A340 aircraft November 2024 A300, A300600 and A310 aircraft March 2025 fig.9 Example of the procedure update on A320 family aircraft A350 aircraft mid 2025 A380 aircraft 2026 Previous Procedure Improved Procedure If APU available and windmill relight unsuccessful Starter Assisted Relight below FL 200 ALL ENG MASTERS.....................................OFF OPTIMUM SPEED GREEN DOT REFER TO QRHOPS"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Operating Speeds WING ANTI ICE............................................OFF APU BLEED..................................................ON ENG MASTER ONE AT A TIME..................ON _Between each attempt to relight the same_ _engine, wait at least 30 s with the associated_ _ENG MASTER lever set to OFF._ Flight Warning System Enhancements A350 and A380 aircraft A Flight Warning System update is under study on A350 and A380 aircraft to improve the ECAM procedure."
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "CONTRIBUTORS C\u00c9LINE BELLOCQ Flight Ops Engineering Support Specialist Customer Support DAVID BOYER Expert Engine Control Technology Development Design Office TUAN DO HO Overall System Flight Tests Flight tests department SUNNY GUPTA AccidentIncident Investigator Aviation Safety MAXIME LANSONNEUR Director Safety Training and Flight Operations Customer Support ANTOINE PILON Expert UERF Prevention Protection Design Office Safety first 39 January 2025 033 An allengine flameout is a highstress situation that requires immediate and precise crew action. Successful engine relight depends on meticulous execution of the procedure. The 30 seconds engine ventilation removes any residual fuel from the engines combustion chamber before the first relight attempt, and between relight attempts if unsuccessful. It prevents risks of engine stall, EGT overlimit, tailpipe fire or unsuccessful relight. Windmill relights enable attempts to restart all engines at the same time at higher altitude. Starterassisted relights enable restart of only one engine at a time two engines at"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "a time on A380 aircraft only due to APU bleed air limitations and can only be performed below FL200. Flight crew should monitor the EGT and N2 N3 for Rolls Royce engines for signs of relight for at least 30 s. If there are signs of relight within 30 sec, continue with the current engine restart attempt. A successful inflight relight may take up to 2 minutes. If there are no signs of relight within 30 s, set all ENG MASTER switches to OFF and initiate a new relight attempt. The event described in this article also illustrates the importance of maintaining situational awareness during emergencies, and correctly applying QRH procedures during an extremely high stress situation."
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "STRENGTHENED PROTECTIONS There are three barriers against LOCI events that are available on fourth generation commercial jet aircraft. 1. Autoflight Autoflight assists flight crew in phases such as high altitude flying and can maintain control of the aircraft when difficult conditions are encountered, like turbulence. Flight crew workload is also reduced when autoflight is used, allowing them to focus on management of system failures should they occur. 2. Flight Crew Awareness When autoflight is not used, or if autoflight capability is lost due to a system failure, or autopilot domain exceedance, the flight crews awareness of the situation will enable them to react and perform appropriate manual flying inputs. 3. Flight Envelope Protections In certain, but rare conditions, the flight crew may lose situational awareness, which can cause them to make inappropriate inputs on the flight controls. The crew may also need to make rapid flight control inputs to perform"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "an avoidance maneuver. In these cases, the flight envelope protection introduced on the fourth generation of jet aircraft, provides the third barrier to prevent LOCI events. Lessons learned from inservice events have driven the design of additional enhancements for each of the three safety barriers on the A350 aircraft. The objective of the Safety Beyond Standard initiative is to also implement these enhancements on the eligible A320 Family, A330 and A380 aircraft to bring most of the Airbus fleet closer to the A350 standard. Safety first 39 January 2025 035 fig.1 The three barriers against LOCI that are available on fourth generation jet aircraft and strengthened protections available. Flight Envelope Protections availability Autoflight Enhanced autoflight availability Crew Awareness crew awareness"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "AIRCRAFT Further Preventing Loss of Control Inflight ENHANCED AUTOFLIGHT AVAILABILITY This increases the availability of the autopilot and autothrust, and reduces the risk of flight crew startle due to a sudden loss of autopilot and autothrust. The difference of the original configuration premod and the increased availability after implementation postmod is described for each enhancement. Enhanced Autoflight Robustness to FMS Failures A majority of cases reporting loss of autoflight system are due to a failure or reset of the Flight Management System FMS. In premod configuration, when the FMS fails or resets, the autopilot AP, Flight Director FD and autothrust ATHR disconnect fig.2. In postmod configuration, the APFDATHR remain available in selected mode if the FMS fails or resets. fig.2 Enhanced Autoflight Robustness to FMS Failures Premod APFDATHR are lost lost SPEED ALT HDG 1FD2AP1 AP 1 AP 2 ATHR FMS failure Postmod APFDATHR revert to selected modes Availability of"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "the robustness to FMS failures This enhancement is available on all A320 family aircraft manufactured from 2021. It is available for retrofit on all A320 family aircraft manufactured before 2021. A330 aircraft with GENEPI FMGEC hardware, which represents around 70 of the fleet, can have the enhancement after upgrade to the H7 FMGEC standard that is available from 2022. This enhancement was installed as standard or basic on all A380 aircraft. A320Col2Col3Col4A330Col6Col7Col8A380Col10Col11Col12 FleetComputerStandardAvail.brdate FleetComputerStandardAvail.brdate FleetComputerStandardAvail.brdate 100 FMGCFG3GbrPC20brPI18Avail.70 FMGECbrGENEPIbrhardwarebronlyH7Avail.100brbasicPRIMAllBasic"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Enhanced Autoflight Robustness to LGCIU Failures Autoflight needs landing gear information extendedretracted and compressed uncompressed. As a consequence, in the initial design, APFDATHR are lost in the case of a LG LGCIU 12 FAULT or LG SHOCK ABSORBER FAULT fig.3. In postmod configuration, the flight guidance uses an additional source for landing gear information. APFDATHR will remain available if both Landing Gear Control Interface Unit LGCIU fail or in the case of a LDG SHOCK ABSORBER FAULT ECAM alert, maintaining capacity to perform CAT II or CAT III operations. This enhancement was installed as standard basic on all A330 and A380 aircraft Premod APFDATHR are lost Safety first 39 January 2025 037 fig.3 Enhanced autoflight robustness to dual LGCIU failure LG LGCIU 12 FAULT or LG SHOCK ABSORBER FAULT AP 1 AP 2Col2Col3 ATHR SPEED GS ALT CSTGS NAVLOC DUALCAT3 AP121FD2 AP 1 AP 2 CAT3 AP12 DUAL 1FD2 RADIO"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "100 ATHR AP 1 AP 2Col2Col3 ATHR Postmod APFDATHR are fully available Autoland capability maintained Availability of the robustness to LGCIU failures This enhancement is standard basic on all A320 family aircraft manufactured from 2021. It can be retrofitted on all previously built A320 family aircraft. This enhancement was installed as standard basic on all A330 and A380 aircraft. A320Col2Col3Col4A330Col6Col7Col8A380Col10Col11Col12 FleetComputerStandardAvail.brdate FleetComputerStandardAvail.brdate FleetComputerStandardAvail.brdate 100 FMGCFG3GbrPC20brPI18Avail.100brbasicFMGECAllBasic100brbasicPRIMAllBasic"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "AIRCRAFT Further Preventing Loss of Control Inflight Enhanced Autoflight Robustness to Air Data Failures In premod configuration, APFDATHR requires at least two independent and consistent airspeed sources to be available. As a consequence, APFD ATHR are lost in the case of a loss of the data from 2 ADRs. Speed Monitoring function Unreliable Airspeed Mitigation Mean UAMM step 2 In postmod configuration, the use of an independent airspeed estimator, called Digital BackUp Speed DBUS, is based mainly on angleofattack, load factor value, aircraft weight and configuration, which enables monitoring of the remaining ADR speed data. As a consequence, the following autoflight availability is reinforced in the case of loss of air data as follows Only one ADR available The APFDATHR will remain available even if two ADRs are lost . Automatic landing is however no longer available. CAT I operations remain possible GS and LOC modes remain available. fig.4 Enhanced"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "autoflight robustness to dual air data failure Premod APFDATHR lost ADR 1 1 AP 2Col2 ATHR CAT1 AP1 1FD2 BARO 250 ATHR SPEED GS ALT CSTGS NAVLOC CAT1 1FD2AP1 AP 1 AP 2 Digital Backup Speed 1 AP 2Col2 ATHR Postmod APFDATHR remain available Autoland capability lost"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Only digital backup speed available If only the digital backup speed is available, the APFDATHR remain available, but in only selected modes. Automatic landing is however no longer available. CAT I operations remain possible GS and LOC modes remain available. Premod APFDATHR lost 1 AP 2Col2 ATHR CAT1 SPEED ALTGS HDGLOC CAT1 1FD2AP1 AP 1 AP 2 BARO 250 AP1 1FD2 ATHR Digital Backup Speed 1 AP 2Col2 ATHR Postmod APFDATHR in selected modes Autoland capability lost No air data available If no air data is available, including the digital backup speed, the APFDATHR remains available in clean configuration, but it will be in a degraded mode that maintains the aircraft in level flight and heading only. The ATHR will adapt thrust to maintain the aircraft in the middle of the flight envelope. Premod APFDATHR lost Safety first 39 January 2025 039 fig.5 Enhanced autoflight robustness to triple air data"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "failure fig.6 Enhanced autoflight robustness to triple air data failure digital backup speed not available 1 AP 2Col2 ATHR ADAPTEDTHR VS 0 HDG 1FD2AP1 AP 1 AP 2 AP AVAIL VS0 HDG ONLY AP1 1FD2 ATHR 1 AP 2Col2 ATHR Postmod APFDATHR limited to VS0 HDG with thrust adapted to pitch to maintain speed Availability of the robustness to air data failures A320A330Col3Col4Col5A380 A320 FleetComputerStandardAvail.dateAvail.date Not availableA330900br100FMGECbrGenepibrhardware onlyH7AvailableNot available Not availableA330900br100EIS2L14L14L14 Not availableA330900br100FWCT9T9T9 Not availableA330900br100FCPCM30neoM30neoM30neo"
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "AIRCRAFT Further Preventing Loss of Control Inflight ENHANCED CREW AWARENESS Unexpected events in flight require appropriate action from the flight crew. Examples of events include Approach to stall, unreliable airspeed and excessive bank angle. When these situations occur, flight crews must apply recovery actions in a controlled and calm manner. Improved alerting cues and additional speed information will assist flight crews to manage these unexpected events. fig.7 Premod backup speed scale fig.8 Postmod digital backup speed indication and assistance to ADR switching NAV AIR SPD STS CHANGED ADR1 SPD FAULT ADR2 SPD FAULT ADR3 SPD RELIABLE BKUP SPD RELIABLE CAPT BKUP SPDALT......................ON AIR DATA SWTG....................FO ON 3 MAX SPEED...............................280.82 These enhancements improve situational awareness and aid in assessing the situation quickly. With better awareness and assessment, flight crews can apply the correct procedures safely and more effectively. Digital BackUp SpeedAltitude Display and Assistance to Speed Information Selection In premod configuration,"
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "the aircraft are equipped with a backup speed scale based on angleofattack value, providing speed information to the flight crew using color bands that they can use below FL 250 fig.7. In postmod configuration, the introduction of a digital backup speed fig.8 computed with angle of attack value, aircraft weight and load factor provides an additional speed indication to the flight crew that can be displayed on the PFD when necessary. The digital backup speed has an accuracy of 15 kt, which means that the last digit of the speedscale is shown with a strikethrough line on the PFD. The flight crew can display or remove the digital backup speed by pressing a dedicated pushbutton for each PFD. As the majority of pitot freezing events observed inflight are temporary in nature, the display of digital backup speed is reversible, which enables it to be switched off and revert to the"
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "anemometric speed if the ADR data is recovered and reliable. The independent airspeed source provided by the digital backup speed also enables additional monitoring of the data from the ADRs. An enhanced ECAM procedure provides a status of the speed data from the 3 ADRs and of the digital backup speed. It also provides guidance to the flight crew for selection of the correct to ON when necessary. 300br280br26020 20br10 10br10 10 20br33620000br80Col3 260br300br28010br10br10br10br315brBKUPbr Digital Backup Speed"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Safety first 39 January 2025 041 A380 aircraft Same ADR monitoring and automatic airspeed switching as on A350 aircraft On A380 aircraft, the same ADR monitoring function and automatic PFD airspeed display as on A350 aircraft will be available from Avionic batch 8. Availability of the Digital BackUp SpeedAltitude Display and Assistance to Speed Information Selection A320Col2Col3Col4A330Col6Col7Col8A380Col10Col11 FleetComputerStandardAvail.brdate FleetComputerStandardAvail.brdate FleetComputerAvail.brdate 45 FAC CCAA13Avail.A330br900br100FCPCM28 neoAvail.100AvionicbrBatch 82027 45 FWCH2F13H2F13H2F13FWCT9T9T9T9T9 45 EIS2S16S16S16EIS2L13L13L13L13L13 45 FDIMUFS3.1FS3.1FS3.1FDIMUFL4FL4FL4FL4FL4 45 Wiring Push buttonsWiring Push buttonsWiring Push buttonsWiring Push buttonsFCDCL27 HSL27 HSL27 HSL27 HSL27 HS 45 Wiring Push buttonsWiring Push buttonsWiring Push buttonsWiring Push buttonsWiring Push buttonsWiring Push buttonsWiring Push buttonsWiring Push buttonsWiring Push buttonsWiring Push buttons An update of the EIS introduces a visual red alert on the PFD in addition to the existing aural stall warning. This improves the warning of an approaching stall situation and alerts the flight crew that they must apply corrective or recovery"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "actions to avoid the stall condition. fig.9 STALL message on the PFD Availability of the STALL message on the PFD A320Col2Col3Col4A330Col6Col7Col8A380Col10Col11Col12 FleetComputerStandardAvail.brdate brFleetComputerStandardAvail.brdate FleetComputerStandardAvail.brdate 100 br12 withbrEIS1 LRUbrupgradeEISEIS2 S12brEIS1 V80Avail.100EISEIS1brV114V515brEIS2EEISbrL9EAvail.100BasicBasicBasic"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "AIRCRAFT Further Preventing Loss of Control Inflight Excessive Bank Angle Alert in Alternate and Direct This enhancement introduces a message on the PFD and a BANK BANK aural alert when the aircraft reaches an excessive bank angle above 45 in alternate and direct laws where no excessive bank angle protections are fig.10 BANK BANK message on the PFD Availability of the excessive bank angle alert in alternate and direct laws This enhancement is available for all manufactured aircraft, or for retrofit on all of the existing A320 family and A330 aircraft fleets. However, aircraft fitted with EIS 1 standard will only have the audio alert. This enhancement was installed as standard A320Col2Col3Col4A330Col6Col7Col8A380Col10Col11Col12 FleetComputerStandardAvail.brdate FleetComputerbrStandardAvail.brdate FleetComputerStandardAvail.brdate 100 br12 EIS1braudiobronlyFAC BbrhardwareNextbrstandardTBDA330br800 br900br100FCPCP17AbrM28neoAvail.100BasicBasicBasic 100 br12 EIS1braudiobronlyFAC CbrhardwarebrFWCbrEIS2CAA13brF13brS16Avail.Avail.FWCT92Avail.Avail.Avail.Avail.Avail. 100 br12 EIS1braudiobronlyFAC CbrhardwarebrFWCbrEIS2CAA13brF13brS16Avail.Avail.EIS2L13Avail.Avail.Avail.Avail.Avail. 100 br12 EIS1braudiobronlyFAC CbrhardwarebrFWCbrEIS2CAA13brF13brS16Avail.Avail.FCDCL27Avail.Avail.Avail.Avail.Avail."
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "ENHANCED FLIGHT ENVELOPE PROTECTION AVAILABILITY Enhancement of the flight envelope protection availability strengthens the third safety barrier that prevents LOCI events. Pitch Attitude Limitation in Alternate Law In premodification configuration, there is no flight envelope protection available for the pitch axis in alternate law. In post modification configuration, a pitch angle limitation is available in alternate law when the aircraft is in clean configuration fig.11. This prevents rapid speed decay, reducing the risk of going too far outside of the flight envelope. Two limitations are introduced max is the maximum pitch angle that can be reached with the sidestick maintaining a pitchup demand prot is the maximum pitch angle that can be maintained with the sidestick in the neutral position. Both maximum pitch angles vary as a function of altitude. Potential stall situations are therefore limited in case of inappropriate flight crew noseup inputs. \u03b8 MAX PROT \u03b8 MAX PROT"
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Availability of the pitch attitude limitation in alternate law Safety first 39 January 2025 043 fig.11 Pitch attitude limitation in Alternate law A320Col2Col3Col4A330Col6Col7Col8A380Col10Col11 FleetComputerStandardAvail.brdate FleetComputerStandardAvail.brdate FleetStandardAvail.brdate 100 brexceptbrA318ELACL104Avail.A330br200brelectricalbrrudderbr100 FCPCP192025100 AvionicbrBatch 82027"
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "AIRCRAFT Further Preventing Loss of Control Inflight Flight envelope protections maintained in the case of yaw damping function loss on A320 family aircraft In premod configuration, in the case of a loss of the yaw damping function caused by loss of both yaw dampers or loss of both FAC computers, normal law and flight envelope protections are lost, leading to a reversion to Alternate law. In postmod configuration, the aircraft also reverts to Alternate law, but the protections from the normal law remain available with possible reduced efficiency due to the absence of yaw damping. Availability of the maintained protections in case of yaw damping function loss A320Col2Col3Col4A330A380 FleetComputerStandardAvail.brdateAvail.brdateAvail.brdate 100 brexcept A318ELACL104Avail.Not availableNot available Avoid undue simultaneous FAC Resets on A320 family aircraft In the case of a Rudder travel limiter fault on A320 aircraft, the ECAM procedure requests the flight crew to reset each FACs in a sequence to"
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "try to recover the function. The enhancement introduced improves the procedure by adding an IF UNSUCCESSFUL line to make it more obvious to the flight crew to avoid performing simultaneous resets of the FACs, which results in a temporary loss of the normal law and its associated flight envelope protections. fig.12 Premod Postmod Enhanced ECAM procedure to prevent simultaneous FAC reset AUTO FLT AP OFF AUTO FLT RUD TRV LIM SYS RUD WITH CARE ABV 140 KT FAC 1 .......OFF THEN ON FAC 2 .......OFF THEN ON AUTO FLT AP OFF AUTO FLT RUD TRV LIM SYS RUD WITH CARE ABV 140 KT FAC 1 .......OFF THEN ON . IF UNSUCCESSFUL FAC 2 .......OFF THEN ON Availability of the enhanced AUTO FLT RUD TRV LIM SYS ECAM alert A320Col2Col3Col4A330A380 FleetComputerStandardAvail.brdateAvail.brdateAvail.brdate 100 FWCF12Avail.Not applicableNot applicable"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "Safety first 39 January 2025 045 ENHANCEMENTS IMPLEMENTATION Making these safety enhancements available is part of the continuous enhancement of all Airbus aircraft. The opportunity to implement these enhancements as a retrofit solution on the existing Airbus fleet is key to further prevention of LOCI events. Airbus has several monitored retrofit campaigns to encourage and assist Operators to implement these enhancements for their operational aircraft. Software provided free of charge To facilitate the retrofit of these enhancements on the compatible aircraft, Airbus provides the software updates free of charge to Operators. Limited grounding time The software updates that introduce these enhancements can be done in a relatively short time, limiting the time of aircraft on ground and limiting the cost of labor hours. For more information on the monitored retrofit campaign, please contact the Retrofit Operations team at monitored.retrofitairbus.com. Mixed Fleet considerations Operators may have aircraft with different technical configurations"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "that are not all compatible with the retrofit of certain enhancements. This should not prevent them from implementing the enhancement on their aircraft that are compatible. It is an essential step to take safety beyond the standard for those aircraft that are configured and capable of being retrofitted. This will enhance the overall safety resilience of the fleet. Limited operational impact All the listed enhancements have a limited operational impact since most of them are enhancement of the availability of already existing functions. The new displays, and new or updated procedures are described in the FCOM and QRH."
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "AIRCRAFT Further Preventing Loss of Control Inflight Limited training requirement Analysis of the training requirements showed that either a level A self Instruction or level B aided instruction training is required to familiarize flight crews with these enhancements. Col1EnhancementsTraining levelDocumentation Impact EnhancedbrautoflightbravailabilityEnhanced Autoflight Robustnessbrto FMS Failures and LGCIU failuresBFCOM, FCTM EnhancedbrautoflightbravailabilityEnhanced Autoflight Robustnessbrto Air Data Failures Alternate APBFCOM, FCTM, AFM, QRH Enhanced crewbrawarenessDigital BackUp Speed UAMM step 2BFCOM, FCTM, QRH, AFM, MMEL Enhanced crewbrawarenessExcessive Bank Angle AlertAFCOM, FCTM, AFM Enhanced crewbrawarenessStall message on PFDAFCOM Enhancedbrflight envelopebrprotectionsbravailabilityAvoid undue simultaneous FAC Resetsbron A320 family aircraftAFCOM Enhancedbrflight envelopebrprotectionsbravailabilityPitch Attitude Limitation in AlternatebrLaw PALALAFCOM Enhancedbrflight envelopebrprotectionsbravailabilityFlight envelope protections maintainedbrin the case of yaw damping function lossbron A320 family aircraftAFCOM"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "CONTRIBUTORS THIERRY BOURRET Flight Control Development Responsible Design Office QUENTIN BRUCY Domain Program leader A330 Design Office ERIC JEANPIERRE Product Safety Enhancement Manager Aviation Safety OLIVIER JOSEPH Aviation Safety Specialist Customer Support MAXIME LANSONNEUR Director Safety Training and Flight Operations Customer Support Safety first 39 January 2025 047 Airbus has developed safety enhancements for the eligible A320 family, A330, and A380 aircraft to address Loss of Control Inflight LOCI risks. The objective of these enhancements is to bring the entire Airbus fleet as close as possible with A350 safety standards with a focus on the three key areas of Enhanced autoflight availability, improved flight crew awareness, and strengthened flight envelope protection. Implementation of these enhancements on the aircraft with capable configurations are designed to allow retrofit with minimal operational impact, optimized costs of integration e.g. software updates provided freeofcharge by Airbus, require limited additional crew training Level A or B."
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_39.pdf",
+    "text": "These enhancements enhance LOCI prevention, which is why operators with partially compatible or mixed fleet configurations are encouraged to implement upgrades where possible, as the safety benefits outweigh any potential fleet inconsistencies. By adopting these improvements, operators contribute to an increase in overall fleet safety. The enhancements are an essential step in taking safety beyond standard, through leveraging operational experience and technology to further prevent LOCI events. Airbus has launched monitored retrofit campaigns, working with operators to implement these safety enhancements at the earliest opportunity, reinforcing our collective commitment to aviation safety."
+  }
+]

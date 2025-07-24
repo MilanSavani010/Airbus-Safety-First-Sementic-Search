@@ -1,0 +1,932 @@
+[
+  {
+    "page": 1,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "The Airbus safety magazine 34 Safety first"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety first, 34 July 2022. Safety first is published by Airbus S.A.S. 1, rond point Maurice Bellonte 31707 Blagnac CedexFrance. Editor Yannick Malinge, Chief Product Safety Officer. Concept Design by Airbus MultiMedia Studio 20220363. Reference X00D16031905. Photos by Airbus, S. Ramadier, H. Gouss\u00e9, G. Estragnat. This brochure is printed on Symbol Tatami White. This paper is produced in factories that are accredited EMAS and certi ed ISO 900114001, PEFC and FSC CoC. It is produced using pulp that has been whitened without either chlorine or acid. The paper is entirely recyclable and is produced from trees grown in sustainable forest resources. The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous metals from the cadmium, lead, mercury or hexavalent chromium group. The printer, Art Caract\u00e8re France 81500, is engaged in a waste management and recycling programme for all resulting byproducts. Editorial Team Guillaume"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Vanessa Gwyneth Tim Estragnat Sadi Duggan Roach Airbus S.A.S. 2022 All rights reserved. Proprietary documents. By taking delivery of this Brochure hereafter Brochure, you accept on behalf of your company to comply with the following guidelines No other intellectual property rights are granted by the delivery of this Brochure than the right to read it, for the sole purpose of information. This Brochure and its content shall not be modified and its illustrations and photos shall not be reproduced without prior written consent of Airbus. This Brochure and the materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment. This Brochure contains sensitive information that is correct at the time of going to press. This information involves a number of factors that could change over time, effecting the true public representation. Airbus assumes no obligation to update any"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "information contained in this document or with respect to the information described herein. Airbus S.A.S. shall assume no liability for any damage in connection with the use of this Brochure and of the materials it contains, even if Airbus S.A.S. has been advised of the likelihood of such damages. Safety first The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety first is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fly and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confidential Reporting System, incident and accident investigation reports, system tests and flight tests. Material is also obtained from"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "sources within the airline industry, studies and reports from government agencies and other aviation sources. All articles in Safety first are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The contents do not supersede any requirements mandated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily reflect the views of Airbus, neither do they indicate Company policy. Contributions, comment and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Product Safety department W 1, rond point Maurice Bellonte 31707 Blagnac Cedex France safetycommunicationairbus.com Visit us"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "at safetyfirst.airbus.comhttpsafetyfirst.airbus.com or install the Safety first app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "YANNICK MALINGE SVP Chief Product Safety Officer editorial Dear Aviation Colleagues, The aviation industry has continuously adapted to the changeable conditions of the Covid19 crisis, and the wake vortex effect of this pandemic will still be with us for some time. However, the global safety record over this period has shown a high level of resilience thanks to robust safety governance and safety culture. This has demonstrated the added value of the safety management systems that were implemented and continuously reinforced across the industry. The same challenges remain for the return to service and rampup of operations in the recovery phase. In addition to this, there is a significant number of people who have left the industry, meaning we must now attract and engage a new generation of aviation professionals. It is also an opportunity to reinject the right safety culture for everyone working across the air transport system. A"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "shared safety culture also supports safety at the interfaces across organizations and in aircraft operations. This is a big part of why we share safety information in Safety first articles to flight crews, technicians, and cabin crews with the aim to reinforce safety at the interface of flight operations and maintenance. It is why I want to encourage everyone to widely share this information and the lessons learned, especially for the benefit of all newcomers who will shape our shared safety culture for tomorrow. I pass on my best wishes to everyone, together with the Airbus Safety team, for safe and fairweather flying ahead."
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety Publications Safety first The Airbus safety magazine Available in app and website versions"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "NEWS Save the Date! The 27 th Airbus Flight"
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety 34 first OPERATIONS MAINTENANCE P06 Prevention of EGT Overlimit Events P16 Good Quality Hydraulic Fluid for Safe Operations P24 Do not Wait to Apply the Engine Fire Procedure P32 Fuel Microbiological Contamination Treatment"
+  },
+  {
+    "page": 8,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Prevention of EGT Overlimit Events"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety first 34 July 2022 007 Among the reported events of EGT overlimit, 10 occurred on both engines between May and September 2021. Even if EGT overlimit events are common, they can increase the flight crew workload in a critical phase of flight, especially when they happen on both engines simultaneously. They can create operational disruptions e.g. rejected takeoff or inflight turnback and require maintenance actions. CASE STUDY Event Description An A321 aircraft, with a takeoff weight of 73 T MTOW 98.7 T, was in CONF2 with packs ON and ready for takeoff on a relatively warm weather day 30C OATISA15. The flight crew applied standard thrust stabilization and then TOGA thrust. The takeoff was uneventful until liftoff. At 90 ft RA, the ENG1 EGT OVER LIMIT and ENG2 EGT OVER LIMIT ECAM alerts triggered. The PF initially moved both thrust levers to MCT, then engaged the autopilot at 450"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "ft and moved the thrust levers to the CLB notch. At 890 ft, the PF set the ENG1 thrust lever to idle. The vertical speed began to decrease and the PF set the ENG2 thrust lever to MCT. The flight crew then set the ENG1 master switch to OFF when crossing 1 300 ft, leveled off at 1 500 ft, and decided to perform an inflight turnback. The PF climbed to 4 000 ft. The flight crew started the APU and began descent to initiate the approach. The ENG1 master switch was set back to ON during the descent and Engine 1 successfully restarted at approximately 2 700 ft. The approach and landing were performed without any further events. Event Analysis The investigation confirmed that both engines had an EGT overlimit and compressor stall during the event. This was the combination of degraded performance on both engines, combined with a"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "relatively high OAT 30C, and the use of TOGA thrust with packs ON. The inspection of both engines by the engine manufacturer stated, General dirtyerodedcorrodedworn condition of engines flow path. Deteriorated airfoil profile and tip seals clearance identified as major contributors to both engines EGT overtemperature. It was also noted that an interruption of inflight engine data transmission between the Operator and the engine manufacturer did not facilitate a timely assessment of the engine degradation. THE EGT PARAMETER The EGT sensors are located either on the inlet or the outlet of the Low Pressure Turbine LPT, depending on the engine type. Parameters that Influence EGT An engine with degraded performance is less efficient and requires more fuel to produce the same thrust leading to an increase in EGT. A number of parameters can cause temporary performance degradation that will have an influence on EGT or there can be a progressive"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "degradation of engine performance."
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Prevention of EGT Overlimit Events fig.1 fig.2 Effect of OAT and altitude on the EGT for a constant thrust Temporary performance degradation Several parameters can cause temporary engine performance degradation and result in increased EGT values Environmental parameters such as Outside Air Temperature OAT fig.1 and altitude fig.2 . For example, every increase of 1C in OAT can lead to an EGT increase of approximately 3C to produce the same thrust at takeoff, depending on the engine type. EGT EGT EGT OAT OAT fig.3 fig.4 Effect of bleed demand packs and engine contamination on the EGT for a constant thrust Bleed demand Use of air conditioning packs and antiice increases the bleed demand on the engine and will result in a higher EGT to produce the same thrust fig.3 . Engine contamination e.g. dust, pollution can disturb the airflow through the engine, which affects the overall performance of the"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "engine and results in higher EGT values fig.4 . EGT OAT OAT Engine temperature An engine is cold when the EGT is almost the same as the OAT at engine start. This can lead to an increased peak in the EGT during takeoff if the engine does not have sufficient time to warm up after starting."
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Progressive Performance Degradation Engine Wear The performance of any engine progressively degrades with time due to inevitable wear of its components. This is generally due to eroded or damaged compressor foils, worn seals, and the increased clearance between rotorstator blade tips and the statorrotor in the compressor and turbine sections due to erosion. EGT EGT Redline OAT The EGT redline is defined as the engine operational limit that prevents damage to the engine due to an excessively high temperature. EGT limits for each flight phase are provided in the AFM LIMITATIONS POWER PLANT Engine Parameters and FCOM Limitation Engines Thrust SettingEGT Limits. The EGT redline corresponds to the EGT limit for takeoff and goaround. The EGT redline appears as a red line on the EGT indicator of A300A310 aircraft and on the engine display of A220 aircraft. On A320 family, A330, A340, A350, and A380 aircraft, the EGT redline is"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "the start of the red zone of the EGT arc on the engine display fig.6 . An EGT amber limit indicates the EGT limit for maximum continuous thrust or engine start provided in the FCOM on A320 family, A330, A340, A350, and A380 aircraft. This amber limit indication is hidden when takeoff power is applied. On A220 aircraft, an amber line indicates the EGT limit during engine start. Safety first 34 July 2022 009 fig.5 Effect of engine wear on the EGT fig.6 EGT indication EGT redline EGT amber line EGT redline MTO or MCT Engine start Current EGT EGT amber limit continuous thrust Current EGT EGT redline takeoff thrust EGT exceedance needle EGT exceedance needle EGT exceedance light Current EGT"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Prevention of EGT Overlimit Events In the absence of severe damage, an engine is capable of operating above the EGT redline without thrust loss, but at the cost of an accelerated engine wear. The EGT redline is not a hard limit In the absence of severe damage, an engine is capable of operating above the EGT redline without thrust loss, but at the cost of an accelerated engine wear. This was demonstrated during the engine certification tests. It is why an amber caution alert is used to inform the flight crew of an EGT overlimit rather than a red warning alert. The ENG12 EGT OVER LIMIT ECAM alert is combined with an amber or red EGT indication for A320 family, A330, A340, A350, and A380 aircraft or an amber light on the EGT indicator for A300600 and A310 aircraft. The alert is inhibited from 80 kt 70kt for A300600A310"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "during takeoff roll until liftoff to prevent a highenergy rejected takeoff and from touchdown down to 80 kt at landing to prevent the flight crew from stopping the use of thrust reversers. The ENG EGT warning light on the Master Warning Panel is combined with an amber light on the EGT indicator for A300 aircraft. The LR ENG EXCEEDANCE EICAS caution is combined with an AMBER or red EGT indication for A220. The caution is inhibited during the takeoff roll. An EGT overlimit requires maintenance After an EGT overlimit, inspection and troubleshooting are necessary to identify the root cause of the overlimit and assess the engines health. EGT MARGIN INDICATES ENGINE HEALTH Engine manufacturers define the guaranteed maximum thrust of an engine based on its maximum limits e.g. EGT, N1, N2 and up to a defined OAT. This OAT is called the flat rate temperature. It is also commonly called"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "corner point temperature, breakpoint temperature, or kink point temperature. Above this OAT value, the engine control FADEC automatically manages the thrust to maintain a constant EGT. The maximum thrust and flat rate temperature are selected so that a new or overhauled engine has a sufficient EGT margin to the EGT redline fig.7 . This will enable the engine to sustain a certain amount of engine wear and still be capable of producing its maximum thrust rating without reaching the EGT redline. An OAT of 30C at sea level ISA 15C is usually defined at max takeoff by engine manufacturers as a compromise for flat rate temperature because it enables maximum thrust in a wide range of conditions. EGT monitoring The EGT margin gradually decreases with the progressive degradation in the performance of an engine. Use of the Engine Condition Monitoring ECM tool to measure the EGT margin of an engine"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "provides a good indication of its health and can highlight if there is a need for maintenance. EGT margin trends can also provide a useful forecast of the average time on wing remaining for an engine."
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Thrust EGT EGT RedlineCol2 EGT Redline Flat rate temperature OAT Calculating the Current EGT Margin of an Engine Each time a takeoff is performed with TOGA thrust, the ECM tool takes a snapshot of the engine parameters and of the external conditions e.g. OAT, pressure. The tool then uses this measurement to calculate a delta vs the engine performance model and project it to the worst condition to determine the projected EGT of the engine fig.8 . The difference between this projected EGT and the EGT redline value is the current EGT margin of the engine. The ECM also estimates the EGT margin when a FLEX or derated takeoff is performed, however, the computation is less accurate than when TOGA thrust is used. The need to perform a regular takeoff with TOGA thrust is therefore necessary to ensure efficient EGT monitoring. This is particularly important when the engine is near"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "the EGT redline. All parameters should be considered to prevent EGT overlimit Several parameters such as altitude, OAT, takeoff thrust used, and bleed demand can affect the peak EGT value at takeoff. Therefore, an engine with a slightly positive EGT margin may experience an EGT overlimit at takeoff but an engine with a slightly negative EGT margin may not necessarily experience EGT overlimit at takeoff. Safety first 34 July 2022 011 fig.7 EGT margin The need to perform a regular takeoff with TOGA thrust is necessary to ensure efficient EGT monitoring. fig.8 Computation principle of the current EGT margin of an engine altitude and mach corrections are not represented EGT EGT RedlineCol2Col3 EGT MarginbrMeasured EGTbrProjected EGT at Flat rate tbrPerformance modelbrProjected performanceEGT Margin EGT MarginbrMeasured EGTbrProjected EGT at Flat rate tbrPerformance modelbrProjected performance Measured Flat rate OAT temperature OAT"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Prevention of EGT Overlimit Events PREVENTION OF EGT OVERLIMIT EVENTS Maintenance, Flight Operations and flight crews can all play a role to prevent EGT overlimit events. Role of Maintenance Monitoring engine performance degradation The engine manufacturer Instructions for Continued Airworthiness ICA manual requests Operators to monitor the EGT Margin of their aircraft engines. This monitoring may be performed by the Operators or through a service provided by the engine manufacturer. The Operator should check the maximum thrust TOGA by performing fullrated takeoffs at regular intervals, in order to detect a reduced EGT margin, or maintaining an adequate engine monitoring program, in order to follow up on the engine parameters. Maintenance should inform Flight Operations and request that flight crews perform a takeoff with TOGA thrust when it is necessary to ensure an accurate computation of the EGT margin. Avoid fitting two performance limited engines to the same aircraft Operators"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "should manage their fleet to ensure as much as possible that aircraft have no more than one engine with low EGT margin. An aircraft that has two performancelimited engines increases the probability of a dual EGT overlimit event. Regular engine washes Performing regular engine washes will remove particles from the compressor such as dirt, oil, sand, and salt that reduce the engine efficiency. The engine wash procedure is available in the AMMMP. Operators can request additional or specific recommendations directly from the engine manufacturer. Sharing engine performance information It is important to ensure there is good communication between Maintenance and Flight Operations about the conditions and performance of engines fitted to an aircraft. Maintenance must inform the Flight Operations department when an aircraft is fitted with performancelimited engines. This will enable operations to be adapted according to the limitations of each aircraft."
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety first 34 July 2022 013 Role of Flight Operations Adapting operations for aircraft with performancelimited engines Flight Operations should adapt operations to avoid using aircraft with performancelimited engines on performancedemanding routes such as into airports with hot weather or highaltitude runways. Operators should take particular care during the summer season when EGT events are more likely to occur. Informing flight crews Flight Operations should provide information to the flight crew before they fly an aircraft with performancelimited engines, so that they can adapt their procedures accordingly. Flight Operations also need to plan and pass on the request from Maintenance to perform a TOGA takeoff for an accurate computation of the EGT margin. Role of Flight Crew Engine warmup time High EGT is often experienced when the engine is cold on the first takeoff of the day or after a long stay on the ground. When the EGT is almost"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "the same as the OAT before engine start, the flight crew can extend the warmup time to reduce the EGT peak during takeoff, especially at airports with hot weather and highaltitude runways, or if the aircraft engines have limited EGT margins. The usual warmup time is between 2 and 5 minutes, however, a warmup time of 10 minutes can reduce the takeoff EGT by approximately 10C depending on the engine type. Some Operators have made it a policy to extend this warmup time for each first flight of the day. Use reduced takeoff thrust If the flight crew uses reduced takeoff thrust, it can enable the engine to have an increased margin to the EGT redline. The use of Flex or Derated takeoff configuration can help to extend engine life and to save on maintenance costs. Take off with packs OFF If it is not possible for the flight crew"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "to reduce the thrust takeoff, they can choose to take off with packs set to OFF, in order to reduce the bleed air demand on the engine. Take off with APU BLEED ON If the OAT is high and it does not enable the flight crew to take off with packs set to OFF, then they can perform the takeoff with APU BLEED ON to remove the bleed air demand from the engines and maintain passenger comfort."
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Prevention of EGT Overlimit Events WHAT TO DO IN THE CASE OF AN EGT OVERLIMIT DURING TAKEOFF Despite applying all of the prevention measures, EGT overlimits can still happen and especially during hot weather. The EGT usually reaches a peak at the end of the takeoff roll, near rotation, or just after liftoff. If an EGT overlimit is combined with vibrations and happens shortly after the application of takeoff power, this can be an indication of more severe engine damage. EGT overlimit between takeoff power application and 100 kt If the EGT overlimit alert is triggered or if the flight crew notices that the EGT value becomes red on the engine display on A220A320A330A340A350 A380 when the alert is inhibited between takeoff power application and 100 kt, they should consider rejecting the takeoff. EGT overlimit between 100 kt and V1 If the flight crew notices that the EGT value"
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "becomes red on the engine display on A220A320A330A340A350A380 or if the EGT overlimit warning light comes on on A300A310 between 100 kt and V1, they should continue the takeoff to establish the aircraft on the initial climb path. The flight crew should then wait to be above 400 ft before they apply the ECAMFCOM procedure. However, the decision to perform a rejected takeoff is at the captains discretion and it depends on the situation, especially in the case of a dual EGT overlimit event or if the aircraft is in a mountainous area, for example. EGT overlimit after V1 or after liftoff If the EGT overlimit happens after V1 or after liftoff, the flight crew must continue the takeoff. They should wait until the aircraft is safely established on its climb path above 400 ft before they apply the ECAMFCOM procedure and gently reduce the thrust of the affected engine."
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "If the temperature goes above a given threshold or if the overlimit situation persists after reduction of the thrust, the flight crew may shut down the affected engine as requested in the ECAM FCOM procedure. Reporting EGT overlimit events Each time the flight crew experiences an EGT overlimit event, they must report it to maintenance, so that the necessary inspections and troubleshooting can be performed."
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "CONTRIBUTORS VINCENT BILLEROT Senior Expert Engine Performance Design Office CESAR GARCIA CASTILLA Product Safety Enhancement Product Safety DAVID MONTASSIER Powerplant Support Engineer Customer Engineering Support R\u00c9GIS PERNET Flight Operation Support Engineer Customer Support MARTIN SMITH Head of Propulsion System Airbus Canada JORDANE SOULAOUDOT AccidentIncident Investigator Product Safety With thanks to Tuong Vi ARNAU from the propulsion control integration team, Julien BARRY from the cockpit design team, and Thomas GOBEAUT, Maxime LANSONNEUR, Dirk DeWINTER and Emmanuel JANSSEN from the Flight Operations Support team. Safety first 34 July 2022 015 Engine performance progressively degrades over time, which leads to an increase in EGT to produce the same thrust. Operators must monitor the performance of their aircraft engines and the evolution of the EGT margin. This will allow for maintenance or removal of an engine, if necessary, before engine performance degrades too much. Maintenance, Flight Operations and flight crews all have a role"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "to play to prevent EGT overlimit events on their aircraft in operations. In addition to monitoring the EGT margin, regular engine washes should be performed. Maintenance should avoid installing more than one engine with an EGT margin close to the EGT redline or a negative margin. Flight operations and flight crews should be informed when an aircraft is fitted with performancelimited engines. Maintenance should also request that Flight Operations plan for, and ask flight crews to perform, regular TOGA thrust takeoffs to ensure efficient monitoring of the EGT margin of the engines. Flight Operations should avoid scheduling performancelimited aircraft on demanding routes and inform flight crews before they fly on a performancelimited aircraft, so that they can adapt their procedures accordingly. This can be done, for example, by extending the engine warmup time before takeoff, using reducedthrust takeoff, or performing the takeoff with packs set to OFF or APU bleed"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "ON to gain extra EGT margin. Flight crews should keep in mind that the EGT red line is not a hard limit. An engine can still produce thrust above the redline but with more wear on the engine components. As a result, if an EGT overlimit occurs during takeoff Before 100 kt, the takeoff should be aborted, because an EGT overlimit in the early stage of the takeoff roll can be a sign of engine damage, especially if associated with vibrations. Between 100 kt and V1, the flight crew should continue the takeoff, establish the aircraft on the initial climb path, and wait until the aircraft is above 400 ft before they apply the ECAM FCOM procedure. However, the captain may decide to reject the takeoff depending on the situation. After V1 or after liftoff, the flight crew must continue the takeoff and wait until the aircraft is above 400"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "ft before they apply the ECAMFCOM procedure. The flight crew must report any EGT overlimit to the Maintenance personnel and make a logbook entry so that appropriate troubleshooting and inspection are performed before the aircraft returns to service."
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Good Quality Hydraulic Fluid for Safe Operations"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety first 34 July 2022 017 CASE STUDY Event Description An A320 family aircraft was on descent passing through 14 000 ft. After a brief extension and retraction of the speed brakes by the flight crew, the aircraft suddenly banked to the right and the FCTL SPOILER FAULT ECAM alert triggered. The pilot flying disconnected the autopilot and manually flew the aircraft. The flight crew observed that spoiler 3 of the wing on the right side was still fully extended. They performed the ECAM actions and the pilot flying continued to manually fly the aircraft and safely landed without further incident. Spoiler 3 remained fully extended with the aircraft on the ground. Maintenance crews found that the servo valve of spoiler 3 was stuck in the extended position. It was replaced and sent to the equipment supplier for analysis and repair. Event Analysis Analysis of the faulty servo valve removed"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "from spoiler 3 revealed that the high acidity of the hydraulic fluid led to corrosion of the internal parts and a crack was found. This caused the servo valve to malfunction, which resulted in the spoiler 3 to remain deployed after the speed brakes retraction command. REGULARLY CHECK HYDRAULIC FLUID QUALITY Poor quality hydraulic fluid can cause damage to the hydraulic circuit and the hydraulic components in systems such as flight controls, braking, and steering. A regular check of the hydraulic fluid quality can help to prevent damage. Checks on A300, A310, A320 family, A330, A340, A350, and A380 aircraft The Maintenance Planning Document MPD task for A300A310A320 familyA330A340A350A380 aircraft requests sampling and analysis of the hydraulic fluid from each hydraulic circuit. This is to check the quality of the fluid, and these checks should be performed at regular intervals shown in the table below."
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Good Quality Hydraulic Fluid for Safe Operations KEYPOINT To take a sample of the hydraulic fluid, it is important to apply the steps in the AMMMP procedure. Avoid contaminating the sample to prevent an erroneous contamination measurement. Flush the sampling valve by discarding the first 200 ml of hydraulic fluid to remove any particles. Then collect the fluid sample in a clean and dry chlorinefree bottle . The hydraulic fluid sample must be sent to an approved laboratory for analysis in accordance with NSA307110 standard recommendations. This documentation can be found in the Airbus Process and Material Specification PMS available in Airnav X . Checks on A220 Aircraft An A220 MPD AMP task requests a check of the Differential Pressure Indicator DPI of the pressure filter, case drain filter, and return filter every 1 200 FH. Hydraulic fluid sampling should be done if contamination is identified during this check."
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "The sample should then be sent to an approved laboratory for analysis. Laboratory checks and results The laboratory analysis checks the physical and chemical characteristics of the hydraulic fluid Particle contamination Contamination of the hydraulic fluid by particles may cause erosion and damage to components such as pumps, valves, and ultimately cause components to jam or fail. If the particle contamination is above the tolerance value provided in the AMM MP, then the hydraulic fluid must be flushed and replaced or cleaned. For A220 aircraft, the hydraulic fluid must be replaced. Viscosity density The hydraulic fluid must also have the correct viscosity and density characteristics to ensure the appropriate level of performance and responsiveness for the hydraulic system. If the viscosity or density is not in the range provided in the AMMMPAMP, the hydraulic fluid must be replaced within the permitted time frame. Electrical conductivity If the electrical conductivity of"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "the fluid is too low, it may lead to electrical discharging effects and arcing within the hydraulic system. This may further degrade the hydraulic fluid quality and cause damage to hydraulic components. If the electrical conductivity is below the value provided in the AMMMPAMP, the hydraulic fluid must be replaced within the permitted time frame."
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Acidity High acidity of the hydraulic fluid leads to corrosion and erosion of the components it is in contact with. The Total Acid Number TAN is used to measure the hydraulic fluid acidity. The TAN is the number of milligrams of potassium hydroxide KOH needed to neutralize the acid in one gram of hydraulic fluid. The AMMMP will define the amount of hydraulic fluid that must be replaced depending on the measured TAN value in the laboratory analysis report for the sample taken. This can range from replacing the quantity of hydraulic fluid in the reservoir between 10 and 15 of the total fluid quantity fig.1 to full replacement flush of the fluid. For A220 aircraft, the hydraulic fluid must be replaced. Chlorine content The use of chlorinated solvents to clean components of the hydraulic system introduces chrorine in the hydraulic fluid. Chlorine creates acid when combined with any water"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "present in the fluid and this will increase the level of acid in the fluid. If the quantity of chlorine is greater than the tolerance value provided in the AMMMP, the hydraulic fluid must be either cleaned or flushed and replaced within the permitted time frame. Water content Water content can lead to an increase of acid in the fluid and can modify the physical characteristics of the hydraulic fluid, which may reduce the performance of the system. It also can contribute to corrosion of hydraulic circuit components. If the quantity of water is greater than the tolerance value provided in the AMMMPAMP, the hydraulic fluid must either be cleaned or changed within the permitted time frame. Additional inspections and tests may be required depending on the level of water contamination. BEST PRACTICE The maximum water content permitted in hydraulic fluids is 0.8 . However, Airbus recommends a limit of"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "0.5 , which will increase the life of the hydraulic fluid. Safety first 34 July 2022 019 fig.1 Replacement of the hydraulic fluid contained in an hydraulic reservoir"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Good Quality Hydraulic Fluid for Safe Operations IMPROVED PROCEDURE FOR FLUID ACIDITY CORRECTION In 2021, Airbus launched an improvement of the AMMMP procedure for analysis of the hydraulic fluid of A300A310A320 familyA330A340A350A380 aircraft. The AMMMP of A320 family, A350, and A380 aircraft was updated accordingly in 2021. The AMM of A330A340 aircraft will be updated by mid 2022. The AMMMP improvement modifies the acidity thresholds and their associated fluid replacement procedure. This is to increase the hydraulic fluid lifetime and reduce the risk of reaching high TAN values, which may result in system malfunctions. Typical Evolution of the TAN fig.2 Typical evolution of the TAN An acid scavenger is an additive in hydraulic fluid to reduce the likelihood of acid level increases in the fluid. This additive is progressively consumed over time and the level of acid in the fluid will begin to rise. When most of the additive"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "is consumed, the acid level can rapidly increase fig.2 . TAN mg KOHg 4 3.5 3 2.5 2 1.5 1 0.5 10 20 30 40 50 60 70 80 90 100 Acidity scavenger depletion mg KOHg Improved procedure for acidity correction The improved procedure now requests corrective actions to reduce the acidity of the fluid from a TAN threshold of 1.0 mg KOHg instead of the previous threshold of 1.5 mg KOHg. This lower limit for acid levels of 1.0 mg KOHg was determined using inservice data analysis. This showed that when the results from the analysis of hydraulic fluid samples had a TAN value between 1.0 and 1.5 mg KOHg, the very next sample taken was likely to show a significant increase of acid levels. Performing corrective actions from 1.0 mg KOHg will further prevent reaching high acidity values and this will improve the reliability of hydraulic components."
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety first 34 July 2022 021 TAN 1.0NANANext MPD check 1.0 TAN 1.230 Days2x reservoirbrfuid replacement11. Replace fuid within thebrpermitted time frame. Operatebrfight controls between eachbrreservoir reflling or perform atbrleast 1 fight cycle.br2. Take a new sample at leastbrafter 1 fight cycle and withinbr1 week2, result within 30 daysbrmust be availablebr3. If TAN 1 check at next MPDbror within 24 months 1.2 TAN 1.51.2 TAN 1.53x reservoirbrfuid replacement13x reservoirbrfuid replacement1 1.5 TAN 1.814 Days4x reservoirbrfuid replacement14x reservoirbrfuid replacement1 1.8 TAN 2.21.8 TAN 2.25x reservoirbrfuid replacement15x reservoirbrfuid replacement1 2.2 TAN 2.52.2 TAN 2.56x reservoirbrfuid replacement16x reservoirbrfuid replacement1 2.5 TAN 3.53 FC if only 1 systembraffected and otherbrsystems withoutbrany contaminationbrotherwise no gracebrperiodComplete exchange of fuid1. Replace fuid within thebrpermitted time framebr2. Take a new sample at leastbrafter 1 fight cycle and withinbr1 week2, result within 30 daysbrmust be availablebr3. If TAN 1 check at next MPDbror within 24 months TAN 3.5No permitted"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "timebrframe Immediatebrcorrective actionNo permitted timebrframe Immediatebrcorrective actionNo permitted timebrframe Immediatebrcorrective action 1 Complete fluid change can be selected optionally 2 For Parking and Storage the flight cycle can be replaced by an operation of the flight controls for 5 minutes As an example, fig.3 shows that the 1.5 mg KOHg TAN threshold would require a full hydraulic fluid replacement at the third check. This would allow the TAN value to exceed 2.0 mg KOHg for one year and would be likely to reach high TAN values above 4.5 mg KOHg before the fluid replacement is due."
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Good Quality Hydraulic Fluid for Safe Operations fig.3 Theoretical evolution of the TAN with time The 1.0 mg KOHg threshold requires that only a volume of fluid 2x the hydraulic reservoir contents is replaced at the second and fourth checks. This will maintain the TAN value below 1.3 mg KOHg during the entire period. Theoretical TAN evolution with corrective action from 1.5 mg KOHg Theoretical TAN evolution with corrective action from 1.0 mg KOHg TAN mg KOHg 4 3.5 3 2.5 2 1.5 1 0.5 check 1 check 2 check 3 check 4 check 5 No maintenance action on the hydraulic system is considered. The acidity evolution rate may vary depending the conditions of operation. time PREVENTION OF HYDRAULIC FLUID CONTAMINATION Precautions taken during servicing and maintenance operations can reduce the risk of contamination of the hydraulic fluid and reduce the likelihood of increased levels of acid in the"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "fluid. Hydraulic fluid handling and storage New fluid containers must be correctly blanked to prevent water ingress from humidity in the ambient air. They should be stored in dedicated areas and away from used fluids. Operators should refer to the recommendations provided by the fluid supplier for fluid handling and storage. Hydraulic Ground Cart Airbus recommends periodic monitoring of fluids that are contained in hydraulic ground cart reservoirs. This is to prevent contamination during refilling of the hydraulic system when using a cart. Maintenance operations Any maintenance operation especially hydraulic component replacement can have a risk of hydraulic fluid contamination. Hydraulic lines and equipment must be blanked and stored in clean areas. Aircraft hydraulic servicing ports must be blanked and hydraulic equipment must be suitably protected against contamination."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "CONTRIBUTORS ROLF G\u00d6SSING Hydraulic Equipment Fluid Expert Design Office ST\u00c9PHANE ACOSTA Product Leader A320 family aircraft Hydraulic System Engineering Support Customer Support MARTIN TROTTIER A220 Hydraulic Engineering Specialist A220 Design Office Safety first 34 July 2022 023 Degraded hydraulic fluid can cause damage to hydraulic components. In some reported cases, high acid levels in hydraulic fluid was a contributing factor that led to component damage in the flight control spoiler system causing unintended flight control surface behavior. It is essential to regularly check that the hydraulic fluid quality is within the limits defined in the AMMMPAMP. Airbus improved the AMMMP procedure for hydraulic fluid analysis of A300A310A320familyA330A340A350A380 aircraft by reducing the threshold for corrective actions of the fluid acidity. This will further prevent the likelihood of reaching a high level of acid in the hydraulic fluid. Operators should carefully follow the instructions and precautions provided in the maintenance documentation to"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "prevent contamination of the hydraulic circuits during maintenance and servicing. All of these actions combined will ensure that the hydraulic fluid is of good quality, and that it retains its physical and chemical characteristics for safe and efficient operations."
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Do not Wait to Apply the Engine Fire Procedure"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety first 34 July 2022 025 CASE STUDY Event Description An A330 aircraft departed for a longrange flight. The aircraft was in CONF 2 for the takeoff. The takeoff roll was normal, but the ENG 2 FIRE red ECAM alert triggered T0 17 s after liftoff. The flight crew continued the climb. The engine display showed stable engine parameters for both engines. At T0 51s, the aircraft reached 2 400ft RA. The PF set the engine 2 thrust lever to IDLE and pushed the engine 1 thrust lever to TOGA. At T0 52s, the PF set the engine 1 thrust lever to MCT and this caused the autothrust to engage in thrust mode. At T0 2min 27s, the flight crew set the engine 2 master lever to OFF. At T0 2min 43s, the flight crew pressed the ENG FIRE pushbutton and discharged AGENT 1 followed by AGENT 2. The ENG"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "2 FIRE alert remained after both agents were discharged. At T0 3min 38s, the flight crew engaged the autopilot and leveled off the aircraft at 7 000ft. At T0 6min 31s, the flight crew started the APU, which provided the electrical power supply to the right side. At T0 9min 39s, the EGT indication for engine 2 started to increase, even though it had shown decreasing EGT from the time when the engine 2 master lever was set to OFF. At T0 10min 03s, the ENG 2 FIRE alert stopped and the ENG 2 FIRE DET FAULT amber ECAM alert triggered. At T0 11min 23s, the ENG 2 EGT OVERLIMIT amber ECAM alert triggered when engine 2 EGT reached 600C. At T0 15min 09s, the engine 2 N1 value became invalid. At T0 17min 35s, the engine 2 EGT reached a peak value of 801C. At T0 25min 02s, the"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "aircraft touched down on the runway and safely came to a stop. Smoke and flames coming from engine 2 were seen. The fire brigade arrived and extinguished the fire."
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Do not Wait to Apply the Engine Fire Procedure Event Analysis Probable cause identified Investigation enabled Airbus to conclude that the most probable cause of the engine fire was a leak from the green hydraulic circuit, which may have been due to damage on a green hydraulic line during maintenance. Delayed application of the fire procedure Any red ECAM alert requires immediate action by the flight crew to ensure the continued safety of the flight. When the ENG X FIRE alert is triggered, a red LAND ASAP memo appears on the ECAM. This requires that the flight crew land as soon as possible at the nearest airport at which a safe landing can be made. During this event, the engine 2 thrust lever was not set to IDLE until 51s after the ENG 2 FIRE alert was triggered. A further 1m 36s passed T0 2m 27s before the ENG"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "FIRE procedure was completed to isolate the fire and use the fire extinguishing system. Nominal engine parameter despite the fire The engine indications in the cockpit appeared to show that engine 2 operation was normal. This may have been a factor in the flight crews decision to delay application of the engine fire procedure. Remaining fire and further propagation Analysis showed that the engine fire extinguishing system operated as intended and both extinguisher bottles correctly discharged during the event. It is likely that the fire reignited shortly after extinction due to remaining conditions for fire reignition in the nacelle. The EGT increased up to 801C, which is a sign that the fire spread toward the EGT thermocouples. The fire continued to cause destruction of the fire detection loops and damage to wiring. This was the reason the ENG 2 FIRE ECAM alert stopped and was replaced by the ENG 2"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "FIRE DET FAULT amber alert. Note that this alert was in the overflow part of the warning display, indicated by a green arrow. Similarly, the loss of the N1 information was due to damage to wiring."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "TWO TYPES OF ENGINE FIRE _ There are two types of engine fire fig.1 an engine fire nacelle fire and tailpipe fire internal fire . Both types of fire affect the engine, but must be treated differently. Engine fire nacelle fire An engine fire affects the external part of the engine core, but is contained within the engine nacelle. This type of fire can occur on ground or in flight and is usually caused by a malfunction or rupture of a component or pipe, which contains flammable liquids e.g. fuel, oil, hydraulic fluid. When these liquids come into contact with hot surfaces on the engine case, such as the high pressure compressor, combustor, or turbine, they can selfignite and cause a fire. This type of engine fire can also be caused by rupture of a part of the engine core causing damage to components and pipes, which can lead to"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "a fire. The engine fire protection system will detect the fire and trigger the red ENG X FIRE ECAM alert L ENG FIRE or R ENG FIRE on A220 aircraft. The flight crew must apply the associated engine fire procedure without delay. Tailpipe fire internal fire A tailpipe fire occurs inside the engine core. This type of fire will only occur during the engine start or shutdown sequence. A tailpipe fire occurs when the engine rotates at a very low speed and residual fuel is present in the combustion chamber or turbine area, or if there is an oil leak in the tailpipe of the engine. The risk of tailpipe fire is higher in the case of a second engine start attempt, because residual fuel may remain in the engine after the first attempted engine start. The fire detection system does not detect tailpipe fires, because they occur inside the"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "hot sections of the engine core, and therefore, are outside of the fire detection zone. Flight crews can detect tailpipe fires by observing any abnormal increase in EGT during the engine start sequence or if the EGT does not decrease after engine shutdown. Ground crew, cabin crew, or air traffic controllers may also observe a tailpipe fire and must inform the flight crew. In the case of a tailpipe fire, the flight crew must apply the ENGINE TAILPIPE FIRE abnormal procedure from the QRH. This will ventilate the engine, and the airflow will extinguish the fire and remove any residual fuel or vapor from the engine. On the A220, a tailpipe fire procedure is under study to be introduced in the QRHFCOM. After any tailpipe fire, inspection by maintenance is required to check that there is no flame damage to the flaps, wing, or pylon areas. Safety first 34 July"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "2022 027 fig.1 Engine fire vs Tailpipe fire"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Do not Wait to Apply the Engine Fire Procedure RELY ON THE ENGINE FIRE ALERT _ The detection system for engine fire is composed of dual sensing element loops. They are located in the areas around the engine with the highest risk of fire and near compartment air exhausts for overheat detection. These are zones where flammable liquids are present with a potential ignition source, such as the accessory gearbox area, the pylon area above the combustion chamber, the combustion chamber area, and the fan area on certain engines. Each loop is doubled loop A and loop B for redundancy purposes. The loops can detect fire or hot air leaks. The dual sensing element loops are monitored by a Fire Detection Unit FDU A300A310A320 familyA330A340 and A380 aircraft, the Fire Protection Function hosted in CPIOMs J A350 aircraft, or the Fire Detection and EXtinguishing FIDEX Control Unit A220 aircraft."
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Reliability of the engine fire detection system fig.2 Example of engine fire detection system on an A320 aircraft with CFM engines The design and redundancy of the detection loops ensure a high level of reliability for the engine fire detection system. In the event of an engine fire alert, the flight crew must rely on it. Engine parameters may remain normal during an engine fire Flight crews must be aware that engine thrust and engine parameters can remain normal in the early stage of an engine fire. The event described in this article is illustrative of this fact. KEYPOINT In the event of an engine fire alert, the flight crew must apply the procedure even if the engine thrust is stable and the engine parameters are normal on the engine display and on the engine SD page."
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety first 34 July 2022 029 Apply the engine fire procedure without delay The architecture of the nacelle is designed to contain the fire threat for a minimum, but also limited time. Therefore, the flight crew must apply the engine fire procedure without delay when there is an engine fire alert. Timely application of the engine fire procedure will limit fire propagation and prevent further damage to components or pipes around the engine core. Such damage could cause additional leaks of flammable fluids, which could increase the intensity or duration of the fire. BEST PRACTICE The use of autopilot in the case of an engine fire alert reduces crew workload and enables a safe handling of the thrust asymmetry that is induced when thrust is reduced on the affected engine. Therefore, the flight crew can apply the ECAM procedure earlier and under less stress. This is particularly useful in phases"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "of flight with a high workload, such as initial climb and the approach phase. Detection fault and fire propagation The event described in this article shows how a fire can propagate and damage the fire protection loops, which caused the engine fire warning to stop and be replaced by a fire detection amber fault. As a precaution, the flight crew should"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Do not Wait to Apply the Engine Fire Procedure"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "CONTRIBUTORS ST\u00c9PHANE COTE AccidentIncident Investigator Product Safety EMMANUEL JANSSEN Pilot Instructor Training and Flight Operations Support FRANCO MONTELEONE Head of A220 Propulsion system A220 Design Office ST\u00c9PHANE PUGLIESE Expert Fire Prevention Protection Design Office MICHEL RICHARME Synthetic Flight Instructor Training and Flight Operations Support With thanks to Christophe MATHE and Thomas GOBEAUT from Flight Operations Support Safety first 34 July 2022 031 Aircraft engines are equipped with a reliable fire detection system. Flight crews must be aware that in the event of an engine fire alert, the engine parameters can remain normal in the early stage of the fire. Therefore, the flight crew must apply the ECAMEICAS procedure without delay, even if the engine display and engine SD page display nominal parameters. Timely application of the engine fire procedure limits propagation of the fire and prevents further damage to components or pipes around the engine core that may create additional"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "leaks of flammable fluids and increase the intensity or duration of the fire. The flight crew must complete the engine fire procedure and discharge the agents as long as the engine fire alert is displayed and the FIRE lights are still ON on the overhead panel and pedestal. By taking decisive action when there is an engine fire alert, the flight crew can prevent a manageable fire situation from becoming an uncontrolled fire with more serious consequences."
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Fuel Microbiological Contamination Treatment"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "WHAT IS MICROBIOLOGICAL CONTAMINATION? Microbiological contamination refers to the presence of microorganisms such as bacteria, yeast, or fungi. It can be seen as deposits, which vary in color from translucent to dark, with a viscosity that ranges from oily gel to solid. Microorganisms need a food source, water, and warm temperatures to grow. A fuel tank provides the perfect conditions for microorganisms to develop, because they feed on the fuel hydrocarbons, and water is always present in a fuel tank. This water comes from two main sources dissolved water in uplifted fuel and condensation due to vent air, which enters the fuel tank during normal operations, especially during descent from dry, cold air in cruise to warmer wetter air at lower altitudes. This is the reason why the risk of contamination from microorganisms increases in locations with hot and humid weather conditions. Effects of fuel microbiological contamination Erroneous fuel quantity"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "measurement Fuel microbiological contamination can affect the measurement of fuel quantity on board the aircraft. This can result in the flight crew observing false fuel quantity indications, which are often overreads. In extreme cases, these can lead to the total loss of fuel quantity indication for one or several fuel tanks. Fuel filter clogging, pump failure, and engine malfunction Deposits from contamination can clog fuel pumps and engine fuel filters, leading to fuel pump failures and degradation in the engine fuel supply. Corrosion Microorganisms can sometimes emit acid that causes corrosion, affects coatings, and deteriorates sealants in the fuel tank, which can eventually lead to fuel leaks. Prevention is essential As stated above, microbiological contamination can cause significant operational disruptions, which can affect the safety and efficiency of operations. An effective Safety first 34 July 2022 033 fig.1 Examples of fuel tank contamination Microorganisms need a food source, water, and"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "warm temperatures to grow. Microbiological contamination can cause significant operational disruptions, which can affect the safety and efficiency of operations"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Fuel Microbiological Contamination Treatment maintenance strategy needs to be developed to prevent contamination. Regular drainage of water from fuel tanks is necessary, even if the fuel system on Airbus aircraft is designed to manage and reduce the quantity of water in the fuel tanks. Regular tests to check for the presence of microorganisms are also crucial. If contamination is detected, curative treatment must be used. KEYPOINT Operators are responsible for ensuring that the correct quality of fuel is uplifted into the aircraft and managing this with their fuel suppliers. Poor quality fuel is one of the main causes of severe contamination inside a fuel tank. This can be due to fuel supply difficulties, or poor condition of the refueling infrastructure of an airport. Sharing knowledge at industry level, for example through the IATA Global Fuel Portal IGPF, can provide Operators with early warning of any potential fuel supply and"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "contamination issues. Operators can take additional steps, if necessary, to ensure that their contamination and prevention measures are adhered to. Booklet Airbus FAST magazine issue 38 INFORMATION Booklet Airbus FAST magazine issue 42 Further information can be found in the Fuel Contamination Prevention and Maintenance Actions article of the Airbus FAST magazine issue 38 and in the Fuel Systems Water Management article of the Airbus FAST magazine issue 42 . The Microbiological Contamination in Fuel Tanks InService Information ISI article 28.11.00002 is also available on the _AirbusWorld_ portal. CASE STUDY Event Description Before the event flight A moderate level of fuel microbiological contamination was detected during scheduled maintenance checks of an Airbus A321 aircraft. As recommended in the Aircraft Maintenance Manual AMM, a biocide curative treatment was performed using Kathon FP 1.5 biocide."
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Following the biocide treatment, there were four flights before the event occurred on the fifth flight fig.1. The first flight was uneventful. 1 On the second flight, the ENG 1 HP FUEL VALVE ECAM alert triggered, but ENG 1 start was successful on the second attempt. The third flight was uneventful. 2 On the fourth flight, it took four attempts to successfully start ENG 1 with the reappearance of the ENG 1 HP FUEL VALVE ECAM alert and the ENG 1 START FAULT alert. This led to an automatic restart. 3 The ENG 2 STALL ECAM alert triggered twice during the descent and the flight crew felt airframe vibrations. They reduced N1 below 50 and safely landed the aircraft. 4 Line maintenance performed the troubleshooting actions related to the ENG 2 STALL ECAM alert, but they could not confirm the fault. They released the aircraft back into service. The event"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "on the fifth flight 5 During ENG 1 start, the ENG 1 START FAULT ECAM alert triggered. The second start attempt generated the ENG 1 FAIL ECAM alert. This ENG 1 FAIL alert briefly appeared on the third attempt, but quickly disappeared and the ENG 1 start was finally successful. All engine parameters were normal during the taxi. At the runway holding point, the flight crew accelerated the engines twice for more than 10 seconds. All engine parameters were normal and the flight crew decided to take off. 6 ENG 1 began to surge at 500 ft RA and the engine parameters were fluctuating. N1 decreased below 40 for 25 seconds. The Captain made a MAYDAY call and asked for an immediate return to the runway. He switched off the AP and noticed that the engine parameters of ENG 2 were also beginning to fluctuate. 7 During the leveloff at"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "3 600 ft, the ENG 2 STALL ECAM alert triggered three times. The Captain reduced the thrust on both engines and was prepared to glide the aircraft, if necessary. The aircraft eventually landed safely. It was observed that the engine parameters had returned to normal when the aircraft came to a complete stop. The flight crew reported that they shut down both engines on the taxiway when they heard unusual noises from the engines. Safety first 34 July 2022 035 fig.2 Flight chronology from the biocide treatment until the event flight"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Fuel Microbiological Contamination Treatment Event Analysis fig.3 Brown deposits found in Engine 2 during borescope inspection The fuel from the aircraft showed contamination and an amount of undissolved Kathon FP 1.5 biocide. An inspection of the engine found the presence of viscous, gelatinous deposits on the engine parts. Biocide overdose The maintenance crew who performed the biocide curative treatment, was not familiar with the use of the parts per million ppm unit, which was used in the associated AMM task. They incorrectly used an online conversion tool and this led to a concentration of Kathon FP 1.5 biocide that was more than 37 times the correct dosage . Biocide not correctly mixed with the fuel The maintenance engineer used the overwing refuel aperture to deliver the biocide into the aircraft fuel tanks, which prevented the biocide from correctly mixing with the fuel. It remained at the bottom of the"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "tank and migrated along the wing towards the fuel pump. The AMM task provided two options to introduce the biocide into the aircraft fuel tank. One method was to premix the fuel and biocide and then uplift the mixture into the fuel tank using the normal refueling procedure, but not using the overwing refuel aperture. The other method was to use an adjustable metered injection rig to inject the biocide and correctly mix the fuel during a normal refueling procedure. Wrong troubleshooting procedure Before the event flight, the maintenance crew used the TroubleShooting Manual TSM to perform the troubleshooting actions associated with the ENG 2 STALL ECAM alert. However, they referred to tasks that were applicable to CFM LEAP1A32 engines, but the A321 aircraft from the event was equipped with CFM56 engines. Therefore, the troubleshooting actions did not correctly guide the maintenance crew to identify the cause of the ECAM"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "alert and the aircraft was released for flight. If the crew had applied the CFM56 troubleshooting actions, it is likely that they would have identified the fuel contamination issue."
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety first 34 July 2022 037 TREATMENT OF FUEL MICROBIOLOGICAL CONTAMINATION When fuel microbiological contamination is confirmed, curative treatment based on fuel additives with antimicrobial properties, or biocides, is used to arrest and remove the contamination. If biocide treatment is not available, the fuel tanks must be thoroughly cleaned, which is a long process and not always 100 effective. That is why the use of biocide is the preferred method to treat microbiological contamination. The right biocide There were two widelyused biocides approved for use in the aviation industry Kathon FP 1.5 and Biobor JF. Further to inservice experience with Kathon FP 1.5, including the above event and another case of dual loss of thrust control, GE took the proactive decision to remove the approval for Kathon FP 1.5 as an approved additive for use in their engines, including CFM and Engine Alliance EA. At the same time, the manufacturer"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "of Kathon FP 1.5 stopped producing its biocide for aviation applications to avoid any further risk of misuse. In addition, currently the use of Biobor JF is not approved in the European Union EU except under specific derogations that airlines and their local authorities discuss on a casebycase basis. KEYPOINT Biocide overdose can cause unstable engine operations regardless of what type of biocide is used Kathon FP 1.5 or Biobor JF. Only Biobor JF biocide can be used on Airbus aircraft equipped with GE, CFM, or EA engines. For other engines, such as RollsRoyce RR and Pratt Whitney PW, Biobor JF and any existing stock of Kathon FP 1.5 can be used. When maintenance is performed in EU countries, Biobor JF can be used if derogations are obtained. Col1A220A300A310Col4A320Col6Col7A330Col9Col10A340Col12A350A380Col15 PWGEPWCFMIAEPWGERRPWCFMRRRREARR Biobor brJF Kathon brFP 1.5 Maintenance can be performed in EU countries if derogations are negotiated. Production of Kathon FP"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "1.5 for use in aviation ceased in 2020. Only existing stocks of Kathon FP 1.5 can be used."
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Fuel Microbiological Contamination Treatment There is now industrywide agreement to use mLL unit for both Biobor JF and Kathon FP 1.5 biocides. fig.4 Metered injection rig KEYPOINT Engine manufacturer recommendations should always be checked before the use of a biocide. Production of Kathon FP 1.5 for aviation applications was stopped in 2020. Kathon FP 1.5 has a shelf life of only 2 years and this means that any existing stock should be used this year 2022. Only Biobor JF biocide will remain available for fuel contamination treatment. New biocides are under study, but are not expected to be available for several years due to the high cost and complexity of the approval process. The right dosage Unit standardization The dosage of biocide required was previously provided in ppm by weight for Biobor JF and by ppm by volume for Kathon FP 1.5. There is now industrywide agreement to use"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "mLL unit for both Biobor JF and Kathon FP 1.5 biocides. Airbus maintenance procedures for all Airbus aircraft, the AMM for A300A310A320A330A340A380, MP for A350 aircraft and AMP for A220 aircraft, were updated accordingly by removing the use of the ppm unit. Table of maximum biocide quantities To prevent any future case of biocide overdose, Airbus maintenance procedures for biocide treatment now include a table, which provides the maximum quantity of biocide that can be uplifted in the aircraft for different fuel quantities. Maintenance crews should use this table as a guide to check if their computed quantity of biocide is correct before uplifting it into the aircraft. The right mix As another lesson learned from the previous case study, a metered injection rig must be used to correctly mix the biocide with the fuel and uplift it into the aircraft fuel tanks. All Airbus AMMMPAMP procedures were updated to"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "reflect this change and there is no alternative method if a metered injection rig is not available. KEYPOINT The biocide must never be directly added to fuel using the overwing refuel port and relying on the fuel pumps and transfers to mix the biocide with fuel. Only a metered injection rig must be used to uplift biocide. The right procedure Lessons learned from previous events involving incorrect use or overdose of biocide helped to define new curative treatment procedures that reduce the"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Safety first 34 July 2022 039 risk of incorrect mixing or overdose errors. The main steps of the procedure for efficient curative biocide treatment are Drain water from the fuel tank If water remains in the tank it may cause crystallization inside the fuel tank following biocide treatment. Defuel the aircraft Contaminated fuel must be removed from the aircraft. Clean the inside of the fuel tank Only in the case of heavy contamination, thorough cleaning of the fuel tank must be performed to remove all deposits. Compute the quantity of biocide needed There is a table in the AMMMPAMP procedure that provides maximum biocide quantities depending on fuel quantities that should be used to avoid any risk of overdose. Uplift the mix fuelbiocide inside the fuel tank using a metered injection rig The only allowable method to uplift the biocide inside the fuel tank is by using a metered injection"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "rig. The fuel tank should be full, because this will ensure that the contamination is treated in all areas, including on the upper surface of the tank. Final crosscheck computation Perform a new computation to crosscheck and confirm that the uplifted biocide quantity is correct and minimize any risk of biocide overdose. BEST PRACTICE It is recommended to keep as internal records the fuel quantity and biocide quantity uplifted in the aircraft during each biocide treatment. Wait for 72 hours Biobor JF or 24 hours Kathon FP 1.5 Soak time is necessary before any engine operations. Replace fuel filters Fuel filters and engine filters that were in contact with the contaminated fuel must be replaced. Burn fuel or defuel within 48 hours The biocide is a corrosive product for the tank and must be removed after treatment, either by being burnt during normal engine operations or by defueling."
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "OPERATIONS Fuel Microbiological Contamination Treatment NOTE For large aircraft, such as the A380, completely filling the fuel tanks may cause the authorized Maximum TakeOff Weight MTOW to be exceeded, depending on the payload. Partial defuel in this case is necessary. Preventive Fuel Contamination Treatment Specific Case of Parking and Storage In the case of aircraft parking and storage, fuel tanks must be checked for microbiological contamination every 30 days and before the return to operation. Depending on the level of contamination detected, either preventive treatment or curative treatment must be performed. The quantity of biocide to be used differs for the two types of treatment and the filling of the fuel tank. Note completely filling the fuel tank is not required for preventive treatment. The AMM MPAMP procedures for preventive and curative treatments must be carefully applied."
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "CONTRIBUTORS H\u00c9L\u00c8NE CARROLS IncidentAccident Investigator Product Safety ROY DEAN Fuel Additive Specialist Fuel Design Office IAN GOODWIN Director Product Safety Enhancement Product Safety BENOIT MERENCIANO Fuel Product Leader Fuel Engineering Support Customer Support MOHAMMED YAHYAOUI Engine Fuel and Fuel Systems Referent Propulsion Design Office With thanks to Patrick Gervais from the A220 propulsion systems team, Airbus Canada. Safety first 34 July 2022 041 Microbiological contamination can cause significant operational disruptions with safety and economic effects. Therefore, prevention is essential with the development of an effective maintenance strategy that includes regular drainage of water from the aircraft fuel tanks and periodical tests to check for the presence of microorganisms. If contamination is detected, curative biocidal treatment or deep cleaning of the tank surface must be performed. When biocide treatment is necessary, it is important to have the right biocide with the right dosage, and the right method to mix and uplift"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "the curative treatment to the aircraft fuel tanks by use of a metered injection rig. Lessons learned from a previous event helped to improve the AMMMPAMP content by making the procedures clearer, and as a result, reducing the risk of incorrect mixing or overdose errors. This includes the replacement of the ppm part per million unit with mLL unit and the inclusion of a table that provides the maximum biocide quantities depending on fuel quantities. To minimize any risk of biocide overdose, maintenance crews should use this table to crosscheck and confirm that the uplifted biocide quantity is correct. These updates are implemented for both the curative treatment procedure and preventive treatment procedure, which is dedicated to parking, storage, and returntoservice situations. Only Biobor JF biocide can be used on Airbus aircraft equipped with GE, CFM, EA engines. For other engines, such as RollsRoyce RR, Pratt Whitney PW, and IAE,"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_34.pdf",
+    "text": "Biobor JF and existing stocks of Kathon FP 1.5 may be used. The use of Biobor JF is not approved in the European Union EU. When treatment of microbiological contamination is performed in EU countries, derogations must be negotiated with national aviation authorities before using Biobor JF. Prevention of microbiological contamination in an aircraft fuel tank, and strictly applying the Airbus maintenance procedures and engine manufacturer recommendations, will ensure safe and efficient engine operations."
+  },
+  {
+    "page": 1,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "The Airbus safety magazine 35 Safety first"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first, 35 January 2023. Safety first is published by Airbus S.A.S. 1, rond point Maurice Bellonte 31707 Blagnac CedexFrance. Editor Yannick Malinge, Chief Product Safety Officer. Concept Design by Airbus MultiMedia Studio 20221995. Reference X00D16031905. Photos by Airbus, S. Ramadier, H. Gouss\u00e9, G. Estragnat. This brochure is printed on Symbol Tatami White. This paper is produced in factories that are accredited EMAS and certi ed ISO 900114001, PEFC and FSC CoC. It is produced using pulp that has been whitened without either chlorine or acid. The paper is entirely recyclable and is produced from trees grown in sustainable forest resources. The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous metals from the cadmium, lead, mercury or hexavalent chromium group. The printer, Art Caract\u00e8re France 81500, is engaged in a waste management and recycling programme for all resulting byproducts. Editorial Team Guillaume"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Vanessa Gwyneth Tim Estragnat Sadi Duggan Roach Airbus S.A.S. 2023 All rights reserved. Proprietary documents. By taking delivery of this Brochure hereafter Brochure, you accept on behalf of your company to comply with the following guidelines No other intellectual property rights are granted by the delivery of this Brochure than the right to read it, for the sole purpose of information. This Brochure and its content shall not be modified and its illustrations and photos shall not be reproduced without prior written consent of Airbus. This Brochure and the materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment. This Brochure contains sensitive information that is correct at the time of going to press. This information involves a number of factors that could change over time, affecting the true public representation. Airbus assumes no obligation to update any"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "information contained in this document or with respect to the information described herein. Airbus S.A.S. shall assume no liability for any damage in connection with the use of this Brochure and of the materials it contains, even if Airbus S.A.S. has been advised of the likelihood of such damage. Safety first The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety first is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fly and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confidential Reporting System, incident and accident investigation reports, system tests and fight tests. Material is also obtained from"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "sources within the airline industry, studies and reports from government agencies and other aviation sources. All articles in Safety first are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The contents do not supersede any requirements mandated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily reflect the views of Airbus, nor do they indicate Company policy. Contributions, comments and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Product Safety department W 1, rond point Maurice Bellonte 31707 Blagnac Cedex France safetycommunicationairbus.com Visit us"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "at safetyfirst.airbus.com or install the Safety first app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "YANNICK MALINGE SVP Chief Product Safety Officer editorial Dear Aviation Colleagues, The welcome return of passengers to the skies shows the resilience of our industry and highlights why we must continue to always keep safety first, especially as the pace of the recovery accelerates toward prepandemic levels. Even with this recovery target in sight, people from across the air transport system remain focussed on raising the bar for safety. A focus during the period of massive fleet grounding was to ensure the parked aircraft could return to service airworthy and safe. To face the rampup to recovery, it was necessary to go the extra mile for safety together. As a manufacturer, we worked to ensure continuity was maintained with our partners and suppliers. Operators managed recurrent training of pilots, cabin crews, and maintenance crews. The same efforts extended to air traffic controllers, dispatchers, ground crews, and everyone working for a"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "safe air transport system. We share the constant need to continuously develop our people in aviation, to get back to the basics, and to share safety lessons learned. The public appetite for travel, following the relaxation of restrictions, created a rapid rampup in the demand for flights. This causes an increased risk exposure that is similar to the effects of the accelerated industry growth observed from the early 2000s. We worked together to significantly reduce the accident rate throughout this growth period by taking safety beyond compliance, managing risks, and implementing sound safety governance. Even if the accident rate remains very low today, we cannot afford to be complacent. It is our call to action to redouble these efforts and to continuously enhance the safety of a flight, because we all expect zero accidents when we fly. In facing these challenges together, I sincerely wish everyone successful and safe flying"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "in 2023."
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety Publications Safety first The Airbus safety magazine Available in app and website versions Visit us at"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "NEWS The 27 th Airbus Flight Safety Conference will be held in Berlin, 2023 March 2023"
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety 35 first OPERATIONS MAINTENANCE P06 Take Care of Your Brakes P16 Use the Correct BARO Setting for Approach P24 Proper Landing Gear Servicing for Safe Operations P34 Safe Oxygen Servicing"
+  },
+  {
+    "page": 8,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Take Care of Your Brakes This article is also available on safetyfirst.airbus.com and on the Safety first app for iOS and Android devices."
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "CASE STUDY Event Description Shortly after landing, the flight crew of an A330 aircraft heard a strong and unusual noise during taxiin. When the aircraft reached the parking stand, ground crew observed smoke coming from the area of the left Main Landing Gear MLG and informed the flight crew. The fire brigade arrived but did not see any fire. The flight crew noticed a 400 C temperature on wheel no. 6. Maintenance personnel performed a quick inspection of the landing gear, which revealed that one of the brake pistons of wheel no. 6 had twisted and dislodged from its housing with evidence of a hydraulic fluid leak fig.1 . There was no sign of fire on the landing gear structure and components. Event Analysis The investigation showed the most probable cause was a rupture of the brake pressure plate during brake application. The brake piston pushed through the pressure plate"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "and came into contact with the first rotor fig.2 . This applied a lateral force to the piston causing it to be dislodged from its housing and causing the hydraulic fluid leak. The hydraulic fluid that leaked onto the hot parts of the brake created the smoke. The pressure plate was found to be significantly oxidized, which was the reason it ruptured when the brake piston pressed against it. Safety first 35 January 2023 007 fig.1 Picture of the damaged piston fig.2 Rupture of the pressure plate during brake pressure application with damage to one of the brake pistons R S S S S S R R RCol2Col3Col4Col5 1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brurebrate1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brurebrate1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brurebrate 1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brurebrate 1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brurebrate 1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brurebrate R S S S S S R R RCol2Col3Col4Col5 1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brBrakebrssurebrplied1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brBrakebrssurebrplied1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brBrakebrssurebrplied 1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brBrakebrssurebrplied 1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brBrakebrssurebrplied 1brbr1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brBrakebrssurebrplied Pressure Brake disks Rotor Stator BRAKE WEAR VS. BRAKE OXIDATION Brakes are subject to two different phenomena Wear and oxidation. Brake wear Brake wear is"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "the progressive loss of width on the brake disks due to friction. Brake wear on carbon brakes depends on the number of brake applications and on the brake temperature. Each carbon brake type has its own temperature range for optimum operation and its temperature range for maximum wear. The temperature range varies from one brake manufacturer to another."
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Take Care of Your Brakes fig.3 Loss of braking performance due to brake wear fig.4 Heavily oxidized brake disks Brake oxidation SCol2Col3Col4RSRSRSCol6Col7RSCol9Col10Col11 1brbrbrrake wearbrindicatorbrprotruding1brbrbrrake wearbrindicatorbrprotruding1brbrbrrake wearbrindicatorbrprotruding1brbrbrrake wearbrindicatorbrprotruding1brbr2brbr3brbr4brbr5brbr2brbr3brbr43brbr4brbr5brbr2brbr3brbr43brbr4brbr5brbr2brbr3brbr4kebrnbri 1brbrbrrake wearbrindicatorbrprotrudingearbrearbrearbr 1brbrbrrake wearbrindicatorbrprotrudingabrditorbrngtorbrng 1brbrbrrake wearbrindicatorbrprotrudingabrditorbrngtorbrngServiceable brceable brceable braa 1brbrbrrake wearbrindicatorbrprotrudingsususususususu 1brbrbrrake wearbrindicatorbrprotrudingsu SSRS RSR SCol2Col3Col4Col5brakebrctionCol7Col8Col9 1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface 1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrfacekeke 1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrfaceerviceablerviceablebrarara 1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrfaceerviceablerviceablectctct 1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrfaceerviceablerviceablectionionion 1brbr2brbr3brbr4brbr5brbr2brbr3brbr4brUnserviceablebrinsuf\ufb01cient fribr wearbrbelowbrrencebrrface Carbon from the brakes naturally combines with oxygen from the ambient air to become carbon dioxide CO 2 . Under normal circumstances the oxidation occurs at a very slow rate. However the rate of oxidation can be accelerated by external factors such as high temperature and catalytic chemical pollution table 1 . This results in a loss of carbon mass from the brake disks, carbon softening, and delamination. It can ultimately lead"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "to brake rupture if an affected brake is not changed in due time fig.4 . Carbon oxidation due to exposure to high temperatures is referred to as thermal oxidation. When carbon oxidation is due to the presence of catalysts, it is usually referred to as catalytic oxidation. Thermal oxidation Thermal oxidation is the main cause of accelerated degradation of carbon brakes. It can occur if high brake temperatures are reached after landing and during taxi. Thermal oxidation affects all brake disks, but the middle disks are most affected because they reach a higher temperature and take longer to cool down. Worn brakes tend to reach higher temperatures making them more prone to the effects of thermal oxidation. Catalytic oxidation Catalytic oxidation of the brakes is generally caused by contact with deicing or cleaning fluids. The potassium or sodium coming from some aircraft and runway deicing fluids acts as a catalyst"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "and further accelerates the oxidation table 1 . The presence of the catalyst also reduces the temperature at which significant oxidation occurs. When the potassium or sodium is absorbed by the carbon it remains within the material causing catalytic oxidation to continue well after the end of the winter season. The outer disks, including the pressure plate, are most exposed to external pollution and are usually more susceptible to catalytic oxidation. Guaranteed braking efficiency until the wear limit Brakes are guaranteed to provide sufficient braking until the brake wear indicator is flushed with the reference surface. If the indicator is below the reference surface, the brake disks are too worn, and the braking performance can be significantly reduced. If the brake disks are too worn, their width is reduced. As a result, the pistons do not have enough extension to push the disks and create sufficient braking friction to slow"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "down the aircraft fig.3 . In addition, if the brake is too worn, the amount of heat sink mass that is available to absorb braking energy is reduced. In the event of a high speed RTO this can lead Piston fully extended indicator below the reference"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 009 Temperature Time to lose 5 mass Time to lose 25 stCol2Col3rength Thermal oxidation onlyThermal catalytic oxidationThermal catalytic oxidation 25 C7.5 x 108 years3.6 x 108 years3.6 x 108 years 400 C3 years33 days33 days 500 C14 days15 hours15 hours 600 C12 days45 minutes45 minutes 700 C49 minutes4 minutes4 minutes Risks of brake rupture loss of performance and potential brake fire In addition to high maintenance costs, brake oxidation can lead to brake rupture and a loss of braking for the affected wheel. If maximum braking is necessary, such as in the case of a rejected takeoff at or close to the maximum takeoff weight, it may result in a runway overrun. Brake rupture can also damage brake pistons and lead to leakage of hydraulic fluid. The fluid may vaporize and create smoke if it comes into contact with hot components. This could result in"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "fire. The hydraulic fuses will limit the amount of hydraulic fluid lost and the fire should remain contained to the brake, but damage may be caused to nearby components. Maintenance personnel and flight crews both have a role to play to prevent brake rupture. BRAKE MAINTENANCE There are a number of ways to identify worn brakes and prevent brake rupture including visual checks, inspection, and taking precautions when using deicing or cleaning fluids. Regularly check the brake wear indicator The Maintenance Planning Document MPD requires a regular visual inspection of the brake wear indicator to assess the level of thickness loss of the brake disks table 2 . The check must be done with the braking applied parking brake ON or pedal pressed or BITE activated. If the brake wear indicator is flushed with the reference surface, the brake unit must be changed. table 1 High temperatures and catalytic pollution"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "significantly increase the oxidation rate of the brake carbon disks table 2 MPD interval for checking the brake wear indicator A300A310A320 FamilyA330340A350A380 8 days6 months orbr100 fight cycles42 fight cycles10 days7 days"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Take Care of Your Brakes fig.6 Examples of nonoxidized and oxidized brakes BEST PRACTICE To estimate the remaining service time of a brake unit, an average wear rate of 1 mm 0.04 in. for every 20 flight cycles can be used. This number of flight cycles is an average value and can be customized depending on the aircraft operations and aircraft type. Inspect the brake Visually inspect the brake assembly at every wheel removal, in accordance with the corresponding AMMMP procedure, to check that there is no damage or crack on the disks and to check the condition of the brake components. Pay particular attention to any signs of oxidation marks, and if the oxidation is beyond acceptable limits, replace the brake fig.6 . No sign of oxidation Oxidized stator 3 Highly oxidized brake"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 011 INFORMATION Brake manufacturers provide training for maintenance personnel to better detect brake disk oxidation. Operators can contact their brake manufacturer for more information. Report any brake damagerupture Airbus encourages operators to report any brake damage or rupture through the Tech Request tool using the Brake Disk Failure Reporting Sheet available in the AMMMP procedure for brake inspection. Precautions during Cleaning and Deicing When cleaning the aircraft or performing deicing, particular care should be taken to prevent fluids coming into contact with the wheels and brakes. Always follow the AMMMPAMP procedures for cleaning and deicing and protect wheels and brakes to prevent them from becoming contaminated with chemicals that will accelerate oxidation."
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Take Care of Your Brakes fig.9 Brake wear indicator of an A3501000 aircraft OPERATIONAL CONSIDERATIONS The flight crew can detect worn brakes before the flight during the exterior walkaround. They can reduce wear and oxidation by using the brakes in an Brake wear indicator check on walkaround A quick check of the brake wear indicator fig.9 during the exterior walkaround will determine if the brakes are worn. If there are only a few millimeters remaining before the indicator is flush with the reference plate, inform maintenance personnel to anticipate and plan for a brake replacement before the wear limit is reached. On A220 aircraft, the flight crew can also check the brake wear status Flight crews should reduce the number of brake applications during taxi to limit brake wear. The FCTM and A220 FCOM recommend that on long, straight taxiways, and with no ATC or other ground traffic constraints,"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "the PF should allow the aircraft to accelerate to 30 kt of ground speed, and then use one smooth brake application to decelerate to 10 kt. Keep thrust at idle Maintaining idle thrust during taxi enables a reduced number of brake applications to keep the aircraft below the 30 kt maximum taxi speed. Single engine taxi Single engine taxi is a fuel saving initiative that also reduces brake wear, because it further reduces the idle thrust during taxi. Reducing braking energy at landing The number of thermal oxidation reports is increasing, especially on the A320 family fleet. This phenomenon may be linked with efforts by many operators to save fuel. It was observed that a majority of operators reporting high thermal oxidation were using CONF 3 and thrust reversers on IDLE at landing. There is a tradeoff between fuel savings, engine maintenance costs, and increased brake replacement due to higher"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "rates of oxidation. This will depend on the flight conditions, aircraft condition, and the operators policy. Use of Flaps FULL or FLAP 5 on A220 The use of flaps FULL FLAP 5 on A220 at landing reduces the approach speed, and therefore, the aircraft energy to be absorbed by the brakes. Use of autobrake or Braketovacate BTV at landing Use of autobrake or BTV if installed enables a single brake application with an optimized braking intensity. When autobrake is used and if conditions permit, the use of autobrake LOW reduces the heat of the brakes, and therefore, reduces the likelihood of oxidation."
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 013 Updated AUTOBRAKE LOW mode for A320 family aircraft An updated autobrake LOW mode with a slightly increased deceleration rate 2 ms 2 instead of 1.7 ms 2 and a shorter delay for brake application 2 s instead of 4 s was introduced on recent A320 aircraft. This updated LOW mode enables the use of the LOW mode on shorter runways and reduces the observed tendency of the flight crew to switch to manual braking due to a perception of late and low braking application. This updated autobrake mode is installed on A320 family aircraft delivered since Q2 2018 and can be retrofitted on earlier aircraft using a dedicated Service Bulletin SB table 3 . A319320A319neoA320neoA321A321neo SB 321464SB 321465SB 321476SB 321477 table 3 Activation SBs for the updated autobrake LOW mode on A320 family aircraft Timely thrust reduction during flare A timely thrust reduction during"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "the landing flare prevents extra thrust provided by the autothrust trying to maintain Vapp after the flare. The flight crew should retard the thrust levers at 20 ft A320A330A340A350A380 or 30 ft A220 A300A310 as per the SOP, and at the latest, at landing gear touchdown to enable spoiler extension. Use of thrust reversers at landing The use of thrust reversers reduces the energy to be absorbed by the brakes. It is therefore a good option to use thrust reversers to limit brake oxidation, especially on short runways."
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Take Care of Your Brakes Use most appropriate runway exit Taking over the autobrake to use full or strong manual braking to quickly slow down the aircraft in order to reach a specific runway exit may save some taxi time. However, this will also significantly increase brake wear. Using the next exit may slightly increase taxi time, but will also reduce brake wear and temperature. Use of brake fans The use of brake cooling fans, when available, reduces the exposure time of the brake units to high temperature after landing. This reduces the effects of carbon thermal oxidation."
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "CONTRIBUTORS FABIEN ARNE Braking Steering System Engineer Customer Support BERTRAND PLANTE Brake Engineering Specialist Principal A220 Design Office ANDY SAMUELS Braking Specialist Design Office ALEXANDRE SAVOUREY Training Flight Ops Pilot Instructor Flight Operations Support With thanks to Jimmy AVGOUSTIS from the A220 Flight Operations support, Frederic BOUCHER and Simon CAMERON from the Design Office and Laurent COUTURET from Customer Support. Safety first 35 January 2023 015 Maximum available braking performance is necessary to prevent the risk of a runway overrun in an event such as a rejected takeoff with a fully loaded aircraft. Brakes need to be closely monitored to ensure that they do not have excessive wear or oxidation that will affect the braking performance of the aircraft or to ensure that they do not degrade to a condition that could cause a brake rupture. The flight crew or maintenance personnel can quickly check brake wear during the exterior"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "walkaround inspection by looking at the brake wear indicator pin on each brake unit. If the indicator is flush with the reference plate, or below it, the brake must be changed. It is important to perform a careful visual inspection of the brake assembly at every wheel removal to check for signs of excessive oxidation. Operators should consider adding the optional inspection check developed with the brake manufacturers into their AMMMP. Flight crews can apply a number of recommended procedures and techniques to help reduce the rates of brake wear and oxidation. This includes reducing the number of brake applications during taxi, applying techniques that will reduce braking energy at landing, and using brake fans when available. These operational and maintenance considerations will ensure that the brakes have a longer service life and are in a condition to create the necessary friction for optimal aircraft braking performance."
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Use the Correct BARO Setting for Approach"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 017"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Use the Correct BARO Setting for Approach fig.2"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 019 EFFECTS OF AN ERRONEOUS BARO SETTING An erroneous QNHQFE value can seriously affect the safety of the flight as presented in the close call event described above. Barometric altitude shift effect From the altimetry basics, a 1 hPa difference in the QNHQFE value creates a 28 ft shift of the barometric altitude displayed on the PFD. Effect on final approach guidance modes All final approach guidance modes that use the barometric reference are affected by an erroneous entry on the QNH selector. AffectedbrverticalbrapproachbrmodesA220A300A300600brA310A320brFamilyA330brA340A350A380 ManagedbrmodesVGP NAP.DES orbrP.APPFINAL APP brFGSFINAL APP brFGSAPPDESbrFGSDESbrFGS SelectedbrmodesFPAVPSD brPITCHVSFPAFPAFPAFPA Only when RNP is selected for VNAV. Managed guidance The FMS uses the aircraft barometric altitude to compute the deviation of the aircraft trajectory with the computed final descent path. If an erroneous barometric altitude is used, the aircraft will follow a flight path that is parallel to the published path but"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "is shifted either above or below it fig.3 . The vertical deviation symbol, or the FLS symbol, will indicate that the aircraft is on the correct flight path even if it is not the case. fig.3 Example of the effects of an incorrect BARO setting on A320 family aircraft"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Use the Correct BARO Setting for Approach Selected guidance An erroneous barometric setting will also cause the FDP height above ground to be incorrect when using selected guidance. The flight crew is likely to commence final descent from an incorrect height above ground and therefore fly an approach path that is too high or too low. Effect on altitudevsdistance checks The flight crew will not detect an incorrect flight path with altitudevsdistance checks if the barometric setting is erroneous. These checks use the displayed barometric altitude, which is based on the erroneous barometric setting. The effect is the flight crew will observe that they are at the expected altitude for each distance value, even if the aircraft is flying above or below the published flight path. Potential absence of TAWS alert Honeywell EGPWS fig.4 The TAWS may not detect a too low flight path The relative proximity of the"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "actual flight path to the published path prevents the TOO LOW TERRAIN EGPWS alert from triggering, because the path remains outside of the Terrain Clearance Floor TCF alert envelope fig.4 . ACSS T2CAS and T3CAS The Premature Descent Alert PDA of the T2CAS and T3CAS may also not be triggered depending on the situation. GS vertical guidance mode is not affected The final approach path of approaches using ILS, GLS, or SLS guidance are not affected, because the GS guidance mode uses the ILS signal or a beam computed with an augmented GPS altitude. The final approach path will remain aligned with the correct ILSGLSSLS beam even if the intermediate approach segment shifts due to the erroneous barometric setting fig.5 ."
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 021 fig.5 The final descent path of ILS, GLS, and SLS modes is not OPERATIONAL CONSIDERATIONS affected by an erroneous barometric setting Flight crews have two opportunities to detect a barometric reference setting discrepancy. The first is during descent and the second is during final approach. Crosscheck the barometric reference During descent, when cleared to an altitude, the flight crew should pay attention to a barometric reference that significantly differs from the ATIS barometric reference used for the approach preparation. Such a difference could be a symptom of barometric reference error. In this case, the flight crew should confirm that they have the correct barometric reference from all available sources. Unexpected low RA callouts in final approach An abnormally decreasing RA audio callout while the barometric altitude is still high above airfield elevation is a clue that the aircraft may be too low on its"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "final approach path. This can be due to a barometric reference discrepancy. However, RA callouts depend on the terrain profile and therefore may not be present if low terrain is located before the runway. SYSTEM ENHANCEMENTS ALTimeter Setting Monitoring ALTSM function The ALTSM function, currently available on some Honeywell EGPWS standards, compares the barometric altitude on the captain side with the GPS altitude. If the difference exceeds a threshold, the EGPWS emits an ALTIMETER SETTING alert, and it is repeated if an incorrect barometric setting is still detected after some time."
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Use the Correct BARO Setting for Approach Availability of the ALTSM function A first step of the ALTSM function is already proposed on A320 and A330 aircraft equipped with Honeywell EGPWS standards PN 9651676006, 69000942151, and 69000942251. It can be activated on the compatible computer standards via a Service Bulletin SB. This first step prepares the introduction of the second step of the function that will add a flashing QNHQFE value on the PFD in addition to the audio alert. It will also protect the QFE setting. This second step will be included in the Landing Surveillance package, to be incrementally certified from 2023 to 2024. It will be available on production aircraft and proposed for retrofit, for both EGPWS and T3CAS computers. More information on ALTSM and on the Landing Surveillance package is available at httpswww.navblue.aeroproductlandingsurveillance. A similar function will be available in the next A350 surveillance computer"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "standard that is planned to be available in 2027 on newly produced aircraft. The following table provides an overview of ALTSM availability on Airbus aircraft FunctionA220A300A310A320 FamilyA330A340A350A380 ALTSM brAudio onlyNot availableUnderbrconsiderationHoneywellbrEGPWS onlybrActivation SBHoneywellbrEGPWS onlybrActivation SBNot availableNot available ALTSM brAudio visualbrindicationUnderbrconsiderationUnderbrconsideration2024brEGPWSbrand T3CAS2024brA330 onlybrEGPWSbrand T3CAS2027brSimilarbrfunction onbrnew aircraftUnderbrconsideration"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "CONTRIBUTORS DAVID CARLU Surveillance System Designer Design Office PIERRE LABRO AccidentIncident Investigator Product Safety MAXIME LANSONNEUR Flight Operations Standards Expert Customer Support LORENZ WILLER CERCLIER Landing Safety Navblue With thanks to Cedric DESCHEEMAEKER and Domenico SPATARO from Product Safety, Brigitte LECONTE DABIN and Julien ROBIN from the FMS Design Office, Thomas GOBEAUT and Andy RICOME from Flight Operations Customer Support. Safety first 35 January 2023 023 An undetected erroneous BARO setting can cause an aircraft to fly above or below the published final approach flight path when following approach guidance that uses a barometric reference. Vertical deviation indications are shown as correct, even if the aircraft is not on the correct flight path, with an incorrect BARO setting. Standard altitudevsdistance checks will also wrongly confirm that an aircraft is on the correct trajectory, because it uses the same erroneous barometric reference. If visual conditions are not sufficient, the flight crew"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "may not be able to detect that their aircraft is on an incorrect flight path in time to adjust their trajectory or perform a goaround. Flight crew can detect a potential erroneous barometric reference by comparing the barometric reference provided by the ATC at the first altitude clearance during descent, with the value provided by the ATIS during descent preparation. If there is a significant discrepancy between the two values, the flight crew should crosscheck the barometric references with all available sources. Depending on the terrain configuration, abnormally decreasing RA audio callouts while the barometric altitude is still high above airfield elevation might also help the flight crew to diagnose an issue with the barometric reference. The ALTimeter Setting Monitoring ALTSM function is currently available on some TAWS computer standards. It compares the barometric altitude on the captain side with the GPS altitude and warns the flight crew if the"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "difference exceeds a threshold. Airbus is working on an update of the ALTSM function that will be available for more TAWS computer standards and will provide a visual alert in addition to the current audio alert."
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Proper Landing Gear Servicing for Safe Operations Proper Landing Gear Servicing for Safe Operations Proper servicing of landing gear is obviously important to ensure proper landing gear operations during takeoff and landing. It is equally important to ensure proper retraction and extension to prevent potential interference with other aircraft systems in the case of abnormal landing gear conditions. If the landing gear servicing tasks are not properly performed, issues can occur such as struts seized in a retracted position and strong vibrations that can affect the function of avionics equipment. This article provides a description of best practices that maintenance crew can apply when performing the landing gear servicing tasks, with a focus on the shock absorber and the importance of regular lubrication. This article is also available on safetyfirst.airbus.com and on the Safety first app for iOS and Android devices."
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 025 CASE STUDY Event Description Ten minutes after takeoff, passing FL340, the flight crew of an A319 lost the autopilot AP and the autothrust ATHR. The AUTO FLT AP OFF, AUTO FLT ATHR OFF and ENG THRUST LOCKED ECAM alerts were triggered. The Flight Directors FDs were no longer displayed on the PFD. The NAV FMGPS POS DISAGREE ECAM alert was briefly triggered twice, but this was not seen by the flight crew. The flight crew managed to reengage the AP and the ATHR 5 minutes later. The flight crew noticed abnormal IRS positions on the MCDU position monitor page. They decided to continue the flight with the support of ATC to assist them with determining their position. During the ILS approach, the AP and ATHR disconnected again at 4000 ft. The flight crew discontinued the approach. They decided to perform a manual approach using"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "only radio navigation aids and they safely landed the aircraft. Event Analysis Severe IRS drift Recorder data analysis showed that the AP and ATHR disconnected due to severe drift of the 3 IRS. The first IRS was rejected by the Auto Flight System AFS during the climb and the AFS ADIRU 123 DISAGREE PFR maintenance message was triggered with no operational impact. A discrepancy between the 2 remaining IRS in the following few minutes led to the rejection of both IRS and to the loss of the AP and ATHR. This triggered the AUTO FLT AP OFF and AUTO FLT ATHR OFF ECAM alerts. The IRS drift then decreased and remained stable during the flight, but it increased again during approach, causing the second loss of AP and ATHR. Effects of the high vibrations The IRS drift started during the takeoff roll. The analysis showed that the root cause was"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "abnormal shocks and high vibrations transmitted to the 3 Air Data Inertial Reference Units ADIRUs by the Nose Landing Gear NLG during the takeoff roll. This forced the IRS to operate outside of its qualification envelope and it caused the IRS drift condition. Effects of incorrect shock absorber servicing The NLG shock absorber was overinflated during its last service. This made the shock absorber stiffer and reduced its ability to absorb impacts and vibrations. The vibrations experienced during this event were transmitted through the shock absorber to the aircraft structure. The A320 family aircraft ADIRUs are installed in the avionics bay aft of the NLG bay, and they were affected by the excessive vibrations and shocks during the takeoff roll on this flight."
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Proper Landing Gear Servicing for Safe Operations INFORMATION The In flight severe IR drift with ADIRU inducing possible loss of APFD and ATHR Technical FollowUp TFU 34.12.00.003 is available on AirbusWorld, which describes the root cause and the mitigation actions. It recommends performing the Vibrations felt on the NLG during Takeoff and Liftoff phases TroubleShooting Manual TSM task that focuses more on the NLG shock absorber servicing maintenance task than on the more usual wheels and tires inspections that are also part of this TSM task. SHOCK ABSORBER SERVICING Landing Gear shock absorbers on all Airbus aircraft are oleopneumatic shock absorbers, which means they use both oil hydraulic fluid and gas nitrogen to absorb and dissipate the shocks during taxi, takeoff, and landing. The Maintenance Planning Document MPD requires regular checks of nitrogen pressure and the quantity of hydraulic fluid in each shock absorber. The shock absorber servicing tasks"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "must be performed if this is out of tolerance and the hydraulic fluid quantity or nitrogen pressure adjusted in accordance with the Airbus AMPAMMMP maintenance procedures. INFORMATION The InService Information ISI article 32.21.00002 is available on AirbusWorld and describes best practices and the challenges of the NLG shock absorber servicing for the A320 Family aircraft. Incorrect shock absorber servicing can have serious consequences The aim of the shock absorber servicing task is to ensure that the shock absorber has the correct gas pressure and quantity of hydraulic fluid to provide optimal shock absorption. Incorrect servicing of the shock absorber can have the following consequences If the shock absorber is too stiff, the vibrations can propagate to the aircraft structure. If the shock absorber is too soft, the shocks can damage parts of the landing gear and the structure where the gear is attached to the airframe. The NLG wheels may"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "rotate during the retraction or turn in the NLG bay, which will prevent deployment of the NLG. Faults and ECAM alerts, for example, LG SHOCK ABSORBER FAULT, can be triggered during flight leading to operational situations, such as the loss of certain avionics functions or conditions requiring an inflight turn back."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 027 INFORMATION A video of A330A340 NLG shock absorber servicing is available to illustrate the different steps of the servicing procedure. This video is for information only. The Airbus AMM procedures always prevail. Checking and Adjusting the Nitrogen Gas Pressure Checking and adjusting the gas pressure in the shock absorber can be done with aircraft either on jacks or on wheels. Waiting time before checking the pressure It is important to wait for a minimum time period after the last operation of the aircraft to ensure that an accurate measure of the gas pressure in the shock absorber is taken. As an example, the recommendation for the A320 fleet is to wait for at least 2 hours after the last aircraft operation. There are two main reasons for this Effect of the temperature The pressure of the nitrogen will vary with the temperature of the"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "shock absorber. During cruise, the landing gear bay is at a very low temperature. However, the fast compression of the shock absorber during landing followed by the multiple and quick landing gear movements on ground may quickly increase the temperature of the shock absorber and it will take time with the aircraft on the ground for the temperature to stabilize. Emulsion effect The shock absorbers fitted on the Airbus fleet contain both gas and liquid in direct contact. During landing, an emulsion or mix of gas and fluid is created where the gas and fluid are in contact. This emulsion will affect the pressure level and the temperature of the shock absorber. It will take time with the aircraft stationary on the ground for the gas and oil to separate, and the temperature to stabilize before any check for correct hydraulic fluid levels and nitrogen gas pressure can be made."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Measuring the shock absorber extension and temperature To assess the shock absorber charge pressure, it is necessary to measure the shock absorber extension dimension H refer fig.1 and the shock absorber temperature. The AMPAMMMP procedures provide tables and graphs that provide the correct value of the dimension H relative to the temperature and the pressure. A placard with these graphs is also fitted on the landing gears as a quick reference during the task. fig.1 Shock absorber extension dimension H"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Proper Landing Gear Servicing for Safe Operations KEYPOINT Use the shock absorber temperature, and not the ambient air temperature to know the correct charge pressure of the shock absorber. Using the wrong temperature value can significantly affect the servicing. Adjusting the nitrogen quantity Depending on the pressure value, the quantity of nitrogen may need to be adjusted. On A220, A320, and A350 Family aircraft, the procedure intentionally overestimates the quantity of nitrogen. This is to take into account the dissolution of the nitrogen in the hydraulic fluid. That will lead to a decrease of the H dimension in the days following the nitrogen servicing until it stabilizes. The challenge of the stiction Stiction is when the sliding cylinder in the shock absorber can stick due to the friction with the shock absorber housing when performing the servicing task with the weightonwheels. This can cause the H dimension to suddenly"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "increase when the cylinder overcomes the stiction effect. This means that the H dimension may not slowly and continuously move during the nitrogen pressure adjustment task, which can cause the value of the H dimension to vary for a given pressure and can lead to incorrect servicing. To avoid this, it is preferable to perform this task with the aircraft on jacks when possible."
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 029 KEYPOINT Due to the challenge of stiction, it is recommended to perform this servicing task with aircraft on jacks to alleviate the loads acting on the landing gear. This will ensure accurate and efficient servicing of the shock absorber pressure. NOTE Before the introduction of the A350 aircraft, one pressure value at a given temperature was associated with a single H value. Since the introduction of the A350 aircraft, a pressure value at a given temperature is now associated with a range or min. and max. value for the measurement of dimension H. The objective is to avoid any risk of bottoming mechanical contact due to underinflation and the performance of unnecessary pressure adjustments. This is being implemented for all other Airbus aircraft. Shock Absorber Hydraulic Fluid Replenishment This procedure can either be done with aircraft on jacks or the aircraft weight on wheels"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "with the exception of the NLG of A330A340 aircraft and NLGMLG of A350 aircraft, for which the procedure is only possible with aircraft on jacks. The check and adjustment of the hydraulic fluid level has a direct impact on the gas pressure, and therefore an adjustment of the nitrogen quantity is also necessary. Waiting time before checking the fluid level It is important to wait for a minimum time period after the last operation of the aircraft to ensure an accurate measure is taken of the fluid level in the shock absorber. As an example, the recommendation for the A320 fleet is to wait for at least 2 hours after the last aircraft operation. The reason for this is due to the emulsion effect, as described above. The shock absorber needs to be deflated to check the fluid level. If the task is performed too soon after the last aircraft"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "operation, there will still be nitrogen gas emulsified in the hydraulic fluid of the shock absorber. Rapid depressurization will cause emulsion bubbles to be ejected, which may be an injury risk for the maintenance crew performing the task. This will also cause a loss of hydraulic fluid and hydraulic fluid replenishment will be necessary. Deflate and compress The shock absorber needs to be fully deflated to check the hydraulic fluid quantity. Opening the charging valve as slowly as possible will prevent too much fluid loss. After deflation is complete, the shock absorber will then be compressed to observe if hydraulic fluid is released from the charging valve. If no fluid is released, then the level is low and the hydraulic fluid level must be adjusted in accordance with the Airbus AMPAMMMP maintenance procedures."
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Proper Landing Gear Servicing for Safe Operations Refill, compress and repeat After refilling the shock absorber with hydraulic fluid, it is compressed to check the quantity. There is likely to be foam in the hydraulic fluid released from the shock absorber fig.3 . More hydraulic fluid needs to be added and the shock absorber compressed again, repeating these steps until there is no more foam released fig.4 . It is harder to inject hydraulic fluid into the shock absorber with the aircraft weight on wheels, and it is more likely to produce foam in the fluid, making the procedure more difficult to perform. fig.3 Foam noticed while compressing the shock absorber. Hydraulic fluid needs to be added again. fig.4 No foam noticed while compressing the shock absorber. KEYPOINT The best way to perform accurate full servicing hydraulic fluid level and nitrogen gas pressure check of the shock absorber is"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "with the aircraft on jacks to ensure the optimum hydraulic fluid quantity and pressure. Extract the nitrogen from the hydraulic fluid After refilling the shock absorber, the nitrogen needs to be extracted from the mix of new hydraulic fluid with older fluid, which will contain dissolved nitrogen molecules due to the gas dissolution effect. This is done on A220, A320 Family, and A350 aircraft to ensure that the shock absorber is serviced with the correct nitrogen gas pressure. This can only be done with the aircraft on jacks. The pressure valve is slowly opened and the shock absorber is fully compressed. The pressure valve is then closed and the shock absorber can extend under its own weight. This creates a vacuum effect that will draw the nitrogen gas molecules out of the hydraulic fluid. This step can take several minutes depending on the size of the shock absorber e.g. 30"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "minutes for A320 Family aircraft, 60 minutes for A220 aircraft, and 90 minutes for A350 aircraft. Adjust the nitrogen quantity The shock absorber is inflated with the necessary quantity of nitrogen mentioned in the procedure. For A220, A320 Family, and A350 aircraft, this quantity takes into account the nitrogen dissolution that will occur in the days after the servicing and the consequent decrease of the H dimension before it stabilizes."
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 031 Performing the procedure weight on wheels is possible with constraints For the NLGMLG of the A220 aircraft and for the NLG of the A320 Family aircraft, it is possible to perform the hydraulic replenishment procedure with weight on wheels. However, this will mean that extraction of the nitrogen from the hydraulic fluid step cannot be performed, and it will make it more difficult to define a precise pressure. Therefore, full servicing hydraulic fluid and nitrogen gas is required with aircraft on jacks in the following days on A220 aircraft. For A320 Family aircraft, the nitrogen quantity needs to be checked again, either with aircraft on jacks or with aircraft weight on wheels in both light and heavy load configurations. Automatic Shock Absorber Servicing Solution The Liquid And Nitrogen Charging Equipment LANCE tool is being developed to provide Airbus Operators with a precise way to"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "perform shock absorber servicing for both NLG and MLG with aircraft weight on wheels. The tool has a cart that automatically ensures that the hydraulic fluid level in the shock absorber is correct and replenished with the exact mass of nitrogen that is required based on the servicing temperature. This solution is currently for use on A320 Family and A350 aircraft and is being assessed to check its feasibility on other aircraft types. LANDING GEAR LUBRICATION Lubrication of landing gear at regular intervals protects the joints and moving parts from excessive wear and corrosion. The lubricating grease will attract and contain contaminants and particles. Regular replacement with new grease will remove the contaminated grease before the particles and contaminants trapped can cause abrasion or corrosion. This will prevent wear at the joints and moving parts that could lead to excessive vibrations or even failure to correctly extend or retract in"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "operations. KEYPOINT Even during long periods of parking and storage, lubrication must be continuously performed according to the MPD to prevent any jamming of the landing gear during extension and retraction."
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Proper Landing Gear Servicing for Safe Operations fig.5 Example of correct greasing Fresh grease popping out correct greasing fig.6 MLG uplock hook malfunction due to excess of grease BEST PRACTICE Depending on the environmental conditions in which the aircraft is operated such as a sandy environment, it may be necessary to lubricate the landing gear at more frequent intervals than specified in the MPD for contaminated grease to be regularly renewed. Refer to the recommendation to lubricate at a higher frequency in TFU 32.11.13.024. Injecting the Right Quantity of Grease The grease is injected through the grease nipples, using an electrical or manual grease pump. Fresh grease must be seen coming out of the dedicated witnesses hole or from the part that is being lubricated fig.5 . For certain lubrication points, the fresh grease will not be visible coming out of the part. In that case, the maintenance procedure"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "specifies the number of injections to be performed using only a manual grease pump. For greasers without witnesses, even if no fresh grease is visible after the specified number of grease injections, no additional injection needs to be performed as this may lead to deterioration of the part. Excess grease can cause malfunctions On A320 aircraft, for example, the main landing gear uplock hook needs to be lubricated, but it has no witness for the maintenance crew to indicate that the correct quantity of grease was injected. Therefore, cases of excessive quantities of grease occurred, which led to the malfunction of the uplock hook and the triggering of the LG NOT UPLOCKED ECAM alert for the flight crew with associated operational consequences."
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "CONTRIBUTORS FR\u00c9D\u00c9RIC BOUCHER Engineering Specialist A220 Design Office C\u00c9DRIC DESCHEEMAEKER Director Product Safety Enhancement Product Safety BENO\u00ceT DUQUESNE Expert Operations ADIRS Customer Support JEANMARC LACANETTE Landing Gear Systems Senior Engineer Customer Support JORDANE SOULAOUDOT IncidentAccident Investigator Product Safety FRAN\u00c7OISXAVIER TARDI Expert Operations Landing Gear Customer Support LAURENT TIZAC Landing Gear Mechanical Design Expert Design Office With thanks to Paula ARTEAGA URIBE from Ground Support Equipment Safety first 35 January 2023 033 Landing gear servicing tasks include servicing of shock absorbers and lubrication of landing gears. To ensure optimal performance of the landing gear in operation, scheduled maintenance should be performed as defined in the MPD, and Airbus maintenance procedures and best practices should be applied. Shock absorber servicing should ensure that it contains the correct nitrogen gas pressure and quantity of hydraulic fluid for the optimal absorption of the shocks during taxi, takeoff, and landing. Incorrect servicing can lead to"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "a number of outcomes that may require more regular and costly maintenance, affect operational efficiency, and even have consequences on safety. The shock absorber servicing procedure must be applied as described in the Airbus aircraft maintenance manuals. The best way to perform precise shock absorber servicing is with aircraft on jacks. Even if there is still the option to perform servicing with weight on wheels on some aircraft, it can be more difficult to charge the shock absorber with the correct nitrogen gas pressure when using this method. For example, it will be necessary to perform an additional check a few days after servicing the A320 NLG shock absorber with weight on wheels by putting the aircraft on jacks or performing a check with the aircraft in both light and heavy load configurations. The landing gears must also be regularly lubricated to ensure they are functioning correctly. Too little or"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "too much grease can lead to malfunction of the landing gear, which could have serious consequences."
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "CASE STUDY Event Description During the daily check of an A319, the maintenance crew checked the DOOR OXY system page and noticed that the flight crew oxygen pressure was 1 450 psi instead of 1 500 psi, as per the Operators own requirement. They decided to perform an oxygen servicing task before the aircraft was dispatched. During the servicing task, the Pressure Regulator Transmitter PRT between the oxygen servicing cart and the crew oxygen cylinder exploded and started a fire that propagated towards the oxygen cylinder. The fire at the PRT melted the inlet hose of the cylinder valve, which caused it to separate from the PRT. Pressurized oxygen gas rapidly discharged and injured a maintenance crew members face, causing skin and eye irritation. The second maintenance crew member managed to shut off the oxygen supply at the oxygen servicing cart. Other around the aircraft who heard the explosion reacted"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "by shutting off the discharging flight crew oxygen cylinder, cutting power to the aircraft, and calling the emergency services. The maintenance crew member only suffered minor injuries. Event Analysis Investigation revealed that the most probable sequence of actions that led to the fire was the following The crew oxygen cylinder valve was open and the pressure inside the PRT was around 1 450 psi. The maintenance crew opened the shutoff valve of the oxygen bottle on the servicing cart, which provided a pressure of 2 000 psi upstream of the cart pressure regulator. The cart regulator was then opened and set to a regulated pressure of 1 600 psi. At this stage, the flexible filling line was not pressurized, because the CHARGE STOP valve was in a closed position fig.1 . Safety first 35 January 2023 035 fig.1 Initial setup of the oxygen servicing cart during the event Pressure Crew"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "oxygen Oxygen Regulator cylinder valve filling port Transmitter PRT Oxygen Flexible filling Oxygen filling Oxygen cylinder servicing cart line pressure indicator pressure indicator"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Safe Oxygen Servicing fig.2 The sudden pressure buildup in the filling line led to a rapid increase of the oxygen temperature to 800C. It triggered the ignition of an Oring inside the PRT and the fire propagated to the cylinder valve. The maintenance crew then opened the CHARGESTOP valve set to the CHARGE position. This created a rapid pressurization inside the flexible filling line up to 1 600 psi, which caused the oxygen temperature to increase to approximately 800C at the entry of the PRT. This phenomenon is called adiabatic compression. An Oring located at the PRT inlet ignited at this temperature. The resulting fire propagated to the other PRT components and to the cylinder valve inlet, which separated from the PRT and released the oxygen from the cylinder fig.2 . Pressure Crew oxygen Flexible filling Oxygen filling Oxygen cylinder line pressure indicator pressure indicator Oxygen servicing cart line"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Oxygen filling pressure indicator fig.3 The fire triangle Importance of following oxygen servicing instructions The instructions for use of the servicing cart states that the CHARGESTOP valve must be open before opening the cart pressure regulator. The risk of rapid pressurization was specifically mentioned and carefully following the instructions would have prevented the incident. When pressurizing an oxygen system or device, it is essential to always slowly open the valves and to control the slow pressurization of the system. OXYGEN AND THE RISK OF FIRE Oxygen is not a flammable gas but an excellent oxidizer, which is present at a concentration of approximately 21 in the ambient air. It is odorless, invisible, and difficult to detect. When an oxidizer comes into contact with flammable materials in gas, liquid, or solid form, and if energy from a heat source or a spark is present, this starts a fire that burns until"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "one of the three components of this fire triangle is removed fig.3 . Some flammable material such as grease or oil can selfignite in a pure oxygen atmosphere, but only at fairly high temperatures above 200C. In an oxygenenriched environment, those same materials can selfignite at much lower temperatures depending on the level of oxygen concentration present. In that Oxygen case, the fire will be of higher intensity and temperature. Even without sparks or an ignition source, large fires and explosions can occur."
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "KEYPOINT Even a small increase in the oxygen concentration level from 21 standard air environment to 24 can create a dangerous situation with rapid and explosive combustion. SAFETY PRECAUTIONS DURING OXYGEN SERVICING Oxygen cylinders need regular servicing and they can either be refilled or replaced. There are specific precautions to follow for these tasks. They can only be performed by qualified personnel who are trained to work on oxygen systems and aware of the associated risks, especially fire risks. Only approved tools, materials, and procedures should be used. The general precautions to take are available in the Airbus AMMMPAMP maintenance procedures dealing with oxygen systems. Prevent an oxygen enriched atmosphere Use an oxygen detector and ventilate confined areas, when necessary Any oxygen leak can create an oxygenenriched environment, which could lead to dangerous situations especially when oxygen cylinders are placed in confined spaces. During flight, these areas Oxygen are ventilated"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "by the aircraft air conditioning system. However, when on the ground there is no ventilation. Therefore, maintenance crews should be aware of the oxygen level before entering those confined areas. The use of an oxygen detector is recommended fig.4 . If high levels of oxygen concentration is detected, the area must be ventilated before performing any maintenance actions. Safety first 35 January 2023 037 fig.4 An oxygen detector enables a check of the oxygen concentration in a confined area before starting any maintenance task"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Safe Oxygen Servicing fig.5 Prevent heat coming from electrical discharge or electrical overheating It is forbidden to use mobile phones during servicing and to perform oxygen Follow maintenance procedures and instructions of use To prevent any oxygen leak during servicing, it is crucial to follow the AMM AMPMP procedures. It is also crucial to follow the operating instructions for the oxygen servicing cart and the instructions of use for the filling port adapter provided by the ground equipment manufacturer. Keep track of your oxygen servicing It is recommended to keep track of the frequency of the oxygen servicing especially if it often occurs before the scheduled maintenance as this could indicate a leak in the oxygen system. Prevent any ignition source During oxygen servicing, all possible heat sources should be removed to avoid any fire risk. Prevent heat coming from sparks or flames It is forbidden to smoke during"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "oxygen servicing. Oxygen servicing must not be performed in the proximity of other maintenance activities that could create flames, heat, or sparks such as grinding or drilling."
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "Safety first 35 January 2023 039 Prevent rapid oxygen pressure buildup The event described earlier highlights the need to handle oxygen valves with care to prevent rapid oxygen pressure buildup and ignition of flammable materials. Also if dust or debris are present in the system, for example, due to contaminated tooling, a fast oxygen flow could create sparks as a result of particle impact. Respect a safety zone As an industry standard, a 5meter safety zone must be maintained around the oxygen filling port during refilling. Prevent presence of flammable gas, liquid or solid Restrict other maintenance activities Oxygen servicing must not be performed during refueling, cleaning, deicing, when working on fuel and hydraulics, or any systems using flammable materials. Oil, grease, lubricant, fuel, cleaning and deicing materials are flammable and can selfignite in the presence of concentrated levels of oxygen. Only use approved lubricantcleaner The maintenance crew should only"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "use approved lubricant and cleaner products on oxygen system components. The importance of a clean work area, tools and servicing equipment A clean work area, tools and servicing equipment should be ensured to prevent dust or debris entering into the oxygen system from the reception and storage of oxygen system components through to the final installation on the aircraft. Check that each person working on the oxygen systems, or performing oxygen servicing tasks, has clean hands, clean clothes, clean tools, and clean working areas. This will avoid oil or grease stains from coming into contact with oxygen gas. This will also avoid the presence of particles or other contaminants that could lead to a fire if combined with a heat source and oxygen. KEYPOINT In an oxygenenriched environment, even a rag with grease on it used during previous maintenance tasks can lead to a fire. Therefore, the maintenance crew must"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "always use clean equipment during servicing to prevent any risk of fire or combustion."
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "OPERATIONS Safe Oxygen Servicing fig.6 Summary of the safety precautions for oxygen servicing"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "CONTRIBUTORS PATRICK BRICARD Oxygen Systems Expert Design Office IAN GOODWIN Safety Enhancements Product Safety ST\u00c9PHANE PUGLIESE Expert Fire Prevention and Protection Design Office JORDANE SOULAOUDOT IncidentAccident Investigator Product Safety PIERRE VILLEGER Senior Oxygen Engineer Customer Support With thanks to Thomas LEPAGNOT from Product Safety Safety first 35 January 2023 4 Oxygen in the presence of a source of heat and flammable material can lead to significant fire events. Oxygenenriched environments can create even more intense fires and explosions. When working on oxygen systems such as during oxygen servicing, specific safety precautions need to be followed to avoid these hazardous situations. There are safety precautions to reduce the risk of an oxygenenriched environment due to oxygen leaks. The use of an oxygen detector and the ventilation of confined areas is recommended. Other safety precautions are intended to remove any source of heat coming from either flames or sparks, from electrical discharge"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_35.pdf",
+    "text": "or electrical overheating. It is the reason why it is mandatory to bond the aircraft to the oxygen filling cart when performing oxygen servicing. Grounding the aircraft may also be required by local authorities. In all cases, a safety zone around the filling port must be maintained. It is essential to remove any flammable material near the oxygen systems during servicing. A clean work area, tools, and servicing equipment must be ensured. Performing maintenance tasks on systems with flammable materials such as fuel, hydraulic fluid, or deicing products must be avoided during servicing of oxygen systems. Following Airbus maintenance procedures and all procedures and instructions for use provided by the manufacturers of all ground equipment and products used is essential to ensure safe oxygen servicing."
+  }
+]

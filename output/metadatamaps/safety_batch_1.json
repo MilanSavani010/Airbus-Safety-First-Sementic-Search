@@ -1,0 +1,1007 @@
+[
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety fi rst The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety fi rst is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fl y and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confi dential Reporting System, incident and accident investigation reports, system tests and fl ight tests. Material is also obtained from sources within the airline industry, studies and reports from government agencies and other aviation sources. All articles in Safety fi rst are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "contents do not supersede any requirements mand ated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily refl ect the views of Airbus, neither do they indicate Company policy. Contributions, comment and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Product Safety department W 1, rond point Maurice Bellonte 31707 Blagnac Cedex France Fax 3305 61 93 44 29 safetycommunicationairbus.com Visit us at safetyfi rst.airbus.com or install the Safety fi rst app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "YANNICK MALINGE SVP Chief Product Safety Offi cer editorial Dear Aviation colleagues, In response to the massive fl eet grounding caused by the global pandemic, it is vitally important to continue sharing safety information. All actors in commercial air transport redoubled efforts to promote the relevant guidance materials for the massive task of parking and storing aircraft, and subsequently supporting Operators to prepare for a safe return to the skies. This showed that our industrys wellestablished procedures provide the necessary safeguards for maintaining safe aircraft and operating safe fl ights, especially during this particular period. With this spirit, the articles in this edition highlight some key safety considerations and provide references to the relevant publications already shared with Operators of the Airbus fl eet worldwide. With so many aviation professionals affected by the downturn caused by the pandemic, it is a time to recall the basics of safety for fl"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "ight crews, cabin crews and ground crews. The _Mind the OEBs_ article prompts pilots to check if there are OEBs applicable to their aircraft when preparing for a fl ight, and to make sure that they are familiar with their application conditions. It is also an opportunity, when aircraft are not at peak utilisation, to encourage Operators to limit the number of applicable OEBs on their aircraft by installing OEB cancellation modifi cations as soon as possible. The _Safe Aircraft Refuelling_ article shares why safety precautions and procedures must be strictly followed when refuelling an aircraft, which requires close coordination between the ground crew, the fl ight crew and cabin crew. With so many aircraft grounded, some adaptation is required, but it is best to avoid using improvised or unapproved items to protect the aircraft and its components. In situations where procedures cannot be correctly applied, Operators should contact Airbus"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "and seek advice. By working together through the challenges brought about by this crisis, the entire air transport system can emerge with a strengthened level of safety."
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety fi rst The Airbus Safety magazine Also available in app and website versions"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "NEWS The annual Statistical Analysis of Commercial Aviation Accidents is now available to view online and to download the brochure. The website provides an analysis of commercial aviation accidents for jet aircraft from 1958 to 2020. It shows signifi cant improvements of the safety record for our industry. This is also underlined by the contribution that technology has made in further enhancing the level of safety for commercial aircraft fl ights today. Visit us at accidentstats.airbus.com"
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 005 Safety 30 first OPERATIONS P06 Avoiding Fuel Spills on A320 Family Aircraft P14 Safe Aircraft Refuelling P20 Aircraft Parking and Storage P28 Preparing for a Safe Return to the Skies P36 Mind the OEBs!"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OVERFILL AND OVERFLOW PROTECTION AND MONITORING Fuel tanks on Airbus aircraft are designed so that fuel spills into the vent tank through their vent line in the event of a tank overfill. Each vent tank is equipped with a NACA duct where fuel can flow out and onto the ground if the vent tank Refuel valves automatic closure On A320 family aircraft, the refuel valve for a fuel tank will automatically close when the targeted fuel quantity is reached, or fuel is detected by the high level sensor fitted in the tank during refuelling. Fuel Overflow monitoring function A monitoring function was first introduced on A321 aircraft to trigger a FUEL LR WING TK OVERFLOW ECAM alert in the case of a fuel overflow detected in the vent tank by the overflow sensor. The ECAM alert Modification 154427 is now also installed in production on A319A320 aircraft since May 2013"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "aircraft serial number 5597 and onward. It can be installed on previously built A318A319A320 aircraft with Service Bulletin A320281216. Safety first 30 July 2020 007 NOTE The test of overfill protection must be done before every refuelling operation by pushing the TEST switch of the refueldefuel panel, first to the LTS position to check the integrity of the indication lights, and then to the HI LVL position to test the protection and the overflow sensor located in each vent tank. fig.1 Functional schematic of the refuelling and venting system of an A320 aircraft"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Avoiding Fuel Spills on A320 Family Aircraft A319A320A321 AIRCRAFT FITTED WITH TRANSFER JETPUMPS IN THE CENTER TANK fi g.2 Comparison of the fuel feeding system of A320 family aircraft equipped with or without fuel transfer jetpumps Transfer jetpumps were introduced on the A321 aircraft at its entry into service to simplify the fuel system, replacing the center tank electrical fuel boost pumps previously used on A320 family aircraft fig.2 . To take advantage of this simplifi cation, the transfer jetpumps were introduced in the center tank of A319ceo and A320ceo aircraft delivered from 2014. and are standard on all A319neo, A320neo, and A321neo aircraft. A318A319A320 aircraft without fuel transfer jet pumps"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Refuelling operation The center tank transfer mode selector should be in the AUTO position no light during the refuelling operation. This means the left and right transfer valves will remain closed. The fuel pumps and the Left and Right CTR TK XFR pushbutton switches can be ON or OFF. The switches will be OFF no light if the flight crew has already performed their cockpit preparation. The center tank and the outer wing tanks are filled first in a normal refuelling operation. Once the outer tank is full of fuel, the inner wing tank will be filled with fuel passing through the spill pipe fig.3 . Scenario of fuel spill incidents due to transfer mode selector in manual mode during automatic refilling operations Cases of fuel spillage were reported to Airbus during refuelling of A320 family aircraft equipped with transfer jetpumps in the center tank. The transfer mode selector was"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "left in the MAN position during the refuelling operation of the reported events. This condition forced the transfer valves to open and fuel was supplied to the jetpumps fig.4 . With the jet pumps ON and fuel flow provided by the fuel pumps, fuel was moved from the center tank to the wing tanks. Even though the refuel valves automatically closed when the preselected quantity of fuel was reached, the transfer valves remained open and the jetpumps continued to transfer the fuel out of the center tank into the inner tank. When the wing tanks were completely full, fuel was pushed through the wing tank vent lines into the vent tanks and eventually overflowed from the NACA vent causing fuel to spill to the ground. Safety first 30 July 2020 009 fig.3 Normal refuelling on A320 family aircraft equipped with transfer jetpumps Cockpit preparation already done in this example The"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "center tank transfer mode selector should be in the AUTO position no light during the refuelling operation."
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Avoiding Fuel Spills on A320 Family Aircraft fig.4 Fuel spillage due to mode selector left on the manual position on A320 family aircraft equipped with transfer jetpumps fig.5 Configuration of the FUEL Overhead panel as per PARKING SOP fig.6 Configuration of the FUEL Overhead panel as per COCKPIT PREPARATION SOP all lights OFF Adherence to SOP prevents leaving the FUEL MODE SEL in MAN position PARKING procedure The parking SOP requests the flight crew to set the fuel pumps and center transfer valves OFF. This means that the fuel pumps and the Left and Right CTR TK XFR pushbutton switches should be in the OFF position. The fuel mode selector should be in AUTO mode. COCKPIT PREPARATION procedure Before the next flight, the flight crew must extinguish all white lights from the overhead panel during the cockpit preparation following the dark cockpit philosophy. The fuel pumps are switched ON"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "and the Left and Right CTR TK XFR pushbutton switches should be pushed to extinguish their OFF light fig.6 . If the flight crew observes the FUEL MODE SEL MAN light ON, it must be switched OFF at this stage."
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "In addition, SOP requests specifi cally to check that the FUEL MODE SEL is set to AUTO in the FUEL section of the cockpit preparation fi g.7 . A dedicated caution warns the fl ight crew of the potential fuel spillage if the FUEL MODE SEL is set to MAN position on ground with the CTR TK L XFR and TR TK R XFR pushbutton switches not in the OFF position. WHAT TO DO IN THE CASE OF A FUEL SPILLAGE? In the event of a fuel spillage, Airbus recommends the following actions 1. Perform TSM Task Refuel Fuel Spillage From NACA Vent During Refuel to identify the root cause of the spillage 2. Notify Airbus about the fuel spillage event and provide the following information Fuel Spillage Sheet available in the TSM task Fault Reports Shop Reports of replaced components if any, including Part Number and Serial Number. Safety"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "fi rst 30 July 2020 011 fi g.7 Extract from the A320 FCOM PRONORSOP Cockpit preparation Fuel"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Avoiding Fuel Spills on A320 Family Aircraft CONTRIBUTORS St\u00e9phane BERNARD Fuel System Engineer Engineering Support Regis PERNET Flight Operations Support Engineer Customer Support Ross WALKER Fuel System Fuel Tank Safety Design Office Protection is available to prevent fuel spill incidents from Airbus aircraft during refuelling. Sensors fitted to the center tank and wing tanks will automatically close the refuel valves to stop the refuelling operation in the case of overfill. Fuel spills are avoided if these protections are operating correctly and this should be checked by a quick test just before refuelling the aircraft. Fuel spillages were reported to Airbus on A320 family aircraft fitted with transfer jet pumps where the fuel transfer mode selection was mistakenly left in MANUAL. Ensuring that the FUEL MODE SELector is set to AUTO before refuelling the aircraft will avoid a fuel spill incident."
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 013"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "FIRE PREVENTION The main threat during refuelling operation is the fire threat. The general safety precautions for refuellingdefuelling are available in the A220 AMP SERVICING REPLENISHING AND DEPLETING FUEL REPLENISHING AND DEPLETING the A300A310 AMM SERVICING REPLENISHING OF FUEL TANKS the A320A330A340 AMM SERVICING FUEL FUEL SYSTEM SERVICING General RefuelDefuel Safety Procedures the A380 AMM FUEL REFUELDEFUEL SYSTEM SERVICING General RefuelDefuel Safety Procedures the A350 MP FUEL DISTRIBUTION REFUELDEFUEL SYSTEM MAINTENANCE PROCEDURES General RefuelDefuel Safety Procedures In addition to the availability of the firefighting equipment and use of personal protection by the fuelling operator, bonding the aircraft and respecting fuelling safety zones is essential. Bonding and grounding during refuellingdefuelling Bonding Bonding ensures electrical continuity between the aircraft and the refuelling vehicle, preventing any spark to appear when the ground operator connects the refuelling hose to the aircraft coupling. It is mandatory to bond the aircraft to the refuelling vehicledevice before"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "connecting the refuelling hose fig.1 . One of the aircraft grounding earthing points must be used to connect the bonding cable. Depending on the aircraft type, the grounding earthing points can be located On the Nose Landing Gear NLG On the Main Landing Gears MLG On the wings On the engine air inlet At the High Pressure HP connector. Safety first 30 July 2020 015 It is mandatory to bond the aircraft to the refuelling vehicledevice before connecting the refuelling hose. fig.1 Mandatory bonding during refuellingdefuelling operations"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Safe Aircraft Refuelling fi g.2 Examples of placard used for grounding point identifi cation Airbus doesnt request the grounding earthing of the aircraft or of the refuelling vehicle during refuelling operations but some local authority regulations may request it. fi g.3 Example of the fuelling safety zones on an A320 aircraft Grounding earthing points are indicated by a placard to ease their identifi cation fi g.2 . The type of placard may differ depending on its location and the aircraft type. A cable section of 20 mm\u00b2 or more is recommended to ensure suffi cient bonding. The total electrical resistance of the cable between the AC and the fuel tanker must not be more than 10 ohms. Grounding earthing Grounding ensures electrical continuity between the aircraft and the earth. Static electricity resulting from the fl ight or the environmental conditions on ground wind with dust, sand, etc... is discharged"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "to the earth through the tires. Airbus doesnt request the grounding earthing of the aircraft or of the refuelling vehicle during refuelling operations but some local authority regulations may request it. Refuelling safety zones As an industry standard, a 3meter safety zone must be respected around the area located under the NACA vents, overpressure protectors and refuel couplings fi g.3 . These areas must be clear of any object or personnel. Their location can be found in the RefuelDefuel Safety procedures of the AMM AMPMP. In addition, an escape corridor must be clear of obstacles so that the refuelling vehicle can leave the area in case of emergency."
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "REFUELLING WITH PASSENGERS ONBOARD Todays short transit time used by some operators often requires refuelling operations while passengers are still or already onboard the aircraft. It is essential for all actors to respect additional safety precautions and be prepared to initiate an emergency evacuation should it be required. Keep ground areas clear for slide deployment Depending on the ground servicing and catering operations, the area beneath the available exits must be clear to enable proper slide deployment in the case of an evacuation. Cabin and passengers handling The flight crew must switch OFF the SEAT BELT signs and switch ON the NO SMOKING signs if installed and inform the cabin crew when the refuelling defuelling operation starts and ends. The CCOM _SOP Refuellingdefuelling Refuellingdefuelling with passengers_ _onboard_ provides the procedure and precaution to apply. The cabin aisles and exits must be free of obstacles that could impair the evacuation path."
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Cabin curtains must be secured in the open position and the cabin lighting should be ON. The cabin crew must inform passengers that a refuelling operation is ongoing and that they must not fasten their seatbelt to ease evacuation in the case of an emergency. Each cabin crew should be prepared for an evacuation and at least one cabin crew member should be positioned at each door pair. Safety first 30 July 2020 017 It is essential for all actors to respect additional safety precautions and be prepared to initiate an emergency evacuation should it be required."
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Safe Aircraft Refuelling CONTRIBUTORS Didier GENDRE Ground Operations Engineer Airport Operations Regis PERNET Flight Operations Support Engineer Customer Support Jean Paul VIEU Cabin Operations Engineer Cabin Safety Enhancement Flight Operations Support Ross WALKER Fuel System Fuel Tank Safety Design Office With Thanks to Martin BENOIT from the A220 Customer Services and Ian GOODWIN from the Product Safety Department. For all refuelling operations, the safety of ground personnel, flight crew, cabin crew and any passengers onboard the aircraft is paramount. It is why the prevention of any unsafe conditions requires the refuelling vehicle or equipment to be bonded to the aircraft, preventing arcing or sparks. An exclusion area of 3 metres from the aircrafts vent tanks, overpressure protection or refuel coupling and equipment should be maintained during refuelling. The appropriate PPE should be worn by the operator and fire fighting equipment available with a defined escape corridor in the event"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "of a fire. The areas around the aircraft where escape slides deploy should be kept clear in case the flight crew or cabin crew must evacuate any passengers or personnel on board the aircraft. During refuelling operations with passengers on board, at least one cabin crew member should be positioned at each pair of aircraft doors. The cabin crew will also inform passengers when refuelling operations have commenced and instruct them to not fasten their seatbelt in case evacuation is required if there is an emergency situation."
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 019"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Facing the unprecedented and massive fl eet storage worldwide which is needed in the current COVID19 pandemic, Airbus has launched an active support to all operators about the grounding,"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 021 PARKING AND STORAGE PROCEDURES The AMMMPAMP provides operators with detailed procedures for parking and storage. It is essential that these procedures are followed to preserve the safety, airworthiness and value of the aircraft. Depending on the duration of the outofoperation period and on the need for readiness of the aircraft for return into service, several options are available for aircraft preservation in either Parking in flightready condition or storage. Parking In some cases, the aircraft needs to be kept in a condition that enables quick resumption of operations. In this case, the parking procedure is applicable so that the number of tasks needed to prepare the aircraft for flight operations is minimised. It must be noted that aircraft with only parking procedures applied still require a number of recurring maintenance actions that ensures the aircraft remains in a ready for flight condition. A320 family,"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "A330, A340, A350, A380 aircraft Which AMMMP to apply will depend on if the aircraft will be parked for less than onemonth or more than onemonth. Here are the two AMMMP references 101000 Parking and storage procedures 101100 Parking Procedure A220 aircraft Three procedures are available in the AMP depending on the duration of the parking Parking 7 days, 15 days or 12 weeks. AMP references Parking Maximum 7 days BD500AJ10140001AAA890AA Parking Maximum 15 days BD500AJ10100001AAA890AA Parking Maximum 12 weeks BD500AJ10110001AAA890AA"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Aircraft Parking and Storage Storage The storage procedure is for the preservation of parked aircraft that are unlikely to return into service in the shortterm. This means that the tasks in the storage procedure will have more detailed steps to follow and require more time to complete compared to the parking procedure. However, the number of recurring maintenance tasks is reduced, meaning less interventions are required on aircraft that are stored. For example, engine runs and a number of other operational checks are not required on an aircraft preserved in accordance with a storage procedure, as it is the case when engines, avionics computers or other major components are removed from the aircraft. A320 family, A330, A340, A350, A380 aircraft Two storage procedures are available in the AMM, one for aircraft that will be stored for less than oneyear and a procedure for aircraft stored for periods more than"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "a year. AMMMP references 101000 Parking and storage procedures 101200 Storage Procedure A220 aircraft Two storage procedures are available in the AMP depending on the duration of the storage Storage 6 months and 2 years. AMP references Storage Maximum 6 months BD500AJ10300001AAA890AA Storage Maximum 2 years BD500AJ10310001AAA890AA KEY SAFETY CONSIDERATIONS FOR PARKING STORAGE The application of the AMMMPAMP parking and storage procedures ensures the preservation of the aircraft systems. For example, using engines and APU inlet and outlet protection. There are key safety aspects that are part of the AMMMPAMP procedures and must be considered when preparing an aircraft for parking or storage and during the recurring maintenance tasks. These are highlighted below. Storage location Aircraft should be ideally parked or stored on a flat surface with the nose pointing in the direction of the prevailing winds to limit the effect of wind and gusts on the aircraft."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 023 Landing gear safety devices Landing gear safety devices must be put in place to prevent unwanted landing gear retraction. Use of Chocks On A300, A310, A320, A330, A340, A350 and A380, the parking brake will be ineffective as there will be no hydraulic pressure in the system. The AMMMP parking and storage procedures both recommend the use of chocks at the wheels to hold the aircraft in its parked position. The procedure for wheel chocks installation is available in the AMMMP 101100 Parking Procedure. The A220 being equipped with an electrical brake system, Airbus recommends to apply the parking brake in addition to the chocks. The brake force will remain constant throughout the parkingstorage duration. For A220 wheel chocks installation, refer to the AMP Parking Procedures previously listed above. You will find complementary information about the design and correct use of chocks in the"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first article titled, Safe Aircraft Parking. Protection against strong winds If the aircraft is stored in an area known to be windy, or if strong wind conditions are expected, it is necessary to check and improve aircrafts stability AMM MP 055700 and moor the aircraft if needed AMMMP procedure 102000 Mooring. However, if the expected winds are above the aircrafts stability limits, Airbus recommends to move the aircraft to another airport when possible. On A220 aircraft, similar safety precautions should be followed as recommended above. In addition, the Flight By Wire architecture being susceptible to high winds, it is important to be aware of the Parking and mooring gust limits provided in AMP BD500AJ10200002AAA030AA."
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Aircraft Parking and Storage Post highwind inspection It is important to perform the post high wind event inspection 055142 when the aircraft is unmoored to ensure that the aircraft was not damaged including an assessment of the entire aircraft checking for excessive loads as well as inspections of the flight controls and landing gear structure. For A220 aircraft, follow Severe winds on the ground Special irregular inspection per AMP BD500AJ05513201AAA284AA if limits are exceeded. What if strong winds are expected and my aircraft is parkedstored in an area with no mooring attachment point? Operators should contact Airbus Customer Support to define an alternate solution. At the time of authoring this article, Airbus was updating its detailed guidance for aircraft stability recommendations, which will address fuel and ballast as well as regular and alternative mooring schemes. Groundingearthing of the aircraft It is highly recommended to permanently groundearth the aircraft when"
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "parked or stored to avoid damage caused by lightning in storms. It is mandatory to groundearth the aircraft during the periodic ground checks to ensure safety of the maintenance personnel and avoid damage to the aircraft systems. Protecting air data probes Air Data probes need to be protected to prevent dust or insects from causing an obstruction. Approved probe covers must be used. They can normally be found in each aircrafts flyaway kit. Some precautions must be taken when using alternative means like plastic foil when the approved covers are unavailable. These materials can damage the probes. For example, using plastic foil to cover the angleofattack probes can cause water to ingress inside the probe when water accumulates inside the plastic foil if the foil is not properly sealed with the fuselage and not equipped with drain holes. This can result in a blocked probe in flight when the aircraft"
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "returns to service."
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 025 It was also reported that the pressure increased in the total pressure line when sliding certain unapproved protections on the pitot tubes, simulating airspeed reading. This led to an unexpected Ram Air Turbine RAT extension when power was applied to the aircraft. Finally, there is a risk that the tape or foil will not be seen by the ground or flight crews and it will remain on the aircraft when it returns to service. This could lead to incorrect indications for the flight crew and the associated system effects. What if the approved air probe covers are not available? If the approved probe covers are not available, the advice is not to use an improvised or unapproved cover, and it is preferred that the probe remains uncovered when the aircraft is parked. It will then be necessary to carry out an inspection andor a"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "flushing procedure on the associated pressure line before returning to service. Closure of the outflow valves The parkingstorage procedures request closing the outflow valves using the DITCHING pushbutton. Care should be used during maintenance on the aircraft if preconditioning the cabin with the aircraft doors closed using a ground cart connected to the low pressure port. The potential for pressure to build up in the cabin may cause the passenger cabin doors to open violently if operated by ground personnel. The maintenance personnel must ensure that at least one passenger door, or the forward avionics compartment access door, is open before connecting the ground cart and remains open for as long as the cart is connected to the aircraft. Refer to the Preventing Violent Door Opening Due to Residual Cabin Pressure Safety first article published in October 2018."
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Aircraft Parking and Storage CONTRIBUTORS Patrick BERTRAND Section Chief, A220 InService Engineering Systems G\u00e9rard DELSAUT Ground Operations Manager Engineering Beno\u00eet DUQUESNE Air Data system Support Engineer Customer Support Olivier LE MEUR Structure Support Engineer Customer Support Christoph MAIER Customer Manager Scheduled Maintenance Services Guillaume PROUVEUR Aircraft Systems Environment Project Manager Customer Support Certain situations will require the parking or storage of aircraft for a given period of time. The AMMMPAMP parkingstorage procedures must be followed to ensure that the aircrafts safety, airworthiness and value is maintained during any extended period on the ground. This will ensure that any aircraft, which was parked or in storage can safely return to service when required to do so. It is strongly advised that operators avoid using improvised or unapproved items to protect the aircraft and its components. In any situation where there are unprecedented numbers of aircraft being parked or stored around"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "the world, it is crucial that where AMMMPAMP procedures cannot be correctly applied, that operators contact Airbus to seek advice on what approved alternative procedures may be applicable."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 027"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Preparing for a Safe Return to the Skies Aircraft that were parked or stored due to the impacts of the COVID19 sanitary crisis are progressively returning to the skies. It is in this context that Airbus has already received several reports of rejected takeoff RTO and infl ight turn back IFTB events due to unreliable airspeed. All of these events had positive outcomes thanks to the actions of the fl ight crews. It does however illustrate the challenges for returning aircraft to fl ying, after they are parked or stored, and if the maintenance This is why we take this opportunity to share all of the available Airbus information and industry guidelines that can support"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "SOME WARNING SIGNS FROM THE FIELD With the return to operations of some aircraft that were previously parked or stored due to the COVID19 situation, Airbus received several reports of incidents that may have been caused by not applying all AMMMPAMP procedures for parking and storage or not completing all of the tasks required for returning an aircraft into service after Parking or Storage. Several Air Data Issues were Reported Since March 2020, 15 occurrences of rejected takeoff or inflight turn back due to unreliable airspeed were reported to Airbus. Out of 15 events, 11 of these were confirmed to have occurred during the first flight following a period where the aircraft had been parked or stored. In comparison, Airbus has received an average of one reported event of probe obstruction on ground per month for the last two years. This shows a clear warning sign with this sudden increase"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "of reported occurrences. 14 out of 15 reported events were caused by foreign objects obstructing the Pitot air pressure line. It is important that the air data probes are covered for the entire time an aircraft is parked or stored. Flushing the air data pressure lines in accordance with the AMM procedure must be done if the aircraft was parked or stored for more than one month, even if the covers were in place the entire time. Flushing may even be required earlier. For example, aircraft parked for less than one month where certain conditions may cause contamination of the Air data pressure lines or obstructions in the Pitot probes, such as nesting insects, dust or sand. Further information can be found in the following publications. ISI 34.11.00026 A320FAM and A330A340 Pitot probes Description, evolutions and maintenance recommendations Pitot Probe Performance Covered on the Ground Safety first article published in"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "2016 The Importance of Following the Published Procedures Warning signs from the field highlight the need to follow the published AMMMP procedure for parking or storing aircraft, and also for the return into service of aircraft. As an additional support for Operators, this article lists any information which was published by Airbus during the current COVID19 sanitary crisis. It also recalls any materials already available with the objective of helping Operators to safely park or store their aircraft and subsequently ensure their safe return to operations. Safety first 30 July 2020 029 Out of 15 reported unreliable airspeed events during takeoff since March 2020, 11 of these were confirmed to have occurred during the first flight following a period where the aircraft had been parked or stored."
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Preparing for a Safe Return to the Skies INFORMATION SHARED ABOUT PARKING STORAGE General Information OIT 999.001920 Parking and Storage Exceptional Procedures and Recommendations Related to COVID19 Massive Grounding Situation A220 aircraft Airbus Canada AOM ref CSAOM21000001 OIT 999.002620 Scheduled Maintenance Clock Stoppage further to COVID19 grounding situation Safety first article Aircraft Parking and Storage Maintenance Briefing Note Maintenance during aircraft storage Airbus Fast magazine 65 Protecting precious assets article ISI 25.50.00115 Cargo Operations Guidance Aircraft parked used as ULD storage Safety first article Preventing Violent Door Opening Due to Residual Cabin Pressure Frequently Asked Questions on Parking and Storage ISI 10.00.00016 FAQ Table of Content ISI 10.00.00001 When is it necessary to park or store an aircraft? Can an aircraft out of operation be maintained with the approved maintenance programme? ISI 10.00.00002 Where can I find procedures for the parking or storage of aircraft? Are they mandatory? ISI"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "10.00.00003 Is it necessary to park or store an aircraft before a scheduled maintenance check, a working party or a cabin refurbishing? ISI 10.00.00004 What can I do when the parking or storage period has expired? ISI 10.00.00005 Is it possible to remove parts from an aircraft in parking or storage condition? ISI 10.00.00006 How shall the due dates of the periodic ground checks be calculated? ISI 10.00.00007 How does a parking or storage period influence the scheduled maintenance? ISI 10.00.00008 Who shall I ask regarding any questions related to the engines and the APU? ISI 10.00.00009 How can Airbus support me regarding aircraft parking or storage? ISI 10.00.00010 What shall I consider if I request a Technical Adaptation document from Airbus to cover parking or storage deviations? Information and Exceptional deviation from Parking and Storage AMMMPAMP Procedures per Aircraft System The Airbus design office and customer support teams developed"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "and published some exceptional deviations from AMMMPAMP procedures that may be applied to address Operator difficulties and to cope with all of their needs due to the massive requirement to park and store aircraft in the context of the current sanitary crisis."
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 031 The OIT 999.001920 Parking and Storage Exceptional Procedures and Recommendations Related to COVID19 Massive Grounding Situation, which was sent to Operators, is regularly updated with new information regarding any approved deviations. Certain allowable deviations are also described in several ISI articles available for download on the AirbusWorld portal. This information was recently explained in Airbus Engineering Support webinars with Operators. The presentations used during these events are available in ISI 10.00.00020 Webinar presentation MoM. Electrical System ISI 24.00.00046 Electrical Power Generation Distribution Systems Recommendations for Parking Storage during COVID19 period Flight Controls System ISI 27.00.00098 A320Fam Deviations to Parking and Storage Maintenance Procedures related to ATA 27 Flight Control Systems and associated components already covered by a TA ISI 27.00.00099 A330A340 Deviations to Parking and Storage Maintenance Procedures related to ATA 27 Flight Control Systems and associated components already covered by a TA ISI"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "27.00.00100 A350 Deviations to Parking and Storage Maintenance Procedures related to ATA 27 Flight Control Systems and associated components already covered by a TA ISI 27.00.00101 A380 Deviations to Parking and Storage Maintenance Procedures related to ATA 27 Flight Control Systems and associated components already covered by a TA Fuel System ISI 28.00.00166 Fuel Parking and Storage Procedures deviation policy OIT 999.005319 ATA 28 Recommendation on the use of Kathon FP1.5 Biocide Hydraulic System ISI 29.00.00213 Deviations from Parking And Storage AMM Procedures related to ATA 29 Landing Gear System ISI 32.00.00178 Deviations to Parking And Storage AMM Procedures related to Landing Gear ISI 32.00.00179 Deviations from Parking And Storage AMM Procedures ISI 32.40.00066 Wheels and Brakes Corrosion during Parking request for feedback ISI 32.40.00067 Deviations to Parking And Storage AMM Procedures related to Braking and Steering Systems and associated components ATA 324X and 325X already covered by TA A320"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "ISI 32.40.00069 Deviations to Parking And Storage AMM Procedures related to Braking and Steering Systems and associated components ATA 324X and 325X already covered by TA A350 ISI 32.40.00070 Deviations to Parking And Storage AMM Procedures related to Braking and Steering Systems and associated components ATA 324X and 325X already covered by TA A330A340"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Preparing for a Safe Return to the Skies ISI 32.40.00071 Deviations to Parking And Storage AMM Procedures related to Braking and Steering Systems and associated components ATA 324X and 325X already covered by TA A380 ISI 32.41.00102 Mitigations to wheels removal requirement after parking storage period exceeding 3 months 12 weeks Lighting System ISI 33.51.00004 EPSU batteries storage handling and charging procedure at installation on aircraft Navigation System ISI 34.11.00026 A320FAM and A330A340 Pitot probes Description, evolutions and maintenance recommendations Pitot Probe Performance Covered on the Ground Safety first article published in 2016 Pneumatic System OIT 999.003720 ATA36 maintenance actions recommendations after long parking period Auxiliary Power Unit ISI 49.00.00092 APU Parking Procedure deviation policy Engine System ISI 71.00.00075 Engine nacelle recommendations and acceptable deviations for parkingstorage and return to service RTS"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 033 SAFE RETURN TO OPERATIONS Keep trust in Air Travel Initiative The COVID19 sanitary crisis has suddenly and deeply impacted air transportation. In this context, Airbus has reacted quickly and started to provide solutions to enable a safe return to operations whilst keeping the trust of passengers and crews returning to flying. In response, Airbus launched the Keep trust in Air Travel program. The objective is to find the solutions that will enable Airlines to recover as quickly as possible from the current crisis and make passengers feel that they can safely come back on board an aircraft. The various themes of Keep trust in Air Travel cover how to keep trust in Airbus cabin and aircraft overall for example with seamless hygienic travel solutions in the cabin and how to contribute with governmental and regulatory agencies to keep trust in the overall transport system."
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "This includes the time before entering an airport or an aircraft, how to accompany airports for even safer airport operations, or how to take into account psychological aspects to keep trust in air travel. Several webinars have already shared _Keep Trust in Air Travel_ projects outcome and progress with Airlines and a Facebook Live event was hosted by JeanBrice Dumont Airbus EVP Engineering for QA with the travelling public. httpswww.facebook.comairbusvideos582384906021127 An illustrative video called, _Cabin air flow and ventilation in an Airbus aircraft_ _how does it work?_ is also available on the Airbus Facebook channel. httpswww.facebook.comairbusvideos272008560615125?vhe Management of COVID19 OIT 999.000820 ATA 21 Virus Outbreaks Novel Coronavirus 2019nCov ISI 12.00.00008 COVID19 Coronavirus Cleaning Disinfection disinfectants products procedures applicable to SARSCov2 COVID19 disinfection of aircrafts in operation ISI 21.00.00119 COVID19 CoronaVirus and Middle East Respiratory Syndrome MERS ISI 00.00.00374 PED Usage of bluetooth SARSCoV2COVID19 tracking apps on AIRBUS commercial aircraft Cargo"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Operations ISI 25.50.00117 Cargo General Guidance To Covid19 Situation"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Preparing for a Safe Return to the Skies Cargo Transportation in the Aircraft Cabin OIT 999003320 Cargo Transportation in the cabin ISI 00.00.00370 How to transport cargo in the aircraft cabin during COVID19 outbreak? communicated via FOT 999.002820 Cargo Transportation in the Cabin Web Conference Cargo Transport in Cabin Latest UpdateCurrent Airbus Solution held on April 27, 2020. Presentation materials are available on AirbusWorld in Events Conferences and forums Flight Operations Web Conferences. Guidelines to Flight and Cabin Crews ISI 00.00.00373 Keep Trust in Air Travel Flight Operations General Guidelines for Cockpit and Cabin Crews during SARsCOV2 Covid19 crisis communicated via FOT 999.003920 Keep trust in Air Travel Flight Operations General Guidelines For Cockpit And Cabin Crews During Sarscov2 Covid19 Crisis ISI 00.00.00377 Aircraft Return into Service Flight Operations Guidelines to be published by end of June announced via FOT 999.004420 Aircraft Return into Service Flight Operations Guidelines Web"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Conference Aircraft Return to Service Flight Operations Guidelines held on June 16, 2020. Presentation materials will soon be available on AirbusWorld in Events Conferences and forums Flight Operations Web Conferences. Security SIT 202001101 Security Guidance for Aircraft Return into Service to be published by the end of June. Other References ICAO Council Aviation Recovery Taskforce CART httpswww.icao.intcovidcartPagesdefault.aspx Includes CART Report Executive Summary Guidance for Air Travel through the COVID19 Public Health Crisis IATA COVID19 Resources for Airlines Air Transport Professionals httpswww.iata.orgenprogramscovid19resourcesguidelines EASA guidelines on the progressive restoration of transport services and connectivity httpsec.europa.euinfositesinfofilescommunication_transportservices.pdf EASA COVID19 Aviation Health Safety Protocol httpswww.easa.europa.eudocumentlibrarygeneralpublications covid19aviationhealthsafetyprotocol EASA SIB 202002R4 07.04.2020 httpsad.easa.europa.euad202002R4 FAA SAFO 20009 11.05.2020 httpswww.faa.govother_visitaviation_industryairline_operatorsairline_ safetysafoall_safosmedia2020SAFO20009.pdf WHO Operational Considerations for managing COVID19 cases or outbreak in aviation 18.03.2020 httpsapps.who.intirishandle10665331488"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "The COVID19 crisis has led to very significant challenges for the world and the commercial aviation sector in particular. With this in mind, it remains every aviation actors duty to reinforce our collective vigilance, ensuring that together we can achieve a successful and safe return to flying. Let us take these reported unreliable airspeed events with positive outcomes as an opportunity to remind all of us of the need for reinforced vigilance. Safety first 30 July 2020 035 CONTRIBUTORS Benjamin CALVET Senior Engineer Air and Inerting System Customer Support Laval CHAN KAM FAI Senior Expert Flight Operations and Training Flight Operations Support Beno\u00eet DUQUESNE Air Data system Support Engineer Customer Support Leon ELTON Engineering Support Customer Support Mathieu LAUSSEL Landing Gear System Support Engineer Customer Support Christoph MAIER Customer Manager Scheduled Maintenance Services NOEL BETEMPS Jean Victor Safety Officer Delegate Customer Support Luc RICARD Electrical Power Systems Support Engineer Customer"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Support With Thanks to Sandra BERGER, Gilles CHASTANET, Christophe DUPHIL, Bruno FARGEON, Ian GOODWIN, Marc HAMY, Thibaut JACQUIN, Steve MONTGOMERY and Capt. Xavier PEPIN"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety fi rst 30 July 2020 037 WHAT IS AN OEB? A Temporary Procedure An Operations Engineering Bulletin OEB is a temporary procedure published for fl ight crews, which must be applied in specifi c conditions to ensure the safe and effi cient operation of the aircraft. An OEB is applicable until a permanent corrective solution is installed on the aircraft. Two Types of OEB There are two types of OEB Red OEB Safety related OEB where noncompliance may have a signifi cant impact on the safe operations of the aircraft White OEB Noncompliance may have a signifi cant impact on the effi cient operations of the aircraft e.g. diversions or delays Where to Find OEBs OEBs can be published and made applicable to any Airbus aircraft with the exception of the A220 family. OEBs can be found in the FCOM of A350 and A380 aircraft. OEBs are currently published"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "in both the FCOM and the QRH for the A320 family and A330A340 aircraft. From the end of 2020, OEBs for these aircraft will only be available in the QRH. A300A310 aircraft OEBs can be found in both the FCOM and QRH."
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Mind the OEBs It is essential that fl ight crews know precisely which OEBs are applicable to their aircraft before each fl ight. HOW FLIGHT CREWS MANAGE OEB s When preparing for a fl ight, the fl ight crew must know the answers to the following questions What are the OEBs applicable to this aircraft? What are the specifi c entry conditions for applying these OEBs? What are the cockpit effects and system effects of the OEBs when applied on the aircraft? Know the OEBs that are applicable to your aircraft It is essential that fl ight crews know precisely which OEBs are applicable to their aircraft before each fl ight. Several events with the potential of negative outcomes have occurred when fl ight crews inappropriately applied an OEB that was not applicable for the aircraft they were fl ying. This risk is higher for Operators with diverse fl"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "eets of aircraft models and of different ages. Some fl ight crews may fl y several aircraft over a short period of time with different OEBs that are applicable. Review the OEBs before each fl ight Airbus Standard Operating Procedures SOPs request fl ight crews to review all applicable OEBs during the preliminary cockpit preparation phase of each fl ight to mitigate this risk, even when in transit. Know when to apply an OEB OEBs only apply in very specifi c conditions. These conditions can be either an ECAM alert or another defi ned event. Flight crews must be precisely able to recognize the defi ned conditions that will require the application of an OEB. Any ECAM entry conditions are defi ned in the OEB and are also described in the LEOEB. If an OEB does not have an ECAM entry condition, the conditions of a defi ned event that"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "requires application of an OEB is provided in the OEB description."
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Inappropriate application of an OEB can potentially impair safety Events have occurred as a result of inappropriate application of an OEB following the misinterpretation of the aircraft parameters. Refer to the Overspeed event with crew takeover and OEB49 application Safety first article June 2019 that describes an incident in which the flight crew improperly applied an OEB whereas the entry conditions were not met . Understand the OEB procedure and its effects Flight crews must fully understand the OEB procedure and the effects of its application. A wellprepared flight crew should already know the content of the applicable OEBs before entering the cockpit or take the time to review them during the preliminary cockpit preparation phase. The explanation of each OEB is attached to the procedure in the FCOM today for all Airbus aircraft, but from the end of 2020 only in the QRH for A320 family and A330A340 aircraft."
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "The explanation provides a concise description of the context and the reason for the OEB. Flight crews must refer to these explanations, and any other supporting materials provided by Airbus, or their flight operations department, to be confident in the correct application of the OEB procedures. HOW TO IMPLEMENT OEB s Airbus Decision to Create an OEB Airbus may decide to publish an OEB when a situation is identified that could pose a potential risk to the safe operations of the aircraft and there is no existing procedure or technical solution to manage this risk. A published OEB is applicable until a permanent corrective solution is installed on the aircraft. Airbus will closely coordinate with Authorities throughout the OEB decisionmaking process and publication of the relevant documentation. As in the case of a red OEB, Authorities will issue an Airworthiness Directive AD and Airbus will issue the associated update of"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "the Airplane Flight Manual AFM. Safety first 30 July 2020 039 Flight crews must be precisely able to recognize the defined conditions that will require the application of an OEB."
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Mind the OEBs The objective for Operators is to deploy any new OEB as soon as it is available. Airbus OEB Publication When the decision is made to issue an OEB, the goal is to make it available to Operators as soon as possible. Notice of an OEB sent to Operators Airbus Flight Operations will issue a Flight Operations Transmission FOT explaining the rationale for the OEB, the content of the OEB itself as an advance copy, and the AFM Temporary Revision text if required for red OEBs. Operational Documentation Update An update to the FCOM and QRH will incorporate the new applicable OEBs published since the last revision. The AFM will also be updated if required for red OEBs. Continuous Support to Operators Airbus provides Operators with supporting materials via the AirbusWorld portal and web conferences to well understand and manage the new OEB, which is key to"
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "safe application of the OEB. Operator OEB Implementation The objective for Operators is to deploy any new OEB as soon as it is available. It is best practice that all Operators have a defi ned process, which will ensure rapid implementation of the OEB and its content is fully understood by fl ight crews. This will contribute to ensuring that the fl ight crew is aware of any applicable OEBs and will reduce the risk of inappropriate application of an OEB."
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "BEST PRACTICE Operators can use the OEB advance copy sent by Airbus with the FOT to make the OEB available in the cockpit for flight crews as soon as possible. HOW OPERATORS REMOVE OEB s When the decision is made to issue an OEB, Airbus takes the necessary actions at the same time to quickly find a solution to cancel this OEB. We must keep in mind that an OEB is only temporary pending the availability of a permanent solution. Implementing an OEB Fix As soon as a solution is found to cancel the OEB, Airbus will publish one or several Service Bulletins SBs with instructions to apply the modifications on the aircraft. A Retrofit Information Letter RIL is usually sent to Operators to inform them of the availability of the SB. KEY POINT As soon as the fix is available to cancel an OEB, it is important to implement"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "it in a timely manner on affected aircraft. It is always better from a safety and operational perspective to operate aircraft with the minimum possible number of OEBs. Operational Documentation Update When SBs are Implemented To prevent inappropriate application of an OEB, it is crucial that the aircraft configuration SB installation and the onboard operational documentation list of applicable OEBs are aligned. This requires close coordination between Maintenance Engineering and Flight Operations to confirm when modifications are implemented on the aircraft which will cancel an OEB. This is to avoid the risk of any significant impact to the safety of a flight if a flight crew were to attempt to apply an OEB procedure that is no longer applicable to their aircraft. Safety first 30 July 2020 041 We must keep in mind that an OEB is only temporary pending the availability of a permanent solution."
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "OPERATIONS Mind the OEBs It is crucial that the aircraft configuration and the onboard operational documentation are aligned. Operators should install the OEB cancellation modifications as soon as possible after they are informed they are available. Report of Service Bulletin Installation to Airbus Service Bulletin reporting is required to ensure that Airbus and Operators share the same view of the retrofit status for the fleet and to trigger the update of all operational documentation. Operators can also request operational documentation to be updated in advance of the standard revision cycle. Reporting is done via the Service Bulletin Reporting Online tool. Ref. ISI 00.00.00135 available on the AirbusWorld portal BEST PRACTICE Service Bulletin reporting should be done aircraft per aircraft and not only reported at the completion of the retrofit cycle for the entire fleet. Operators can manually remove the OEBs from their current versions of operational documentation pending the availability"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "of the updated version. Limiting the Number of Applicable OEBs Limiting the number of OEBs applicable to an aircraft improves safety because it enables the Operator to resume standard aircraft operations. Operators should therefore install the OEB cancellation modifications as soon as possible after they are informed they are available. Airbus Support for OEB Reduction Strategies Operators should define and secure a retrofit strategy for their fleets with appropriate priority management, for example, any corrective actions mandated by an Airworthiness Directive or red OEBs. Operators can ask Airbus Customer Support to provide them with a full status of the available solutions for their current list of effective OEBs, the retrofit priorities, instructions, and recommendations. For Further Information Operators can also access information on the AirbusWorld portal with the updates of the Technical FollowUp TFU associated with an OEB and the latest Digest of Available Safety Enhancements brochure published annually. This"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "brochure includes information on safety enhancements, which were developed in response to the inservice experience of the Airbus fleet. Many of these enhancements will also cancel an associated OEB."
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Inappropriate or incorrect application of an OEB could cause potentially negative outcomes for the safety of a flight. Therefore, it is important that flight crews know which OEBs are applicable to their aircraft when preparing for a flight. The applicable OEBs can be quickly and efficiently reviewed by referring to the List of Effective OEBs or LEOEB in the QRH. There are defined entry conditions for applying the OEB procedure when it is applicable to the aircraft. This can be an ECAM alert or other specific conditions. The flight crew must apply an OEB procedure only if the predefined entry conditions are confirmed as present. Flight crews must also ensure that they review the entry conditions of applicable OEBs during their flight preparation and know what the expected cockpit or system effects will be when the OEB is applied. OEBs are temporary and Operators should limit the number of OEBs"
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "applicable to an aircraft by implementing the OEB cancellation Service Bulletins as soon as possible. The operational documentation must also be updated to reflect the aircrafts configuration so the flight crews have the most up to date list of applicable OEBs. This will prevent inappropriate application of an OEB if the OEB cancellation modifications are already installed. Safety first 30 July 2020 043 CONTRIBUTORS Roger ARRAUD Technical Documentation Operations Support Manager Technical Documentation Configuration and Revision Management Sara GARCIA DELGADO Senior Flight Operations Support Engineer Flight Operations Support and Training Standards Emmanuel JANSSEN Flight Operations Pilot Expert Flight Operations Support and Training Standards Olivier JOSEPH SMS Officer Delegate and MultiProgram Manager Programmes Support With Thanks to Muriel DUCROZ, Cesar GARCIA CASTILLA, Yoan HUDON and Marc LELOUER"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Safety first 30 July 2020 045"
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "ARTICLES PUBLISHED IN PREVIOUS SAFETY FIRST ISSUES Available in the Safety fi rst app and website safetyfi rst.airbus.com Issue 29 January, 2020 GNSS Interference Takeoff Surveillance Monitoring Functions Managing Severe Turbulence Safe Aircraft Parkin Issue 28 July, 2019 Overspeed Event with Crew Takeover and OEB49 Application Management of Overspeed Event in Cruise The Adverse Effects of Unrealistic Simulator Scenarios Preventing Fan Cowl Door Loss Correct Escape Slides Maintenance for Successful Slides Deployment Issue 27 January, 2019 Engine Thrust Management Thrust Setting at Takeoff Prenventing Inadvertent Slide Deployments Preventing Violent Door Opening due to Residual Cabin Pressure Lessons Learned About the TeachIn Function Issue 26 July 2018 Look out for Ice Ridges on the Lower Nose Fuselage High Load Event Reporting Using Aircraft as a Sensor on Contaminated Runways Thrust Reverser Deployment in Fight Issue 25 January 2018 Are You Properly Seated? A Recall of the Correct Use of the MEL"
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Protecting Aircraft and Passengers from Cargo Fire Issue 24 July 2017 Control your Speed... During Descent, Approach and Landing Troubleshooting Airframe Vibrations Preventing Falls from Height Progress to Pinpoint anAircrafts Position Issue 23 January 2017 Safely Flying NonPrecision Instrument Approaches Introduction to the Soft GoAround Function Preparing Flight Crews to Face Unexpected Events Safety, Our Shared Destination Issue 22 July 2016 Pitot Probe Performance Covered On the Ground 180 turns on runway Optimum use of weather radar Issue 21 January 2016 Control your speed... in cruise Lithium batteries safe to fl y? Wake vortices A320 Family Aircraft confi guration Issue 20 July 2015 Control your speed... during climb Lateral runway excursions upon landing Fuel monitoring on A320 Family aircraft Hightaltitude manual fl ying"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Issue 19 January 2015 Tidy cockpit for safe fl ight Landing on contaminated runways Understanding weight balance Wind shear an invisible enemy to pilots? Issue 18 July 2014 Control your speed... at takeoff Safe operations with composite aircraft Learning from the evidence A320 Family cargo Containers pallets movement Parts Departing from Aircraft PDA Issue 17 January 2014 Airbus Brake Testing Hard Landing, a Case Study for Crews and Maintenance Personnel Aircraft Protection during Washing and Painting Flight Data Analysis FDA, a Predictive Tool for Safety Management System SMS Flying a GoAround, Managing Energy Issue 16 July 2013 Performance Based Navigation RNP and RNP AR Approaches Atlantic Airways Introduction of RNP AR 0.1 Operations Flight Crews and DeIcing Personnel Working together in Temporary Teamwork for safe Skies Low Speed Rejected TakeOff upon Engine Failure Late Changes before Departure Issue 15 January 2013 The Golden Rules for Pilots moving from PNF to"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "PM Airbus Crosswind Development and Certifi cation The SMOKEFUMESAVNCS SMOKE Procedure PostMaintenance Foreign Objects Damage FOD Prevention Corrosion A Potential Safety Issue Safety fi rst 30 July 2020 047 Issue 14 July 2012 Thrust Reverser Selection means FullStop Transient Loss of Communication due to Jammed PushToTalk A320 and A330A340 Families A380 Development of the Flight Controls Part 2 Preventing Fan Cowl Door Loss Do not forget that you are not alone in Maintenance Issue 13 January 2012 A320 Family A330 Prevention and Handling of Dual Bleed Loss The Fuel Penalty Factor The Airbus TCAS Alert Prevention TCAP A380 Development of the Flight Controls Part 1 Facing the Reality of everyday Maintenance Operations Issue 12 July 2011 Airbus New Operational Landing Distances The Go Around Procedure The Circling Approach VMU Tests on A380 Automatic Landings in Daily Operation Issue 11 January 2011 What is Stall? How a Pilot Should React in"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Front of a Stall Situation Minimum Control Speed Tests on A380 Radio Altimeter Erroneous Values Automatic NAV Engagement at Go Around Issue 10 August 2010 A380 Flutter Tests Operational Landing Distances A New Standard for Infl ight Landing Distance Assessment Go Around Handling A320 Landing Gear Downlock Situation Awareness and Decision Making"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "ARTICLES PUBLISHED IN PREVIOUS SAFETY FIRST ISSUES Available in the Safety fi rst app and website safetyfi rst.airbus.com Issue 9 February 2010 A320 Family Evolution of Ground Spoiler Logic Incorrect Pitch Trim Setting at TakeOff Technical Flight Familiarization Oxygen Safety Issue 8 July 2009 The Runway Overrun Prevention System The TakeOff Securing Function Computer Mixability An Important Function Fuel Spills During Refueling Operations Issue 7 February 2009 Airbus APFD TCAS Mode A New Step Towards Safety Improvement Braking System Cross Connections Upset Recovery Training Aid, Revision 2 Fuel Pumps Left in OFF Position A320 Avoiding Dual Bleed Loss Issue 6 July 2008 A320 Runway Overrun FCTL Check after EFCS Reset on Ground A320 Possible Consequence of V M Exceedance A320 Prevention of Tailstrikes Low Fuel Situation Awareness Rudder Pedal Jam Why do Certain AMM Tasks Require Equipment Resets? Slideraft Improvement Cabin Attendant Falling through the Avionics Bay Access Panel in"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Cockpit Issue 5 December 2007 New CFIT Event During Non Precision Approach A320 Tail Strike at TakeOff? Unreliable Speed Compliance to Operational Procedures The Future Air Navigation System FANS B Issue 4 June 2007 Operations Engineering Bulletin Reminder Function Avoiding High Speed Rejected TakeOffs Due to EGT Limit Exceedance Do you Know your ATCTCAS Panel? Managing Hailstorms Introducing the Maintenance Briefi ng Notes A320 Dual hydraulic Loss Terrain Awareness and Warning Systems Operations Based on GPS Data Issue 3 December 2006 Dual Side Stick Inputs Trimmable Horizontal Stabilizer Damage Pitot Probes Obstruction on Ground A340 Thrust Reverser Unlocked Residual Cabin Pressure Cabin Operations Briefi ng Notes Hypoxia An Invisible Enemy Issue 2 September 2005 Tailpipe or Engine Fire Managing Severe Turbulence Airbus Pilot Transition ATP Runway Excursions at TakeOff Issue 1 January 2005 Go Arounds in AddisAbaba due to VOR Reception Problems The Importance of the Prefl ight Flight Control"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_30.pdf",
+    "text": "Check A320 Infl ight Thrust Reverser Deployment Airbus Flight Safety Manager Handbook Flight Operations Briefi ng Notes"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety fi rst The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety fi rst is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fl y and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confi dential Reporting System, incident and accident investigation reports, system tests and fl ight tests. Material is also obtained from sources within the airline industry, studies and reports from government agencies and other aviation sources. All articles in Safety fi rst are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "contents do not supersede any requirements mand ated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily refl ect the views of Airbus, neither do they indicate Company policy. Contributions, comment and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Product Safety department W 1, rond point Maurice Bellonte 31707 Blagnac Cedex France Fax 3305 61 93 44 29 safetycommunicationairbus.com Visit us at safetyfi rst.airbus.com or install the Safety fi rst app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "YANNICK MALINGE SVP Chief Product Safety Offi cer editorial Dear Aviation colleagues, I hope that the new year finds you, your families, friends, and colleagues well. The entire Airbus safety team and I pass on our best wishes for a brighter 2021. With the vaccine solutions now becoming available, it gives us hope that we will begin to emerge from this COVID19 situation. However, we will still face some uncertainty, together with all of its associated challenges. Seeing so many grounded and parked aircraft in 2020 was disheartening for everyone, especially in contrast to the normally dynamic operational environment of commercial aviation. In this context, there is also the heightened risk of falling into the complacency trap. It is why we must remain vigilant, and ensure we do everything that is required to safely return to the skies. In response to the evolving circumstances of 2020, aviation actors had to"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "adapt and develop risk management strategies, in particular to avoid this complacency trap. At Airbus, we launched our own task force, which included a dedicated focus on supporting Operators with storage, parking, maintenance practices, and preparing aircraft for their return to service including flight operations aspects. The significant work achieved by our colleagues in Airbus Customer Services and Engineering teams is reflected in the Safety first articles published throughout 2020. These included _Aircraft Parking and Storage_ May, which was followed up by _Preparing_ _for a Safe Return to the Skies_ June, and with further updates provided in the _Parking and_ _Storage Return to Service Summary Letter_ . For flight crews who have recently flown much less than usual, there are articles on _Prevention of Unstable Approaches_ October, _A Focus_ _on the Landing Flare_ September, and the latest article, _A Focus on the Takeoff Rotation_ January. Each article provides operational best"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "practices and the key safety elements for pilots to recall during these critical flight phases. Nevertheless, the aviation industry is not yet clear of the COVID19 wake vortex effect. Therefore, we need to remain focussed on fully applying a risk management mindset and to implement all of the resulting risk mitigation strategies. It is why I strongly encourage every one of us to keep going, and for you to make full use of the abovementioned Airbus safety information, which will support a safe return to flying. Safety in aviation is a part of our professional DNA and our shared passion for aviation. It is why we are pleased to see the readership of the Airbus Safety first articles continue to grow, with over 500,000 visits to safetyfirst.airbus.com and the Safety first app in 2020. I want to thank all of you for engaging with the safety information that we are"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "sharing and for continuing to connect your aviation colleagues with Airbus Safety first in 2021. I look forward to seeing you in the safe skies ahead."
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety fi rst The Airbus Safety magazine Also available in app and website versions"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "NEWS News Parking and Storage Return to Service Summary Letter A dedicated task force in Airbus Customer Support was created in response to the unprecedented impact of the global pandemic on our industry since March this year. As there have been many aircraft grounded for an extended period of time, this letter provides Operators with the latest Airbus guidance on parking storage of aircraft and to ensure their safe return to service. You can download the latest issue of the _Parking and_ _StorageReturn to Service Summary Letter_ by scanning this QR code. This Summary Letter can also be found on the AirbusWorld portal in the _Content LibraryPublicationsNewsletter_ section."
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety first 31 January 2021 005 Safety 31 first OPERATIONS P06 A Focus on the Landing Flare P16 Prevention of Unstable Approaches P24 Attention! Crew at Stations! P36 A Focus on the Takeoff Rotation"
+  },
+  {
+    "page": 8,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "A Focus on the Landing Flare There were several cases of aircraft touching down with their nose landing gear fi rst or hard landings reported to Airbus over the last 2 years. This article will present some key points coming from the analysis of two of these incidents and recall the operational recommendations for performing the fl are phase that are key to ensuring a safe landing."
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety fi rst 31 January 2021 007 CASE STUDY 1 BOUNCED LANDING, NOSE LANDING GEAR IMPACT, AND A TAIL STRIKE ON GOAROUND Event Description An A320 was on the fi nal approach segment of its ILS approach, confi gured for landing CONF FULL. The Pilot Flying PF disconnected the autopilot at 370 ft Radio Altitude RA and kept autothrust ON. At 200 ft, tailwind variations caused the airspeed to drop below approach speed Vapp. 1 From 100 ft RA and below, high tailwind gradients maintained the airspeed below Vapp 5 kt despite autothrust increase and reached a minimum of 119 kt Vapp 20 kt at 5 ft RA. 2 The PF performed the fl are at 14 ft and at the same time started to slowly push the thrust levers above CLB detent . 3 The aircraft touched down on its main landing gear and bounced . During the bounce,"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "a PITCH PITCH auto callout triggered. 4 The PF applied full nose down order and retarded the thrust levers to IDLE . This triggered an extension of ground spoilers leading the aircraft to heavily impact the runway, fi rst with its nose landing gear and then its main landing gear. 5 The impact of the nose gear resulted in another sudden increase of the aircrafts pitch and the PITCH PITCH auto callout triggered for a second time. The PF initiated a goaround by setting TOGA thrust and applying a full nose up command. There was a tail strike as the aircraft lifted off from the runway at 133 kt. The NLG wheels separated due to the impact of the NLG on the runway and one wheel was sucked into Engine 1, causing this engine to stall. Other system failures occurred due to the impact on the NLG and these caused"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "the aircraft to revert to alternate law. The fl ight crew diverted to a different airport and eventually landed the aircraft."
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS A Focus on the Landing Flare fi g.1 Sequence of events from case study 1 Operational Considerations Role of the Pilot Monitoring PM The FCOM SOP for landing requests a SPEED callout by the PM in the case of speed deviation of 5 kt below the target speed. The PF should initiate a goaround unless they consider that a stabilized condition can be recovered by small corrections to the aircraft and within suffi cient time prior to landing. The FCTM states that the risk of tail strike is increased due to the high angle of attack and high pitch attitude if the speed of the aircraft is allowed to decrease too far below Vapp before the fl are. Looking at step 1 in the event described above, it shows the speed went below Vapp 5 kt from 100 ft and below. If the PM had made a SPEED callout"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "then the PF may have noticed the speed decay and attempted to correct it or initiate a goaround if it was not likely to stabilize in time. Flare Height The FCOM states that in a stabilized approach, the fl are should be initiated at 30 ft for A320 family aircraft the values for other Airbus aircraft are provided later in this article. The FCTM recommends initiating the fl are earlier if there is a tailwind. This is because a tailwind will contribute to a higher ground speed with an associated increase in vertical speed to maintain the approach slope. Initiating the fl are earlier would have reduced the high vertical speed of the aircraft in the event described above. Thrust Lever Management The A320 FCTM explains that the fl ight crew can rapidly retard all thrust levers to IDLE either earlier or later than the 20 ft RETARD auto callout"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "reminder depending on the conditions. However, the thrust levers should be at IDLE by touchdown to ensure that the ground spoilers will extend and keep the aircraft on the ground."
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety first 31 January 2021 009 In step 2 of the event, the PF pushed the thrust levers above the CLB detent during flare. This increased thrust and inhibited the ground spoiler extension during the initial touchdown, which contributed to the aircraft bounce. Bounce Management For a high bounce, as was the case in the incident described above, the FCTM recommends maintaining the aircrafts pitch attitude and performing a goaround. The hard impact of the nose landing gear with the runway described in step 4 of the event was caused by extension of the ground spoilers when the thrust levers were retarded to IDLE during the bounce combined with a full forward stick input after the bounce. GoAround Close to the Ground The FCTM recommends avoiding an excessive rotation rate during a goaround close to the ground and to counteract any pitchup effect due to the thrust increase. In step"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "5 of the event, it was the full back stick input combined with the nose landing gear bounce and thrust increase that contributed to the tail strike. CASE STUDY 2 A321 NOSE LANDING GEAR LANDING Event Description The A321 performed an ILS approach in night conditions. The weather was fine and there was a 10 kt headwind. The flight crew switched OFF the autopilot at 940 ft RA and kept the FD ON. The autothrust was ON and the speed was stabilized at approach speed. 1 From 110 ft RA to 50 ft RA, the PF applied several nose up inputs that increased the aircraft pitch attitude to 3.8 nose up. The autothrust commanded a thrust increase to maintain Vapp. The aircraft consequently flew over the runway threshold at around 40 ft RA with a vertical speed close to 0 ftmin. 2 The PF applied several pitch up inputs that"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "maintained the nose up pitch attitude and the aircraft subsequently floated above the runway for 4 seconds. At around 20 ft RA, the PF retarded the thrust levers progressively to IDLE. 3 4 seconds later the aircraft was at around 10 ft and the PF applied a full forward stick input . The nose landing gear heavily impacted the runway 660 m after the runway threshold, followed by the main landing gear. Both nose landing gear wheels separated due to the severe impact and the aircraft finally stopped on the runway centerline resting on its nose landing gear axle."
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS A Focus on the Landing Flare fi g.2 Sequence of events from case study 2 Operational Considerations Flare Height The FCOM recommends a fl are manoeuvre at around 30ft for an A320 family aircraft in a stabilized condition. The fl are described in the case study 2 was initiated too early at 110 ft RA and autothrust was kept engaged. This Led to the aircraft crossing the runway threshold with a vertical speed close to 0 ftmin. Thrust Lever Management The autothrust is active and targets the approach speed or selected speed as long as thrust levers are not retarded to IDLE detent. In this event, the aircraft descent rate was almost 0 ftmin at the runway threshold. The ATHR was still active thrust levers remained in CLB detent and targeting the approach speed. This led the aircraft to fl oat above the runway for several seconds until the"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "PF retarded the thrust levers. Pitch Control The FCTM states that the PF must avoid using nose down inputs once fl are is initiated. The PF can release the back stick input slightly as required. In step 3 of this event, the aircraft pitch down effect due to the full forward stick input, combined with the aircrafts descent rate, resulted in a heavy impact of the nose landing gear with the runway surface. GoAround Decision The FCTM states that if a normal touchdown point cannot be reached, a goaround or rejected landing should be performed. In this event, the appropriate action would have been for the PF to initiate a goaround when the aircraft was in a fl oat condition above the runway."
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "RECIPE FOR A SAFE LANDING The recommendations below summarize the procedures and techniques provided in the FCOM and FCTM. Be stabilized A safe flare can only be achieved when the aircraft is stabilized, meaning that all of the flight parameters areas expected, including the aircraft is on its expected final flight path lateral and vertical speed is close to Vapp, and wings are level. If the aircraft reaches the flare height at the correct speed and it is on the expected flight path, then a normal flare technique will lead to a safe landing. PM must call out any flight parameter deviation Careful monitoring of the flight parameters including speed, pitch, bank and vertical speed, enables the PM to raise the attention of the PF to any deviation during the final approach. This will enable the PF to respond accordingly and initiate a goaround, if required. Refer to the FCOM"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "SOP for Approach for more information about the PM callout related to the flight parameter deviation threshold. Flare at the right time Flare should be initiated at around 30 ft RA A220A300A310A320 40 ft A330A340A350A380 in stabilized conditions. Factors that may require an earlier initiation of the flare Steeper approach slope more than the nominal 3 Increasing runway slope or rising terrain before the runway threshold Tailwind High airport elevation. If the aircraft reaches the flare height at the correct speed and it is on the expected flight path, then a normal flare technique will lead to a safe landing. Careful monitoring of the flight parameters including speed, pitch, bank and vertical speed, enables the PM to raise the attention of the PF to any deviation during the final approach."
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS A Focus on the Landing Flare fi g.3 Factors that may require an earlier fl are The PF must avoid forward stick inputs once fl are is initiated. fi g.4 Flare technique on Airbus fl ybywire aircraft Flare correctly On Airbus fl ybywire aircraft The PF should apply a progressive and gentle back stick order until touchdown. The PF must avoid forward stick inputs once fl are is initiated. The PF can gradually release the back stick input if needed. The PF must perform a goaround If a normal touchdown point cannot be reached. Any forward stick input after fl are is initiated will increase the risk of landing on NLG with hard impact."
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "On A300A310 aircraft The PF must start the fl are with a positive and prompt back pressure on the control column to break the descent rate. The PF must then maintain a constant and positive back input on the control column until touchdown. Retard! A320A330A340A350A380 aircraft The 20 ft RETARD auto callout is a reminder, not an order. The PF can retard the thrust levers earlier or later depending on the conditions. The PF must ensure that the thrust levers are at idle in any case, by touchdown at the latest, to enable automatic extension of the ground spoilers. Delaying the retard of the thrust levers may increase the landing distance because the autothrust will target Vapp or the selected speed until it is disconnected by moving the levers to the IDLE detent. A220 aircraft The A220 is different from the rest of the Airbus family, because when the thrust"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "levers are engaged, they continuously respond to autothrust commands. The A220 does not have any callout for retard. The Flight Mode Annunciator displays the status of the autothrust when it is armed and active at the top of the PFD or the HUD. When the autothrust RETARD function is activated, it will automatically reduce the thrust levers to idle. When the autothrust RETARD function is armed, it will be activated at 30 ft AGLexcept in the case of an autoland, when it will be activated between 20 and 15 ft AGL depending on the condition. If the autothrust is not armed or if the autothrust RETARD function is not activated, the fl ight crew manually retards the thrust levers to idle at 30 ft AGL. Note that the A220 ground spoiler is activated if the thrust levers are at or near the idle position. A300A310 aircraft If autothrust is engaged,"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "the PF monitors throttle reduction to idle at 30 ft. If the thrust is controlled manually, the PF retards throttles progressively to idle at 2030 ft. The PF should hold a positive back pressure input on the control column to counter the nosedown pitching moment as the thrust is reduced. Maintain the aircraft pitch in the case of a bounce The FCTM recommends to maintain the pitch attitude in the case of a light bounce at landing. The aircraft will make a second lighter touchdown and the landing roll can continue. Safety fi rst 31 January 2021 013 The PF must ensure that the thrust levers are at idle in any case, by touchdown at the latest, to enable automatic extension of the ground spoilers. fi g.5 Management of a light bounce"
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS A Focus on the Landing Flare fi g.6 Management of a high bounce The PF can abort the landing and goaround at any time until the thrust reversers are selected. However, when the reversers are selected, the landing must be continued. The FCTM recommends to maintain the pitch attitude and initiate a goaround in the case of a high bounce . Maintaining the pitch attitude, and counteracting any pitchup tendency due to the thrust increase, enables the fl ight crew to avoid a tail strike and ensure a softer secondary touchdown should this occur. Be goaround minded The PF must perform a goaround if any parameter deviation becomes excessive, or if the aircraft is destabilized just prior to the fl are. If the aircraft fl oats above the runway, the fl ight crew must initiate a goaround instead of attempting to recover the situation. The PF can abort the"
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "landing and goaround at any time until the thrust reversers are selected. However, when the reversers are selected, the landing must be continued. Avoid excessive rotation rate in a goaround close to the ground When the fl ight crew initiates a goaround close to the ground, they must avoid an excessive rotation rate to limit the risk of tail strike. The fl ight crew must wait until the aircraft is safely established in the goaround before retracting the fl aps by one step and the landing gear."
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "CONTRIBUTORS Raimund GEUTER Expert Pilot Flight Operations Support Sundeep GUPTA AccidentIncident Investigator Product Safety Thomas LEPAGNOT AccidentIncident Investigator Product Safety Marc LELOUER A300A310 Flight Operations Support Engineer Customer Support With thanks to Xavier LESCEU, Andris LITAVNIKS and Christian PAQUINLAVIGNE and from Airbus Canada. Safety first 31 January 2021 015 The landing phase is very demanding and it requires good coordination between the flight crew. The FCOM procedure and FCTM provide the recommended techniques that must be carefully followed to ensure a safe landing. The Pilot Flying must ensure that the aircraft is established on the expected final approach path at the approach speed. They will apply progressive back stick input at the correct height, which has been determined depending on external parameters. Any forward stick inputs must be avoided once flare is initiated. The thrust levers must be retarded to IDLE, by touchdown at the latest, for the ground spoilers"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "to deploy. In the case of a bounce at touchdown, the PF must maintain the pitch attitude and decide to either continue the landing if the bounce was light, or to goaround if it is a high bounce. In the case of a high bounce, the PF must not attempt to land the aircraft by applying nose down input on the sidestick. The PM also plays an essential role throughout the entire landing sequence.The PM is expected to call out any deviation of the flight parameter to the PF, which will ensure that the PF can react accordingly or initiate a goaround if the deviation cannot be corrected in a timely manner. Avoiding an excessive rotation rate of the aircraft for a goaround initiated close to the ground will prevent a tail strike. The PF must be prepared for a goaround, and initiate a goaround in the case of late"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "destabilization or if the aircraft floats above the runway. A goaround can be initiated at any time during flare or landing roll until thrust reversers are selected. However when the reversers are selected, the landing must be continued."
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Unstable Approaches Unstable approach has been a problem since the very beginning preparation for approach including anticipation of late changes, and the need for cooperation between fl ight crews and air traffi c"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety first 31 January 2021 017 MANAGING CHANGES IN AVIATION New challenges A global pandemic, such as COVID19, has several ramifications for the aviation industry. This includes the challenge for pilots to maintain recency in the face of an unprecedented drop in air traffic. Ongoing concerns about the effects of the pandemic can also be distracting for flight crews. It is an important reminder for crews to remain focused on their tasks throughout the flight. Especially during very dynamic and variable phases such as arrival, approach, and landing. Modified ATC guidance In a congested airspace, ATC sequences the large number of aircraft arriving at their destination airport by providing speed and trajectory guidance. However, ATC may not transmit this guidance when the traffic is low. Flight crews should therefore avoid the trap of expecting ATC to provide this guidance in usually congested airspaces, and always be aware of the need"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "to monitor and control their energy. Shortened approach trajectories When an airspace is less congested in situations like the COVID19 pandemic, ATC can clear flight crews on more direct routings. The flight crew must then quickly adapt their strategy to efficiently manage the aircraft energy due to the shortened approach trajectories. In all cases, the flight crew must take advantage of the various tools and techniques available to efficiently manage and monitor their energy."
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS Prevention of Unstable Approaches PREPARATION FOR A STABILIZED APPROACH Energy Management Good aircraft energy management from the top of descent is a prerequisite for a stabilized approach. Aircraft energy management is a combination of tools, anticipation, and a flexible flight crew action plan. Use of the Flight Management System The use of the FMS during descent, approach, and landing provides efficient assistance to the flight crew to manage the energy of the aircraft and reach the final approach at the correct speed. The Procedures Normal Procedures Standard Operating Procedures Descent from the FCTM provides details on how the FMS computes the descent profile and how the use of the managed guidance modes enables the aircraft to stay near this ideal profile during descent. This is also described in the Control your speed during descent, approach and landing Safety first article published in July 2017. Anticipation of late changes In"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "areas that use specifically constructed arrivals and approaches that enable sequencing of high volumes of traffic in congested environments, the anticipation of a late direct to request from ATC, if traffic is low, can help to reduce the crew workload and stress. The flight crew should review the planned approach trajectory and be prepared for the worst case scenario of a direct to that would significantly reduce the track miles to the runway. Discussing the approach strategy during the Approach Briefing During the approach briefing, management of late changes due to ATC requests should be anticipated and discussed, ensuring the strategy and task sharing are clearly defined. This should be part of the flight crews Threat and Error Management TEM considerations. Cooperation between flight crews and air traffic controllers Cooperation between flight crews and ATC is essential to prevent situations that may lead to an unstable approach. The Air Traffic"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Controller should inform the flight crew if a shorter route is expected as soon as possible . This would enable the flight crew to anticipate and adapt their strategy accordingly and avoid high workload in the last phases of the approach. Flight crews should alert ATC when they are unable to comply with any request and should ask for additional track miles to manage the aircrafts energy if necessary. Selecting the appropriate approach speed technique The decelerated approach is the standard technique for approach using xLS ILS, MLS, GLS or FLS or FINAL APP guidance."
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "However, Airbus recommends that the flight crews use an early stabilized approach technique when a selected guidance is used TRKFPA or LOCFPA the final approach path is at a high glide path angle the intermediate approach segment is at a lower altitude than usual, and as a result, the Final Descent Point FDP is at a shorter distance from the runway The flight crew should enter Vapp as a speed constraint at the FDP, enabling the FMS to calculate the adjusted vertical descent profile not applicable to A220 aircraft. The Control your speed during descent, approach and landing Safety first article, published in July 2017, illustrates the two approach speed techniques. EARLY DETECTION OF AN UNSTABLE APPROACH In many cases, a potential unstable approach can be detected long before the stabilization height. The flight crew should take advantage of the tools and techniques available for early detection of an unstable"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "approach. This will enable them to take the time to recover the situation using trajectory modification in cooperation with ATC. This will avoid the need for lastminute corrections by the flight crew or a discontinued approach. Situational awareness Use of the FMS VDEV indication during descent The use of the FMS VDEV indication available on the FMS PROG page A320 A330A340, PERF DES page A380A350, or FMS DES page A220 and its indication on the PFD altitude scale fig.1 and VSD A220 provides the flight crew with an indication of the aircraft position compared with the FMS descent profile. This indication is also useful when radar vectored and flying near the FMS route. Sequencing of the FMS Flight Plan The flight crew needs to sequence the FMS flight plan if it is not done automatically when in selected lateral modes during radar vectors. It enables the FMS to compute an"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "updated descent and approach trajectory and therefore to still provide a useful reference to the crew. In addition, it allows the flight crew to switch back to managed guidance mode when cleared from ATC constraints. More information on the Flight Plan sequencing is available in _Procedures _ _Normal Procedures Standard Operating Procedures Approach Configuration_ _Management Initial approach_ in the FCTM. Safety first 31 January 2021 019 fig.1 Example of a VDEV indication on the PFD altitude scale of an A320"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS Prevention of Unstable Approaches fi g.2 Computation principle of the energy circle fi g.3 CDA pseudo waypoints on the Navigation Display Use of the energy circle A320A330A340A350A380 The ND will display the energy circle when the aircraft is in HDG or TRK lateral guidance modes and within 180 NM of its destination. It provides a visual cue of the minimum required distance to land, i.e. the distance required to descend in a straight line from the current aircraft position at its current speed down to the altitude of the destination airport at approach speed. The descent profi le used to compute the distance takes into account speed limits, the wind, a deceleration leveloff segment and a 3 fi nal approach segment fi g.2 . If the airport is inside the energy circle, the fl ight crew should take action to adjust the situation using speed or rate of descent"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "adjustments or speedbrakes as necessary or by requesting additional track miles from ATC. The fl ight crew needs to keep in mind the computation logics of the energy circle to better take advantage of the indications displayed on the ND. Use of the bearingdistance fi eld in the PROG page The fl ight crew should consider inserting the landing threshold in the BRGDIST fi eld of the FMS PROG page. This will provide the direct distance to the landing threshold, and therefore, a very conservative estimation of the shortest possible distance to land. To do a quick mental estimation of the vertical position vs. distance, the fl ight crew can use the formula DELTA FL DIST nm 3 DEG. Continuous Descent Approach CDA function A320A330A350 The CDA function is standard on all A350 aircraft and is an option on A320 and A330 aircraft equipped with Release 2 FMS standard. The"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "CDA function computes a continuous descent profi le that ensures the aircraft is confi gured for landing and is at VAPP, at 1 000 ft AAL. The CDA function displays pseudo waypoints on the ND fi g.3 indicating to the fl ight crew the latest position to extend the slats and fl aps in order to follow the vertical profi le of the approach."
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety first 31 January 2021 021 Crosscrew Communication Efficient crew communication is essential during the entire flight, especially during the whole dynamic approach phase that can include several changes in speed and aircraft configuration in addition to the navigation and the guidance toward the final segment. Flight crewmembers should express any concern they may have about a parameter they are not comfortable with, even before reaching the stabilization height. Such an exchange can bring the attention of the other flight crewmember to a parameter that may not have been noticed. This communication between the crewmembers will also prepare them for a potential discontinued approach or goaround and will prevent a rushed goaround maneuver at the last minute. BE PREPARED TO INTERRUPT THE APPROACH AT ANY TIME The flight crew should be prepared to discontinue the approach or goaround at any time, if it is not possible to reach or maintain"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "a stabilized flight path. Discontinued approach versus goaround If the flight crew needs to interrupt the approach at or above the FCU altitude, then the Discontinued approach procedure should be considered. If the flight crew interrupts the approach below the FCU altitude, then the goaround procedure should be applied. For more information, refer to the Flying a Goaround, Managing Energy Safety first article published in January 2014. Soft goaround To limit the aircraft acceleration during goaround, especially when the aircraft is light, the soft goaround can be used on aircraft equipped with the soft goaround function. Refer to the Introduction to the Soft Goaround Function Safety first article published in January 2017 for more information. THE STABILIZATION GATE Rigorous respect of a stabilization gate provides a good basis for the accomplishment of a subsequent safe landing a stabilized aircraft at the stabilization height enables the pilot flying to be prepared"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "for a safe and efficient landing flare. Operators should define and provide their flight crew with a clear definition of their stabilization criteria and stabilization height based on the FCOM guidance, their local regulations and experience."
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS Prevention of Unstable Approaches fi g.4 FCOM stabilization criteria for an A320 aircraft In IMC, a later speed and thrust stabilization can be acceptable provided that It is allowed by Operator policies and regulations The aircraft is decelerating toward the target approach speed The fl ight crew stabilizes speed and thrust as soon as possible and no later than 500 ft AAL. The fl ight crew does not detect any excessive flight parameter deviation. Operators should encourage their fl ight crews to strictly respect the stabilization gate and to perform a goaround if they cannot achieve the criteria or if they do not feel comfortable with the stabilization of their aircraft. A nonpunitive policy regarding goarounds combined with adequate goaround training using various scenarios will increase fl ight crew confi dence in their handling of the maneuver and will improve their goaround decision making. Stabilization criteria from the FCOM"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "fi g.4 illustrated below provides guidance to help Operators defi ne their own stabilization policy. If one of the conditions is not satisfi ed, the fl ight crew should initiate a goaround, unless they estimate that only small corrections are required to recover stabilized approach conditions. LATE AIRCRAFT DESTABILIZATION Being stabilized at a gate is not suffi cient to ensure a safe and effi cient landing. The fl ight crew must keep the fl ight parameters stable and within the limits until the landing. However, some external conditions such as wind gradients may lead to late destabilization. Close monitoring of the fl ight parameters The nearer the aircraft gets to the ground, the greater the importance of effi cient monitoring of the fl ight parameters is."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety first 31 January 2021 023 The PM must make a callout if any flight parameter deviates above the defined thresholds. The PF must then either correct the deviating parameter, if possible, or initiate a goaround if the correction cannot be made in a timely manner. Refer to the FCOM Procedures Normal Procedures Standard callouts Flight parameters for information about the callouts to be used during approach and the thresholds for flight parameters deviations. The A focus on the Landing Flare Safety first article, published in September 2020, provides an example of a late destabilization in final approach and the associated recommendations for goaround near the ground. CONTRIBUTORS Dirk DEWINTER Flight Ops Training Pilot Expert Customer Support Craig HILDEBRANDT Senior Director Safety Flight Operations Technical Affairs Airbus America Vincent SIBELLE Flight Ops Training Pilot Expert Customer Support With thanks to Marc LELOUER from the A300A310 Flight Operations Support and Andris"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "LITAVNIKS from Airbus Canada. Every pilot is already aware of the potential safety consequences of an unstable approach condition. Knowing that an unstable approach is still a contributing factor to many accidents or incidents during approach and landing, it is why repeating and sharing the lessons learned can ensure the flight crew is well prepared to ensure a safe landing. Flight crews should anticipate scenarios that can happen during descent and approach during their approach briefing, such as late changes requested by ATC. The aircrafts energy can then be efficiently managed by using the available tools and techniques provided in Airbus documentation. This will also enable the flight crew to identify any possibility of an unstable approach as soon as possible, allowing for early intervention to either recover the situation or to interrupt the approach. Anticipating late change in the action plan for the approach and landing phases is part"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "of the Threat and Error Management TEM considerations. Cooperation with ATC is essential to ensure that the flight crew are informed of any expected shortened trajectory in advance, so they can adapt their strategy accordingly. Flight crews should alert ATC when they are not able to comply with a request, and if necessary, ask for additional track miles to manage the aircrafts energy. Operators should promote strict adherence to stabilization criteria with flight crews and to consider the stabilization height as a hard decision gate that should not be passed if any of the stabilization criteria is not met. A nonpunitive policy regarding goaround should apply together with appropriate training for goaround in various situations. This will increase the confidence and competencies of the flight crews to discontinue the approach or perform a safe goaround at the appropriate time in the case or with the risk of an unstable approach."
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "passengers, cabin crews, and fl ight crews. Decisions have to be cockpit is not clear, or the evacuation is delayed by passengers From the prefl ight briefi ng until the safe evacuation of all aircraft"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety first 31 January 2021 025 CASE STUDY 1 Event Description An A319 was taxiing along the taxiway when the passengers and the cabin crew detected smoke in the cabin. The purser used the interphone to notify the flight crew and asked the captains permission to evacuate. The captain set the parking brake to stop the aircraft on the taxiway, and called ATC to report that they detected smoke in the cabin and that they would initiate an emergency evacuation. As the smoke became thicker in the cabin, the purser called again to the cockpit, insisting that an evacuation was necessary and requested that the captain urgently initiate the evacuation. The captain turned on the evacuation alarm by pressing the COMMAND pushbuttonswitch on the EVAC panel to initiate the evacuation, but did not make an announcement to the cabin using the Passenger Address PA system. The cabin crew immediately began"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "the evacuation but both engines were still running. The cabin crew at the rear doors of the aircraft had to hold up the passengers ready to evacuate the aircraft for more than 30 seconds until the engines were shut down. The flight crew saw the ECAM alert indicating that the doors were open with engines running, and shut down the engines using the engine fire pushbuttons instead of the master switches. Event Analysis Without the presence of any ECAM alerts and with pressure from the cabin crew, the captain initiated the emergency evacuation. The QRH EMER EVAC procedure, that specifically requests the flight crew to ensure that the engines are shut down before initiating the evacuation, was not followed. Because no announcement was made in the cabin for the evacuation, some passengers mistook the evacuation alarm as a smoke alarm and they did not immediately react, causing some delay to"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "begin the evacuation. Other passengers gathered their personal belongings, this resulted in some minor injuries caused by people pushing past them or climbing over one another in the aisle to reach the exits. CASE STUDY 2 Event Description The left engine of an A320 suffered a contained failure during the takeoff roll at a ground speed of 31 knots. The captain immediately rejected the takeoff and brought the aircraft to a stop on the runway. He announced ATTENTION CREW ON STATION twice."
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS Attention! Crew at Stations! Maintaining effective communication and ensuring compliance with the Standard Operating Procedures starts with the preflight briefing. The flight crew completed the ECAM actions, shut down the left engine, and contacted the Rescue and Fire Fighting Services to make sure that no fire was visible outside the aircraft. The flight crew decided to taxi the aircraft off the runway and were about to tell the cabin crew to resume normal operations, but the purser had already initiated an emergency evacuation. Event Analysis The purser initiated the emergency evacuation and did not inform the flight crew despite the ATTENTION CREW ON STATION announcement, which clearly indicated that the flight crew was in control of the situation. Lack of knowledge of the communication system hindered communication between the crew members. Even though there was no sign of immediate danger, the purser initiated the emergency evacuation without a decision"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "from the captain and with the right engine still running. Fortunately, only some passengers suffered minor injuries, some of which were caused by them being blown over by the jet exhaust coming from the right engine that was still running. Many of the passengers gathered their personal belongings and took these with them when they evacuated the aircraft. BE PREPARED FOR EVACUATION Being prepared makes it easier to perform an emergency evacuation and will help the crew in their capacity to make decisions and apply the Standard Operating Procedures in a stressful environment. Aircraft Knowledge To ensure efficient evacuation, the cabin crew must have extensive knowledge of the aircraft systems. This includes the cabin communication system and the aircraft configuration, especially the cabin layout that could impact visibility of the cabin and other cabin crew members or generate congested areas. Operating a diverse fleet can imply various cabin configurations that"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "have different numbers of exits or positions of galleys and toilets. Cabin crew must be familiar with the cabin layout to ensure an efficient emergency evacuation."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Crew Briefing Maintaining effective communication and ensuring compliance with the Standard Operating Procedures starts with the preflight briefing. This is when the flight crew and cabin crew should define together any parameters that could affect their decisionmaking if an emergency were to occur. It is also the opportunity to review the emergency evacuation procedure with the associated standard callouts, and discuss them in the context of the upcoming flight. The crew should take into account any specific conditions such as airport equipment, external conditions, and the application of MEL items. Passenger Identification Briefing At the beginning of the flight, the cabin crew must select the Able Bodied Passengers ABP who are able to assist them in the case of evacuation. They must also identify any passengers who may require additional support during evacuation for example unaccompanied children. The preflight briefing will help passengers to be better prepared for an evacuation"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "if passengers are encouraged to pay attention. The cabin crew will indicate the location of the nearest emergency exits, and should remind passengers to leave all personal belongings inside the aircraft in the event of an evacuation. BEST PRACTICE The Silent Review The silent review or 30second review is recommended for cabin crew to mentally recall the key aspects of the emergency evacuation procedure while they are seated at their station before each takeoff and landing, and decreases the risk of distraction. This silent review will help the cabin crew to focus and be prepared in case an emergency evacuation is required. This technique will also help to minimize the startle effect. STOP INFORM ECAM ASSESS In the case of an emergency situation during takeoff or landing, task sharing should be established and respected so that the crew are well prepared for a potential emergency evacuation. Stop the aircraft The"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "flight crew must bring the aircraft to a stop and set the parking brake. In the case of fire, they should consider positioning the aircraft so that the wind direction will blow the flames away from the fuselage. Inform ATC Once the aircraft is stopped, the flight crew should notify the ATC. Safety first 31 January 2021 027 The cabin crew should remind passengers to leave all personal belongings inside the aircraft in the event of an evacuation."
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS Attention! Crew at Stations! The decision to evacuate should rely on the captains judgement based on their assessment of the overall situation. Captain Inform Cabin Crew After the aircraft stops, the captain tells the cabin crew to prepare for a possible evacuation. The ATTENTION CREW AT STATION callout is made through the Passenger Address system, which lets the cabin crew know the flight crew is not incapacited and that they are performing actions to determine if evacuation is required. This callout avoids unnecessary evacuations initiated by the cabin crew. First Officer Clear ECAM Actions The first officer should independently perform any ECAM action in a read and do manner. On A220 aircraft, the first officer should independently perform the Electronic Checklist ECL procedure from any EICAS message in a read and do manner. When the ECAM actions or ECL procedures are completed, the first officer can then assist the"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "captain with the situation assessment. Captain Assess the Situation The captain should use any possible means to get a clear and comprehensive overview of the situation. They can use direct communication with any relevant person, for example, cabin crew, ATC, ground personnel, Rescue and Fire Fighting Services. The decision to evacuate should rely on the captains judgement based on their assessment of the overall situation. Cabin crew Assess the Situation and Identify Usable Exits As soon as the flight crew informs the cabin crew of the possible evacuation, the cabin crew must assess the situation at each cabin station. They should identify the available exits and begin to assess the outside conditions as well as the conditions inside the cabin. The cabin crew must communicate any pertinent information to the flight crew. DECIDE SECURE INITIATE Decide if evacuation is required The situations that lead to an emergency evacuation are very"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "stressful with a high workload in a short period of time for both flight crew and cabin crew. The decision to evacuate is irreversible and can have severe consequences."
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "The main factors that result in the crew initiating an emergency evacuation are uncontrollable fi re, thick smoke, and severe structural damage. In most cases, the fl ight crew initiates the evacuation. However, in catastrophic situations with immediate risks of lifethreatening injuries or when the fl ight crew is incapacitated, the cabin crew can decide to initiate the evacuation. No evacuation required If the situation does not require an evacuation, the captain should notify the cabin crew and ATC, and should resume normal operations. Need for evacuation If the situation requires an evacuation, the captain calls for the EMER EVAC procedure to be performed. Secure the aircraft as per EMER EVAC Procedure To ensure safe evacuation, the fl ight crew must secure the aircraft before the evacuation is initiated by performing the following actions 1 Check the cabin P0 on the CAB PRESS SD page to prevent explosive door opening"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "due to residual pressure if manual pressure mode was used in fl ight. 2 Set all engine master switches to OFF 3 Press all engines and APU FIRE pushbuttons to secure them 4 Press relevant ENG andor APU AGENT pushbuttons as required in case of engine andor APU fi re. On A220 aircraft, step 1 is performed after step 4 . The fl ight crew ensures cabin P0 by setting the EMER DEPRESS guarded switch to ON. Order from fl ight crew The captain initiates the evacuation with a short and clear announcement to the cabin crew over the PA. For aircraft equipped with the EVAC panel optional for A300600A310A320 A330A340A350 aircraft, standard for A380 aircraft, the captain presses the EVAC COMMAND guarded pushbuttonswitch. Safety fi rst 31 January 2021 029 To ensure safe evacuation, the fl ight crew must secure the aircraft before the evacuation is initiated. fi g.1"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Example of the A320 aircraft securing steps before evacuation initiation"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS Attention! Crew at Stations! fi g.2 Example of EVAC panel on A350 aircraft fi g.3 Example of Forward Attendant Panel FAP lower section A320 aircraft For A220 aircraft, the captain presses the EVAC CMD guarded switch. This ensures clear communication with the cabin crew and helps the fl ight crew to focus on other actions in this highworkload situation. Immediately after the emergency evacuation is initiated, the captain advises the ATC. NOTE On A220, A330A340 aircraft equipped with aircraft modifi cation 49314 CIDS emergency power update, A340500600, A350, and A380 aircraft, the fl ight crew must switch off the batteries. This is to make sure that after the aircraft comes to a stop, power is still supplied to the CIDS for 10 minutes. This is required by regulations in the case of emergency evacuation due to an electrical emergency. Order from cabin crew The cabin crew can initiate an"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "emergency evacuation only in the case of a catastrophic event or if the fl ight crew is incapacitated and normal disembarkation is no longer possible. The cabin crew can use the EVAC command available on the Flight Attendant Panel or as an option on any Additional Attendant Panel. They can also use this command to request that the fl ight crew initiate an evacuation if they are not authorized to do so directly. KEYPOINT Even if the cabin crew can initiate an emergency evacuation they must try to contact the fl ight crew fi rst to avoid any unnecessary evacuation."
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "EVACUATE, EVACUATE, OPEN SEAT BELTS! An efficient evacuation is a quick and safe evacuation The objective of an emergency evacuation is to evacuate all aircraft occupants as quickly and as safely as possible to ensure they have the best chance of survival in the case of a lifethreatening situation. Therefore, after the cabin crew identify the usable exits and check that the slides are deployed and inflated, the objective for them is to maintain an evenlydistributed flow of passengers towards all available exits. Crew Coordination and Adaptation Throughout the evacuation process, a constant real time assessment of the situation is necessary in terms of aircraft and external conditions, exit usability, and passenger flow. The situation can change rapidly and efficient communication between all the crew is essential to share any elements that can impact the evacuation Presence of immediate danger such as fire or smoke, an exit becoming unusable due"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "to a damaged slide or external conditions, a congested exit, or an exit with a reduced flow of passengers. As a result, the crew must rapidly make decisions and adapt to changing scenarios in a dynamic and stressful environment. This will ensure a constant flow of passengers to each usable exit, and therefore, a quick evacuation. Passenger Management Multiple and unpredictable behaviors Under stressful conditions, people can have varied reactions. Unlike cabin crew who are trained, passengers are not. They can have unpredictable reactions that can jeopardize their own safety and that of the other aircraft occupants. Panic can lead to frozen passengers overwhelmed by the situation or passengers trying to evacuate as soon as possible by aggressively pushing past other passengers as referred to in Case Study 1. Risks to slow down the evacuation Passengers that do not comply with cabin crew instructions can put the success of an"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "evacuation at risk. Baggage retrieval, use of phones, and not jumping on the evacuation slides are the most common factors that slow down an evacuation. Be assertive! Assertive management of passengers is key to dealing with the risks that could impact the success of an evacuation. The cabin crew must use clear and concise orders, and use a loud voice and assertive body language to ensure that all passengers follow their instructions. The challenge for the cabin crew is to switch from a nice and smiling cabin crew to an assertive one able to use physical force, if necessary. Safety first 31 January 2021 031 The objective for cabin crew is to maintain an evenlydistributed flow of passengers towards all available exits."
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS Attention! Crew at Stations! Assertive management of passengers is key to dealing with the risks that could impact the success of an evacuation. Evacuation of the Crew Each cabin crew member should check for any remaining passengers, and as soon as their assigned area is empty, evacuate the aircraft. When the actions are completed in the cockpit, the first officer should assist the cabin crew with the evacuation of the passengers in the cabin, if accessible, and on the ground. The captain should be the last crew member to evacuate the cockpit and the last one to evacuate the aircraft after a final check that all aircraft occupants have evacuated. They are in charge of the operations on ground until the rescue and emergency services arrive on site. Keep focused even after the evacuation After evacuation, the crew remains responsible for the passengers until the rescue and emergency services"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "arrive. In 2008, after a successful evacuation, one passenger went back inside the aircraft using an evacuation slide to retrieve their personal belongings. To prevent this situation from occurring, the cabin crew should gather the passengers away from the aircraft and from any potential danger. They should also count them and provide first aid, if necessary. For that, they have to take any necessary equipment during the evacuation to help them with crowd management on ground such as flash lights if night conditions or megaphones if not at an airfield."
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "THE IMPORTANCE OF REALISTIC TRAINING To be able to deal with these stressful situations, appropriate training is crucial for both the flight crew and the cabin crew. For Flight Crews The emergency evacuation procedure applies the same philosophy to all Airbus aircraft. This consistency across the Airbus fleet and over time is a positive contributing factor to ensuring safe application of the procedure. The emergency evacuation procedure is short and clear, the key factor is how it is trained. It is essential that the flight crew members understand task sharing they have to know exactly what actions must be performed, by whom, and when. It is important for the flight crew to keep in mind when to work independently and when to come back together. To help understand this, the training scenarios need to be as realistic as possible and especially have to simulate the high workload that is often"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "encountered in these situations. Instructors should be able to keep the captain busy by simulating conversations with ATC and the cabin while the first officer is performing the ECAM actions. It trains captains not following first officers actions in this specific situation and first officers continuing with ECAM actions without captain confirmation. For Cabin Crews Cabin crew training is both theoretical and practical. Scenarios have to be as realistic as possible, based both on evacuations and on a return to normal operations. Cabin crew training should be conducted on a training device in order to create a realistic environment and based on case studies where possible. This enables trainees to learn from past experience and it highlights the importance of reporting incidents to learn from in the future. The Cabin Safety training is designed using regulations by EASA and FAA and approved by local airworthiness authorities. It is performed annually"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "and includes the emergency evacuation procedure. The standard training focuses on exit and slide management, but the latest publications from aviation authorities such as the EASA and the FAA, encourage trainers to put more emphasis on passenger management, especially techniques to discourage passengers from retrieving personal belongings or baggage because it has a significant impact on the efficiency of any evacuation. CRM Training Given the importance of communication and crew coordination, Crew Resource Management CRM training is of utmost importance for both flight crews and cabin crews. It should include stress management, decisionmaking, leadership, human factors, including surprise and startle effect management, and risk assessment. Safety first 31 January 2021 033 The emergency evacuation procedure is short and clear, the key factor is how it is trained. Scenarios have to be as realistic as possible INFORMATION For more information on managing emergency evacuation, you can watch the Evacuation Management video"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "available on the Airbus Worldwide Instructor News WIN website."
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS Attention! Crew at Stations! CONTRIBUTORS Claire COLEMAN Cabin Crew Instructor Flight Operations Support and Training Standards Pierre ECHES Flight Operations Support Engineer Flight Operations Support and Training Standards Capt. Raimund GEUTER Expert Pilot Flight Operations Flight Operations Support and Training Standards Ian GOODWIN Director Product Safety Enhancement Product Safety With thanks to Marc LELOUER from A300A310 Flight Operations Support and Capt. Xavier LESCEU from Airbus Canada. Preparation by flight crews and cabin crews is key to conducting an effective and efficient emergency evacuation. Clear communication and the knowledge of Standard Operating Procedures are vital. Knowing the aircraft systems and the cabin layout is fundamental for cabin crews. The preflight crew briefing and the passenger safety briefing help ensure everyone onboard the aircraft is better prepared to face an emergency evacuation scenario. The silent review that cabin crew should perform before takeoff and landing is an excellent technique that helps"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "the crew to remain focused and to be ready to act in the case of an emergency. Knowing the essential steps and the associated task sharing of any evacuation STOP INFORM ECAM ASSESS DECIDE SECURE INITIATE, and regularly practicing realistic training scenarios can save lives in the event of an emergency. When emergency evacuation commences, passenger management can have a huge impact on the outcome. Passengers may feel disoriented, panicked, and helpless. Their behaviors, such as retrieving their personal belongings before moving to the nearest exit, not only endangers their own safety but also the safety of others. Welltrained and assertive cabin crew are required to urge passengers to move to the nearest available exit and to assemble outside the aircraft in a safe place away from the aircraft. An emergency evacuation is always a dynamic situation where time is critical, and it requires constant situational awareness combined with rapid"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "decisionmaking. This can only be achieved through efficient coordination and communication between all flight crews, cabin crews, ATC, and rescue and fire fighting services on ground."
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Safety first 31 January 2021 035"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Applying the 3s rotation rate requested in the SOPs is the key to"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "CASE STUDY A340 LONG TAKEOFF Event Description A takeoff from a high altitude airport 8360 ft An A340300 was performing a takeoff from a high altitude airport. A TOGA thrust takeoff in CONF2 was selected. The takeoff performance was calculated for a 4 kt tailwind and was limited by the runway length takeoff run in One Engine Inoperative OEI condition. The gross weight of the aircraft was 236.9 t and was close to the Maximum Takeoff Weight of 237 t in the conditions of the day. An uneventful takeoff roll The aircraft reached V 1 128 kt 54 s after brake release and TOGA thrust application. 1 The Pilot Flying PF then initiated the rotation close to V R . The nose landing gear lifted off the ground 1 s later and the pitch began to increase. A late liftoff 2 V 2 149 kt was reached with the aircraft"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "still on the ground. The main landing gear was still compressed and the aircraft had a pitch of 4 up. 3 Liftoff occurred 11 s after rotation initiation at 155 kt, and at only 140 m from the runway end with a recorded pitch of 9 up. Runway end overfl own at 6 ft radio altitude 4 The aircraft fl ew over the runway end at 6 ft Radio Altitude RA, and then 5 overfl ew the end of the clearway at 20 ft RA and avoided the LOC antennas by only 12 ft. 6 The aircraft eventually reached 35 ft RA 550 m after the runway end. The landing gear was selected up 3 s later at 135 ft RA with a vertical speed of 1300 ftmin, pitch at 12, and speed at 160 kt. The aircraft continued its climb and completed its fl ight uneventfully. Despite what seemed"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "to be a standard takeoff roll, the aircraft lifted off the runway very late, overfl ying the LOC antennas located at the end of the clearway with very little clearance. How did this happen? Safety fi rst 31 January 2021 037 fi g.1 Sequence of events from V to liftoff fi g.2 Sequence of events from runway threshold to 35 ft RA"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS A Focus on the Takeoff Rotation The requested 3s rotation rate was the value selected and is applicable to all Airbus aircraft except for the A220, which has a 3 to 5s rate requested in its FCOM. Event Analysis A nominal aircraft acceleration performance until V R The analysis of the DFDR data showed that the aircraft acceleration was in accordance with the expected performance in the conditions of the day reported as wet runway with 4 kt tailwind. A slow rotation rate during takeoff The sidestick inputs ordered by the PF during the rotation resulted in an average rotation rate of 1sec. Airbus SOPs request a 3s rotation rate. This slow rotation rate resulted in degraded takeoff performance leading to a significant increase in the takeoff distance. THE REQUESTED TAKEOFF ROTATION RATE VALUE The origin of the requested rotation rate The rotation rate that is used to compute"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "the takeoff performance was determined during the takeoff performance flight test campaign together with the Airworthiness Authorities. This value is the average of the rotation rates recorded during all of the test aircraft takeoffs performed in a variety of operating conditions. The requested 3s rotation rate was the value selected and is applicable to all Airbus aircraft except for the A220, which has a 3 to 5s rate requested in its FCOM. This value ensured that the actual takeoff distance is closest to the computed distance. If the PF applies a rotation rate that is lower than the requested rotation rate, the aircraft may not take off according to the computed performance, leading to an increased takeoff distance and a decreased obstacle clearance. Rotation rate too low in some takeoffs Flight data monitoring shows that the rotation rate values recorded in service vary. A low rotation rate with an associated"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "takeoff performance degradation was observed in some cases. Safety margins used in takeoff performance computation prevent any significant problems in most cases. However, these margins may not be sufficient in certain situations as can be seen in the event described above. It is why flight crews should always perform the takeoff rotation at a rate as close as possible to the requested rotation rate, and this is especially important in conditions where performance is limited by runway length or obstacle clearance."
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "A signifi cant impact on takeoff performance A rotation rate lower than the requested 3s in the SOPs signifi cantly increases the takeoff distance. For example, a takeoff performed with a 2s rotation rate increases the takeoff distance by approximately 300 m 1000 ft compared to a 3s rotation rate. Takeoff Distance TOD margins The regulatory Takeoff Distance TOD on a dry runway is calculated by taking the greatest value of the TOD computed with one engine failure happening just prior to reaching V1 TOD N1 , or the TOD computed with all engines operative TOD N with an additional margin of 15 . Twinengine aircraft On a twinengine aircraft, the TOD is often provided by the TOD N1 because the loss of half of its thrust strongly impacts the takeoff distance. This calculation provides additional margin for a takeoff with both engines operative. While the PF should perform the"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "requested rotation rate of 3s in all conditions, it is even more important in case of engine failure during takeoff, because there is no additional margin for the calculated TOD . Safety fi rst 31 January 2021 039 fi g.3 Impact of a lower rotation rate on the takeoff distance fi g.4 Example of a TOD computation for a twinengine aircraft"
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS A Focus on the Takeoff Rotation fi g.5 Example of a TOD computation for a twinengine aircraft Fourengine aircraft On a fourengine aircraft, the TOD is often sized by the factored TOD N because the TOD N1 is often the shortest as it is computed with a loss of thrust limited to a quarter of the total available thrust. Achieving the requested rotation rate of 3s is especially important in daily operations i.e. when all four engines are operative, because this condition is usually the sizing one, and therefore, does not provide additional margin on top of the 1.15 factor. TAKEOFF ROTATION LAWS AVAILABLE ON FBW AIRCRAFT The takeoff rotation law helps the fl ight crew to perform the optimum takeoff rotation. The takeoff rotation law consists of both the rotation law and tail strike prevention functions. There are different types of takeoff rotation law depending on the aircraft"
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "model. Rotation assistance on A320ceo, A330ceo, and A340200300 aircraft Rotation law Direct law There is a direct relationship between the sidestick defl ection and the elevator defl ection on these aircraft models. The rotation rate obtained by a fi xed sidestick defl ection value may vary noticeably with different operating conditions such as aircraft weight, center of gravity position, slatsfl aps confi guration, engine thrust, and takeoff speeds. Tail strike prevention Pitch rate limitation function A320ceo, A330ceo, A340200 A limitation function reduces the pitchup command sent to the elevators to reduce the risk of tail strike in case of excessive pitch rate. This pitch rate limitation function does not provide tail strike protection If a noseup input is maintained on the sidestick, a tail strike can still occur."
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Tail strike protection function A340300 only pulling back on the sidestick beyond \u00be of noseup. Rotation assistance on A320neo, A330neo, A340500600, A350, and A380 aircraft Rotation law Pitch rate target slatsfl aps confi guration, engine thrust, and takeoff speeds. Tail strike protection function available on these aircraft. Safety fi rst 31 January 2021 041"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS A Focus on the Takeoff Rotation fig.9 Example of a tail strike pitch limit indication on an A330 aircraft fig.10 Pitch Target Marker PTM on the PFD of an A220 aircraft Tail strike pitch limit indication at takeoff A330 A340 family and A380 aircraft The tail strike pitch limit indication is currently displayed at takeoff and landing on all A340 and A380 aircraft. The tail strike pitch limit was an option on the earlier models of the A330ceo, but was later installed as standard for all A330ceo produced after mid2013. A320, A321, A330neo, and A350 aircraft also have a tail strike pitch limit, but it is only displayed on landing, because it is not necessary at takeoff. There is no tail strike pitch limit indication on A318 and A319 aircraft, because these aircraft have shorter length fuselage and less risk of tail strike. Removing the tail strike pitch limit"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "for takeoff Inservice experience showed that when the tail strike pitch limit indicator appears on the display, it may cause the PF to unnecessarily reduce the rotation rate of the aircraft during takeoff and prevent the aircraft from reaching the requested 3s rotation rate. As a result, Airbus decided to deactivate the tail strike pitch limit indicator at takeoff and to keep it activated only on landing for all aircraft models. The tail strike protection function proved to provide A340300, A340500600, and A380 aircraft with sufficient tail strike protection. The pitch rate limitation function on A330ceo aircraft, combined with its tail strike margin is sufficient protection against the risk of tail strike. Deactivation of the tail strike pitch limit indication for takeoff will be performed at the opportunity of a next A330A340 Flight Management Guidance and Enveloppe Computer FMGEC or A380 Flight Control and Guidance Computer FCGC update. Rotation assistance"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "on A220 aircraft Rotation law Direct law There is a direct relationship between the sidestick deflection and elevator deflection with a compensation for forward or aft center of gravity conditions on A220 aircraft. Pitch Target Marker PTM The Pitch Target Marker PTM on the PFD provides the initial pitch for the flight crew to target during the takeoff rotation until FD guidance is available. Tail strike prevention Pitch rate reduction A limitation function will reduce the pitchup command sent to the elevators in case of excessive pitch rate, and will reduce the risk of tail strike. The flight crew should be aware that this pitch rate limitation is not protection against tail strike A tail strike event can still occur if a noseup input is maintained on the sidestick. A tail strike symbol is displayed on the HeadUp Display HUD during rotation when the PTM is not displayed and the"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "aircraft pitch angle approaches the tail strike angle by less than 3 degrees or when the pitch rate is excessive."
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "THE TAKEOFF ROTATION TECHNIQUE A technique common to all FBW and nonFBW aircraft A similar technique is used on all Airbus aircraft. It can be found in the FCOM SOPs, and additional information is provided in the Flight Crew Techniques Manual FCTM. Step 1 Initiate Rotation When the aircraft reaches V R, the PF should apply a 1 positive backward sidestick or control column input to initiate the rotation . Step 2 Use outside visual references to achieve maintain rotation rate After the PF initiates the rotation, they should 2 use outside visual references to achieve and maintain the rotation rate . Adjustments may be necessary to achieve and maintain the required rotation rate. On aircraft with direct rotation law or nonFBW aircraft, the fl ight crew should adapt to the takeoff conditions on the day. On aircraft that have the pitch rate rotation law, the law assists the fl"
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "ight crew to achieve an equivalent rotation in all conditions. With a suitable rotation rate, the aircraft typically lifts off approximately 4 to 5 s after the PF initiates the rotation and when the pitch reaches approximately 10. Step 3 Target initial pitch attitude after liftoff then follow FD guidance When the aircraft is airborne, the PF should 3 adjust the pitch toward the initial pitch target provided in the FCOM e.g. 15 or 12.5 if one engine failed on A320 aircraft. On A220 aircraft, the Pitch Target Marker PTM provides a visual indication of the initial target pitch. The PF should then 4 follow the FD guidance . Safety fi rst 31 January 2021 043 A similar technique is used on all Airbus aircraft fi g.11 Recommended rotation technique"
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "OPERATIONS A Focus on the Takeoff Rotation INFORMATION The What about rotation technique? video is available on the Worldwide Instructor News WIN website and provides a stepbystep review of a full takeoff sequence performed in an A380 simulator. NOTE Training Areas of Special Emphasis TASE for A340 family aircraft An EASA Safety Information Bulletin SIB 201720 was published in 2017 following the incident described in this article. In 2018, a Training Areas of Special Emphasis TASE was included in the A340 Operational Suitability Data OSD for flight crew in response to the SIB. The TASE emphasizes the need to ensure flight crews know how to perform the correct takeoff rotation technique during initial and recurrent training. This includes How to initiate the rotation How to achieve and maintain the rotation rate How to achieve the pitch attitude after liftoff."
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "CONTRIBUTORS Sebastien BALZER Aircraft Performance Engineer Design Office Philippe CASTAIGNS Experimental Test pilot Flight Tests St\u00e9phane DELANNOY Aircraft Stability Control Engineer Design Office Thomas LEPAGNOT AccidentIncident investigator Product Safety Xavier LESCEU A220 Chief Pilot Test Pilot TRITRE Customer Services Daniel LOPEZFERNANDEZ Director Product Safety Enhancement Product Safety Patrick SALLIER Aircraft Performance Senior Expert Design Office Gilbert SAVARY Head of Operational Training Policy Flight Operations Training Support Safety first 31 January 2021 045 Flight data monitoring shows that the takeoff rotation rates recorded in service vary and that a lower rotation rate is observed in some cases, with the associated degradation of takeoff performance. Achieving an appropriate rotation rate is essential to ensure takeoff performance, while maintaining a sufficient margin with tail strike, stall speed, and minimum control speeds. Airbus aircraft are designed, tested, and certified to achieve the necessary rotation rate, while having sufficient margins against the tail strike. Flight"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "control laws include features that reduce the risk of tail strike. The flight crew should apply the FCOM procedures and FCTM techniques to achieve the requested rotation rate After the rotation is initiated with a positive noseup input, the flight crew should use outside visual references to achieve and maintain the rotation. The flight crew should fly the rotation, and make any necessary adjustments to achieve and maintain the required rotation rate. When the aircraft is airborne, the PF adjusts the pitch toward the initial FCOM pitch target and then follows the FD guidance."
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "ARTICLES PUBLISHED IN PREVIOUS SAFETY FIRST ISSUES Available in the Safety fi rst app and website safetyfi rst.airbus.com Issue 30 July, 2020 Avoiding fuel spills on A320 family aircraftsource fi les Safe aircraft refuelling Aircraft parking and storage Preparing for a safe return to the skies Mind the oebs Issue 29 January, 2020 GNSS Interference Takeoff Surveillance Monitoring Functions Managing Severe Turbulence Safe Aircraft Parking Issue 28 July, 2019 Overspeed Event with Crew Takeover and OEB49 Application Management of Overspeed Event in Cruise The Adverse Effects of Unrealistic Simulator Scenarios Preventing Fan Cowl Door Loss Correct Escape Slides Maintenance for Successful Slides Deployment Issue 27 January, 2019 Engine Thrust Management Thrust Setting at Takeoff Prenventing Inadvertent Slide Deployments Preventing Violent Door Opening due to Residual Cabin Pressure Lessons Learned About the TeachIn Function Issue 26 July 2018 Look out for Ice Ridges on the Lower Nose Fuselage High Load Event"
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Reporting Using Aircraft as a Sensor on Contaminated Runways Thrust Reverser Deployment in Fight Issue 25 January 2018 Are You Properly Seated? A Recall of the Correct Use of the MEL Protecting Aircraft and Passengers from Cargo Fire Issue 24 July 2017 Control your Speed... During Descent, Approach and Landing Troubleshooting Airframe Vibrations Preventing Falls from Height Progress to Pinpoint anAircrafts Position Issue 23 January 2017 Safely Flying NonPrecision Instrument Approaches Introduction to the Soft GoAround Function Preparing Flight Crews to Face Unexpected Events Safety, Our Shared Destination Issue 22 July 2016 Pitot Probe Performance Covered On the Ground 180 turns on runway Optimum use of weather radar Issue 21 January 2016 Control your speed... in cruise Lithium batteries safe to fl y? Wake vortices A320 Family Aircraft confi guration Issue 20 July 2015 Control your speed... during climb Lateral runway excursions upon landing Fuel monitoring on A320 Family aircraft"
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Hightaltitude manual fl ying"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Issue 19 January 2015 Tidy cockpit for safe fl ight Landing on contaminated runways Understanding weight balance Wind shear an invisible enemy to pilots? Issue 18 July 2014 Control your speed... at takeoff Safe operations with composite aircraft Learning from the evidence A320 Family cargo Containers pallets movement Parts Departing from Aircraft PDA Issue 17 January 2014 Airbus Brake Testing Hard Landing, a Case Study for Crews and Maintenance Personnel Aircraft Protection during Washing and Painting Flight Data Analysis FDA, a Predictive Tool for Safety Management System SMS Flying a GoAround, Managing Energy Issue 16 July 2013 Performance Based Navigation RNP and RNP AR Approaches Atlantic Airways Introduction of RNP AR 0.1 Operations Flight Crews and DeIcing Personnel Working together in Temporary Teamwork for safe Skies Low Speed Rejected TakeOff upon Engine Failure Late Changes before Departure Issue 15 January 2013 The Golden Rules for Pilots moving from PNF to"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "PM Airbus Crosswind Development and Certifi cation The SMOKEFUMESAVNCS SMOKE Procedure PostMaintenance Foreign Objects Damage FOD Prevention Corrosion A Potential Safety Issue Safety fi rst 31 January 2021 047 Issue 14 July 2012 Thrust Reverser Selection means FullStop Transient Loss of Communication due to Jammed PushToTalk A320 and A330A340 Families A380 Development of the Flight Controls Part 2 Preventing Fan Cowl Door Loss Do not forget that you are not alone in Maintenance Issue 13 January 2012 A320 Family A330 Prevention and Handling of Dual Bleed Loss The Fuel Penalty Factor The Airbus TCAS Alert Prevention TCAP A380 Development of the Flight Controls Part 1 Facing the Reality of everyday Maintenance Operations Issue 12 July 2011 Airbus New Operational Landing Distances The Go Around Procedure The Circling Approach VMU Tests on A380 Automatic Landings in Daily Operation Issue 11 January 2011 What is Stall? How a Pilot Should React in"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Front of a Stall Situation Minimum Control Speed Tests on A380 Radio Altimeter Erroneous Values Automatic NAV Engagement at Go Around Issue 10 August 2010 A380 Flutter Tests Operational Landing Distances A New Standard for Infl ight Landing Distance Assessment Go Around Handling A320 Landing Gear Downlock Situation Awareness and Decision Making"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "ARTICLES PUBLISHED IN PREVIOUS SAFETY FIRST ISSUES Available in the Safety fi rst app and website safetyfi rst.airbus.com Issue 9 February 2010 A320 Family Evolution of Ground Spoiler Logic Incorrect Pitch Trim Setting at TakeOff Technical Flight Familiarization Oxygen Safety Issue 8 July 2009 The Runway Overrun Prevention System The TakeOff Securing Function Computer Mixability An Important Function Fuel Spills During Refueling Operations Issue 7 February 2009 Airbus APFD TCAS Mode A New Step Towards Safety Improvement Braking System Cross Connections Upset Recovery Training Aid, Revision 2 Fuel Pumps Left in OFF Position A320 Avoiding Dual Bleed Loss Issue 6 July 2008 A320 Runway Overrun FCTL Check after EFCS Reset on Ground A320 Possible Consequence of V M Exceedance A320 Prevention of Tailstrikes Low Fuel Situation Awareness Rudder Pedal Jam Why do Certain AMM Tasks Require Equipment Resets? Slideraft Improvement Cabin Attendant Falling through the Avionics Bay Access Panel in"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Cockpit Issue 5 December 2007 New CFIT Event During Non Precision Approach A320 Tail Strike at TakeOff? Unreliable Speed Compliance to Operational Procedures The Future Air Navigation System FANS B Issue 4 June 2007 Operations Engineering Bulletin Reminder Function Avoiding High Speed Rejected TakeOffs Due to EGT Limit Exceedance Do you Know your ATCTCAS Panel? Managing Hailstorms Introducing the Maintenance Briefi ng Notes A320 Dual hydraulic Loss Terrain Awareness and Warning Systems Operations Based on GPS Data Issue 3 December 2006 Dual Side Stick Inputs Trimmable Horizontal Stabilizer Damage Pitot Probes Obstruction on Ground A340 Thrust Reverser Unlocked Residual Cabin Pressure Cabin Operations Briefi ng Notes Hypoxia An Invisible Enemy Issue 2 September 2005 Tailpipe or Engine Fire Managing Severe Turbulence Airbus Pilot Transition ATP Runway Excursions at TakeOff Issue 1 January 2005 Go Arounds in AddisAbaba due to VOR Reception Problems The Importance of the Prefl ight Flight Control"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_31.pdf",
+    "text": "Check A320 Infl ight Thrust Reverser Deployment Airbus Flight Safety Manager Handbook Flight Operations Briefi ng Notes"
+  }
+]

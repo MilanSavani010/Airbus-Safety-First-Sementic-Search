@@ -1,0 +1,1072 @@
+[
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety fi rst The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety fi rst is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fl y and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confi dential Reporting System, incident and accident investigation reports, system tests and fl ight tests. Material is also obtained from sources within the airline industry, studies and reports from government agencies and other aviation sources. All articles in Safety fi rst are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "contents do not supersede any requirements mand ated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily refl ect the views of Airbus, neither do they indicate Company policy. Contributions, comment and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Product Safety department GS 1, rond point Maurice Bellonte 31707 Blagnac Cedex France Fax 3305 61 93 44 29 safetycommunicationairbus.com Visit us at safetyfi rst.airbus.com or install the Safety fi rst app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "editorial A Tribute to Bernard Ziegler In each era of aviation, there are people who pioneer an idea with such conviction that the industry as a whole will benefit from it. Working for Bernard Ziegler a.k.a BZ as he was called by all who knew him, I witnessed firsthand his passion for flight, his relentless innovative spirit, and the power of his convictions. The most visible legacy from BZ is certainly the benefits of flight envelope protection enabled by FlyByWire FBW technology on commercial jet aircraft. BZ believed that this step change would significantly reduce the risk of loss of control inflight. The FBW technology was thus first introduced on the Airbus A320 and it is the baseline for every Airbus aircraft produced since. Beyond the Airbus fleet, it is the industry standard today for all new aircraft types. The facts demonstrate BZs vision was absolutely correct, that FBW would"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "significantly reduce the accident rate . Indeed, aircraft with flight envelope protection enabled by FBW technology that belong to the current fourth generation of commercial jets have an impressive record. Today there are around 15,500 in operation, with 11,600 or 75 of which are Airbus FBW aircraft. Fourthgeneration aircraft have completed more than 212 million flights and accumulated over 500 million flight hours 172 million flights and 375 million flight hours by Airbus aircraft over the last 33 years. This has resulted in a historically low rate of 0.04 fatal accidents per million flights 10year moving average compared with the rate of 0.15 for the previous thirdgeneration aircraft without FBW. To follow on from BZs focus on the reduction of accidents caused by loss of control inflight LOCI, the current LOCI accident rate 0.01 for fourthgeneration jets is a sevenfold decrease when compared with the rate of 0.07 LOCI accidents"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "per million flights for thirdgeneration jets. More than thirty years on, we can reflect on the occasions when persistence over the resistance to change required the characteristic tenacity of someone like BZ, to win over the sceptics and gain support for his vision. The foundations for aviation to make a leap forward in safety are often laid by such visionaries. It is then our duty to constantly reinforce their legacy through collaboration across our industry, and through the implementation of incremental safety improvements on our aircraft and for how they are operated. I join my Airbus colleagues, and together with so many across our industry, in paying tribute to Bernard Ziegler a true pioneer and inspiration for aviation safety. Chapeau bas Bernard YANNICK MALINGE SVP Chief Product Safety Officer _Bernard Ziegler joined_ _Airbus as its chief test pilot_ _in 1972 and he flew the first_ _flight of the first A300."
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "The_ _programme later became_ _an early testbed for FBW_ _which transfers the pilots_ _commands to the aircraft via_ _digital signals. FBW provides_ _significant benefits through_ _commonality, improved flight_ _safety, reduced pilot workload,_ _fewer mechanical parts,_ _and realtime monitoring_ _of all aircraft systems._ _He also flew the A310, A320_ _and A340200. In June 1993,_ _Ziegler participated in the_ _longest flight ever undertaken_ _by a civil aircraft, when_ _an A340200, dubbed the_ _World Ranger, flew around_ _the world from Paris with just_ _one stop in Auckland in just_ _over 48 hours. Up until his_ _retirement in December 1997,_ _Ziegler was Airbus Senior Vice_ _President of Engineering._ _Airbus FlyByWire Visionary_ _Bernard Ziegler Passes Away_ _Airbus Press Release_"
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety fi rst The Airbus Safety magazine Also available in app and website versions"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "NEWS Save the Date! The 26 th Airbus Flight Safety Conference will be held 2124 March, 2022 Save the date in your calendars for the next Airbus Flight Safety Conference to be held 2124 March, 2022. It will be three years since our last conference as the Covid19 crisis has prevented us from hosting this annual event. Safety collectively remains our top priority and lets not miss this opportunity in March 2022 to share the many safety lessons learned and experiences together. Invitations for the event will be sent to all of our customers in January 2022. NEWS The annual Statistical Analysis of Commercial Aviation Accidents is now available to view online and to download the brochure. Visit us at accidentstats.airbus.com The website provides an analysis of commercial aviation accidents for jet aircraft from 1958 to 2020. It shows signifi cant improvements of the safety record for our industry. This"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "is also underlined by the contribution that technology has made in further enhancing the level of safety for commercial aircraft fl ights today."
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety first 32 July 2021 005 Safety 32 first OPERATIONS P06 Unreliable Airspeed at Takeoff P16 Take Care of the Wheel Tie Bolts P24 Ensuring a Correct Aircraft Technical Configuration P34 System Reset Use with Caution"
+  },
+  {
+    "page": 8,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "number of reports of unreliable airspeed events at takeoff due to"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "MULTIPLE UNRELIABLE AIRSPEED EVENTS AT TAKEOFF _Preparing for a Safe Return to the Skies_ is a Safety first article published in June 2020 that already highlighted the increased risk of unreliable airspeed events after aircraft parking or storage. The number of reported occurrences since this article was published is still a reason for concern. Between January 2020 and March 2021, 55 events of unreliable airspeed indication during takeoff were reported to Airbus. Majority of events linked to Pitot obstruction 44 of the 55 reported cases of unreliable airspeed at takeoff were due to obstruction of the Pitot tube. Obstructions can be caused by the presence of insects, sand, dirt, dust or any other foreign materials that could enter the Pitot when protective covers are not fitted to the aircraft when on the ground. In one reported case, the obstruction was because the protective covers were not removed before the flight."
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Pitot contamination occurring during various types of parking conditions The chart below fig.1 shows the duration of time an aircraft spent on the ground before the flight when the unreliable airspeed event occurred. Safety first 32 July 2021 007 fig.1 Duration of time an aircraft spent on ground before reported unreliable airspeed event Also beware during shorter ground stays Contamination of Pitot probes by insects does not happen only during long periods of parking or storage. Half of all reported Pitot contamination related events occurs when the aircraft is parked for a time period of less than 48 hours. A significant number of reported occurrences of obstructed Pitots were on aircraft in transit and on the ground for less than two hours. Pitot probes are not always protected by covers during short duration transits. Why Pitots are even more exposed to the risk of contamination during the pandemic The COVID19"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "pandemic had the effect of a significantly reduced number of flights, which means aircraft spent more time on the ground between flights. In cases where the air data probe protective covers are not fitted, the exposure to the risk of Pitot contamination is greatly increased."
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Unreliable Airspeed at Takeoff INFORMATION Prevention of air data probe obstruction Airbus published several documents to provide recommendations for the prevention and detection of obstructed air data probes on ground ISI 34.11.00026 A320FAM and A330A340 Pitot probes Description, evolutions and maintenance recommendations OIT 999.001920 May 2020 ATA 10 Parking and Storage Exceptional Procedures and Recommendations Related to COVID19 Massive Grounding Situation OIT 999.004820 July 2020 Increasing number of events related to adverse effects on air data probes following a parkingstorage period Parking and Storage Return to Service Summary Letter Safety first articles Pitot Probe Performance Covered On the Ground July 2016 Aircraft Parking and Storage April 2020 Preparing for a Safe Return to the Skies June 2020 News Parking and Storage Return to Service Summary Letter December 2020 WIN video What about the exterior walkaround? September 2020 ISI articles, OITs, and the Parking and Storage Return to Service Summary"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Letter are available on the AirbusWorld portal Several cases of late detection In 36 of the 55 reported cases, the flight crew detected the speed discrepancy and rejected the takeoff. For many of the reported rejected takeoffs, the speed discrepancy could have been detected earlier during the takeoff roll, which would have incited the flight crew to reject the takeoff at a lower speed. The following case studies of three events of unreliable airspeed at takeoff highlight the importance of speed monitoring during the takeoff roll."
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety first 32 July 2021 009 CASE STUDY 1 Event description Flagged speed indications detected during the takeoff roll An A330 aircraft was lined up for takeoff in night conditions. The first officer was the Pilot Flying PF. The weather was clear with no wind. The recomputed takeoff decision speed was 150 kt and the rotation speed was 159 kt. During aircraft acceleration, the speed indications were flagged on both PFDs. A 100 kt callout and a rotation based on ground speed indication The Pilot Monitoring PM made the 100 kt callout when the ground speed reached 100 kt. The PF then initiated the rotation at 159 kt of ground speed. Unreliable airspeed indication procedure application The flight crew applied the FCOM unreliable airspeed procedure when airborne and switched all three ADRs to OFF when the aircraft reached FL 110, activating the BackUp Speed Scale BUSS indication as requested by"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "the procedure when all ADRs are affected below FL 250. Inflight turnback and overweight landing The flight crew decided to return to the departure airport and performed an overweight landing. When the aircraft finally returned to the gate, it was noticed that the protective covers were not removed before the flight and they were still fitted on all three Pitot probes. Event Analysis Analysis of the recorder data confirmed that the Pitot covers, which were not removed before the flight, were the cause of the unreliable airspeed indication. Three missed opportunities of detecting the covers Post event analysis shows that the Pitot protective covers were not seen by the maintenance engineer during the external aircraft inspection, and neither by the captain during the preflight exterior walkaround nor by ground personnel during pushback, as recorded on the airport surveillance videos. Speed display during takeoff roll Recorder data also showed that the"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "display of the SPD red flag on both PFDs from 50 kt of ground speed should have made the flight crew aware of the airspeed issue which would have enabled them to reject the takeoff."
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Unreliable Airspeed at Takeoff fi g.2 PFD airspeed indication during the takeoff roll of the event This type of fl ight data recorder records only the airspeed value of the captains side, provided it is valid information. Otherwise, it will record the fi rst offi cers IAS. The IAS may have been displayed on both PFDs at this stage. If it was only displayed on one PFD, the other PFD would still have displayed the SPD red fl ag. 1 From 0 kt to 50 kt of ground speed The Indicated Air Speed IAS was at the bottom of the speed scale on both PFDs and on the speed scale of the Integrated Standby Instrument System ISIS. This was because the measured airspeed from all 3 ADRs was below 30 kt. 2 From 50 kt to approximately 140 kt of ground speed The SPD red fl ag was displayed"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "on the speed scale of both PFDs and the IAS on the ISIS was still at the bottom of the speed scale. 3 From 140 kt of ground speed until rotation and liftoff The IAS was between 30 kt and 50 kt on at least one of the PFDs. The IAS of the ISIS remained at the bottom of the speed scale. This sequence is in accordance with the display logic of the IAS on the PFD If the measured airspeed is below 30 kt and ground speed is below 50 kt, then the IAS remains at the bottom of the speed scale If the measured airspeed is below 30 kt and the ground speed is above 50 kt, the SPD red fl ag is displayed on the speed scale When the measured airspeed is above 30 kt, it will be displayed on the PFD. CASE STUDY 2 Event Description"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "A speed discrepancy at the 100 kt callout An A330 aircraft was ready for takeoff. The captain, who was the PF, applied takeoff power and the aircraft started to accelerate. The fl ight crew noticed a discrepancy between the PFD airspeeds at the 100 kt crosscheck. The fl ight crew continued the takeoff and performed the rotation at 133 kt. ECAM cautions and level off for troubleshooting The NAV IAS DISCREPANCY ECAM caution triggered shortly after liftoff, followed by the NAV ADR1 FAULT . The fl ight crew levelled off the aircraft at 3000 ft to perform ECAM actions and troubleshooting. The fl ight crew set the"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "AIR DATA rotary selector to CAPT ON 3 and resumed the climb to cruise FL 340. Overspeed warning while approaching cruise FL An overspeed warning triggered while the aircraft was passing FL 334. The autopilot remained engaged and the aircraft leveled off at FL 340. The overspeed warning stopped a few seconds later. Infl ight turn back The fl ight crew performed an infl ight turnback and landed safely. Maintenance personnel inspected the Pitot on the captains side and found that it was obstructed by dust. Event Analysis Flight data recorder analysis confi rmed the effects caused by the obstruction of the captains Pitot probe. A missed opportunity to reject the takeoff If the airspeed was monitored even more closely by the fl ight crew during the takeoff roll, they may have identifi ed the speed discrepancy sooner, allowing them to reject the takeoff and bring the aircraft safely to"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "a stop. Airspeed display during the takeoff roll 1 The IAS remained at the bottom of the PFD speed scale on both PFDs, and on the ISIS, at the start of the takeoff roll until the measured speed reached 30 kt which is its normal behavior. The captains IAS went above 30 kt when the fi rst offi cer and ISIS IAS both indicated approximately 47 kt. 2 When the fi rst offi cer and ISIS IAS indicated approximately 80 kt, the captains IAS was only displaying 41 kt. 3 When the fi rst offi cer and ISIS IAS indicated 100 kt, the captains IAS was only displaying approximately 55 kt. 4 The captain rotated the aircraft when 133 kt was indicated on the fi rst offi cers PFD and ISIS, but the captains IAS was only displaying 80 kt. Safety fi rst 32 July 2021 011 fi g.3 PFD"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "airspeed indication during the takeoff roll of the event"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Unreliable Airspeed at Takeoff fi g.4 PFD airspeed indication during the takeoff roll of the event CASE STUDY 3 Event Description Rolling takeoff An A320 was cleared for takeoff and the PF, who was the captain, performed a rolling takeoff. The captain performed the 1.05 EPR stabilization step and then applied takeoff thrust. Rejected takeoff following an airspeed discrepancy at the 100 kt crosscheck The aircraft accelerated nominally, but the captain identifi ed a speed discrepancy when the PM did the 100 kt callout, and immediately rejected the takeoff. Maintenance personnel performed troubleshooting when the aircraft returned to the gate and they found small pieces of leaves in the captains Pitot probe and its pressure line. Event Analysis An early speed discrepancy on the captains side 1 Recorder data showed that obstruction of the captains Pitot probe was providing an initial IAS of approximately 45 kt while the aircraft"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Ground Speed GS was 0 kt prior to the aircraft lining up on the runway. 2 At the application of takeoff thrust, the fi rst offi cer and ISIS IAS indicated 35 kt with nominal acceleration shown by the speed trend arrow on the fi rst offi cers PFD. However, the IAS on the captains PFD was 49 kt with a very small speed trend arrow. 3 When 100 kt was reached on the first officers PFD and ISIS, the captains IAS was only 58 kt. 4 When the aircraft safely came to a complete stop after the RTO, the captains IAS was still at 55 kt."
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety first 32 July 2021 013 A useful 100 kt crosscheck! During the entire takeoff roll, the captains IAS increased slightly but remained below 64 kt. The 100 kt crosscheck enabled the captain to identify the discrepancy and immediately reject the takeoff. A possible earlier RTO The Standard Operating Procedure requests monitoring of the PFD speed scale during the entire takeoff roll. Following this recommendation may have made the flight crew aware of the airspeed discrepancy earlier than the 100 kt callout and enabled them to reject the takeoff at lower speed. The first opportunity to detect the speed discrepancy was before lining up for takeoff, when the captains airspeed indicated 45 kt while the aircraft was stationary with ground speed at 0 kt. The second opportunity was at the application of takeoff thrust when the IAS on the captains PFD was almost steady speed with a very small speed"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "trend arrow. MONITORING OF THE AIRSPEED DURING THE TAKEOFF ROLL The three events described above illustrate the importance of closely monitoring the airspeed throughout the takeoff roll. Both the Pilot Flying PF and the Pilot Monitoring PM have a role to play. While the PF maintains the aircraft on the centerline using external references, the PM must actively monitor the airspeeds from the start of the takeoff roll. This will allow for the PM to detect any inconsistent airspeed indications between instruments, an abnormal airspeed trend or absence of airspeed indications as early as possible. The _Role of the Pilot Monitoring during Takeoff_ video on the Airbus Worldwide Instructors News WIN website illustrates each of the various steps for the PM to perform during the takeoff. The 100 kt crosscheck the last line of defense Case study 3 shows us the importance of the 100 kt crosscheck, which is requested"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "in the Standard Operating Procedure. It is the last line of defense in preventing a takeoff with an unreliable airspeed indication. The flight crew should be prepared to reject the takeoff at the time of the 100 kt crosscheck if an airspeed discrepancy is observed. Monitoring that must be done for every takeoff Takeoff with obstructed Pitot probes can happen for any flight as highlighted by the reported events described in this article. It is evidence of why it is essential to carefully monitor airspeed during every takeoff."
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Unreliable Airspeed at Takeoff CONTRIBUTORS Panxika CHARALAMBIDES IncidentAccident Investigator Product Safety Beno\u00eet DUQUESNE Air Data System Support Engineer Customer Support Capt. Gilbert SAVARY Head of Operational Training Policy Flight Operations Training Support Domenico SPATARO Product Safety Enhancement Product Safety With thanks to Etienne BETTINGER and Michel SIBADE from the Handling Qualities Department and to Fr\u00e9d\u00e9ric JUPIN from the Accident Incident Analysis Department. Obstructed Pitots are the main cause of the reported unreliable airspeed events at takeoff. Contamination of aircraft Pitot probes can happen in less than two hours on the ground in certain cases. The risk of Pitot contamination has increased since the beginning of the COVID19 pandemic because there are fewer flights and aircraft spend more time on the ground between flights. Airbus has published several documents to provide recommendations for the prevention of obstructed air data probes on the ground. During transits or upon the return to"
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "service of a parked aircraft, it is important to pay particular attention to the Pitot probes during the maintenance external aircraft inspection and the pilots preflight exterior walkaround. This will confirm that all protective covers are removed before flight. Early detection of an unreliable airspeed event will enable the flight crew to reject the takeoff at a lower speed. From the start of the takeoff roll, the pilot monitoring must check for inconsistent airspeed indications, abnormal airspeed trends, or the absence of airspeed indications, and alert the pilot flying as early as possible if an issue is detected. The 100 kt crosscheck is the last line of defense to prevent taking off with an unreliable airspeed indication. The flight crew should be prepared to reject the takeoff at the time of the 100 kt crosscheck if an airspeed discrepancy is observed. It is essential that flight crews carefully monitor the"
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "airspeed indications during every takeoff. Obstruction or contamination of the Pitot can occur before any flight."
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety first 32 July 2021 015"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety first 32 July 2021 017 ANALYSIS OF AN EVENT Event Description An A321 was in cruise when the HYD G ENG 1 PUMP LO PR and HYD G RSVR LO LVL ECAM alerts were triggered. The flight crew applied the FCOM procedures and switched off the PTU and green hydraulic pump on engine 1. During the approach, the flight crew switched the green hydraulic pump on again not requested by the FCOM procedure. The landing gear was extended. Landing and rollout were uneventful and performed with the green hydraulic system selected ON. The flight crew stopped the aircraft before commencing the taxiin to switch the green hydraulic system to OFF once again. They resumed the taxi, and finally parked the aircraft at the gate. The engines were selected to OFF and the parking brake was set to ON. The yellow hydraulic pressure started to decrease toward 0 PSI, which"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "was indicating an issue with the yellow hydraulic circuit. In the meantime, the ground personnel observed that the right main landing gear wheel was on fire and extinguished it using a fire extinguisher at the gate. Event Analysis The investigation showed that the head of one of the tie bolts of wheel n3 had sheared off and progressively migrated toward the brake, causing damage to the brake assembly during the previous flights. This damage eventually caused a leak from the green hydraulic system, which triggered the ECAM messages that indicated low hydraulic system pressure and low fluid levels during the flight. The leak from the yellow hydraulic system happened when the parking brake was set to ON at the gate, causing hydraulic fluid to be in contact with the hot brakes and resulting in the wheel fire. THE CRITICALITY OF WHEEL TIE BOLTS Ensuring the structural integrity of the wheel"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Aircraft landing gear wheels nose, main, body or wing landing gear have a similar basic structure, regardless of the wheel manufacturer. Each wheel assembly consists of a tire fitted over two half hubs, which are fastened together by tie bolts. fig.1 . For wheels fitted over brake assemblies, the inner hub of the wheel is designed to house the brake. The tie bolts ensure the structural integrity of the wheel by sustaining the loads from the tire pressure, the aircraft weight, and the dynamic loads due to the impact of the landing gear during landing. Therefore, wheel tie bolts should be considered as one of the critical components of the landing gear assembly."
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Take Care of the Wheel Tie Bolts fi g.1 Typical aircraft wheel structure fi g.2 Example of tie bolts rupture leading to wheel defl ation picture send by an operator Consequences of a damaged tie bolt A tie bolt may be damaged and its screw or nut may migrate from its location, potentially causing damage and safety risks. A reduced structural resistance of the wheel Any missing tie bolt will result in an increase in the loads on the remaining tie bolts. This can adversely affect their condition and it may reduce the structural integrity of the wheel if it is not replaced fi g.2 . Damage to the wheel and the aircraft can occur with the associated risk of injury to ground personnel during ground operations."
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "A risk of Parts Departing the Aircraft PDA A damaged tie bolt that falls from a wheel can cause damage to the aircraft or injury to people on the ground. If the damaged tie bolt falls on the runway, there is a risk of damage to subsequent aircraft taking off or landing, and especially a risk of engine ingestion. A risk of damage to the brakes and the aircraft When a tie bolt is missing from a wheel that houses brakes, the tie bolt can migrate toward the brake, causing extensive damage and a risk of brake jamming. If the pistons of the brake are damaged, there is a risk of hydraulic fluid leak that may trigger a brake fire, as in the example described above. A significant number of events related to damaged tie bolts Airbus identified a significant number of reported events related to tie bolt loss in"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "the last five years, although only a few of these events resulted in significant damage. Prevention is key to reducing this trend by early detection of any missing tie bolts in line operations or even by anticipating a tie bolt failure through regular wheel tie bolt inspections that are requested by the maintenance planning. DETECTION OF MISSING DAMAGED TIE BOLTS IN LINE OPERATIONS There are numerous opportunities in the line of operations where maintenance personnel and flight crews can detect a missing or damaged tie bolt and prevent potential damage. Inspection by maintenance personnel A missing or damaged tie bolt or may be detected during the daily check or preflight walkaround fig.3 . If the tie bolt damage is located on the inner hub side of a wheel equipped with brakes, or if the wheel has a brake cooling fan assembly fitted to it, it is more difficult to see"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "if the tie bolts are damaged. Inspection by flight crews As an additional safety net, the flight crew should check for the presence of all the tie bolts when checking the condition of the wheels and tires during the exterior walkaround. Check of the wheel and brake condition if one bolt is found missing As per the AMMAMPMP procedure, if one of the tie bolts is found missing, the wheel must be removed and visually inspected for damage as well as the brake assembly. Safety first 32 July 2021 019 fig.3 Example of missing tie bolt detected during a preflight walkaround picture sent by an operator"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Take Care of the Wheel Tie Bolts Depending on the wheel type and manufacturer, the MEL may permit dispatch with one tie bolt missing on a wheel for a limited number of flights. In this case, the condition of the wheel and brake must also be checked before dispatch as per MEL maintenance procedure. DETECTION OF DAMAGED TIE BOLTS DURING WHEEL SHOP MAINTENANCE Many tie bolt ruptures and losses can be avoided if the damaged tie bolt is detected during planned shop maintenance inspections. Regular visual inspections At each tire replacement, the tie bolts must be removed and visually inspected for any damage refer to the CMM of the wheel manufacturer for the complete procedure. KEYPOINT Storage of the tie bolts after removal The removed wheel tie bolts must not be put together in a box without suitable separation and protection before inspection and reinstallation. When the bolts are"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "removed from the wheel, they should be handled with care and placed into a box with dedicated compartments for each bolt to ensure that they are not in contact with each other. This prevents contact damage to the bolts. Regular NonDestructive Testing NDT inspections Regular NDT inspections are planned to detect any structural damage on the bolt or any indications of fatigue or cracks and ensure that any damaged bolt is replaced before it fails. Inspection intervals vary for each wheel manufacturer and must be observed. These intervals may consider a maximum number of tire replacements on the wheel, or the number of flight cycles, or the maximum number of calendar days since the previous inspection. Often it is a combination of these and whichever occurs first. Refer to each wheel manufacturer CMM to determine the inspection intervals. In the case of an overload e.g. Hard landing, some additional specific"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "checks might be requested refer to the CMM."
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety first 32 July 2021 021 KEYPOINT Traceability is key Traceability is key to ensure that the wheel tie bolts are inspected at the required intervals using NDT inspection methods. Tie bolts do not have a serial number. Therefore, it is the wheel serial number that must be used to ensure there is a record of the number of tire replacements, flight cycles, and the last recorded NDT inspection date. The good practices listed below should be followed to ensure that the bolts are inspected at the required intervals After a tire replacement, the same set of tie bolts removed from a wheel assembly should be reinstalled on the same wheel to ease traceability, and the number of tire replacements since the last NDT inspection should be recorded When reinstalling the same set of wheel tie bolts onto a wheel assembly it is important to make sure that the tie"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "bolts have not exceeded the number of allowable flight cycles, tire replacements, or calendar days passed since the last NDT inspection date, in accordance with the wheel assembly CMM If a wheel tie bolt is removed from a set, the replacement bolt must be a new bolt or a substitute bolt, but only if this bolt was inspected using NDT as per the CMM If a new set of tie bolts is installed on a wheel, the maintenance record of the wheel must be updated to indicate this accordingly Any tie bolt installed on the wheel must be the same part number specified by the wheel assembly CMM. Observe the correct torque value Correctly torquing and greasing the wheel tie bolts is important to ensure the overall structural integrity of the wheel assembly and to prevent damaging the bolts. The correct tightening torque value to apply for the wheel tie"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "bolts is specified in the CMM and must be observed when assembling the wheel. NOTE To improve the protection of wheels and brakes during parking and storage of aircraft, the recommendations provided in the AMMMPAMP procedure for parkingstorage of aircraft should be applied."
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Take Care of the Wheel Tie Bolts CONTRIBUTORS Xavier BARRIOLA AccidentIncident Investigator Product Safety Cesar GARCIA CASTILLA Product Safety Enhancement Product Safety Arturo MARTINEZ GRACIDA Aircraft Operability Design Office Marina MESTRE HERRERA Braking Steering System Engineer Customer Support Wheel tie bolts should be considered as a key component of the aircraft landing gear because they ensure the structural integrity of the wheels. The wheel assembly must sustain significant loads and any damaged bolt could shear under stress and reduce the capability of the wheel to resist these loads. This could have the potential to cause injury to personnel on the ground or be a risk of wheel failure on taxi, take off or most likely upon landing. A sheared wheel tie can migrate toward the brake assembly and cause damage that may lead to hydraulic system leak, resulting in loss of brake pressure, and possibly brake fire. Early detection"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "by maintenance and flight crew who can check for any damaged or missing tie bolts during the preflight exterior walkaround can help to prevent this. Preventive maintenance allows for early detection of any damaged bolt by regular visual and NDT inspection. Careful traceability of the bolts installed on each wheel assembly will help to ensure that the required NDT inspection intervals are observed. This will enable an early detection of any indication of structural fatigue on the wheel tie bolts so that they may be replaced before there is a risk that they shear in service."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety first 32 July 2021 023"
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Confi guration not authorized to be installed on that aircraft. Incorrect technical"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "SEVERAL REPORTED INCORRECT AIRCRAFT TECHNICAL CONFIGURATIONS More than 30 cases of incorrect aircraft technical configuration were reported to Airbus over the last two years. In all cases, the aircraft was dispatched with a computer standard that was not authorized to be installed on the aircraft. Consequences of an Incorrect Aircraft Technical Configuration A risk of incorrect behavior of some aircraft systems Incorrect aircraft technical configuration can lead to unexpected system behaviors, which could affect the safety of a flight, especially if the incorrect configuration has an effect on flight control or flight guidance computers, or causes certain system functions to become unavailable. A risk of documentation providing inappropriate information or procedures A mismatch in the aircraft technical configuration can also cause the aircraft documentation e.g AMM, IPC, FCOM, QRH, MMEL to not reflect the actual technical configuration of the aircraft. This may result in documentation that provides inappropriate information or"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "procedures to the flight crew or the maintenance personnel. HOW AIRCRAFT TECHNICAL CONFIGURATION EVOLVES The As Delivered Configuration Every new aircraft delivered to an Operator is equipped with the latest computer standards and full compatibility with all of its systems is ensured. This is called the As delivered initial certified configuration of the aircraft. The As Reported Configuration Operators can implement system improvements, corrections or add new functions, through modifications accomplished by Service Bulletins SBs during the entire service life of their aircraft. A SB replaces the original component with an updated component. The new component has a new Part Number PN corresponding to the new standard. The Operator must report the embodiment of the service bulletin to Airbus, because Airbus uses this As Reported configuration of the aircraft to customize the content of the aircraft maintenance and operational documentation fig.1 . Safety first 32 July 2021 025 Incorrect aircraft"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "technical configuration can lead to unexpected system behaviors, which could affect the safety of a flight Airbus uses the As Reported configuration of the aircraft to customize the content of the aircraft maintenance and operational documentation"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Ensuring a Correct Aircraft Technical Confi guration KEYPOINT Reporting SB embodiment to Airbus is essential to have uptodate maintenance and operational documentation. fi g.1 Reporting SB embodiment ensures that aircraft documentation is updated to match with the actual technical confi guration of the aircraft INFORMATION For more information on service bulletin confi guration management, refer IPC Spare Parts The Illustrated Parts Catalog IPC enables Operators to use a compatible PN instead of the original PN of a component if it is not available. This prevents unnecessary grounding of an aircraft in the case of a component failure. Only PNs that are listed in the IPC as spares can be used to replace the installed PN. This reinforces the need to report the embodiment of service bulletins to Airbus to ensure that the IPC provides the correct spare PNs. Operators should be aware that if they use an IPC spare"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "part, the aircraft documentation remains customized to the As reported confi guration fi g.2 . KEYPOINT If the IPC does not list spare PNs, the replacement component must have the same PN. If the IPC provides a spare PN, it may be used to avoid unnecessary grounding of the aircraft. If a spare PN from the IPC is used, the aircraft documentation remains customized to the As reported confi guration."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Check with Maintenance Ground technicians should contact their maintenance engineering department if they have any doubt about the As Reported confi guration versus the actual aircraft technical confi guration. INFORMATION For more information on interchangeability and mixability rules, refer to the InterchangeabilityIPC spares PN documentation available in the airnav X help center. Safety fi rst 32 July 2021 027 fi g.2 When an IPC spare PN is used, the documentation remains customized to the original PN"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Ensuring a Correct Aircraft Technical Configuration HANDLING DATA LOADABLE COMPUTERS How Technology Evolved to Ease Computer Updates Line Replaceable Units LRUs and On Board Replaceable Module OBRM To update a computer to a new standard on A300, A310, A320 family, A330, and A340 aircraft, a Line Replaceable Unit LRU can be replaced with an LRU at a new standard. For some computers on A320 family, A330, and A340 aircraft, the update can also be done by changing only a part of the computer hardware called On Board Replaceable Module OBRM. Data Loading Units DLUs A more recent generation of computers known as Data Loadable Units DLUs are now used for the majority of computers. Operators can update DLUs by directly loading updated software onto the units, also known as the Field Loadable Software FLS, using an interface in the cockpit or a portable data loader. Operators do not need"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "to remove DLUs from the aircraft to perform their update. DLUs ease computer upgrades, simplify management of spare parts, and as a result, save time and cost. Most of the computers installed on A220, A350 and A380 aircraft are DLUs. DLUs have been progressively introduced on A320 family, A330, and A340 aircraft since 2009. All currently delivered A320 family and A330 aircraft are equipped with several DLUs. Some computers on older A320 family, A330 and A340 aircraft are also being progressively replaced with newer DLUs. When installed with the relevant software standard, a DLU has the equivalent behavior of the older LRU that is not data loadable. Ensuring the Correct Software is Installed Maintenance technicians must check the PN of the software installed on a DLU to identify the actual computer standard. Checking the PN of the DLU hardware alone is no longer sufficient. The software PN must also be"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "checked and treated like any other aircraft component, and its configuration should be managed in the same way. Cases of Incorrect Software Installed Failing to check the software PN installed on a DLU caused many of the reported cases of incorrect aircraft technical configuration. As a typical example, when a DLU fails and is replaced with a DLU that has the same hardware PN, the PN of the software preinstalled on the new unit may not be correct fig.4 ."
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "The LRU Identification Steps in the AMMMPAMP The ground technicians must perform all of the steps in the AMMMPAMP tasks for computer removal and installation. This includes the LRU IDENTIFICATION steps that enable them to check that both the PN of the hardware and the PN of the software of a computer are correct. The LRU identification page can be accessed via the SYSTEM REPORT TEST page on the MCDU A320 family, A330, A340 aircraft or via the OMS A220, A350 and A380 aircraft. KEYPOINT The LRU IDENTIFICATION step of the AMMMPAMP task for computer installation is the last opportunity to check via the MCDUOMS that the correct software PN is installed on a computer. Safety first 32 July 2021 029 fig.4 Example of incorrect technical configuration of Elevator Aileron Computers ELAC on A320 family aircraft due to noncompatible software preinstalled on the replacement computer fig.5 Example of an incorrect"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "technical configuration visible on the LRU IDENTIFICATION page of an A320 family aircraft"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Ensuring a Correct Aircraft Technical Confi guration INFORMATION Airbus Customer Support has published the ISI articles listed below on the AirbusWorld portal as well as an A220 Service Letter to help Operators and MROs to manage FLS. ISI 00.00.00095 Field Loadable Software Management FLS Applicable Standards and Classifi cations ISI 00.00.00188 Field Loadable Software Management FLS Applicable Recommendations ISI 00.00.00189 Field Loadable Software Management FLS List. This article provides Operators with the way to extract the SW confi guration of the aircraft and the list of FLS FIN that can be installed on A320 family and A330A340 aircraft ISI 00.00.00240 FLS Media Digitalization PDL adaptation ISI 00.00.00317 How to manage FLS with LSBM ISI 00.00.00329 FLS electronic Delivery ISI 00.00.00333 How to rebuild a FLS Media from a digitalized FLS ISI 00.00.00334 Correspondence matrix between Media PNR and FLS PNR ISI 00.00.00337 1st Webinar A320A330A340 families FLS Media Digitalization"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "ISI 00.00.00384 2nd Webinar A320A330A340 families FLS Media Digitalization A220 Service Letter CSSL46000003 Field Loadable Software List"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Mixing DLU with nonDLU on A320A330A340 Aircraft A mix of DLU and nonDLU computers is possible on A320 family, A330, and A340 aircraft. It requires clear identification of the computers that are DLUs and a strict adherence to the interchangeability and mixability rules defined in the IPC. DLU identification A placard located on the computer hardware enables ground technicians to identify any computer that is a DLU fig. 6 . Mixability of DLU and NonDLU Computers For some computer standards, both a DLU and a nonDLU version are available and are twoway interchangeable units. The IPC usually enables the DLU and nonDLU versions to be interchanged provided that the software of the DLU version is also loaded with the correct software PN. Awareness Training for Maintenance Operators should ensure that maintenance technicians who work on A320 family, A330, and A340 aircraft are aware of the presence of DLUs on their"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "aircraft and perform the necessary training to manage DLUs correctly. Safety first 32 July 2021 031 fig.6 Examples of DLU identification placard fig.7 Example of mixability for DLU and nonDLU ELAC computers on A320 family aircraft"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS Ensuring a Correct Aircraft Technical Confi guration CONFIGURATION CHECKER TOOL Available since June 2021 A320 family, A330, A340, A350 A380 aircraft fi g.8 View of the interface of the Confi guration Checker tool in the Allowed Parts menu of airnav fi g.9 Concept of the Confi guration Checker tool Airbus developed a tool called the Confi guration Checker to further assist Operators in the management of their aircraft technical confi guration this tool is available in the Allowed Parts menu of airnav X since June 2021 for A320 family, A330, A340, A350, and A380 aircraft. A Comparison Between the PN Installed on the Aircraft and the List of Allowed PNs Operators can upload the aircraft confi guration fi le that contains the PNs installed on an aircraft into the Confi guration Checker. The tool then compares the installed PNs with the list of allowed PNs per position and provides"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "a report that highlights the confi guration mismatches, if any. The Confi guration Checker tool brings an additional safety check on top of the LRU IDENTIFICATION step against any confi guration mismatch. Note that the uploaded data is not archived and the report is only visible to the Operator."
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "CONTRIBUTORS Jean Fran\u00e7ois BOURCHANIN Flight Control System Technical Advisor Customer Support Franck COSSON Technical Data Product Support Customer Support Patrick MANGIAROTTI Technical Data Engineering Customer Support Arturo MARTINEZ GRACIDA Maintenance Human Factor Specialist Design Office Laurent MASSONNIER Manufacturing FLS process Manager Manufacturing Cyril MONTOYA Maintenance Safety Enhancement Manager Customer Support Lilian SEGONDS Field Loadable Software Operations expert Customer Support With thanks to Jason BURGE, JeanPhilippe JACQ and Alexandre LAGU from Customer Support and Francis P\u00e9loquin from Airbus Canada Safety first 32 July 2021 033 Proper aircraft configuration management and consistent aircraft documentation are key elements to flight safety Operators must ensure correct aircraft technical configuration management and inform Airbus when they have embodied service bulletins on their aircraft so that their documentation reflects the actual aircraft technical configuration. This will ensure that the maintenance technicians and flight crew have the appropriate information and procedures to safely maintain and operate the"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "aircraft. Operators must only use a spare part that is listed in the IPC to prevent the grounding of an aircraft if the original PN is not available. Maintenance technicians must check the software PN installed on Data Loadable Units to ensure that the correct software standards are installed on the computers. The LRU identification step of the AMMMPAMP procedure for installation of a computer is the last opportunity to check that the software installed on a computer is correct. This step must not be skipped, even if the technicians are under operational pressure.Communication between the flight crew and the cabin crew enables safe and efficient management of the cabin before and during turbulence events. Since June 2021, the Configuration Checker tool is available to Operators in the Allowed Parts menu of airnav X . This provides an additional safety net to check that the aircraft current technical configuration is"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "in line with the list of allowed parts."
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "on the ground without performing the necessary troubleshooting"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety fi rst 32 July 2021 035"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS System Reset Use with Caution fi g.2 Example of pushbuttonswitches on the overhead panel of an A330 aircraft WHAT IS A SYSTEM RESET? A system reset is the action of switching off a system and then switching it back on again with the objective to retrieve normal system behavior or recover a previously lost function. It is different from reengaging a tripped Circuit Breaker CB. Automatic Reset vs. Manual Reset Certain avionic systems, such as the Flight Management System FMS, have an automatic reset function. The reset action is completely managed by the system that has an automatic failure detection mode. Maintenance or fl ight crews perform a manual reset by using the cockpit control for the system, a circuit breaker, or a dedicated reset button also called a reset switch. This article focuses only on these types of manual resets. Manual Reset Using System Controls For specifi c"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "systems, such as the fl ight control system, the maintenance or fl ight crews can perform a system reset from the cockpit using pushbuttonswitches available on the overhead panel fi g.2 ."
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Manual Reset Using a Circuit Breaker Pulling a system CB and then pushing it back in will trigger a system reset because this will isolate and then restore the power supply to all parts of the system. It will also cause the software of the system to reload. This is considered as a hard system reset. There are two types of CBs traditional CBs and electronic CBs. The traditional CB is manually opened and closed. The electronic CB, also called Solid State Power Controller SSPC, is controlled by a remote interface on A220A380 A350. Various system CBs are located in the cockpit of Airbus A220A300 A310A320 aircraft, the avionics bay, the cabin, and the cargo compartments. There are no CBs in the cockpit of Airbus A330A340A350A380 aircraft. They are replaced by system reset buttons on the overhead panel. Manual Reset Using a Reset Button Pulling a system reset button fig.3"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "then pushing it back in the cockpit will only reset the system software part only available on Airbus A330A340A350A380 aircraft. This is known as a soft reset because the system will remain powered. Inappropriate system resets can have serious consequences Past events have highlighted how some system resets can have irreversible consequences. One example is where a system cannot be recovered after an inappropriate system reset in flight. Another example is where a reset of flight control computers is unduly performed. Depending on the system malfunction encountered, this can cause unexpected movements of the flight control surfaces, which may lead to serious consequences if performed in flight. Avionics systems are interconnected systems, therefore, a system reset of one system can have significant consequences for the other systems that rely on its data. Inappropriate system resets can have unexpected side effects and hide deteriorating conditions of the system. In combination with"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "a failure of another system, the safety of the flight can be impaired. Therefore, it is important that maintenance personnel and flight crews only perform system resets in accordance with the guidance in the relevant procedures, as for the cases described in this article. Safety first 32 July 2021 037 fig.3 Reset buttons available on the top part of the overhead panel of an A330 aircraft"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS System Reset Use with Caution fi g.4 Example of a SEC 1 FAULT ECAM alert on A330 aircraft SYSTEM RESETS BY THE FLIGHT CREW The fl ight crew can perform system resets only in the three cases listed below. CASE 1 A Dedicated Step in the ECAMOEBFCOMQRH Procedure A system reset can be specifi cally requested in an ECAMOEBFCOMQRH procedure fi g.4 . CASE 2 As an Option After ECAM Procedure except A300B2B4 ECAM procedures do not necessarily request a system reset. In this case, as per the Airbus Operational Philosophy section of the FCTM, the PF should call out STOP ECAM after they perform the ECAM actions. Before the review of the status of the aircraft on the STATUS page, if the PF considers that it is necessary to perform a system reset to recover the operation of the affected system, it is the responsibility of the fl"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "ight crew to fi rst check if such reset is authorized in the System Reset table of the FCOMQRH."
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Safety first 32 July 2021 039 KEYPOINT If there is no reset procedure available in the System Reset table of the FCOMQRH associated with the malfunction or ECAM alert encountered, the flight crew must not attempt a reset. For A320 family aircraft, on the ground only, the flight crew can still perform a reset that is not listed in the A320 System Reset table as described in Case 3 below. The System Reset table lists the specific conditions necessary for the reset procedure The reset procedures are the result of indepth analysis to define the authorized resets and their associated conditions, such as the maximum number of resets possible, if they are authorized on the ground only, or also in flight. These conditions must be respected. KEYPOINT Resets that are only authorized on the ground can have dramatic consequences if performed in flight. System resets can trigger functional tests that"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "may lead to movement of the flight control surfaces, which is why they must not be performed in flight. This can also cause reversion of the flight control laws with associated loss of flight envelope protection. Read and do the procedure A reset procedure must be performed in read and do mode. The flight crew must not apply the system reset procedure from memory and they must always follow the relevant procedure ECAMOEBQRHFCOM, or refer to the System Reset table in the QRHFCOM. The need for crosscheck Performing a system reset is an action that can have irreversible consequences. A crosscheck action is necessary before resetting a system when using a guarded cockpit control, a CB, or a reset button."
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS System Reset Use with Caution fig.5 Flow diagram for flight crew system resets Report any reset to maintenance Any manual system reset that the flight crew does on the ground or in flight must be reported to maintenance and recorded in the aircraft logbook regardless of it being successful i.e. system recovered or not. The number of attempted resets should also be specified to help maintenance monitor the resets as an indication of the system condition. CASE 3 System Resets for Electrical Transient Faults for A320 Family Aircraft on the Ground Only Electrical transients may lead to intermittent system failures A320 family aircraft systems can be affected by electrical transients during powerup, APU, or engine start, or any electrical transfer."
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "To manage the sideeffects of these transients, depending on the affected system, it is possible to perform system resets from the A320 QRH System Reset table and also system resets that are not specifically listed in the System Reset table. The affected system is listed in the QRH System Reset table If the affected system is listed in the QRH System Reset table, the associated reset procedure and conditions must be applied, but only for the corresponding ECAM alerts or system malfunctions listed in the reset table. For other ECAM alerts or malfunctions of the affected system not specifically listed in the System Reset table, a system reset is not authorized. The affected system is not listed in the QRH System Reset table If the affected system is not listed in the QRH System Reset table, the system can be reset on the ground only by applying the general guidelines"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "provided in the General part of the System Reset section of the A320 QRH. Crosscheck and report As for any reset, a crosscheck must be done when using a guarded cockpit control, a CB, or a reset button and the reset must be reported in the aircraft technical logbook. Safety first 32 July 2021 041 fig.6 Flow diagram for flight crew system resets on A320 family aircraft on the ground"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS System Reset Use with Caution SYSTEM RESETS BY MAINTENANCE PERSONNEL Caution for System Resets on Ground System resets can cause system components to move or operate, which is a risk of serious or fatal injury to people in close proximity to the aircraft. This can also cause damage to the aircraft if in contact with ground equipment. Specifi c precautions must be taken when performing tasks on or near fl ight controls, fl ight control surfaces, around landing gears and landing gear doors, or any other moving parts or components. Maintenance personnel can perform system resets only in the two cases listed below. CASE 1 Resets Requested in a Maintenance Procedure Resets may be required when applying a troubleshooting procedure from the Troubleshooting Manual TSM for A300A310A320A330A340A380 or the Aircraft Fault Isolation document AFI for A350. KEYPOINT Performing a system reset on the ground must always be part of"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "a troubleshooting procedure. Performing unauthorized quick fi x resets on the ground to dispatch an aircraft can affect the conditions of the next fl ights. The ECAM alert may be cleared for dispatch, but the underlying issue is not fi xed and this can hide a deteriorating condition in the system."
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "CASE 2 Specific Condition for A320 Aircraft Electrical Transients As already described in Case 3 for flight crew resets, A320 family aircraft operations can be affected by electrical transients at poweron. That is why it is allowable to perform resets on A320 family aircraft that are not part of a dedicated TSM task. TSM System Reset Table The A320 TSM contains a list of authorized resets with their associated conditions in the System Reset Guidelines task of the ATA 24 chapter. These authorized resets are the same as the authorized resets on the ground in the System Reset table of the A320 QRH. Fault due to Electrical Transient or Without Previous Record When it is obvious that a fault is due to electrical transients, or is not present in the fault history, the affected system can be reset under certain conditions. If the affected system is listed in the System"
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Reset table of the ATA 24 TSM task, a system reset is authorized, but only for the ECAM alerts or system malfunctions specifically listed in the table. For other ECAM alerts or system malfunctions not listed in the System Reset table, a reset is not authorized, despite the system itself being listed in the reset table. If the affected system is not listed in the System Reset table, a reset is authorized with no specific restrictions. Fault not Obviously due to Electrical Transient With Previous Record If the fault is not obviously due to electrical transients and is present in the fault history repeated intermittent failure, then the application of the appropriate TSM procedures is required."
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "OPERATIONS System Reset Use with Caution fig.7 Flow diagram for maintenance personnel system resets on A320 family aircraft on the ground Monitoring System Resets Always Record System Resets An efficient method to record and monitor system resets must be implemented. Any attempted reset must be recorded whether a maintenance reset requested during the fault confirmation part of a TSMAFI task is successful intermittent failure, no further action required or not successful permanent failure, fault isolation actions to perform. A Management System for System Resets Repetitive failures can occur despite maintenance actions, but they may not necessarily reappear over consecutive flights. Operators shall have a dedicated management system for repetitive failures to comply with continued airworthiness regulations. Repetitive Failure Management Repetitive resets of the same system could indicate a permanent failure. Appropriate troubleshooting actions must be initiated to mitigate the risk of latent failures on the ground with multiple resets, which"
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "could reappear later in flight. It is important to properly track repetitive occurrences of system malfunctions over several flights. This is usually an indication that the fault condition still exists and deeper troubleshooting is required."
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "CONTRIBUTORS Serge BLIND Engineering Safety Aircraft Safety Enhancement JeanFran\u00e7ois BOURCHANIN Flight Control System Technical Advisor Engineering Support Olivier FERRAN Senior Flight Operations Engineer Flight Operations Support and Training Standards Franck GAY Maintenance Instructor Technical Training Development Cyril MONTOYA Maintenance Safety Enhancement Manager Customer Support Capt. Vincent SIBELLE Training and Flight Operations Pilot Instructor Flight Operations Support and Training Standards With thanks to Denis CADOUX and Ian GOODWIN from Product Safety, Fabien ARNE and Laurent COUTURET from Braking and Steering System Engineering Support, Marc LELOUER from A300A310 Flight Operations Support and Capt. Xavier LESCEU from Airbus Canada. Safety first 32 July 2021 045 Unauthorized resets of an aircraft system can hide a deteriorating condition of the system. What may seem to be a quickfix on the ground to dispatch the aircraft can lead to a system fault reappearing in flight that may even affect the safety of the flight. If not"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "specifically requested in an ECAMOEBFCOMQRH procedure, the flight crew can only consider attempting a reset to recover the operation of an affected system if it is listed in the System Reset table of the FCOMQRH. If there is no reset procedure available in the System Reset table of the FCOMQRH, which is associated with the malfunction or ECAM alert encountered, then the flight crew must NOT attempt to reset the system. Any system reset performed by the flight crew needs to be reported to maintenance personnel and must be recorded in the aircraft technical logbook, including the number of attempts and outcomes. For A320 aircraft only, due to possible electrical transients, the flight crew can perform on ground resets that are not listed in the reset table. Maintenance system resets are only performed in accordance with specific TSMAFI tasks. Troubleshooting can start with resets but should not end there. The"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "appropriate troubleshooting actions or at least recording actions should always follow. For A320 aircraft only, the same onground resets from the System Reset table of the QRH are available in the A320 TSM and can be used to manage intermittent faults and ease the aircraft dispatch. In this case, it is possible to perform system resets that are not specifically listed in the TSM. Manual system resets performed by flight crew or maintenance personnel are not a way to fix repetitive faults. Multiple and unreported resets can hide degraded system conditions. The fault could reappear later and have significant consequences during a flight. An efficient system for reporting and managing system resets is crucial for monitoring the health of all aircraft systems, which is key to maintaining safe aircraft operations."
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "ARTICLES PUBLISHED IN PREVIOUS SAFETY FIRST ISSUES Available in the Safety fi rst app and website safetyfi rst.airbus.com Issue 31 January, 2021 A focus on the landing fl are Prevention of unstable approaches Attention crew at stations A focus on the takeoff rotation Issue 30 July, 2020 Avoiding fuel spills on A320 family aircraftsource fi les Safe aircraft refuelling Aircraft parking and storage Preparing for a safe return to the skies Mind the oebs Issue 29 January, 2020 GNSS Interference Takeoff Surveillance Monitoring Functions Managing Severe Turbulence Safe Aircraft Parking Issue 28 July, 2019 Overspeed Event with Crew Takeover and OEB49 Application Management of Overspeed Event in Cruise The Adverse Effects of Unrealistic Simulator Scenarios Preventing Fan Cowl Door Loss Correct Escape Slides Maintenance for Successful Slides Deployment Issue 27 January, 2019 Engine Thrust Management Thrust Setting at Takeoff Prenventing Inadvertent Slide Deployments Preventing Violent Door Opening due to Residual"
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Cabin Pressure Lessons Learned About the TeachIn Function Issue 26 July 2018 Look out for Ice Ridges on the Lower Nose Fuselage High Load Event Reporting Using Aircraft as a Sensor on Contaminated Runways Thrust Reverser Deployment in Fight Issue 25 January 2018 Are You Properly Seated? A Recall of the Correct Use of the MEL Protecting Aircraft and Passengers from Cargo Fire Issue 24 July 2017 Control your Speed... During Descent, Approach and Landing Troubleshooting Airframe Vibrations Preventing Falls from Height Progress to Pinpoint anAircrafts Position Issue 23 January 2017 Safely Flying NonPrecision Instrument Approaches Introduction to the Soft GoAround Function Preparing Flight Crews to Face Unexpected Events Safety, Our Shared Destination Issue 22 July 2016 Pitot Probe Performance Covered On the Ground 180 turns on runway Optimum use of weather radar Issue 21 January 2016 Control your speed... in cruise Lithium batteries safe to fl y? Wake vortices"
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "A320 Family Aircraft confi guration"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Issue 20 July 2015 Control your speed... during climb Lateral runway excursions upon landing Fuel monitoring on A320 Family aircraft Hightaltitude manual fl ying Issue 19 January 2015 Tidy cockpit for safe fl ight Landing on contaminated runways Understanding weight balance Wind shear an invisible enemy to pilots? Issue 18 July 2014 Control your speed... at takeoff Safe operations with composite aircraft Learning from the evidence A320 Family cargo Containers pallets movement Parts Departing from Aircraft PDA Issue 17 January 2014 Airbus Brake Testing Hard Landing, a Case Study for Crews and Maintenance Personnel Aircraft Protection during Washing and Painting Flight Data Analysis FDA, a Predictive Tool for Safety Management System SMS Flying a GoAround, Managing Energy Issue 16 July 2013 Performance Based Navigation RNP and RNP AR Approaches Atlantic Airways Introduction of RNP AR 0.1 Operations Flight Crews and DeIcing Personnel Working together in Temporary Teamwork for safe Skies"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Low Speed Rejected TakeOff upon Engine Failure Late Changes before Departure Safety fi rst 32 July 2021 047 Issue 15 January 2013 The Golden Rules for Pilots moving from PNF to PM Airbus Crosswind Development and Certifi cation The SMOKEFUMESAVNCS SMOKE Procedure PostMaintenance Foreign Objects Damage FOD Prevention Corrosion A Potential Safety Issue Issue 14 July 2012 Thrust Reverser Selection means FullStop Transient Loss of Communication due to Jammed PushToTalk A320 and A330A340 Families A380 Development of the Flight Controls Part 2 Preventing Fan Cowl Door Loss Do not forget that you are not alone in Maintenance Issue 13 January 2012 A320 Family A330 Prevention and Handling of Dual Bleed Loss The Fuel Penalty Factor The Airbus TCAS Alert Prevention TCAP A380 Development of the Flight Controls Part 1 Facing the Reality of everyday Maintenance Operations Issue 12 July 2011 Airbus New Operational Landing Distances The Go Around Procedure The"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Circling Approach VMU Tests on A380 Automatic Landings in Daily Operation Issue 11 January 2011 What is Stall? How a Pilot Should React in Front of a Stall Situation Minimum Control Speed Tests on A380 Radio Altimeter Erroneous Values Automatic NAV Engagement at Go Around"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "ARTICLES PUBLISHED IN PREVIOUS SAFETY FIRST ISSUES Available in the Safety fi rst app and website safetyfi rst.airbus.com Issue 10 August 2010 A380 Flutter Tests Operational Landing Distances A New Standard for Infl ight Landing Distance Assessment Go Around Handling A320 Landing Gear Downlock Situation Awareness and Decision Making Issue 9 February 2010 A320 Family Evolution of Ground Spoiler Logic Incorrect Pitch Trim Setting at TakeOff Technical Flight Familiarization Oxygen Safety Issue 8 July 2009 The Runway Overrun Prevention System The TakeOff Securing Function Computer Mixability An Important Function Fuel Spills During Refueling Operations Issue 7 February 2009 Airbus APFD TCAS Mode A New Step Towards Safety Improvement Braking System Cross Connections Upset Recovery Training Aid, Revision 2 Fuel Pumps Left in OFF Position A320 Avoiding Dual Bleed Loss Issue 6 July 2008 A320 Runway Overrun FCTL Check after EFCS Reset on Ground A320 Possible Consequence of V M Exceedance"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "A320 Prevention of Tailstrikes Low Fuel Situation Awareness Rudder Pedal Jam Why do Certain AMM Tasks Require Equipment Resets? Slideraft Improvement Cabin Attendant Falling through the Avionics Bay Access Panel in Cockpit Issue 5 December 2007 New CFIT Event During Non Precision Approach A320 Tail Strike at TakeOff? Unreliable Speed Compliance to Operational Procedures The Future Air Navigation System FANS B Issue 4 June 2007 Operations Engineering Bulletin Reminder Function Avoiding High Speed Rejected TakeOffs Due to EGT Limit Exceedance Do you Know your ATCTCAS Panel? Managing Hailstorms Introducing the Maintenance Briefi ng Notes A320 Dual hydraulic Loss Terrain Awareness and Warning Systems Operations Based on GPS Data Issue 3 December 2006 Dual Side Stick Inputs Trimmable Horizontal Stabilizer Damage Pitot Probes Obstruction on Ground A340 Thrust Reverser Unlocked Residual Cabin Pressure Cabin Operations Briefi ng Notes Hypoxia An Invisible Enemy Issue 2 September 2005 Tailpipe or Engine Fire Managing"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_32.pdf",
+    "text": "Severe Turbulence Airbus Pilot Transition ATP Runway Excursions at TakeOff Issue 1 January 2005 Go Arounds in AddisAbaba due to VOR Reception Problems The Importance of the Prefl ight Flight Control Check A320 Infl ight Thrust Reverser Deployment Airbus Flight Safety Manager Handbook Flight Operations Briefi ng Notes"
+  },
+  {
+    "page": 1,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "The Airbus safety magazine 33 Safety first"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety first, 33 January, 2022. Safety first is published by Airbus S.A.S. 1, rond point Maurice Bellonte 31707 Blagnac CedexFrance. Editor Yannick Malinge, Chief Product Safety Officer. Concept Design by Airbus MultiMedia Studio 20211023. Reference X00D16031905. Photos by Airbus, S. Ramadier, H. GOUSS\u00c9. This brochure is printed on Symbol Tatami White. This paper is produced in factories that are accredited EMAS and certi ed ISO 900114001, PEFC and FSC CoC. It is produced using pulp that has been whitened without either chlorine or acid. The paper is entirely recyclable and is produced from trees grown in sustainable forest resources. The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous metals from the cadmium, lead, mercury or hexavalent chromium group. The printer, Art Caract\u00e8re France 81500, is engaged in a waste management and recycling programme for all resulting byproducts. Editorial Team Guillaume Vanessa Gwyneth"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Tim Estragnat Sadi Duggan Roach Airbus S.A.S. 2022 All rights reserved. Proprietary documents. By taking delivery of this Brochure hereafter Brochure, you accept on behalf of your company to comply with the following guidelines No other intellectual property rights are granted by the delivery of this Brochure than the right to read it, for the sole purpose of information. This Brochure and its content shall not be modified and its illustrations and photos shall not be reproduced without prior written consent of Airbus. This Brochure and the materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment. This Brochure contains sensitive information that is correct at the time of going to press. This information involves a number of factors that could change over time, effecting the true public representation. Airbus assumes no obligation to update any information contained"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "in this document or with respect to the information described herein. Airbus S.A.S. shall assume no liability for any damage in connection with the use of this Brochure and of the materials it contains, even if Airbus S.A.S. has been advised of the likelihood of such damages. Safety first The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety first is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fly and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confidential Reporting System, incident and accident investigation reports, system tests and flight tests. Material is also obtained from sources within"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "the airline industry, studies and reports from government agencies and other aviation sources. All articles in Safety first are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The contents do not supersede any requirements mandated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily reflect the views of Airbus, neither do they indicate Company policy. Contributions, comment and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Product Safety department W 1, rond point Maurice Bellonte 31707 Blagnac Cedex France safetycommunicationairbus.com Visit us at safetyfirst.airbus.com"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "or install the Safety first app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "YANNICK MALINGE SVP Chief Product Safety Officer editorial Dear Aviation colleagues, Looking back at 2021, and even 2020, the industry has undoubtedly faced its share of turbulence from the health and financial challenges associated with the ongoing Covid19 crisis. The industry as a whole has certainly been tested, and it was a huge test. However, we can now observe some positive signs of recovery, even if the world is not yet free of this crisis. On the safety front, I am sure that everyone will agree that we have all been able to navigate through this crisis thanks to our collective resilience, which relies on our shared safety values. Reinforcing this resilience has remained a focus for all of us, from OEMs, suppliers, operators, authorities and aviation organisations. We need to maintain this focus to help address the challenges that lay ahead of us. Challenges such as getting out of"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "the Covid19 tunnel, managing our journey toward greater sustainability, and continuing to enhance our safety record. A word on Airbus Safety first to say we are pleased to see more than 1,300 daily readers of articles on safetyfirst.airbus.com and the Safety first app in 2021, and this continues to grow. Lets keep sharing our lessons learned and safety experiences, and keep up the connection with all of our aviation colleagues by sharing these articles. The entire Airbus Safety team and I pass on our best wishes for open and clear skies ahead in 2022."
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety first The Airbus Safety magazine Also available in app and website versions"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "NEWS The 26th Airbus Flight Safety Conference will be held in Dubai, 2831 March 2022 This event provides the opportunity for Airbus and its customers to exchange on how we can further strengthen safety in our Air Transport System. With the objective of strengthening safety for whats next, we will address how we have captured the lessons learned from the Covid19 crisis across our industry, including a focus on maintenance, flight operations and training activities. We will also present initiatives for securing safety enhancements on the Airbus fleet with the Safety Beyond Standard Programme. Finally, we will look ahead to the foreseeable evolution of technology in the cockpit, aircraft functions and flight operations."
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety 33 first OPERATIONS P06 Safe Handling of TCAS Alerts TRAINING P18 Training Pilots for Resilience OPERATIONS P28 Lining Up with the Correct Glide Slope P40 Landing with Nosewheels at 90 degrees"
+  },
+  {
+    "page": 8,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Safe Handling of TCAS Alerts"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "TCAS ALERTS IN OPERATIONS Flight crews reacted correctly to a TCAS Resolution Advisory RA in only 58.7 of cases according to a recent study published by Eurocontrol in April 2021. In 29.8 of cases, the flight crew reacted by modifying the aircraft trajectory but did not reach the expected target. In 11.5 of cases, the flight crew did not react, or they reacted excessively and sometimes had the opposite reaction to what the RA requested. Flight crews must always remember that a prompt and accurate response to TCAS RAs is important to maintain the highest level of safety. The Eurocontrol study observed a low level of compliance with Climb or Descend RAs only 33.7 of the climb and descend RAs were correctly followed, 44.2 did not reach the expected target, and 22.1 were not flown correctly. RAs only All Resolution Advisories Correctly Followed RA Weak response to RA Incorrect response"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "to RA Climb and Descend Why level off RAs are triggered in congested airspace? The TCAS warning logic uses the current trajectory of the aircraft to predict collision threats. This does not anticipate the expected level off when the aircraft finishes its climb or descent and reaches its expected flight level. If another aircraft approaches on an adjacent flight level, it can trigger a level off RA, or a level off with a corresponding climb or descend RA fig.2 . This is more likely to occur in congested airspace. Safety first 33 January 2022 007 Only a third of the climb and descend RAs were correctly followed The assessment of pilot compliance with TCAS RAs, TCAS mode selection, and serviceability using ATC radar data issue 2.1 published on 09APR2021 by Eurocontrol. fig.1 Flight crew response to TCAS RAs data from the Eurocontrol study fig.2 Example of an RA triggered when"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "reaching a cleared flight level, near an aircraft flying on an adjacent flight level"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Safe Handling of TCAS Alerts Level off RAs made up 65 of all observed RAs in the Eurocontrol Study. fig.3 Principle of the TCAP function Level off RAs made up 65 of all observed RAs in the Eurocontrol Study. ICAO recommends that the flight crew manually select a lower vertical speed when approaching the target flight level to prevent the triggering of level off RAs. This solution is effective but not always optimal, because it requires intervention by the flight crew. This is why Airbus developed the TCAS Alert Prevention TCAP function. TCAP PREVENTS RAs The TCAP function is an improved ALT altitude capture law for flight guidance computers. When a TCAS Traffic Advisory TA is triggered for an aircraft that is almost at its target flight level, the ALT guidance mode will engage earlier and use a reduced vertical speed to reach the target altitude. This will prevent"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "the need for an RA fig.3 . If the ALT guidance mode is already engaged when the TA is triggered, the TCAP function will further reduce the ALT vertical speed to prevent the RA. If an Operator has a mixed fleet configuration of aircraft with and without the TCAP function activated, the flight crew can still manually select a lower vertical speed when approaching the target flight level on any aircraft depending on the Operators policy."
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety first 33 January 2022 009 TCAP Availability The TCAP function is installed on A350 aircraft and on A380 aircraft delivered since July 2013. TCAP is also installed on all A320 family aircraft produced since early 2021, and on all A330 aircraft produced since October 2017 since February 2016 on A330 aircraft with RR engines. A380 aircraft delivered before July 2013 can be retrofitted using the activation Service Bulletin SB A380228011. Operators can retrofit TCAP on older A320 family and A330 aircraft. These aircraft must be fitted with a minimum standard of TCAS and a minimum standard of FMGEC. The minimum TCAS computer standard must be ACSS TCAS 2000 Change 7.0, or ACSS T2CAS Std 1, or ACSS T3CAS Std 1, or Collins TCAS TTR920 Change 7.0, or Honeywell TCAS TPA81A Change 7.0 On A320 family aircraft, the TCAP function is automatically activated on aircraft equipped with the following An"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "FMGC with flight guidance Standard PI17, PC20 or a subsequent standard Wiring installed by Mod 38790 Mod 30248 if T2CAS between the FMGC and the TCAST2CAS T3CAS computer. On A330 aircraft, an activation service bulletin is necessary in addition to installing an FMGEC with flight guidance standard HJ2 or H3 . APFD TCAS ENSURES AN OPTIMUM HANDLING OF THE TCAS RAs _ Sometimes the flight crew does not comply with RAs as expected or performs a maneuver that is too weak or excessive fig.4 . To help the flight crew perform optimum maneuvers in accordance with the RA, Airbus developed the APFD TCAS function. APFD TCAS enables the flight crew to follow TCAS function. fig.4 Response to TCAS RAs are not always optimum"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Safe Handling of TCAS Alerts fig.5 APFD TCAS ensures optimum handling of the TCAS RAs APFD TCAS enables the flight crew to follow TCAS RAs with AP ON or FD guidance The APFD TCAS function is an additional flight guidance mode of the autoflight system available for A320, A330, A350 and A380 aircraft. This function enables flight crews to either keep the autopilot ON to automatically follow the RA, or to manually perform the RA maneuver using FD guidance fig.5 1 When a TA is triggered, the TCAS mode is armed. 2 When an RA is triggered, the TCAS mode is engaged and targets a vertical speed 200 ftmin inside the RA green band. 3 When the aircraft is clear of conflict, the TCAS mode then reverts to a VS 1000 vertical speed mode toward the initially selected altitude. If the flight crew prefers to follow the RA using"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "the standard TCAS warning procedure, they can revert to it at any time. The APFD TCAS function assists flight crews to Correctly respond to the RA and in a timely manner. Perform a maneuver only to the extent necessary. Perform a maneuver with a moderate load factor to ensure passenger comfort and to reduce the risk of injury. Prevent the triggering of TCAS alerts on other aircraft. Possible reversion to the standard procedure If the flight crew prefers to follow the RA using the standard TCAS warning procedure, they can revert to it at any time. However, an Airbus analysis of more than 130 000 flights performed by A350 and A380 aircraft confirms the confidence of flight crews in the APFD TCAS function in 91 of the RA situations, the flight crew kept the autopilot ON."
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety first 33 January 2022 011 FMGC H2C13 or S6C13 or H2BPC13 or S7PC13brfor aircraft fitted with CFM enginesMOD 152224 or MOD 152225 or MOD 154191 orbrMOD 155031 FMGC H2I12 or S6I12 or H2BPI12 or S7PI12brfor aircraft ftted with IAEPW enginesMOD 152967 or MOD 152968 or MOD 154192 orbrMOD 155032 FWC H2F5MOD 37871 EIS EIS2 S82 or EIS1 V70MOD 38146 or MOD 150603 TCAS change 7 or T2CAS or T3CASMOD 27740 or 27698 or 36559 or 34637 or 39146 FDIMU with new FDIU Standard S15MOD 150037 or MOD 150038 FCU standard 4MOD 38132 Wiring provisionsMOD 38790 FMGEC P4H3 or P5H3 or P5H3 or T5AH3MOD 205773 or MOD 204758 or MOD 207492 orbrMOD 204775 FWC T3MOD 58751 EIS EIS2 L7 or EIS1 V513MOD 57115 or MOD 201332 TCAS Change 7.0 or T2CAS or T3CASMOD 47392 or 52992 or 58449 or 46986 or 47572 orbrMOD 46728 FDIMU Standard L10 Only if in"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "EIS1 V513brconfguration. Not necessary for EIS1 V514MOD 58688 FCU Standard 3MOD 200272 Wiring provisionsMOD 57112 and MOD 56759 and MOD 200939brfor TCAS or MOD 201160 for T2CAS or T3CAS"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Safe Handling of TCAS Alerts fig.6 APFD TCAS installation status for A320 family and A330 aircraft When operating a mixed fleet, flight crews can easily check the Aircraft Configuration Summary ACS table in the QRH during cockpit preparation. A330 fleet A320 family fleet APFD TCAS Mixed Fleet is not an Issue Despite the possibility of retrofitting the APFD TCAS function on inservice A320 and A330 aircraft, some Operators may not be able to equip a full fleet with APFD TCAS. This should not stop Operators from activating the function on their capable aircraft, because operations with a mixed fleet are possible. When operating a mixed fleet, flight crews can easily check the Aircraft Configuration Summary ACS table in the QRH during cockpit preparation. This will tell them if the aircraft has the APFD TCAS function activated. In addition, flight crews must know how to apply both TCAS warning procedures"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "with and without APFD TCAS function, because even with the APFD TCAS activated, they will need to apply the standard TCAS warning procedure if the APFD TCAS function is inoperative. Both procedures are described in the FCOM and QRH Memory Items part MEM SURV TCAS WARNING. Step 1 If a TA is triggered, select the appropriate procedure to apply If TCAS is NOT displayed on the FMA, it is not available or not installed. If an RA is triggered, the PF announces TCAS, I have control and must be prepared to apply the standard TCAS warning procedure. If TCAS is displayed as armed on the FMA, the flight crew can use the APFD TCAS function in automatic or manual flight. In this case, the PF announces TCAS blue, ensures that the autothrust is engaged, and prepares to either fly the potential RA maneuver using autopilot or manually fly the RA"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "with FD guidance. Many inservice aircraft have all prerequisites for activation of APFD TCAS An analysis of the inservice fleet shows that only slightly more than 30 of A320 family and A330 aircraft have the APFD TCAS function activated. The analysis also shows that a number of A320 family and A330 aircraft have all the system prerequisites installed and only need to activate the function to be able to use it. Operators should contact their Airbus Customer Support Director for information on the service bulletin about activating the APFD TCAS function on A320 family and A330 aircraft. APFD TCAS activated Activation step required only Missing prerequesites"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety first 33 January 2022 013 Col110 10 10br10 1010 1010 1010"
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Safe Handling of TCAS Alerts Step 3 Return to the initial trajectory when clear of conflict When the aircraft is clear of conflict If the RA was flown manually, the PF may adjust both the lateral and vertical trajectory to resume normal navigation in accordance with ATC instructions and may reengage the AP and FD. If the RA was flown in TCAS mode, the flight guidance reverts to VS 1000 mode when clear of conflict to go back to the selected altitude. The PF should then engage an appropriate vertical mode, or adjust the VS target, in accordance with ATC instructions. 1010 1010 1010 1010 1010 Video Operational use of the TCAS Article Airbus APFD TCAS mode a new stephttpssafetyfirst.airbus.comappthemesmh_newsdeskdocumentsarchivesairbusapfdtcasmode.pdf towards safety Improvement INFORMATION The Operational use of the TCAShttpswww.airbuswin.comwpcontentuploads201806operational_use_of_tcas.mp4 video available on the Worldwide Instructor News WIN website provides detailed information about the TCAS and how to use"
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "it. The video also describes the APFD TCAS function and provides answers to frequently asked questions. The Getting to Grips with Surveillance brochure issue 2 also provides information about the TCAS and is available for download on the AirbusWorld portal. Refer also to our first Safety first article on APFD TCAS published in February 2009 Airbus APFD TCAS mode a new step towards safetyhttpssafetyfirst.airbus.comappthemesmh_newsdeskdocumentsarchivesairbusapfdtcasmode.pdf Improvementhttpssafetyfirst.airbus.comappthemesmh_newsdeskdocumentsarchivesairbusapfdtcasmode.pdf ."
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Training on TCAS Warning Procedures The Airbus Flight Crew Training Standards FCTS manuals provide recommendations for both type rating and recurrent training programs on how to train flight crews to apply the TCAS procedures. The manuals contain recommendations to define the training objectives in line with ICAO doc 9995 Manual of EvidenceBased Training and IATA recommendations EvidenceBased Training Implementation Guide. FCTS manuals are available for download from the AirbusWorld portal. During the type rating and recurrent training courses, flight crews should be trained on how to apply the TCAS procedure both with and without the APFD TCAS function. This is to ensure that the flight crew will react correctly to a TCAS warning if the APFD TCAS function is not available or if it is inoperative on their aircraft. EvidenceBased Training EBT programs recommend that the TCAS procedure training should be performed at least one time every three years. INFORMATION"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Upcoming modification May 2022 of the TCAS Warning procedure in approach The TCAS WARNING procedure will be updated in May 2022 to standardize the procedure on all Airbus aircraft all aircraft types, with or without AP FD TCAS and to comply with EASA and FAA regulation requirements. The procedure will be amended as follows If any CLIMB audio indicator sounds during the final approach GO AROUND...PERFORM. Safety first 33 January 2022 015 Flight crews should be trained on how to apply the TCAS procedure both with and without the APFD TCAS function."
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Safe Handling of TCAS Alerts CONTRIBUTORS Christophe BAROUX Product Development Architect Upgrade Services Customer Support Florence CARDONA Airframe Services Marketing C\u00e9dric CORRAL Flight Management Auto Flight Systems Manager Design Office Xavier DUREPAIRE Training Flight Ops Pilot Instructor Customer Support Maria Luisa LOPEZ VILLAREJO Product Safety Enhancement Product Safety Christine VILLENEUVE Product Development Architect Upgrade Services Customer Support It is crucial that flight crews respond promptly and accurately to TCAS Resolution Advisories RAs to maintain the highest levels of safety. However, TCAS RAs are not always followed as expected in operations according to a study published by Eurocontrol in April 2021. This confirms why noncompliance with TCAS RAs is identified as one of the current top5 ATM operational risks. The TCAP function can improve the situation by preventing RAs in congested airspace. The APFD TCAS function can provide assistance to the flight crew for following the TCAS RAs in an"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "optimum way. The TCAP and APFD TCAS functions are now activated on all newly built aircraft. Many A320 family and A330 inservice aircraft have all the system prerequisites and can easily activate the APFD TCAS function. Airbus encourages Operators to contact their Customer Support Directors for details on how to implement APFD TCAS on their aircraft and benefit from this function. Flight crews can identify if an aircraft is equipped with the APFD TCAS function by checking the Aircraft Configuration Summary table in the QRH. In addition, the flight crew will know if the APFD TCAS function is available when the TCAS guidance mode is displayed as armed on the FMA in the case of a TA. Flying a mixed fleet of aircraft with or without the APFD TCAS function is therefore not an issue. During type rating and recurrent training, flight crews should be trained on how to apply"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "both TCAS warning procedures, with and without the APFD TCAS function, so that they can apply the standard TCAS procedure if the APFD TCAS function is not available. EvidenceBased Training programs recommend training flight crews on how to apply the TCAS warning procedures at least one time every three years."
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety first 33 January 2022 017"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "TRAINING Training Pilots for Resilience"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "THE NEED FOR RESILIENCE When an A300 cargo aircraft was hit on the left wing by a surfacetoair missile, all three hydraulic systems were lost. The Captain who was Pilot Flying immediately realized that engine control was the only means to safely land the aircraft. This was done by applying symmetric thrust control to adjust the pitch and speed, and asymmetric thrust control to adjust the bank angle. He did this based on the memory of a similar event that occurred a few years before when the flight crew took the initiative to use differential thrust to manage the loss of all hydraulic systems. The landing gear was extended by gravity and the flight crew eventually managed to land the aircraft without causing any injuries. This was a clear demonstration of flight crew resilience in an extraordinary situation. Events like these may be considered as extreme startle events that a"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "majority of flight crews may never see in their flying careers. Some may believe that training for resilience is only useful for such rare situations. Resilience is in fact useful anytime an unexpected situation occurs. An unexpected situation is not necessarily an extreme case such as the A300 example above. Resilience training for flight crews will help them to overcome the startle effect and temporary loss of situational awareness, to react in a controlled manner, and to continue a safe flight. What is resilience? The term resilience has become widely used in recent years, and not only in aviation. Resilience is used to qualify and evaluate human performance when faced with unexpected disruptions in operation. EASA has defined flight crew resilience as, the ability of a flight crew member to recognize, absorb and adapt to disruptions. Two key elements competence and confidence This highlevel definition of resilience has been refined"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "into two key elements by the Pilot Training Task Force PTTF of IATA flight crew resilience can be substantiated by raising the level of competence and by achieving the appropriate level of confidence trust fig.1 . In other words, to build their resilience, the flight crew needs to develop their competencies and their confidence. RESILIENCE COMPETENCE CONFIDENCE Safety first 33 January 2022 019 To build their resilience, the flight crew needs to develop their competencies and their confidence. fig.1 The two pillars of Resilience Competence and Confidence"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "TRAINING Training Pilots for Resilience fig.2 Chart showing how training to increase the level of flight crew resilience can support faster performance recovery following a startle event. When rigid routines are established, it will require more effort from the flight crew to adapt to an unexpected situation. Time One main enemy routine Resilience is the ability to adapt to changing situations. Routine reduces this ability. Facing the same situations over again when training or during operations can create rigid patterns of actions. When rigid routines are established, it will require more effort from the flight crew to adapt to an unexpected situation. Unexpected but not always abnormal The disruptions mentioned in the EASA definition of resilience do not refer only to an abnormal situation associated with a failure or a critical event. A disruption can be any deviation from the expected plan. For example, when the flight crew is suddenly"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "cleared direct to the FAP even though they expected to follow the entire STAR as usual. This disruption in operations requires resilience to some extent and for the flight crew to quickly adapt to the unexpected situation. The importance of resilience A flight crew will demonstrate resilience by the actions they perform to maintain sufficient safety margin following an unexpected or startle event. How they apply their competencies to communicate, manage their workload, and make decisions, is illustrative of their level of resilience to these kinds of events and how they manage the threats and errors. Resilience training for pilots throughout the process of pilot selection, education, training, and assessment has become an important element of flight safety. One main cause the startle effect When a flight crew is exposed to unexpected disruptions, they may experience a physiological reaction, known as the startle effect. This involuntary and uncontrollable reaction may"
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "be accompanied by a momentary loss of situational awareness resulting in a temporary deterioration in performance. The goal of resilience training is to minimize this deterioration and to enable the flight crew to recover performance as quickly as possible fig.2 ."
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "EVOLUTION OF TRAINING TOWARD MORE RESILIENCE TaskBased vs. CompetencyBased Training Flight crew training was traditionally a taskbased approach, which evolved into a competencybased approach. This places priority on training and assessment of a finite number of competencies over the training of tasks alone. Airbus decided to move from taskbased training and checking to a competencybased training and assessment program in 2014 with the introduction of the A350 Type Rating. Taskbased training approach Traditional approaches to training development involve separating jobs into tasks. For each task there is an assigned learning objective with associated elements in a training plan and checks to ensure that all of the learning objectives are met. A limitation of this approach is that each task must be taught and assessed. In complex systems, or when jobs evolve rapidly, it may not be possible to teach and assess every task. Some examples of the tasks to be"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "performed in the recurrent training and checking programs today are listed below Takeoff with an engine failure Engine failure during the final approach segment Go around with one engine failed Landing with one engine failed Rejected takeoff 3D approach 2D approach System malfunctions in all ATA chapters Low visibility takeoff Low visibility approach Low visibility go around Low visibility landing This taskbased training approach is by nature only adapted to predictable scenarios. Flight crews have to apply this taskbased approach, while developing their ability to also take into account the operational context. Competencybased training approach ICAO defines competency as, _a dimension of human performance that is used to_ _reliably predict successful performance on the job. A competency is manifested_ _and observed through behaviours that mobilize the relevant knowledge, skills_ _and attitudes to carry out activities or tasks under specified conditions._ In other words, the competency of an individual to proficiently"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "perform on the job is demonstrated through observable behaviors. The observation of these behaviors, which relies on relevant K nowledge, the right set of S kills, and the appropriate A ttitude or motivation KSA, can be used to predict future performance. In Competency Based Training and Assessment CBTA, the training goal is not to train the flight crew to react to every specific situation, but to be prepared for an infinite number of situations by developing a finite number of competencies. The training and assessment of a finite number of competencies is prioritized Safety first 33 January 2022 021 In CBTA, the training goal is to be prepared for an infinite number of situations by developing a finite number of competencies."
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "TRAINING Training Pilots for Resilience over the training of tasks. This should enable pilots to successfully perform in a complex and changing operational environment. They should also be able to manage tasks and situations that are unforeseen, and for which they have not been specifically trained. This builds strong resilience. For instance, EASA defines nine competencies also used by Airbus for flight crew training Application of knowledge Application of procedures and compliance with regulations Communication Flight Path Management Automation Flight Path Management Manual control Leadership and Teamwork Problem Solving and Decision making Situation awareness and management of information Workload management Observable behaviors are associated with each defined competency and are used for training and assessment purposes through a variety of scenarios. An assessment of competence is of course necessary in CBTA, but when completed, it provides the opportunity for pilots to learn most effectively when they are not under test"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "conditions. CBTA Old concept, new application The competencybased training approach has existed since the late 1950s. It has been progressively deployed in the aviation industry since the 2000s with the Multicrew Pilot License MPL introduced in 2006, which was the first CBTA program for licensing training. The first CBTA program for recurrent training was introduced in 2013 with EvidenceBased Training EBT. In 2016, ICAO published Amendment 5 to ICAO Doc 9868 Procedures for Air Navigation Services Training PANSTRG, which introduced general provisions for CBTA. The revision of ICAO Annex 1, published in 2020, recommends the use of CBTA as a principle of training in a wide range of other aviation disciplines such as Air Traffic Control, Aircraft Maintenance, and Flight Dispatch."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "The latest PANSTRG revision, published in 2020, further develops the CBTA training method as an important tool to ensure safe operations. It requires pilots to demonstrate resilience when encountering an unexpected event. INFORMATION In the light of the COVID19 pandemic and its impact on our industry, IATA published the _Guidance for postCOVID Restart of Operations CBTA Training_ _Solutions_ . The objective of this document is to provide guidance on training solutions to ensure a safe and efficient restart of operations after a long period of inactivity. Additionally, Airbus introduced the Airbus Pilot Relaunch Program APRP. The aim of the APRP is to enable flight crews of Airbus aircraft to do training to reinforce operational fundamentals after a long period without flying. The content of the training depends on the level of training requested by the Operator and on the flight crew competencies to be reinforced. Example of CBTA EvidenceBased Training"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "EBT IATA launched a qualitative initiative in 2007 to review the recurrent training system for flight crews, supported by ICAO and the International Federation of AirLine Pilots Associations IFALPA. It was called the Training and Qualification Initiative ITQI and its goal was to continuously reduce the number of incidents and accidents. Previous to this, training was designed in the 1960s when only the second and third generation of commercial jet aircraft were flying, whereas air transport traffic today is mostly made up of third and fourth generation commercial jet aircraft. More information on the four generations of commercial jet aircraft is available on the Airbus accidents statistics websitehttpsaccidentstats.airbus.comstatisticsgenerationsofjet . This modernization of the fleet, and the increasing role of human factors, meant that reevaluating the training tools and methods was necessary. This initiative relied on various data sources such as flight data analysis, air safety reports, Line Observation Safety Audits"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "LOSA, which includes flight observations, and more specifically threat and error management observations. It also relied on training criticality surveys, which addressed the effectiveness of training by highlighting the difference between the situations faced in line operations and in training. These sources, along with other data, were collected as evidence to evaluate the relevance of training depending on the generation of commercial jet aircraft the pilot is flying. The result of this analysis is the _ICAO Doc 9995 Manual of EvidenceBased_ _Training EBT_ published in 2013. It focuses on a competencybased training approach, giving more emphasis to nontechnical skills and Crew Resource Management CRM and depending on the generation of aircraft flown. More information on the EBT concept can be found in the Learning Fromhttpssafetyfirst.airbus.comlearningfromtheevidence the Evidencehttpssafetyfirst.airbus.comlearningfromtheevidence Safety first article, published in July 2014. IATA published the _Manual of EBT_ together with the _EBT Implementation Guide_, which already highlighted the"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "importance of developing resilience training. IATA and ICAO were supported in their study with inservice data coming from aircraft manufacturers including Airbus and from Operators. This data formed the _EBT_ _Data Report_, which allowed for a realistic evaluation of the relevance of the training. Safety first 33 January 2022 023 Website Airbus accidents statistics Article Learning From the Evidence"
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "TRAINING Training Pilots for Resilience BEST PRACTICES FOR TRAINING RESILIENCE Helping flight crews to be aware of their own resilience The goal of CBTA is to be able to manage any situation, even situations that trainees have not been specifically trained for. Being aware of how well they perform in unpredictable situations can help the flight crew to develop their confidence and build their resilience. The instructor is there to support the trainees to develop this awareness. For example, the instructor can highlight how applying procedures and using checklists when appropriate is already one way to mitigate threats and errors. This maintains an acceptable level of safety and is an illustration of resilience. Similarly, another example of resilience is anticipating crosswind before descent and then reviewing the corresponding procedures to be better prepared for landing. Recognizing and managing the startle effect The use of fullflight simulators is not always necessary"
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "for resilience training. An awareness session about the psychological and physiological effects of startle can help pilots better understand the startle effect. They will be able to better recognize how they respond to unexpected disruptions in their daily routines and how they react to them. Knowing the physiological effects of startle and controlling the initial response is an essential part of increasing a pilots own resilience and can prevent incorrect actions on the aircraft controls. INFORMATION For more information about startle management, you can watch the video The Two Sides of Fearhttpswww.airbuswin.comwpcontentuploads201810thetwosidesoffear1.mp4 available on Airbus Worldwide Instructor News Video WIN website. The Two Sides of Fear"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Exposing flight crews to different situations Engine failure, autopilot disconnection in cruise, turbulence, and wake vortex encounters are some examples of situations that flight crews should be exposed to when training for resilience. Increasing the variety of situations will reduce the risk of a pilot forming behaviors that are too rigid due to the repetition of the same situations and affecting their ability to adapt to new ones. Behaviors that are too rigid or automatically applied are much more difficult to transfer to an unexpected situation. All Airbus Type Rating courses today offer multiplechoice scenarios, both operational and technical that the instructor can select. Multiplechoice scenarios provide the element of surprise to the flight crews and increase the variety of unexpected scenarios they can encounter. This allows for the design of better resilience training and assessment. Adapting training scenarios The training scenarios should be well suited to the existing competencies"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "of the flight crews. The instructor should adapt the training scenario based on the pilots previous assessment. It is recommended that the instructor end the training session in a positive manner with a situation that the pilot will be confident to manage with a successful outcome. Importance of the debriefing Highlighting the positive Increasing resilience relies heavily on the principle of reinforcing confidence. Highlighting the positive outcomes during a debriefing session is essential to this. Instructors are still required to record notes of any observations during the training session, to give feedback, and to focus on them in future training sessions. However, to only focus on the errors or inadequacies of the pilots performance can have the unintended effect of decreasing their level of resilience. Facilitation technique A simple way to ensure a constructive debriefing session is to allow the trainees to debrief themselves and reflect on what they have"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "done to reach a safe outcome. The instructor may notice that they will not need to add many additional observations. They can, therefore, pay more attention to developing mitigation strategies together with the trainee to avoid any deficiencies in the future. This will help build the trainees confidence and increase their level of resilience. CBTA is still relevant If the instructor considers that the facilitated debriefing is not sufficient to correct the rootcause of the problem, they should recommend further training. It is advisable to select a different exercise that requires the trainee to use the same competencies to manage the situation. Safety first 33 January 2022 025 A simple way to ensure a constructive debriefing session is to allow the trainees to debrief themselves"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "TRAINING Training Pilots for Resilience BEST PRACTICE Debriefing after each flight is also an opportunity to increase the flight crews resilience by letting them reflect on how they react to threats and errors, and how they apply their competencies to keep sufficient margins of safety. The Flight Crew Techniques Manual FCTM is being updated to include a new part on how to conduct operational briefings. This new part is already available for A350 aircraft, and it will be available for A320A330A340A380 aircraft at the end of 2021 and for A300600A310 aircraft in 2022. Debriefing is a powerful tool for longterm safety management."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "CONTRIBUTORS Florence BURRATTO Expert in Human Factors for Flight Operations Customer Support Capt. Robert GRAEF Head of Pedagogy and Flight Operations Standards Customer Support With thanks to Capt. Craig Hildebrandt from Product Safety, Thomas Gobeaut from A300A310 Flight Operations Support, Eric Denoux from Flight Training, Capt. Christian Norden, and Claire Pellegrin. Safety first 33 January 2022 027 The term resilience has become widely used in recent years. It is now used in every field of activity, not only in aviation. Resilience describes a flight crews ability to recognize, absorb, and adapt to disruptions according to EASAs definition of resilience. Resilience relies on two pillars competence and confidence. It is the combination of a flight crews confidence to manage unexpected situations and how they apply their competencies in such situations that reflects their level of resilience. The goal of resilience training is to enable the flight crew to recover performance as"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "quickly as possible after they experience the startle effect caused by an unexpected situation. The preferred training methodology to strengthen a pilots level of resilience is the CBTA approach. Instead of following the traditional taskbased approach, which requires checking a continuously growing list of tasks, CBTA focuses on a limited number of competencies applied to a variety of situations. The objective of CBTA is to train pilots to manage any unforeseen situation during flight, and therefore, to develop their resilience when faced with any unexpected events. EBT is a CBTA program that focuses on recurrent training for pilots. It was developed in 2014 by ICAO to increase the level of flight safety through resilience training for pilots, and it has since been adopted by Airbus for all type ratings. The instructor has a key role to play in supporting pilots to strengthen their level of resilience during training sessions. In"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "addition to developing and assessing each trainees competencies, the instructor needs to be mindful to reinforce the pilots confidence. This is a key component for increasing resilience. Exposing flight crews to a variety of situations, adapting training scenarios to their current level of performance, debriefing using the facilitation technique, or ending the training session on a positive outcome, are just some of the recommendations instructors should follow to increase the level of resilience in their trainees. Targeting a high level of resilience for pilots, but also for cabin crews, air traffic controllers, maintenance personnel and all actors of the air transport system is crucial to ensure an even higher level of safety especially when facing unpredictable or unexpected situations."
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Lining Up with the Correct Glide Slope"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Capturing a secondary glide slope can lead to unexpected aircraft behavior. It is important for flight crew to be aware of the phenomenon and to know how to prevent secondary glide slope capture. Some typical scenarios, based on real cases, with their associated effects on the aircraft trajectory and their prevention means are described below. CASE 1 EXCESSIVE PITCH DOWN DURING ILS GLIDE SLOPE INTERCEPTION FROM ABOVE The first case happens during an ILS glide slope interception from above . The aircraft descends in OP DES guidance mode fig.1. The air traffic controller clears the flight crew for approach. 1 The flight crew consequently presses the APPR pushbutton. 2 The PFD indicates a glide slope below the aircraft, as expected by the flight crew. 3 A few seconds later, the GS mode engages and the autopilot orders a pitch down command toward the glide slope. The pitch down command continues"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "until it reaches the 13 pitch down limit for autopilot disconnection 4 . The flight crew must take over to recover the situation and perform a goaround. Safety first 33 January 2022 029 fig.1 Event of excessive pitch down during ils glide slope interception from above A secondary glide slope capture was the cause of this event Analysis of the data from the flight recorders enabled us to identify that this excessive pitch down order was caused by an initial capture of a secondary glide slope that caused undue early engagement of the GS guidance mode. Before explaining what happened, we need to know what the secondary glide slope phenomenon is."
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Lining Up with the Correct Glide Slope ILS Secondary Glide Slope Phenomenon Secondary glide slopes are an inevitable characteristic due to the ILS antenna design. When an aircraft flies well above the main glide slope, the glide slope deviations displayed on the PFD will refer to the nearest glide slope, which may be a secondary glide slope instead of the primary one. This can lead both the flight crew and the autopilot to erroneously consider the secondary glide slope as the reference for the final descent. There are several types of ILS glide slope antennas that use different technologies. They can be classified into two theoretical categories Inverted glide slope and repeated glide slope. This considers the associated impact on the autopilot behavior and the indications observed by the flight crew. ILS with inverted secondary glide slopes fig.2 Theoretical representation of a main 3 ILS glide slope and its"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "inverted secondary glide slopes only the secondary glide slopes at 9, 15, and 21 are represented for clarity and the angles are represented at twice their actual size This category of glide slope antennas inverts the orientation of the glide slope at every other glide slope. For example, in the case of a 3 glide slope, secondary glide slopes exist at 9, 15, 21 and every other 6, but the glide slopes at 9, 21 and every other 12 are inverted. The PFD glide slope deviations are inverted for these glide slopes, i.e. the aircraft is seen above the glide slope when it is below and vice versa fig.2 ."
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "ILS with only repeated secondary glide slopes This category of antennas has only repeated glide slopes above the main glide slope fig.3 . For example, in the case of a 3 glide slope, repeated secondary glide slopes exist at 9, 15, 21 and every other 6. Safety first 33 January 2022 031 fig.3 Theoretical representation of a main 3 ILS glide slope and its repeated secondary glide slopes only the secondary glide slopes at 9, 15, and 21 are represented for clarity and the angles are represented at twice their actual size NOTE There is no way for flight crews to know which category of ILS antenna either with inverted or only repeated is used at their destination airport. Note that no cases of unexpected behavior due to ILS with only repeated glide slopes were reported to Airbus, therefore the examples shown only describe scenarios of ILS with inverted glide"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "slopes. Variable measured signal characteristics at the boundary between two glide slopes Test flights performed to analyze the secondary glide slope structures showed that the real characteristics of the glide slopes may differ from the above theory, in particular in the boundary region between two glide slopes shown as amber lines in fig.2 and fig.3 . Therefore, it is difficult to predict the behavior of the autopilot in these zones."
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Lining Up with the Correct Glide Slope Possible inappropriate engagement of GS when crossing the boundary between two glide slopes. fig.4 Example of the ICAO envelope for an ILS with a 3 glide slope When an aircraft crosses the boundary between two glide slopes at approximately 6, 12, 18, etc..., temporary deviation jumps andor a false deviation value of zero can trigger inappropriate engagement of the GS capture mode. This can happen when the approach guidance modes are armed, meaning that the APPR LAND for A300600A310 pushbutton was previously pressed. The physical characteristics of the glide slope or the speed and angle at which the aircraft crosses the boundary, will influence if engagement occurs. Note that this phenomenon is possible for both the repeated and inverted types of secondary glide slope. Therefore, it is difficult to anticipate the autopilot behavior when crossing the boundary between two glide slopes. The"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "ICAO envelope for glide slope signal quality. ICAO guidelines provide recommendations for ensuring the quality of the ILS glide slope signal. Periodic checks on all ILS equipped runways ensure that the ILS signal quality is at the required level inside a defined envelope . Capturing the ILS glide slope within this envelope ensures that the aircraft is within the area of influence for the primary glide slope. It also ensures that the ILS signal is of sufficient quality to ensure a normal ILS glide slope capture. The ICAO envelope fig.4 is within 10 NM from the runway threshold 8 laterally from the runway centerline 0.3 x 0 up to 1.75 x 0 0, being the nominal glide path angle. Col1Col2Col3ICAO envelope for glide slope signal qualityCol5Col6Col7Col8Col9Col10Col11Col12Col13Col14 IFbrPublished approachbrPbrRbr1.75 x 3 5.25br0.3 x 3 0.9IFbrPublished approachbrPbrRbr1.75 x 3 5.25br0.3 x 3 0.9IFbrPublished approachbrPbrRbr1.75 x 3 5.25br0.3 x 3 0.9IFbrPublished approachbrPbrRbr1.75 x"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "3 5.25br0.3 x 3 0.9IFbrPublished approachbrPbrRbr1.75 x 3 5.25br0.3 x 3 0.9IFbrPublished approachbrPbrRbr1.75 x 3 5.25br0.3 x 3 0.9IFbrPublished approachbrPbrRbr1.75 x 3 5.25br0.3 x 3 0.9IFbrPublished approachbrPbrRbr1.75 x 3 5.25br0.3 x 3 0.9IFbrPublished approachbrPbrRbr1.75 x 3 5.25br0.3 x 3 0.9IFbrPublished approachbrPbrRbr1.75 x 3 5.25br0.3 x 3 0.9unway 10 NM 5 NM 0"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Analysis of the excessive pitch down event With the secondary glide slope theory in mind, we can review the scenario of the event to better understand what happened. The aircraft is in OP DES LVLCH for A300600A310 mode fig.5 . 1 The flight crew presses the APPR LAND for A300600A310 pushbutton well above the 3 glide slope, within the 9 zone of influence. The aircraft is nearer to the 9 secondary glide slope but far enough from it so that the GS mode is armed but not engaged. 2 The inverted glide slope deviations mean the flight crew cannot detect that their aircraft is in the zone of influence of an inverted secondary glide slope. The glide slope indicated below the aircraft is as expected Safety first December 2021 Page 512 by the flight crew. 3 When the aircraft crosses the 6 boundary between the 3 and 9 glide slopes,"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "a temporary false deviation value of zero received by the MMR triggers the undue engagement of the GS mode. Therefore, the autopilot orders a pitch down command toward the 3 glide slope. As the aircraft is flying high above the 3, there is sufficient time for the pitch to reach the 13 pitch down limit for autopilot disconnection 4 . In manual flight, the flight crew must take over to recover the situation and perform a goaround. Safety first 33 January 2022 033 fig.5 Excessive pitch down due to undue GS activation during ILS glide slope interception from above Prevention Quick check of the aircraft position before pressing the APPR pushbutton when intercepting a glide slope from above. When intercepting the glide slope from above, the flight crew should ensure that the aircraft is below the upper boundary of the main glide slope before they press the APPR LAND for"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "A300600A310 pushbutton. This boundary is located at approximately twice the value of the primary glide slope angle approximately 6 in our example. This ensures that the capture will be done on the correct glide"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Lining Up with the Correct Glide Slope fig.6 For ILS glide slope interception from above, a quick altitude vs. distance check ensures that the aircraft is below the upper boundary of the primary glide slope before pressing the APPR LAND for A300600A310 pushbutton slope. As a rule of thumb, a quick altitude vs. distance check can be done to ensure that the aircraft is below the upper boundary of the main glide slope. The aircraft altitude above airport elevation in ft should be less than 6 times the distance to runway in NM multiplied by 100 fig.6 hft AAL 6 x d NM x 100 Check of the glide slope in standard glide slope interception from below Similarly to the above quick check, the flight crew can estimate if they are intercepting the correct glide slope during a standard glide slope interception from below using the formula hft AAL"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "3 x d NM x 100 FCOM procedure guidance mode for glide interception from above. In the described event and in the next one, the flight crew uses the OP DES guidance mode to intercept the glide slope from above. This is not recommended in the FCOM. As per the FCOM Glide interception from above procedure and the FCTM, after the aircraft is established on the localizer, the flight crew should press the APPR pushbutton, set the FCU altitude above the aircraft altitude, and then select the VS mode to intercept the glide slope."
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "CASE 2 EXCESSIVE PITCH UP DURING ILS GLIDE SLOPE INTERCEPTION FROM ABOVE In this second case, an aircraft also intercepts the glide slope from above fig.7 . 1 The flight crew presses the APPR LAND for A300600A310 pushbutton but does not set the FCU altitude target above the aircraft altitude, because it is usually requested by the SOP for an ILS approach. The aircraft converges toward the 3 glide slope, but reaches the target altitude before the GS can engage. 2 The aircraft levels off and starts to diverge from the 3 glide slope and to converge with the 9 secondary glide slope. 3 When crossing the 6 boundary between the 3 and 9 glide slopes, the MMR receives a temporary false deviation value of zero, but it is not sufficient to engage the GS mode. 4 The 9 glide slope is inverted, and as a result, the glide slope"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "deviation indications show the glide slope below the aircraft. 5 When the aircraft crosses the 9 secondary glide slope, the GS guidance mode engages. The autopilot then commands a pitch up when the aircraft crosses the 9 glide slope, due to its inversion. In this case, the flight crew has no choice but to perform a goaround 6 . Safety first 33 January 2022 035 fig.7 Excessive pitch up command due to inverted secondary glide slope capture Prevention Correct FCU altitude setting during glide interception from above. The glide interception from above FCOM procedure requests the flight crew to select the FCU altitude above aircraft altitude. This should be done after the flight crew presses the APPR LAND for A300600A310 pushbutton to prevent unwanted ALT engagement and possible leveloff that can lead to the capture of a secondary glide slope as shown in this example. This important step of the"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "procedure can prevent such an occurrence."
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Lining Up with the Correct Glide Slope CASE 3 UNEXPECTED PITCH UP DURING A DISCONTINUED APPROACH fig.8 Unexpected pitch up during a discontinued approach 1 The flight crew needs to interrupt their glide slope interception from above at the request of ATC, due to unavailability of the runway fig.8 . 2 The flight crew presses the VSFPA knobselector to level off but does not press the APPR pushbutton to disarm the GS guidance mode, which is usually expected during a discontinued approach. The aircraft levels off as expected. This now follows the the same scenario as described in case 2 3 When the aircraft crosses the 6 boundary between the 3 and 9 glide slope, the duration of the temporary false deviation value of zero is short enough not to engage the GS mode. 4 When the aircraft crosses the 9 glide slope, the GS mode engages and commands"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "a pitch up due to the inversion of the secondary glide slope. 5 The flight crew must take over and perform a goaround. Prevention Disarming of the approach guidance mode during discontinued approach procedure. After the flight crew announces CANCEL APPROACH, they must remember to press the APPR pushbutton to disarm the GS guidance mode as per the discontinued approach SOP. This will prevent engagement of the GS and GS modes on a secondary ILS glide slope."
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "AVAILABLE PROTECTIONS Airbus developed some protections to limit the Flight Path Angle FPA in the case of a secondary glide slope capture by doing some modification on the autopilot flight guidance laws. These are available on A330, A340, A350, and A380 aircraft and limit the maximum Flight Path Angle FPA between 0 and 6 in GS mode. A320neo family aircraft have FPA protection in both GS and GS modes. The protections referred to above are not available on A220, A300, A310, and A320ceo aircraft at the time of publishing. The same protections will be introduced on A320ceo, and the protections that are already available on A330, A350, and A380 aircraft will be updated with the next Flight Guidance computer standard update to make these protections available in both GS and GS modes. A similar protection will be added in the GS guidance mode of A220 aircraft at the opportunity of"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "a future avionics build. Safety first 33 January 2022 037 table 1 Availability of protections in GS and GS guidance modes to prevent excessive pitch if a capture of a secondary glide slope occurs. Note Data correct at time of publication in December 2021. Col1Current DesignCol3Future DesignCol5Col6 AircraftProtected Modesbr6 FPA 0Minimum FlightbrGuidance StandardProtected Modesbr6 FPA 0Minimum FlightbrGuidance StandardAvailability Date A300,brA310NoneNot applicableNoneNot applicableNot applicable A220NoneNot applicableGSAvionics build 8B orbrlaterNot yetbrplanned A320ceoNoneNot applicableGS andGSI16 or C15brPI20 or PC222023br2024 A320neoGS andGSBasicGS andGSBasicAvailable A330 brA330neoGSHJ1 or G1GS andGSH7Q1 2022 A340GSF3GSF3Available A350GSBasicGS andGSPRIM P13Q4 2021 A380GSP8GS andGSPRIM P13.5Q2 2022"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Lining Up with the Correct Glide Slope CONTRIBUTORS H\u00e9l\u00e8ne CARROLS AccidentIncident Investigator Product Safety Cedric DESCHEEMAEKER Product Safety Enhancement Manager Product Safety Xavier DUREPAIRE Training Flight Operations Expert Pilot Customer Support Nicolas MARCONNET Avionics System Engineer Design Office Lilian RONCERAY Aircraft Control System Engineer Design Office Secondary glide slopes are inevitable characteristics of ILS approaches. Flight crews must be aware of secondary glide slopes and their possible effect on the display of the glide slope deviations and on the aircraft trajectory. This will ensure that they react correctly in the case of a secondary glide slope capture. Flight crews can prevent a secondary glide slope capture by following the applicable FCOM SOP. To intercept an ILS glide slope from above, the aircraft should be below the boundary between the primary glide slope and the first secondary glide slope 6 for a 3 glide slope. The flight crew should then"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "press the APPR LAND for A300600A310 pushbutton and ensure that the FCU altitude is set above the aircraft altitude. In the case of a discontinued approach, after the CANCEL APPROACH callout, the flight crew should press the APPR ALT. HLD for A300600A310 pushbutton to disarm the GS guidance mode as per the SOP. Airbus developed protections for the GS and GS guidance modes to limit the flight path angle of the aircraft between 0 and 6. This will prevent an excessive pitch command if an unwanted capture of a secondary glide slope occurs. These protections are available on many Airbus aircraft in GS guidance modes and will be made available for most of the Airbus flybywire aircraft in both GS and GS guidance modes on future flight guidance computer standards."
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety first 33 January 2022 039"
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Landing with Nosewheels at 90 degrees"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "CASE 1 NLG COMPONENT STRUCTURAL FAILURE Event description In 2005, during the takeoff of an A320 family aircraft, a few seconds after landing gear retraction was commanded, the LG SHOCK ABSORBER FAULT ECAM alert was triggered followed by the WHEEL NW STRG FAULT ECAM alert. As a result, the flight crew was not able to retract the Nose Landing Gear NLG. They suspected an issue with the NLG, and so they performed a flyby allowing ATC to observe the situation of the NLG. ATC confirmed to the crew that the nosewheels of the aircraft were turned at 90. The flight crew decided to divert to an airport with a longer runway. The aircraft remained airborne to use fuel before landing. The aircraft touched down on the runway and the flight crew delayed the nosewheel touchdown by not using ground spoilers, autobrake, or applying reverse thrust. The nosewheel tires burst shortly"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "after touchdown and the wheels on the runway generated a lot of sparks. The aircraft remained on the runway centerline. After the aircraft stopped, the flight crew deemed that it was not necessary to perform an emergency evacuation and all passengers disembarked the aircraft using stairs. Event analysis There are two lugs on the upper support of the NLG shock absorber that prevent it from rotating freely in its housing fig.1 . The investigation showed that both lugs had sheared off and this caused the NLG to lose its centered position. This condition was immediately detected by the Landing Gear Control Interface Unit LGCIU, which triggered the LG SHOCK ABSORBER FAULT ECAM alert. The Braking Steering Control Unit BSCU also detected the rotation and deactivated the Nose Wheel Steering NWS system. This triggered the WHEEL NW STRG FAULT ECAM alert. The absence of nosewheel steering, combined with the broken antirotation"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "lugs and the aerodynamic loads, enabled the NLG wheels to turn at 90 from the centerline. It was discovered that the BSCU standard fitted to the aircraft at the time performed a greater number of steering movements during the preland checks compared to previous BSCU standards. This caused more fatigue to the 2 lugs on the upper support of the shock absorber. The internal pressure of the shock absorber was also found to be too high due to incorrect servicing during maintenance. This resulted in additional friction being applied to the NLG selfcentering mechanical device, which is connected to the upper support, and eventually caused the 2 lugs to shear. Safety first 33 January 2022 041 fig.1 Position of the 2 lugs on the upper support of the NLG shock absorber"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Landing with Nosewheels at 90 degrees Prevention New BSCU Standard BSCU Standard L4.9B was developed with a reduced number of steering movements during the preland tests. The retrofit of this new standard is complete. The BSCU standard responsible for the lug failure is no longer in service. The temporary solution published in OEB 175176 is no longer applicable for any of the A320 family aircraft now that the BSCU retrofit campaign is complete. KEYPOINT In the case of LG SHOCK ABSORBER FAULT and WHEEL NW STRG FAULT ECAM alerts, no reset is authorized in flight on any A320 family aircraft. Correct shock absorber servicing Before this event, it was possible to perform servicing of the shock absorber with weight on wheels but it was difficult to service the correct pressure. This led to a tendency to overpressure the shock absorber and caused increased fatigue on its upper support. NLG"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "shock absorber servicing procedures were improved following the event to allow for easier servicing with weight off wheels using jacks on the NLG. If the shock absorber can only be serviced with weight on wheels, then the servicing task must be done again, and with weight off wheels, within the next 7 days. BEST PRACTICE AMM procedures must be followed when servicing the NLG shock absorber. In particular, the jacks for the NLG should be used to ensure servicing the optimum pressure for the shock absorbers. This will minimize the risk of overpressure, which can cause structural fatigue of NLG components. Reinforced upper support of the NLG shock absorber fig.2 Differences between the initial design and improved design for the reinforced upper support of the NLG shock absorber Following another event that led to a landing with the NLG rotated to 90, which had been caused by installation errors during"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "maintenance, a new foolproof design of the NLG shock absorber was introduced fig.2. This design prevents any lug rupture on the upper support of the shock absorber, and it is installed on all A320 family aircraft in production since 2004 and SB A320321277 Mod 34160 is available for retrofit."
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety first 33 January 2022 043 CASE 2 BSCU FAILURE Event description In 2007, after the takeoff of an A320 family aircraft, the AUTOBRAKE MAX ON light remained on and the BRAKES SYS 2 FAULT ECAM alert was triggered. During cruise, the flight crew pressed the AUTOBRAKE MAX pushbuttons. They also set the ASKID NW STRG switch to OFF and back to ON, which was not requested in any ECAMQRHOEB procedure. This had no effect on the AUTOBRAKE MAX ON light. On approach, the AUTOBRAKE MAX ON light remained on after the landing gear was extended and the LG SHOCK ABSORBER FAULT ECAM alert was triggered. The flight crew set the ASKID NW STRG switch to OFF and the AUTOBRAKE MAX ON light went off but the ECAM alerts remained. The flight crew eventually landed the aircraft with the nosewheels turned at 90 to the centerline. Event analysis It was"
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "found that the nosewheels were able to rotate up to 90 because of a hardware failure on the BSCU. The BSCU remained active but it could not be controlled and its outputs became frozen. This caused the BRAKES SYS 2 FAULT ECAM alert and malfunction of the AUTOBRAKE MAX ON light. Prevention An updated design was introduced to improve the robustness of the BSCU and to allow a switchover to the passive BSCU system when the outputs of the active BSCU system become frozen i.e. switch from BSCU 1 to BSCU 2 or vice versa. The retrofit of the updated BSCU standard was mandatory and is now complete. There are no reported events with a similar root cause after the affected BSCU standards were replaced. CASE 3 COMBINATION OF INDEPENDENT FAILURES Event description In 2011, during cruise on an A320 family aircraft, the NAV ILS 1 FAULT ECAM alert was"
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "triggered followed by the WHEEL NW STRG FAULT ECAM alert. The flight crew then observed that the Captains PFD went blank for a few seconds. On approach, the LG SHOCK ABSORBER FAULT ECAM alert was triggered after extension of the landing gear. The flight crew suspected an NWS issue, so they performed a flyby for ATC to check the position of the NLG wheels. ATC confirmed that the wheels were turned 90 to the aircraft centreline. The flight crew landed the aircraft by delaying NLG touchdown as recommended in the A320 FCOM procedure, which is applicable when both the LG SHOCK ABSORBER FAULT and WHEEL NW STRG FAULT ECAM alerts are"
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Landing with Nosewheels at 90 degrees triggered. The aircraft safely came to a stop and the passengers disembarked using the stairs. There were no injuries and one nosewheel tire was damaged during the event Event analysis When the landing gear was extended, no steering control was available because an electrical transient in the power supply to the BSCU 1 caused a loss of steering function. The WHEEL NW STRG FAULT ECAM alert was triggered. The electrical power transient was due to arcing at a connector on IDG1. Power transients affecting BSCU 1 were already observed on several previous flights. It was also found that a maintenance task on the NLG was not correctly carried out and this resulted in the hydraulic selector valve jammed in the open position. This would usually be detected in the preland test. However, the flight crew were not able to perform the test due"
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "to a fault in the landing gear lever position. This fault was present for several previous flights. With the selector valve jammed open, there was hydraulic pressure on the nosewheels when the nose landing gear extended. The nosewheels began to turn due to the loss of the steering function. The LG SHOCK ABSORBER FAULT ECAM alert was triggered because the nosewheels were not centered. BSCU System 1 switched to System 2, but the NWS system remained inactive as it detected that the nosewheels were not centered . The nosewheels continued to rotate to 90. Prevention Fault classification In the case of a fault of the landing gear lever position, the BRAKES SYS 12 FAULT ECAM alert is now triggered. This improvement is available from the BSCU Standard L4.10. It is installed on all A320 family aircraft in production since 2016 and SB A320321432 is available for retrofit. BSCU standard Since"
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "the introduction of BSCU Standard L4.9B, the BSCU now centers the NLG wheels in case no preland tests are performed. The retrofit of this new standard is completed. Display Unit failure QRH procedure In this event, the power transient that affected the BSCU was not sufficient to switch to the BSCU 2 sooner, which would have prevented the NLG from turning to 90. If the PFD flickers with no ELEC GEN 12 FAULT, the flight crew should apply the Display Unit Failure QRH abnormal procedure. If the Captains PFD is affected, GEN 1 should be set to OFF, and if the First Officers PFD is affected, GEN 2 should be set to OFF. The application of this procedure forces the BSCU to switch from BSCU 12 to BSCU 21."
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "CASE 4 WATER INGRESS IN NLG STEERING SENSORS Event description In January 2021, during the approach of an A320 family aircraft, the LG SHOCK ABSORBER FAULT and WHEEL NW STRG FAULT ECAM alerts were triggered after extension of the landing gear. The flight crew set the ASKID NW STRG switch to OFF and back to ON again even though it was not requested in any ECAMQRHOEB procedure. The flight crew landed the aircraft and delayed the NLG touchdown as long as possible, as recommended in the A320 FCOM procedure applicable when both the LG SHOCK ABSORBER FAULT and WHEEL NW STRG FAULT ECAM alerts are triggered. After NLG touchdown, both NLG tires burst and the aircraft stopped on the runway. There were no injuries. The NLG wheels were turned to 90 from the aircraft centerline and skid marks of more than 1200 m long were found on the runway fig.3"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": ". Event analysis During inspection of the NLG after the event, water was found in the two Rotary Variable Differential Transformers RVDTs. These two sensors provide the angle of the NWS position to the BSCU. Three days before the event, the aircraft was cleaned during a maintenance C check. The water ingress in the RVDTs most probably happened at this time. A ferry flight was performed after the C check and cleaning. Analysis of the recorder data showed that one RVDT was blocked during this flight. It is likely that this was due to the water in the RVDT freezing at altitude but was probably unblocked as the ice broke up upon landing. A steering offset resulted from this flight and remained for the next 7 flights. The steering offset was at almost 2 during taxiout on the flight when the event occurred. The flight crew kept the aircraft from"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "veering off course and continued with the takeoff. The LG SHOCK ABSORBER FAULT and WHEEL NW STRG FAULT ECAM alerts were triggered when the landing gear extended. The NWS was already at an angle that was too excessive to be corrected by the normal mechanical selfalignment of the wheels. When the flight crew inappropriately cycled the ASKID NW STRG switch, they reactivated the BSCU and hydraulic pressure was supplied to the steering actuator. During the preland test, the BSCU could not centre the nosewheels because of the faulty sensor and the angle of the NWS position was already too excessive. This resulted in the nosewheels rotating further toward 90 before landing. Prevention Compliance with the AMMMP tasks for aircraft washing AMMMP tasks for NLG washing must be followed 122111 External Cleaning, which refers to AMMMP 322100 Cleaning of the Nose Landing Gear. These tasks clearly warn against the use of"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "highpressure hoses and provide details on protections to be used. Safety first 33 January 2022 045 fig.3 View of the NLG after landing"
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Landing with Nosewheels at 90 degrees Article Aircraft Protection during Washinghttpssafetyfirst.airbus.comaircraftprotectionduringwashingandpainting and Painting Article System Reset Use with Caution INFORMATION For further information on aircraft washing, an OIT ref. 999.004210 is available on the AirbusWorld portal and the Aircraft Protection duringhttpssafetyfirst.airbus.comaircraftprotectionduringwashingandpainting Washing and Paintinghttpssafetyfirst.airbus.comaircraftprotectionduringwashingandpainting Safety first article was published in January 2014, highlighting the importance of correctly applying the washing and painting procedures, including the washing of NLG. Operations with a nosewheel steering offset The Operation with Nosewheel Steering Offset A320 FCOM supplementary procedure states that the flight crew should not attempt to take off with an offset exceeding 1.5. The nosewheel steering offset is determined based on the rudder trim input necessary to cancel the tendency for the aircraft to veer on taxi out. No system resets when not authorized The flight crew must only perform authorized reset procedures in flight. They are described in the System Reset"
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "table of the A320 QRH. If the flight crew performs a reset that is not listed in this table it could lead to unintended and serious incidents. KEYPOINT The flight crew must only attempt authorized resets as per the System Reset table in the A320 QRHFCOM. Unauthorized resets can have dramatic consequences. More information about authorized system resets is available in the System Reset Use with Cautionhttpssafetyfirst.airbus.comsystemresetusewithcaution Safety first article. CASE 5 180 TURN WITH NLG INOPERATIVE BEFORE TAKEOFF Event description In March 2021, an A320 family aircraft was dispatched with the NWS inoperative MEL item 325101 Nose Wheel Steering Control System. This was due to a failure detected by the BSCU. The WHEEL NW STRG FAULT ECAM alert was triggered during engine start as expected for the dispatch under the MEL. The MEL operational procedure states that the flight crew must avoid sharp turns when the NWS is inoperative."
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Differential braking and asymmetric thrust were used to steer the aircraft during the taxiout. The flight crew then performed a sharp 180 turn to align the aircraft on the runway contrary to the conditions of the MEL. After liftoff, the LG SHOCK ABSORBER FAULT ECAM alert was triggered and the landing gear lever was jammed in the DOWN position. The flight crew performed fig.4 an InFlight Turn Back IFTB and landed the aircraft. The NLG had rotated to 90 View of the NLG after landing and both NLG tires burst fig.4 ."
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "Safety first 33 January 2022 047 Event analysis The NLG wheels were in freetocastor mode fig.5 because of the inoperative NWS. Freetocastor mode In freetocastor mode, the NLG wheels will return to 0 after up to 15 of steering due to the selfcentering effect offered by the rake angle of the leg. Between 15 and 25, the wheels will return to 0 but with more difficulty. If the NWS steering angle exceeds 25, then NLG wheels will rotate toward 90. 15 15br25 25br 9Col2Col3Col4Col515br25br9Col7Col8Col9 15br15br25br9brbr2515br15br25br9brbr2515br15br25br9brbr2515br15br25br9brbr2515br15br25br9brbr2515br25br9 15br15br25br9brbr2515br15br25br9brbr2515br15br25br9brbr2515br15br25br9brbr25 15br15br25br9brbr25 Analysis of recorder data showed the evolution of the NWS angle during the taxiout, which resulted in a Uturn. The NLG wheels remained below 15 during the first left turn and naturally returned to the centered position. During the right turn, the angle of the wheels was more than 25, which means they will continue rotation towards the 90 position at the end"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "of the sharp 180 turn. The wheels remained in the 90 position during the takeoff roll and upon landing. The LG SHOCK ABSORBER FAULT ECAM alert was triggered at takeoff because the nosewheels were not centred at 0. This prevented the flight crew from retracting the landing gear. fig.5 Ability of the NLG wheels to selfcenter when in freetocastor mode fig.6 Illustration of the 180 turn performed during the event"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "OPERATIONS Landing with Nosewheels at 90 degrees Prevention There were very few cases of dispatch with inoperative NWS on A320 family aircraft reported to Airbus over the last 15 years. Dispatching an aircraft with an inoperative NWS requires operational precautions that are explained in the associated operational procedure. Even if the safety analysis shows that an acceptable level of safety is granted when dispatching the aircraft without an operative NWS system, the operational burden is significant. For that reason, and to avoid such an event occuring again, the Nose Wheel Steering Item 325101 will be removed from the MMEL. It will no longer be possible to dispatch an aircraft with an inoperative NWS system. The updated Master MEL MMEL revision will be available in February 2022. An FOT will also be published to further explain the rationale for removing this MMEL item and to provide appropriate mitigation means in the"
+  },
+  {
+    "page": 50,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "case of inoperative NWS. It is not possible to dispatch other Airbus aircraft types with an inoperative NLG due to design differences. The only exception is A300A310 family aircraft. Based on inservice experience and the design of the A300A310 NLG, the wheels are not likely to turn at 90. Operational considerations The A320 FCOM mentions the possibility of having NLG wheels at 90 when both the WHEEL NW STRG FAULT and LG SHOCK ABSORBER FAULT ECAM alerts are triggered and recommends delaying the nosewheel touchdown at landing."
+  },
+  {
+    "page": 51,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "CONTRIBUTORS H\u00e9l\u00e8ne CARROLS IncidentAccident Investigator Product Safety LAURENT COUTURET Braking and Steering Operations Expert Customer Support Olivier FERRAN Senior Flight Operations Engineer Customer Support Laurent TIZAC Landing Gear Mechanical Design Expert Design Office With thanks to Ian GOODWIN from Product Safety and Matthieu BURLOTTE from Customer Support The events in recent years where A320 family aircraft landed with their NLG wheels turned at 90 have different root causes and are not related. There were no serious injuries or fatalities and the damage caused to the nose gears on these aircraft was repairable. Actions were taken to prevent recurrence of each event. Updated Brake System Control Unit BSCU standards were developed and retrofitted. Improved design for the upper support of the NLG shock absorber was deployed on the A320 family fleet. Following the maintenance and operational procedures remains the strongest safety net to prevent such occurrence. Compliance with the AMM tasks"
+  },
+  {
+    "page": 51,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_33.pdf",
+    "text": "is essential for shock absorber servicing to avoid an overpressure condition or for aircraft washing to warn against the use of highpressure hoses. It is also important for flight crews to remember that they must only perform the authorized reset procedures in flight, which are described in the System Reset table of the A320 QRHFCOM. If the flight crew performs a reset that is not listed in this table it could lead to unintended and serious incidents. The latest action taken is to prevent the dispatch of an aircraft with the NWS system inoperative in order to avoid the risk of having the nosewheels at 90."
+  }
+]

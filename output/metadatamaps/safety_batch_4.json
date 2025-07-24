@@ -1,0 +1,812 @@
+[
+  {
+    "page": 1,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "The Airbus safety magazine 36 Safety first"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Safety first, 36 July 2023. Safety first is published by Airbus S.A.S. 1, rond point Maurice Bellonte 31707 Blagnac CedexFrance. Editor Yannick Malinge, Chief Product Safety Officer. Concept Design by Airbus MultiMedia Studio 20230957. Reference X00D16031905. Photos by Airbus, S. Ramadier, H. Gouss\u00e9, G. Estragnat. This brochure is printed on Symbol Tatami White. This paper is produced in factories that are accredited EMAS and certi ed ISO 900114001, PEFC and FSC CoC. It is produced using pulp that has been whitened without either chlorine or acid. The paper is entirely recyclable and is produced from trees grown in sustainable forest resources. The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous metals from the cadmium, lead, mercury or hexavalent chromium group. Editorial Team Guillaume Javier Vanessa Estragnat Martinez Sadi Gwyneth Tim Duggan Roach Airbus S.A.S. 2023 All rights reserved. Proprietary documents. By taking"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "delivery of this Brochure hereafter Brochure, you accept on behalf of your company to comply with the following guidelines No other intellectual property rights are granted by the delivery of this Brochure than the right to read it, for the sole purpose of information. This Brochure and its content shall not be modified and its illustrations and photos shall not be reproduced without prior written consent of Airbus. This Brochure and the materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment. This Brochure contains sensitive information that is correct at the time of going to press. This information involves a number of factors that could change over time, affecting the true public representation. Airbus assumes no obligation to update any information contained in this document or with respect to the information described herein. Airbus S.A.S. shall assume"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "no liability for any damage in connection with the use of this Brochure and of the materials it contains, even if Airbus S.A.S. has been advised of the likelihood of such damage. Safety first The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety first is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fly and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confidential Reporting System, incident and accident investigation reports, system tests and fight tests. Material is also obtained from sources within the airline industry, studies and reports from government agencies and other aviation sources. All articles"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "in Safety first are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The contents do not supersede any requirements mandated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily reflect the views of Airbus, nor do they indicate Company policy. Contributions, comments and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Product Safety department W 1, rond point Maurice Bellonte 31707 Blagnac Cedex France safetycommunicationairbus.com Visit us at safetyfirst.airbus.com or install the Safety first app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "YANNICK MALINGE SVP Chief Product Safety Officer editorial Dear Aviation Colleagues, The rate of accidents for commercial jet transport remains relatively stable today. A very slight increase of the accident rate for the fourth generation of commercial jets was recorded in 2022 due to two events with fatal injuries to four people in ground vehicles that entered an operational runway. It shows that, even though the commercial air transport system has significantly improved its safety record over the years, we all need to be permanently vigilant and to avoid any increase in the accident rate. Another warning sign is the reported number of recent close call runway incursions, requiring all of us to reinforce the safety barriers to prevent an accident. We all welcome the returning demand for flights. It also comes with its inherent risk exposure. Especially when this is coupled with the departure of experienced aviation professionals across"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "all sectors during the pandemic, and the need to onboard many industry newcomers. It is important to pass on the knowledge, skills and values to them, with the top value of safety as our first priority. Amongst the top safety values, we all agree that complying with procedures and sharing safety information through best practices or lessons learnt are key elements. This is precisely the aim of these Safety first articles. With this in mind, you will find a particular example in the Thrust Reverser Selection is a Decision to Stop article, which shows how not following procedures might lead to potentially catastrophic consequences. It is essential reading for every pilot to avoid these kinds of events, and it is a timely reminder for why correctly following the procedures is so vital to always keeping safety first. Concerning this safety magazine, we are very pleased to observe the constant positive"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "trend showing an increasing number of readers 700 000 connections per year and 1 600 readers every day on safetyfirst.airbus.com and the Safety first app. Lets make it our common safety value to share this information widely, because it is surely an effective way to prevent accidents or serious incidents. Our ambition is for every flight, maintenance and cabin crew member working with Airbus aircraft, and indeed for all aviation professionals from across the industry, to benefit from the information shared in Safety first."
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Safety Publications Safety first The Airbus safety magazine Available in app and website versions Visit us at"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "NEWS Save the Date! The 28 th Airbus Flight Safety Conference will be held 1821 March, 2024"
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Safety 36 first OPERATIONS P06 NonEngagement of the GoAround Modes in CLEAN Flaps Configuration P16 Using Approved Tools and Ground Support Equipment for Maintenance P20 Thrust Reverser Selection is a Decision to Stop P28 Best Maintenance Practices for Redundant Systems"
+  },
+  {
+    "page": 8,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "OPERATIONS NonEngagement of the GoAround Modes in CLEAN Flaps Configuration This article is also available on safetyfirst.airbus.com and on the Safety first app for iOS and Android devices."
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "CASE STUDY Event Description An A319 aircraft was on descent with autopilot and autothrust ON. The flight crew was preparing to perform an ILS interception from above. The aircraft experienced moderate turbulence conditions during the approach phase. 1 The aircraft captured the localizer 10 NM from the runway threshold. The aircraft was descending in VS mode at 2 000 ftmin in CLEAN flaps configuration, and with a selected altitude of 2 500 ft QNH. 2 The aircraft intercepted the ILS 3 glidepath from above at approximately 2 500 ft QNH, which was 7 NM from the runway threshold, at a speed of 225 kt. 3 Crossing 2 300 ft QNH, the aircraft speed was 236 kt increasing. The flight crew decided to extend the landing gear to reduce the speed. Safety first 36 July 2023 007 fig.1 Description of the event part 1"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "OPERATIONS NonEngagement of the GoAround Modes in CLEAN Flaps Configuration 4 Crossing 1 300 ft QNH, the aircraft was still in CLEAN flaps configuration and its speed was 240 kt. The flight crew pushed the thrust levers to TOGA to initiate a goaround. The LOC and GS guidance modes remained engaged and the aircraft started to accelerate toward the ground, along the 3 glideslope. 5 Crossing 1 130 ft QNH, the aircraft speed was 243 kt increasing. The flight crew selected gear up, but the VLO for retraction of 220 kt was already exceeded. 6 At approximately 800 ft, the flight crew selected a 3 000 ft target altitude and pulled on the altitude knobselector. The OP CLB guidance mode engaged and sent a noseup command to the autopilot. Aerodynamic forces meant that retraction of the landing gear was difficult. The nose landing gear retracted, but the left and right"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Main Landing Gear MLG remained extended. fig.2 Description of the event part 2 7 The overspeed warning triggered due to the VLE 280 kt exceedance. The PF disconnected the autopilot and applied noseup inputs. The aircraft reached 312 kt at 600 ft before climbing back up to 3 000 ft where the PF reengaged the autopilot in ALT mode. The MLG fully retracted 2 min 30 s later while in level flight, with a speed of 205 kt at 3 000 ft. The flight crew eventually performed a second approach and safely landed the aircraft."
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Safety first 36 July 2023 009 Event Analysis Highenergy approach The aircraft started its glideslope interception from above in CLEAN configuration at high speed. As a result, the flight crew was not able to sufficiently slow down the aircraft to stabilize its speed and they decided to perform a goaround. Nonengagement of the goaround guidance modes On A320 family, the SRS goaround mode and GA TRK mode engages if The flight crew sets a thrust lever at the TOGA detent, and The aircraft is airborne, or on ground for less than 30 s, and The slats or the flaps are extended. Therefore, when the PF pushed the thrust levers to TOGA, the SRS and GA TRK modes did not engage and the autopilot remained in GS and LOC final approach modes. Crew reaction time It took 30 s for the crew to react and disconnect the autopilot, leading to an"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "overspeed condition 312 kt with main gear extended near the ground 600 ft."
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "OPERATIONS NonEngagement of the GoAround Modes in CLEAN Flaps Configuration FLIGHT GUIDANCE BEHAVIOR DURING GOAROUND IN CLEAN FLAPS CONFIGURATION Table 1 Summary of the slatsflaps condition for engagement of the goaround guidance modes At the time of publication of this article, on all Airbus aircraft except the A220 and the A350 with PRIM P12 and subsequent standards, the flaps configuration must be selected other than a CLEAN flaps configuration in order to activate the goaround guidance modes. Table 1 summarizes the slatsflaps condition for the activation of the goaround guidance modes applicable for each Airbus aircraft type. Full conditions for activation can be found in the FCOM description chapter for flight guidance on each aircraft type. AircraftA300A300600brA310A320 FamilybrA330A340brA380A350Col6A220 GuidancebrModesGO ARNDGO AROUNDSRS andbrGA TRKSRS andGA TRKSRS andGA TRKVGA andGA SlatsFlapsbrCondition 8 150 CONF 1Up to PRIM P11From PRIM P12No slatsfapsbrcondition SlatsFlapsbrCondition 8 150 CONF 1 CONF 1 CONF 1bror CONF 0"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "withbraircraft belowbrFCU altitudebrand belowbr2500 ft RA CONF 1bror CONF 0 withbraircraft belowbrFCU altitudebrand belowbr2500 ft RA The slatsflaps condition may be the flap lever position andor the actual flap position depending on the aircraft type. Refer to the FCOM for more information. A220 and A350 aircraft with PRIM P12 and subsequent standards A220 aircraft are not concerned by this nonengagement of the goaround modes in CLEAN flaps configuration the VGA and GA modes are activated when the flight crew presses one of the TOGA switches on the thrust lever regardless of the position of the slatsflaps. On A350 aircraft with PRIM computer standard P12 and subsequent standards, the goaround modes are also engaged in CLEAN flaps configuration if the aircraft is below the altitude selected on the FCU altitude and below 2 500 ft RA."
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Safety first 36 July 2023 011 OPERATIONAL CONSIDERATIONS Flight crews must be aware of the potential for goaround guidance modes to not engage on some aircraft when the aircraft is in CLEAN flaps configuration. Risk of high energy near the ground The FCTM states that if the thrust levers are set to the TOGA detent or the go levers are triggered on A300600A310 during approach with the FLAPS lever at 0, the following occurs The APFD remains engaged in approach or landing mode e.g. GS, LOC, LAND, FLARE on the FMA The FMS does not engage the goaround phase and remains in APPR phase LVR CLB flashes on the FMA or the FMA displays THR L on A300600A310. This means that when the thrust levers are set to the TOGA detent or the golevers are triggered on A300600A310, the aircraft energy will rapidly increase, but the aircraft will remain on"
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "its approach path. In this situation, the flight crew must take appropriate action without delay. SOPs guidance for configuration on approach Correct SOPs application should prevent the aircraft from being in a CLEAN configuration during final approach. The SOPs state that the aircraft should be at least in CONF 1 at the start of the final approach in the case of a decelerated approach, or in landing configuration in the case of an early stabilized approach. INFORMATION For more information about the two approach speed techniques, decelerated and early stabilized, refer to the FCTM Normal Procedures Standard Operating Procedures Approach Configuration management and the Control your speedDuring Descent, Approach and Landing Safety first article Glideslope interception from above When intercepting an ILS glideslope from above, the FCTM recommends that the flight crew should select at least CONF 2 to ensure that the aircraft speed does not increase during the interception."
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Check of the FMA Constant monitoring of the FMA as per SOPs enables a quick detection of the nonengagement of the goaround modes, allowing a quick flight crew reaction."
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "OPERATIONS NonEngagement of the GoAround Modes in CLEAN Flaps Configuration SYSTEM ENHANCEMENTS fig.3 Goaround engagement logic on A350 aircraft with PRIM P12 and subsequent standards. An update of the flight guidance mode was launched on A320 family, A330, and A380 aircraft to have a similar engagement logic as the A350 fleet fitted with the PRIM P12 or subsequent standards. The updated logic will enable the engagement of the SRS and GA TRK when in CLEAN flaps configuration, if the flight crew sets the thrust lever to TOGA and provided that the aircraft is below 2 500 ft AGL AND is below the FCU altitude fig.3 . The planned availability of the flight guidance modification of each aircraft type is indicated in Table 2 . 2500 ft AGLCol2 ANDbrbrAircraftbelowbr2500 ft AGLbrAircraftbelowbrFCU altitudeANDbrbrAircraftbelowbr2500 ft AGLbrAircraftbelowbrFCU altitude LOCbrGSbrSbrFbrGA TRKbrSRSbrSbrFLOCbrGSbrSbrFbrGA TRKbrSRSbrSbrF AircraftA300brA300600brA310A320 FamilyCol4A330A340A380A350A220 ComputerbrstandardsNAFG PI20brand PC22FG C16brand I17Standardbrnot yetbrdefnedNAFrom PRIMbrBatch 8From PRIMbrP12NA AvailabilityNotbrplannedMid 20262027To"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "bebrdefnedNotbrplannedEnd 2026AvailableAvailable Table 2 Planned availability of the engagement of the goaround modes in CLEAN flaps configuration."
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "CONTRIBUTORS THIERRY BOURRET Flight Control Development Expert Design Office SEVERINE CHEVALIER Flight Control Development Engineer Design Office DIRK DEWINTER Flight Ops Training Pilot Expert Customer Support MAXIME LANSONNEUR Director Safety Training and Flight Operations Customer Support FABIEN ROZEN Senior Flight Operations Support Engineer Customer Support With thanks to Marc LELOUER from the A300A310 Flight Operations Support and Daniel LOPEZ FERNANDEZ from the Product Safety Enhancement team. Safety first 36 July 2023 013 Today, on most Airbus aircraft except the A220 and the A350 with PRIM P12 and subsequent standards, the flaps configuration must be different than CLEAN to activate the goaround guidance modes. The flight crew must be aware of the potential nonengagement of the goaround modes when initiating a goaround in CLEAN flaps configuration. If this happens, the flight crew must take appropriate action without delay to prevent them from being in a highenergy situation near the ground. Application"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "of the SOPs should prevent the flight crew from being in CLEAN flaps configuration during final approach as the SOPs recommend to be at least in CONF 1 at the start of the final descent. As an additional safety net, an update of the flight guidance modes is planned on A320 family, A330, and A380 aircraft to enable engagement of the goaround modes in CLEAN flaps configuration. This is provided that the aircraft is below the FCU selected altitude and below 2 500 ft, as on A350 aircraft."
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "MAINTENANCE Using Approved Tools and Ground Support Equipment for Maintenance Using Approved Tools and Ground Support Equipment for Maintenance Special tools or Ground Support Equipment GSE may be required to perform some maintenance tasks. Airbus provides a list of approved suppliers for GSE or tools in the Tools and Equipment Manual TEM. GSE or tools from suppliers that are not listed in the TEM may be offered to Operators and maintenance organizations as alternatives. However, these alternative GSE or tools may not always be designed or manufactured to meet the technical, quality, and safety requirements of Airbus. This article describes events where the use of unapproved GSE or tools led to serious incidents. It explains why it is important to only use GSE or tools from approved suppliers to ensure safe aircraft maintenance and operations. Check the latest version of this article on safetyfirst.airbus.com and on the Safety first app"
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "for iOS and Android devices."
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Safety first 36 July 2023 015 CASE STUDY 1 Event Description The engine of an A321 aircraft was being replaced. The maintenance team installed the engine bootstrap equipment that is used to hold and lower the engine during the removal task. When the engine was disconnected and separated from the pylon, the engine suddenly fell fig.1 . Fortunately, nobody was injured. The engine pylon was damaged and needed to be partially replaced. The engine was damaged beyond economical repair. Event Analysis Rupture of a bootstrap attachment Inspection of the bootstrap equipment on the hanging engine showed that one of its attachments had bent under the load of the engine and it eventually ruptured, which released the engine it was supporting, causing it to be damaged from the fall. Unapproved bootstrap The investigation found that the bootstrap equipment was not compliant with the Airbus technical specifications. The sizing and material of"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "the attachments, which were a part of this equipment, were not correctly sized and this caused the equipment to fail. fig.1 Picture of the event fig.2 Example of an engine bootstrap for A320 aircraft The supplier of the engine bootstrap equipment was not listed in the Airbus Tools and Equipment Manual TEM. The Operator had found the equipment supplier on the internet. The bootstrap equipment advertised on this suppliers website indicated the same part number as the one listed in the AMM, but its cost was significantly lower than the equipment available from approved suppliers listed in the TEM. CASE STUDY 2 Event Description An A319 aircraft was preparing for takeoff. During the takeoff roll, the PF initiated the rotation at around 138 kt. The aircraft responded with a high pitch rate, despite limited inputs by the PF, and the pitch angle quickly reached 14. The flight crew continued the"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "flight and landed safely. When back on the ground, the flight crew reported the unexpected high pitch rate experienced during the takeoff. The aircraft was kept on the ground for further inspection. Event Analysis A weight and balance analysis was performed, but no loading or balance issue was identified."
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "MAINTENANCE Using Approved Tools and Ground Support Equipment for Maintenance The flight data recorder confirmed that the aircraft had a dynamic rotation with limited stick inputs, as well as an unexpected center of gravity CG value from the Flight Augmentation Computers FAC. This value was significantly different from the actual CG calculated during the aircraft weighing Too high pitchup elevator setting Inspection of the aircraft flight control surfaces revealed an incorrect setting of the elevators, which were set at a higher pitchup position than expected. It explained the aggressive pitchup during takeoff rotation and why the aircraft was trying to rotate before rotation speed as reported by the flight crew. Unapproved neutral setting gauge fig.3 Illustration of the elevators neutral setting gauge The investigation revealed that the elevators were erroneously set using an unapproved elevator neutral setting gauge fig.3. The unapproved gauge was found to be a rough copy of"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "the approved tool. The gauge used could not be correctly placed on the horizontal stabilizer skin due to its incorrect dimension USING THE CORRECT GSE TOOLS Why using the approved GSE and tools is important Approved GSE and tools are designed to meet specific needs Approved GSE and special tools are designed so that they can precisely fit and sustain the loads that they will be exposed to when used. Specific materials, dimensions, and manufacturing processes for GSE and tools ensure that when used correctly, they will not fail in use, cause damage to the aircraft, or injure people. Be vigilant when searching for GSE and tools online Many suppliers selling unapproved GSE and tools can be found online and may propose alternative versions or part numbers. There is no guarantee that these tools meet the Airbus requirements and standards."
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Types of unapproved GSE and tools Unapproved GSE and tools can be categorized into three main groups Imitations of Airbus or vendor proprietary GSE and tools This type of unapproved GSE and tools has the same part number as the Airbus approved items, but may not have the same characteristics due to differences in the material used, dimensions, and manufacturing quality. Alternate tool designs sold as socalled equivalents This type of unapproved GSE and tools will not have the same part number as the approved items, but their suitability and quality cannot be guaranteed by Airbus. Out of date secondhand market tools These GSE and tools may initially come from an approved supplier and then be sold on the secondhand market. They may be of an older standard that does not comply with the latest specifications, therefore, making this GSE or tool not fit for the purpose anymore. Risks when"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "using unapproved GSE and tools Airbus and its approved suppliersvendors did not review, test or validate the unapproved GSE and tools. It is likely that these items may not be of the appropriate quality or may not perform their intended function in a safe and satisfactory manner. These items can cause injuries or damage to the aircraft, which may adversely impact maintenance and operations as demonstrated in the two events described above. Golden rules to get an approved GSE Tools Maintenance documentation is the only source of information about the correct GSE or tools to be used to perform maintenance tasks on Airbus aircraft. Operators and maintenance organizations must ensure that the GSE and tools used to perform a task have the same part number as the one listed in the AMM. However, since unapproved GSE and tools may exist with the same part number, Airbus recommends only purchasing or"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "leasing the GSE and tools from one of the approved vendors referenced in the TEM fig.5 . Safety first 36 July 2023 017 fig.4 Example of approved tools fig.5 Extract of the A320 TEM for the Elevator neutral setting gauge"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "MAINTENANCE Using Approved Tools and Ground Support Equipment for Maintenance fig.6 Interface of the GSE cockpit available on the AirbusWorld portal It is also the responsibility of the Operator or maintenance organization to consult the latest Tool Equipment Bulletin TEB on the GSE cockpit of AirbusWorld portal fig.6 to check for information on GSE and tools. TEBs are issued when a new tool is introduced or deleted from the documentation. They also provide information about tool modifications. A TEB is applicable until the TEM and AMM includes the information it contains. Operators and maintenance organizations can subscribe to the TEB notification service in AirbusWorld and receive an alert by email for each new TEB publication. In case of any doubt about the origin, suitability, and approval status of GSE or tools, the Operator should contact Airbus or the original equipment manufacturer to confirm that it is an Airbus approved item."
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "KEYPOINT Check for the correct GSE or tool part number in the AMM Airbus recommends ordering GSE or tools only from an approved supplier vendor listed in the TEM Consult the latest TEB for any new information about GSE and tools or any related modification, addition, or cancellation from the documentation If in doubt, ask Airbus to confirm that the item is an Airbus approved GSE or tool INFORMATION Further information can be found in the following documents available on the AirbusWorld portal OIT 999.004721 A220OIT0000011 NC Manufacturing and Sourcing Rules for Airbus Proprietary GSE and Tools OIT AISE 999.008901 Use of NonApproved Aircraft Maintenance Tools Frequently asked questions on GSE and tools available on the GSE cockpit of Airbusworld Maintenance of GSE Tools GSE and tools require regular maintenance, as specified by the manufacturer, to operate correctly, prevent failure, and ensure safe aircraft maintenance and operations."
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "CONTRIBUTORS JEANVICTOR NOEL BETEMPS SMS Officer Delegate Customer Services SVEN WALTER GSE Tools Chief Engineer Customer Engineering Support LENNART STRUBE Tools Product Management With Thanks to Patrice CHASSARD from Continued Airworthiness, Florence LE MARCHAND from Customer Support Engineering and to Ian GOODWIN from Product Safety Safety first 36 July 2023 019 Ground Support Equipment GSE and special tools are designed so that they can perfectly fit and sustain the loads and conditions they are designed to be exposed to when they are used. Unapproved GSE and tools provided by suppliers not listed in the TEM may not meet the Airbus technical specifications. They may not perform their intended function in a safe and satisfactory manner. Unapproved items can cause injuries to people working on or around the aircraft and damage to the aircraft and its components. Operators should only use GSE and tools corresponding with the part numbers that are"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "listed in the Aircraft Maintenance Manual and ensure that they are procured from the approved suppliers referenced in the Tool and Equipment Manual. Operators should also consult the latest Tool Equipment Bulletin for new information about GSE and tools or any new modification, addition, or cancellation from the documentation. In case of any doubt about the origin of GSE or tool, Operators can contact Airbus to confirm that the GSE or tool is an approved item. GSE and tools require regular maintenance. Adherence to the GSE or tool maintenance instructions will contribute to ensuring its safe operation during maintenance tasks without risk of failure."
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "CASE STUDY Event Description An A320 aircraft fitted with CFM56 engines was on an ILS approach in FLAP 3 configuration with good visibility conditions. There was a 25 kt crosswind and wind gusts from the left side fig.1 . 1 The PF initiated the flare slightly above 30 ft RA, started the decrab maneuver at 24 ft RA, and 2 set the thrust levers to idle at 11 ft RA. 3 The left Main Landing Gear MLG briefly touched the runway, but was not fully compressed when the flight crew set the thrust lever to maximum reverse. 4 When both the left and right MLG touched the runway and were compressed, the thrust reversers began to deploy. 5 The flight crew then decided to perform a goaround. The left MLG was briefly uncompressed when the PF applied TOGA thrust. They selected CONF2 and applied noseup inputs. Safety first 36 July"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "2023 021 fig.1 Sequences of the event from landing flare to the application of TOGA thrust for goaround 6 ENG 2 spooled up to reach TOGA thrust, but ENG 1 remained at idle with the REV indication still displayed on the Engine Warning Display EWD fig.2 . The aircraft began to veer to the left. The PF reacted and applied a half of maximum right rudder input. Both the left and right MLG were briefly compressed again. 7 The aircraft continued to veer to the left and the ENG 1 REVERSE UNLOCKED ECAM alert triggered when the left and right MLG were uncompressed. The beta target symbol on the PFD was flagged. 8 The aircraft overflew the left runway edge by 1 ft."
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "OPERATIONS Thrust Reverser Selection is a Decision to Stop fig.2 Sequences of the event after TOGA thrust selection 9 The flight crew commanded the landing gear up and the aircraft started to climb on a trajectory that was shifted by approximately 20 to the left of the runway axis. When the landing gear was retracted and the pitch was set close to 12.5, corresponding to the target for goaround with one engine inoperative, 10 the vertical speed reached 1 000 ftmin. fig.3 Aircraft at gate after the event with three out of four thrust reverser blocker doors deployed on ENG 1 photos Accident Investigation Board The flight crew then set the ENG1 thrust lever to IDLE at 360 ft and shut down ENG 1, as per the ECAM procedure at 1 260 ft QNH. The beta target symbol appeared again on the PFD, which enabled the PF to correctly trim"
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "the rudder, and the autopilot was engaged. The flight crew performed a second ILS approach and manually landed the aircraft with its ENG 1 inoperative. The aircraft arrived at the gate with three of the four ENG 1 thrust reverser blocker doors deployed and not locked fig.3 . The fourth door was not deployed, but was unlocked. The thrust reversers unlocked when both the left and right MLG were compressed. When the PF applied TOGA thrust, the thrust reversers of the left and right engines were not fully deployed the amber REV When the thrust levers are moved from the REV sector to idle or forward thrust sector, the Electronic Control Unit ECU of each engine computes a ground or flight status using the compressed or uncompressed status for the left and right MLG. This is provided by the Landing Gear Control and Interface Unit LGCIU."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "If the computed status is ground when the thrust levers are moved out of the REV sector, then the ECU will send a stow command until the thrust reversers are stowed. If the computed status is flight, then the ECU does not send a signal to initiate the stow sequence. Why ENG 2 thrust reverser stowed and locked When the PF set TOGA thrust, ECU 2 computed the ground status using information from LGCIU 2. This sent the stow command to the ENG 2 thrust reverser. The ENG 2 thrust reverser stowed and locked correctly and ENG 2 spooled up to reach TOGA thrust. Why ENG 1 thrust reverser did not stow and lock When the PF set TOGA thrust, ECU 1 computed the flight status using information from LGCIU 1. ECU 1 did not send a stow command to the ENG 1 reverser and its blocker doors remained deployed."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "The automatic idle protection activated and sent a signal to prevent ENG 1 increasing thrust. What caused the difference between ENG 1 and ENG 2. A short asynchronism between the computation of the groundflight status by both ECUs, combined with a bounce of the left landing gear, explains the different behaviors of the ECUs. This timing difference can be explained by the fact that thrust levers may not be closely aligned when the flight crew moves them from the REV sector to idle or forward thrust sector. In addition, a very slight delay may appear between the signals and computation chain of LGCIUEIUECU, which are independent for the left and right sides fig.4 . Safety first 36 July 2023 023 fig.4 A short delay between the computation of the ground or flight status by ECU 1 and ECU 2, combined with a left MLG bounce condition caused the ENG 1"
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "thrust reverser blocker doors to remain deployed and ENG 1 set at AUTO IDLE LGCIU Landing Gear Control and Interface Unit EIU Engine Interface Unit ECU Electronic Control Unit ENG 1 thrust reverser not stowed AUTO IDLE ENG 2 thrust reverser stowed TOGA"
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "OPERATIONS Thrust Reverser Selection is a Decision to Stop Limited to aircraft with CM56 engines A study of the reverser stowing logic was performed on A320 aircraft equipped with all other types of engine, as well as on other Airbus aircraft types including the A220. It confirmed that only A320 and A340 aircraft equipped with CFM56 engines can be affected by this potential for the thrust reversers to not retract if the crew decides to perform a goaround after the thrust reversers are selected. Beta target not displayed due to EIS logic The current EIS logic flags the beta target symbol on the PFD if the reversers are not stowed and the autoidle protection is active. This explains why the beta target symbol was flagged in the early stage of the goaround and before ENG 1 was shut down. As soon as ENG 1 was shut down, the beta target"
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "reappeared on the PFD. Impact on aircraft control and performance fig.5 Screen captures from the video reconstitution of the event showing the aircraft attitude in the early stage of the goaround phase Flight Animation System from APS Aerospace The flight crew had to cope with a fast lateral trajectory deviation, together with a significant degradation of climb performance, during an already demanding maneuver. Significant pitch and roll values reached closed to the ground In the initial phase of the goaround, the aircraft attitude went close to wing tip and tailstrike conditions fig.5 but remained within the ground clearance limits."
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Safety first 36 July 2023 025 OPERATIONAL CONSIDERATIONS Adherence to the SOP for landing will prevent recurrence of a similar event and ensure optimum and safe use of the thrust reversers, regardless of the engine type, and on any aircraft. Select reversers immediately after touchdown The SOP for landing requests that the flight crew select thrust reversers immediately after landing gear touchdown, but not before, to ensure timely deployment of the thrust reversers for optimum aircraft deceleration on landing. Thrust reverser selection means full stop The SOP for landing also states that as soon as the flight crew selects reverse thrust, they must perform a fullstop landing. This is also highlighted for a goaround near the ground in the FCTM, which states, the PF must not initiate a goaround after the selection of the thrust reversers. Adherence to this SOP will avoid any repeat of the event described in this"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "article. The A220 FCOM limitation chapter also states that Goaround maneuver and touchandgo are prohibited after deployment of the thrust reversers. INFORMATION A similar event, described in a previous Safety first article, occurred on an A300600 with a different reverser system architecture. The root cause was different, but it also highlighted how adherence to the SOP for landing would have prevented the incident. Refer to the Thrust reverser selection means fullstop article published in June 2012."
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "OPERATIONS Thrust Reverser Selection is a Decision to Stop PRODUCT ENHANCEMENTS Airbus performed flight data analysis with inputs from 31 operators for 3.4 million flights of A320 family aircraft. The results showed that the equivalent of one goaround per month is performed with the thrust reversers already selected, which represents significant exposure. Consequently, Airbus decided to address this issue with updates to the ECU software, the EIS software, and the relevant documentation. ECU software update for CFM56 engines An update of the ECU software for CFM56 engines is under development. It includes an enhanced stow logic in the case of a rejected landing with reversers already selected, which will prevent recurrence of the event described in this article. The ECU software update is planned to be available in 2025 for CFM565B engines and is under review for CFM565A and 5C. EIS update A320 family EIS 2 software will be modified"
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "to enable the display of the beta target on the PFD when REV doors are unlocked. This enhancement will be implemented in the next EIS 2 standard. Enhancement of the SOP for landing The SOP for landing will be updated to move the following text from the FCOM layer 2 L2 to a note in the FCOM layer 1 L1, making it more visible to the flight crew The flight crew must select reverse thrust immediately after landing gear touchdown and As soon as the flight crew selects reverse thrust, they must perform a fullstop landing."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "CONTRIBUTORS DAVID BOYER Expert Engine Control Technology Development Design Office DENIS CADOUX Accidentincident Investigator Product Safety DIRK DEWINTER Flight Ops Training Pilot Expert Customer Support MAXIME LANSONNEUR Director Safety Training and Flight Operations Customer Support With thanks to Matthias MAEDER from Airbus Canada Safety first 36 July 2023 027 The SOP for landing states that as soon as the flight crew selects reverse thrust, they must perform a fullstop landing. Analysis of inservice data shows that there is still a risk exposure with flight crews deciding to perform a goaround after the thrust reversers were selected. An incident that happened on an A320 aircraft highlighted a risk of having one of the engines with the reversers still deployed in the case of a goaround initiated after reverser deployment on aircraft equipped with CFM56 engines. Application of the SOP should prevent this kind of event from happening. However, Airbus decided to"
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "introduce aircraft modifications to further prevent this scenario from happening and enhance the documentation by making the recommendation to perform a fullstop landing after selection of thrust reversers more visible to the flight crew."
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "MAINTENANCE Best Maintenance Practices for Redundant Systems Best Maintenance Practices for Redundant Systems Performing similar maintenance tasks on redundant systems at the same time, or by the same person during a particular maintenance check, may lead to the repetition of a maintenance error. This creates a risk of simultaneous failure of the redundant systems when the aircraft is back into service. This article provides best practices to reduce this risk and ensure that the benefits of redundancy of systems or components on the aircraft is not compromised. Check the latest version of this article on safetyfirst.airbus.com and on the Safety first app for iOS and Android devices."
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "CASE STUDY 1 Event Description The loss of two hydraulic systems in flight An A330 aircraft experienced the loss of two hydraulic systems in the cruise phase appeared approximately 30 minutes later. The flight crew applied the appropriate procedure and set the affected hydraulic pumps to OFF, causing the flight control system to revert to alternate law. The flight crew diverted the aircraft and landed safely without further incident. The aircraft was kept on the ground for further inspection. Event Analysis The same leak in two hydraulic systems After an initial inspection, the maintenance engineer discovered signs indicating a hydraulic leak that came from the High Pressure HP manifold on both the blue and yellow hydraulic systems. They decided to replace both HP manifolds and sent them to Airbus for further analysis. The hydraulic fluid leak was confirmed as coming from the check valves installed in both the blue and"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "yellow hydraulic system HP manifolds. Orings reserved only for transportation and storage were found installed on both selectors. The Aircraft Maintenance Manual AMM requests the removal of these transportation and storage Orings before the installation of the check valves on the aircraft. These Orings are not for operational use as they are not designed to sustain hydraulic system pressure. These transportation Orings were damaged and were confirmed as the origin of the hydraulic fluid leak. Safety first 36 July 2023 029 fig.1 Check valves of the blue and yellow HP manifolds with their respective Orings Yellow HP Manifold Check valve Oring"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "MAINTENANCE Best Maintenance Practices for Redundant Systems A maintenance error repeated on two hydraulic systems Maintenance records showed that the check valves were replaced a few days prior to the event. The same maintenance personnel performed the task on both the blue and yellow manifolds at the same time. They erroneously left the transportation Orings on both check valves. CASE STUDY 2 Event Description Engine fire after landing An ENG 1 FIRE ECAM warning was triggered on an A320neo aircraft shortly after landing. The flight crew set the ENG MASTER lever to OFF, and pressed the ENG 1 FIRE pushbutton to discharge AGENT 1. The ECAM warning remained, so the flight crew discharged AGENT 2. The warning disappeared and the aircraft safely came to a stop at the gate without further incident. Event Analysis Evidence of fire A preliminary maintenance inspection confirmed evidence of fire found on the engine core"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "at the 12 oclock position. The operator decided to replace engine 1 for further investigation and repair. Fuel leaking from a fuel nozzle fig.2 Example of a fuel nozzle and its Bnuts on an A320neo engine Further inspection revealed that the engine fire was caused by a fuel leak from a fuel nozzle Bnut that was not torqued to the correct value specified in the AMM. The Bnuts of the other fuel nozzles were also incorrectly torqued, but they showed no sign of leaks. Fuel nozzle Bnuts"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "Safety first 36 July 2023 031 A maintenance error on engine 1 repeated on engine 2 A check of engine 2 enabled the operator to discover that the fuel nozzle Bnuts were also incorrectly torqued as was the case for engine 1. The correct torque was then applied to all of the engine 2 nozzle Bnuts and there were no further discrepancies. Maintenance records revealed that the aircraft had a maintenance check 16 days prior to the event. The fuel nozzles of both engines were replaced. The same maintenance personnel performed the nozzle replacement on both engine 1 and engine 2 and improperly torqued their Bnuts. APPLYING BEST PRACTICES Operators and approved maintenance organizations should identify when there is the risk of errors being repeated in identical maintenance tasks during a particular maintenance check. This will allow for application of the following best practices to prevent simultaneous failures in redundant"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "systems. Stagger the scheduling When possible, avoid scheduling similar maintenance tasks on redundant systems at the same time. This reduces the risk of having a simultaneous failure of the redundant systems as a result of a repeated maintenance error. Assign different people to redundant systems If it is not possible to stagger the scheduling of similar maintenance tasks, then a different person or team should carry out the task on each redundant system or component. This reduces the probability of repeating a potential maintenance error made by the same person or team. Additional inspection and crosscheck Identify the task as one that requires an additional inspection, crosscheck, and dual signature verification that the task was completed correctly and in accordance with the maintenance procedures. Test one system at a time If a system test or engine run is necessary, the maintenance personnel should ensure that only one of the redundant"
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "systems or engines is tested at a time, unless the task provides other specific instructions. This reduces the risk of simultaneous failures or unexpected behavior of the systemsengines during the test. Always follow the maintenance procedures As a general rule, strictly adhering to the maintenance procedures reduces the risk of introducing human errors during maintenance tasks."
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "MAINTENANCE Best Maintenance Practices for Redundant Systems Regulatory requirements ETOPS operations For ETOPS operations, requirements and guidelines shall be applied. For example US 14 CFR Part 121 section 121.374, Continuous airworthiness maintenance program CAMP for twoengine ETOPS Limitations on dual maintenance. FAA AC 12042, MAINTENANCE REQUIREMENTS FOR TWOENGINE ETOPS AUTHORIZATION Dual Maintenance paragraph EASA AMC 206 AMJ 12042IL 20. 4. CONTINUING AIRWORTHINESS MANAGEMENT EXPOSITION chapter. EU and UK regulations EU and UK regulations also request that operators establish procedures that prevent the risk of repeating errors on identical systems independently of the type of operations EU Part145 Item 145.A.48c3 and its AMC1 145.A.48c3 GM1 145.A.48c3 UK CAA Part145 Item 145.A.48c and its AMC 145.A.48c GM 145.A.48c. INFORMATION Further information can be found in the following documents available on the AirbusWorldA220World portal OIT 999.009716 BEST PRACTICES FOR SIMULTANEOUS MAINTENANCE ON REDUNDANT ITEMS OIT AISE 999.004499 DUAL SYSTEM MAINTENANCE RECOMMENDATIONS The introduction"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "section of the Aircraft Maintenance Manual AMM A220 Aircraft Maintenance Publication AMP provides general recommendations related to the risk of human error during maintenance tasks."
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "CONTRIBUTORS MARCO FATA Customer Support Programme JEAN PHILIPPE JACQ Product Safety Management ARTURO MARTINEZ GRACIDA Human Factor in Maintenance CYRIL MONTOYA Product Safety Enhancement Manager PROSPER PR\u00c9AU Continuing Airworthiness Expert Airworthiness Certification, With Thanks to Ian GOODWIN from Product Safety, JeanFrancois BOURCHANIN from Flight Controls Engineering Support, Denis DURAND from A320 Propulsion Systems Safety first 36 July 2023 033 Performing similar maintenance tasks on redundant systems at the same time, or by the same person during a particular maintenance check, may lead to the repetition of a maintenance error. This creates a risk of simultaneous failure of the redundant systems when the aircraft is back into service. There are a range of safeguards or best practices that can be applied to prevent repetition of a maintenance error. These include staggered scheduling of the task, using different personnel to carry out the task, performing an additional crosscheck inspection, and requiring a"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_36.pdf",
+    "text": "dual signature to verify that the task was correctly carried out and in accordance with the maintenance procedures. Where possible, and unless otherwise specified, carry out a test of one system or one engine run at a time. In all cases, it is important to correctly apply the maintenance procedures."
+  },
+  {
+    "page": 1,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "The Airbus safety magazine 37 Safety first"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Safety first, 37 January 2024. Safety first is published by Airbus S.A.S. 1, rond point Maurice Bellonte 31707 Blagnac CedexFrance. Editor Yannick Malinge, Chief Product Safety Officer. Concept Design by Airbus MultiMedia Studio 20232530. Reference X00D16031905. Photos by Airbus, P. Desrochers, G. Estragnat, A. Pecchi, Bockfilm Bengt Lange, Master Films JeanBaptiste Accariez, A. Domenjou and Kyle stock.adobe.com. This brochure is printed on Symbol Tatami White. This paper is produced in factories that are accredited EMAS and certi ed ISO 900114001, PEFC and FSC CoC. It is produced using pulp that has been whitened without either chlorine or acid. The paper is entirely recyclable and is produced from trees grown in sustainable forest resources. The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous metals from the cadmium, lead, mercury or hexavalent chromium group. The printer, Art Caract\u00e8re France 81500, is engaged in a"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "waste management and recycling programme for all resulting byproducts. Editorial Team Guillaume Estragnat Gwyneth Duggan Javier Martinez Tim Roach Vanessa Sadi Airbus S.A.S. 2024 All rights reserved. Proprietary documents. By taking delivery of this Brochure hereafter Brochure, you accept on behalf of your company to comply with the following guidelines No other intellectual property rights are granted by the delivery of this Brochure than the right to read it, for the sole purpose of information. This Brochure and its content shall not be modified and its illustrations and photos shall not be reproduced without prior written consent of Airbus. This Brochure and the materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment. This Brochure contains sensitive information that is correct at the time of going to press. This information involves a number of factors that could change"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "over time, affecting the true public representation. Airbus assumes no obligation to update any information contained in this document or with respect to the information described herein. Airbus S.A.S. shall assume no liability for any damage in connection with the use of this Brochure and of the materials it contains, even if Airbus S.A.S. has been advised of the likelihood of such damage. Safety first The Airbus magazine contributing to the enhancement of the safety of aircraft operations by increasing knowledge and communication on safety related topics. Safety first is published by the Product Safety department. It is a source of specialist safety information for the use of airlines who fly and maintain Airbus aircraft. It is also distributed to other selected organizations and is available on digital devices. Material for publication is obtained from multiple sources and includes selected information from the Airbus Flight Safety Confidential Reporting System, incident"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "and accident investigation reports, system tests and fight tests. Material is also obtained from sources within the airline industry, studies and reports from government agencies and other aviation sources. All articles in Safety first are presented for information only and are not intended to replace ICAO guidelines, standards or recommended practices, operatormandated requirements or technical orders. The contents do not supersede any requirements mandated by the State of Registry of the Operators aircraft or supersede or amend any Airbus typespecific AFM, AMM, FCOM, MMEL documentation or any other approved documentation. Articles may be reprinted without permission, except where copyright source is indicated, but with acknowledgement to Airbus. Where Airbus is not the author, the contents of the article do not necessarily reflect the views of Airbus, nor do they indicate Company policy. Contributions, comments and feedback are welcome. Enquiries related to this publication should be addressed to Airbus Product Safety"
+  },
+  {
+    "page": 2,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "department W 1, rond point Maurice Bellonte 31707 Blagnac Cedex France safetycommunicationairbus.com Visit us at safetyfirst.airbus.com or install the Safety first app"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "YANNICK MALINGE SVP Chief Product Safety Officer editorial Dear Aviation Colleagues, Three of the most recent Safety first articles have highlighted events with unexpected, or unintended, aircraft behavior. In such cases, reporting these events is essential to better understand the cockpit conditions and human factors involved. This allows for the immediate actions such as raising awareness and increasing the flight crews vigilance to detect these potential problems. Reported events also provide data needed for analysis and development of possible enhancements that can further increase the resilience of the aircrafts systems. This is why the importance of reporting will be a topic in focus at our upcoming 28 th Airbus Annual Flight Safety Conference. Airline speakers will provide testimony about how they empower and encourage their flight, cabin, and maintenance crews to speak up and report events, even for an incident when there were no operational consequences. We will also recall"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "how Airbus manages in service reports and practical illustrations of when reporting has made the difference and further enhanced safety. Whilst we may reflect on the good safety record of last year, the first week of 2024 provided a stark reminder for why we must remain vigilant in all aspects of aviation safety. The images of the JAL516 flight after a ground collision with the Japan Coast Guard aircraft was an unfortunate realization of runway safety risks recently in focus for a number aviation organizations globally. It is a call for timely action and to redouble our collective efforts in addressing all such safety risks. Thankfully, we can acknowledge the swift actions of the flight and cabin crew to effectively evacuate all passengers from the aircraft, which highlights the importance of regular training, practice and a strong safety culture. I also extend my sincere and heartfelt condolences to the families"
+  },
+  {
+    "page": 3,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "and friends of the Japan Coast guard members who lost their lives. Despite this very challenging start to the year, together with the Airbus Safety team, I pass on our best wishes for a safe and prosperous year ahead."
+  },
+  {
+    "page": 4,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Safety Publications Safety first The Airbus safety magazine Available in app and website versions Visit us at safetyfirst.airbus.com"
+  },
+  {
+    "page": 5,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "NEWS The 28 th Airbus Flight Safety Conference will be held in Bangkok, 1821 March 2024 This event provides the opportunity for Airbus and its customers to exchange on how we can further strengthen safety in our Air Transport System. With the current rapid increase of passenger demand, our industry still has to face a number of safety challenges to maintain its safety record. This is why the agenda of the conference will include a review of the risks, associated mitigations, and best practices based on recent inservice events, including dispatch challenges, runway safety, severe weather and investigation updates. We will also focus on the importance of reporting with illustrative examples given by airlines and Airbus presenters. Growing our safety culture and building safety networks is essential for safety and so we encourage all our customers to join us."
+  },
+  {
+    "page": 7,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Safety 37 first OPERATIONS P06 Inadvertent Autopilot Engagement during Takeoff on A220 Aircraft P14 Cockpit Control Confusion P22 Lightning Strikes P36 Inappropriate VS Target during Autoflight Mode Reversion"
+  },
+  {
+    "page": 8,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inadvertent Autopilot Engagement during Takeoff on A220 Aircraft"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "CASE STUDY Event Description An A220 aircraft was aligned on the runway and ready for a flap 2 and TO3 derated takeoff. The computed takeoff speeds were 135 kt for V1, 137 kt for VR, and 141 kt for V2. The autothrottle was armed fig.1 . 1 The flight crew moved the thrust levers forward to initiate takeoff. 2 The autothrottle engaged at approximately 31 kt and the takeoff thrust 81.5 N1 was reached at approximately 40 kt. 3 At 62 kt, the autothrottle unexpectedly disconnected, accompanied by the AUTOTHROTTLE aural alert. 4 At 106 kt, the flight crew wanted to reengage the autothrottle but they pressed the autopilot AP switch instead of the AT switch on the Flight Control Panel FCP. 5 The CONFIG AP EICAS alert triggered at 110 kt VR 27 kt, but without the associated CONFIG AUTOPILOT aural alert as the AUTOTHROTTLE aural alert was still"
+  },
+  {
+    "page": 9,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "repeating. With the AP engaged, the aircraft started to rotate. 6 At 115 kt VR22 kt, the PF disconnected the autopilot and briefly applied Safety first 37 January 2024 007 fig.1 Illustration of the event part 1"
+  },
+  {
+    "page": 10,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inadvertent Autopilot Engagement during Takeoff on A220 Aircraft fig.2 Illustration of the event part 2 fig.3 Illustration of the event part 3 66 backstick input before releasing the sidestick to neutral. 7 At 119 kt VR18 kt, the aircraft pitch reached 10.7 and the strut of the main landing gear decompressed. 8 1s later, the landing gear was compressed again and the aircraft pitch reduced slightly to 7.5 . The captain PM pushed the thrust levers to MAX and the first officer applied 50 backstick inputs. 9 The landing gear decompressed again when the aircraft reached 129 kt VR8 kt and began to climb. 10 The aircraft reached 151 kt V2 10kt at 100 ft RA. The flight crew deactivated the repetitive AUTOTHROTTLE aural alert and continued the flight."
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Safety first 37 January 2024 009 Event Analysis Inadvertent selection of the autopilot When the autothrottle unexpectedly disconnected during the takeoff roll, the flight crew tried to manually reengage it using the autothrottle switch, but they inadvertently pressed the autopilot switch instead. This caused the autopilot to be engaged with the aircraft still on ground. Autopilot commanded rotation The autopilot commanded a pitchup when it was inadvertently activated on the ground to reach the flight guidance pitch target. This caused the aircraft to rotate too early when the aircraft was still 27 kt below VR. No CONFIG AUTOPILOT aural alert The CONFIG AUTOPILOT aural alert did not sound, because the repetitive AUTOTHROTTLE aural alert was still active when the CONFIG AP EICAS alert was triggered. Reduced Tailstrike Margin During the event, at step 7, the aircraft pitch attitude was 10.7 when the aircraft was still on the ground, which corresponds"
+  },
+  {
+    "page": 11,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "to a tailstrike margin as low as 1 to 2 ft. OPERATIONAL CONSIDERATIONS The A220 FCOM and AFM were updated and the red OEB 001 was published to provide procedures and information to flight crews with the aim to raise awareness and prevent any unintentional selection and engagement of the autopilot during the takeoff roll if attempting to select and engage the autothrottle. No autothrottle selection during takeoff roll The flight crew must not attempt to select and engage the autothrottle during the takeoff roll. This will reduce the risk of unintentional selection of the autopilot switch. As a reminder, the autothrottle selection pushbutton on the FCP is inhibited above 60 kt when the HOLD Mode activates and remains inhibited until reaching 400 ft AGL."
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inadvertent Autopilot Engagement during Takeoff on A220 Aircraft Managing autothrottle disconnect during takeoff A220 FCOM 2 Normal Procedures Normal takeoff High wind takeoff, Step 3 Autothrottle was updated to provide flight crews with a procedure if the autothrottle disconnects during the takeoff roll. Autothrottle disconnect below 60kt If the autothrottle disconnects below 60 kt, the flight crew must abort takeoff. Autothrottle disconnect above 60 kt In the case of a TO or FLEX takeoff, the thrust levers must be set to MAX to continue the takeoff. In the case of a derated takeoff TO1, TO2, or TO3 If the N1 of both engines matches the N1 target, the flight crew can continue the takeoff If the N1 of either or both engines does not match the N1 target, the flight crew must abort the takeoff. When stabilized in climb not below 400 ft After the aircraft is established on"
+  },
+  {
+    "page": 12,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "a stabilized climb above 400 ft, the flight crew can reengage the autothrottle as required. For derated thrust or FLEX takeoff, they must confirm that the autothrottle is selected on. AFM update The AFM was updated to add a warning in the limitations section for the autopilot. It states that Autopilot engagement during takeoff roll can result in premature rotation, possibly leading to tail strike, inability to climb or loss of control. Immediate crew intervention is required."
+  },
+  {
+    "page": 13,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Safety first 37 January 2024 011 Training The Operations Training Transmission A220OTT2200001 Rev 00 dated 14July2023 recommends that Operators and Training Organizations Reinforce flight crew knowledge on The importance of reviewing OEBs together during preflight The content of the red OEB INADVERTENT AUTOPILOT ENGAGEMENT DURING TAKEOFF The temporary AFM and FCOM 2 takeoff normal procedure Autothrottle disconnect during takeoff Highlight the importance of the role of Pilot Monitoring. INFORMATION Further information can be found in the following documents FOT A220FOT2200001 dated 09NOV22 ATA 22 A220 Inadvertent Autopilot Engagement During Takeoff available on the A220World portal TCCA Emergency AD CF202264 FAA Emergency AD 20222551 A220 Red OEB001.01 Inadvertent Autopilot Engagement During Takeoff published on 28March2023 A220 AFM Limitations, Autopilot A220 FCOM Normal Procedures Normal takeoff High Wind Takeoff, Step 3 Autothrottle A220OTT2200001 Rev 00 dated 14July2023A"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inadvertent Autopilot Engagement during Takeoff on A220 Aircraft PRODUCT ENHANCEMENTS Airbus will introduce the following enhancements to prevent inadvertent engagement of the autopilot when the aircraft is still on the ground and improve flight crew awareness to prevent any errors. Modification to inhibit autopilot To prevent autopilot engagement during the takeoff roll, the Primary Flight Control Computer PFCC will be upgraded to inhibit AP engagement during takeoff and until 6 seconds after liftoff. This modification will be introduced in PFCC standard 009, planned for Q2 2024. Enhancement of the autothrottle disconnection logic The autothrottle disconnect logic is also being updated to address the issues that cause it to disconnect during the takeoff roll. A first set of improvements will be introduced with the next 8A3 avionics software and further improvements are currently being developed. CONFIG AUTOPILOT priority over AUTOTHROTTLE aural alert EICAS software will be upgraded to give higher"
+  },
+  {
+    "page": 14,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "priority to takeoff configuration warning messages, such as CONFIG AUTOPILOT, or when other CONFIG takeoff alerts are posted, even if the AUTOTHROTTLE aural alert is not silenced. This improvement should also be available in the 8A3 avionics software."
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "CONTRIBUTORS ALI FARHAT A220 Senior Engineering Specialist Autoflight Design Office S\u00c9BASTIEN FITTE A220 Engineering Specialist Design Office SEBASTIEN GUAY A220 Engineering Specialist Principal Design Office SUNNY GUPTA AccidentIncident Investigation Product Safety MATTHIAS MAEDER A220 Chief Technical Pilot GUILLAUME REIX A220 Engineering Specialist Indicating Design Office With thanks to Josep BOADABAUXELL from A220 engineering, Adrien CHEN from A220 Product Safety, Jimmy AVGOUSTIS from A220 Flight Operations Support and Albert MAZZIA from Training and Flight Operations Support Safety first 37 January 2024 013 Flight crews should be aware of the consequences of inadvertent selection of the autopilot during the takeoff roll, which may lead to a risk of tail strike, inability to climb, runway overrun, and possible loss of control. A220 FCOM procedures were updated and AFM limitations were added to help flight crews learn from the experience of previously reported events and prevent this kind of event from recurring. This should"
+  },
+  {
+    "page": 15,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "be reinforced by all operators applying the applicable recommendations, including the need for the flight crew to review applicable OEBs together during preflight and the importance of the Pilot Monitoring role. Product enhancements, modifications, and updates will be implemented as additional safety features that will inhibit autopilot engagement during the takeoff roll, increase the robustness of the autothrottle monitoring, and improve the priority sequencing of aural alerts."
+  },
+  {
+    "page": 16,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Cockpit Control Confusion Cockpit Control Confusion Inadvertent use of the wrong cockpit control instead of the intended control is a potential situation that pilots may encounter on any aircraft type. This kind of error can occur with even the most experienced pilots and this article explores what factors can influence and lead to this type of occurrence. The resilience of the aircraft systems to cope with such an error provides effective safety barriers to prevent serious events. The aim of this article is also to raise awareness of the potential causes and effects of cockpit control confusion incidents and provide information about best practices, which can help pilots to reduce the risks that may lead to operational and safety consequences. Check the latest version of this article on safetyfirst.airbus.com and on the Safety first app for iOS and Android devices."
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "CASE STUDY Event Description The First Officer, who was Pilot Flying PF, called the ground crew operating the towbarless pushback vehicle connected to the A319, to state that they were cleared for pushback and engine start. The ground crew called to release the brakes and the First Officer set the PARKING BRK handle to OFF. The flight crew completed the Before Start checklist and a few moments after the aircraft began to move, the First Officer called out starting engine one. The Captain acknowledged the First Officers call. The First Officer then inadvertently set the PARKING BRK handle to ON causing the aircraft to abruptly stop. The sudden stop caused the nose landing gear to jump out of the tow clamp of the towbarless pushback vehicle and it became lodged on top of the vehicle platform with the nosewheel deflected at more than 90 degrees fig.1 . Two cabin crew"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "members, who were performing the safety demonstration at the time of the incident, received minor injuries. The passengers and crew exited the aircraft using steps positioned at the rear cabin door, with no further injuries. Event Analysis Parking Brake Handle vs. Engine Mode Selector During the engine start sequence, the PF inadvertently set the PARKING BRK handle to ON instead of setting the ENG MODE selector to IGNSTART. Both controls are located on the pedestal. The PARKING BRK handle needs to be pulled, turned in the clockwise direction to ON, and released. The ENG MODE selector also needs to be turned in the clockwise direction to IGNSTART. Both controls are used in the pushback and start sequence by either fig.2 Setting the PARKING BRK handle to OFF before pushback, and setting it back to ON when pushback is complete, and then setting the ENG MODE selector to IGNSTART to start"
+  },
+  {
+    "page": 17,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "the engine, or Setting the PARKING BRK handle to OFF before pushback, then setting the ENG MODE selector to IGNSTART to start the engine during pushback, and setting the PARKING BRK handle back to ON when pushback is complete Safety first 37 January 2024 015 fig.1 Picture of the event Source Operator fig.2 The pushbackengine start sequence may vary depending on the situation"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Cockpit Control Confusion Many pilots position their hand on the PARKING BRK handle without making any visual check before moving it as they know very well the specific shape of the PARKING BRK handle on the pedestal and the specific action of pulling and turning to move it. CAUSES OF COCKPIT CONTROL CONFUSION Situations and Context The cockpit control confusion situation described in this article occurred in normal operational conditions. Situations that cause high workload, additional stress, and cognitive overload for flight crews can lead to human errors. This is, however, not necessarily the case for cockpit control confusion incidents. In these cases, it is not due to a lack of knowledge and skills of the flight crews. In fact, even the most experienced pilots on current type can experience cockpit control confusion and so there are other contributing factors. Humans create routines Humans evolved by optimizing capabilities, and"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "when a skill is acquired and frequently used in the same environment, the human brain creates routines. This human ability for pattern seeking and automatically performing actions allows us to preserve our brains cognitive resources, making it possible to focus on something else when performing routine actions. For example, flight crews can often perform instantaneous monitoring of the aircraft in normal flight conditions whilst communicating with air traffic control. SkillBased Errors Behaviors based on routines, or socalled skillbased behaviors, are when humans perform automatic actions with low conscious control on how they are performing them. According to aviation human factors expert, James Reason, there are two types of skillbased errors Lapses when an action is missed Slips when an action is performed incorrectly Reason, James. Human error. Cambridge university press, 1990. Inadvertently using a cockpit control instead of another in normal situations is a slip. Although performed incorrectly, the intention"
+  },
+  {
+    "page": 18,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "of the action was correct. The momentary absence of attentional control and active thinking when performing the action caused the error and it is not related to a lack of skills or knowledge. KEYPOINT Cockpit control confusion incidents are skillbased errors or, slips, where the intention is correct, but there is a failure of execution. These incidents happen when a pilot is acting without conscious control over their actions."
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Contributing Factors Routines Cockpit control confusion situations are often encountered on the most frequently used controls, because routines are more developed on those controls. This is why cockpit control confusion is more often observed with experienced pilots performing wellknown procedures. Human Factors Other contributing factors for slips are fatigue, overconfidence, and momentary distractions such as pilot preoccupation or an unexpected interruption when performing a wellknown sequence of actions or a flow pattern. Anticipation of the action is also a contributing factor. For example, when a pilot habitually rests their hand on the control before activating it, this indicates that the pilots mind is already committed to performing the next action with that control even if a different control action is called for. This can result in the inadvertent use of that cockpit control. Shape Position of the Controls There are reported cases of confusion between the expedite EXPED pushbutton and"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "the approach APPR pushbutton fig.3 . The EXPED and APPR pushbuttons are located next to each other on the FCU panel, and they have a similar shape and action to select. Similarly on the A220 aircraft, there are reported cases of control confusion between the autopilot AP pushbuttonswitch and the autothrottle AT pushbuttonswitch. For more information about this example, refer to the Safety first article on Inadvertent Autopilot Engagement During Takeoff on A220 aircraft. In the case of cockpit control confusion, a pilot performs a skill without conscious control over their action, therefore, even controls with different shapes and locations in the cockpit can still be confused. For example, there are reported cases of control confusion between the landing gear lever located on the main instrument panel and the flaps lever located on the pedestal. Proximity Factors When a control is positioned closer for the pilot to reach, then it"
+  },
+  {
+    "page": 19,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "is more likely to be subject to cockpit control confusion. For example, when PFs are in the left seat they are more likely to experience a skillbased error or slip, related to the EXPED pushbutton, because it is located on the left side of the FCU panel. When Pilots Monitoring PMs are in the right seat they are more likely to experience cockpit control confusion related to the flaps lever because it is located on the right of the pedestal. Safety first 37 January 2024 017 fig.3 EXPED and APPR pushbutton on the FCU of an A320 aircraft"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Cockpit Control Confusion Challenges The lack of attentional control and active thinking when performing the action that caused the error is not due to the lack of skills or knowledge, and therefore, cockpit control confusion or slips, cannot be mitigated by conventional training. Changing the design of a cockpit control that is very familiar to many thousands of pilots can be counterintuitive, and it is not possible to cover all cockpit control confusion cases. The Importance of Reporting The aircraft systems are very resilient to inadvertent use of cockpit controls, pilots will react quickly to correct their error, and there is often no operational consequence. It may not seem necessary for the flight crew to report the cockpit control confusion incident, but it is important to better understand the contributing factors and identify the possible mitigations. That is why it is so important for airlines to foster a speakup"
+  },
+  {
+    "page": 20,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "culture and just and fair policy, that encourages pilots to report such events. KEYPOINT Given the challenges faced to reduce the number of cockpit control confusion incidents, it is important for flight crews to report such events. The more cases that are reported, the more accurate the analysis and identification of trends will be, allowing for the most effective mitigations."
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Safety first 37 January 2024 019 PREVENTIVE ACTIONS Reporting cockpit control confusion events, analyzing trends, developing best practices, and raising awareness among pilots is the most effective means of prevention. Some operators have reinforced this by creating additional callouts for their flight crews when carrying out routine tasks in the cockpit. Recognized best practices are described in the Flight Crew Techniques Manual FCTM of all Airbus aircraft A300600, A310, A320 Family, A330A340 Family, A380, A350, A220 in the Cockpit Philosophy chapter. The main recommendations for flight crews are Do not rest your hands on controls. Do not anticipate actions by putting your hands on the controls before you need to. Perform a visual check on the control before using it. Even if you are focused on the PFD you should look at the controls before using them. Check the result of the action, which is essential. Break the automated loop"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "and raise the level of active thinking and attention. Use the standard callouts and use additional callouts, if necessary. Examples of additional callouts from an Operator During the Engine Start procedure, the PF points to the ENG MODE selector and calls ENG MODE SELECTOR before using it. Before using the flaps, the PM puts their hand on the lever and calls out Flaps before moving the lever and calling out the flap position. Before using the landing gear, the PM puts their hand on the lever and calls out Gear before moving the lever and calling out Up or Down. These additional callouts reduced the number of inadvertent uses of the parking brake handle instead of the ENG MODE selector, and the inadvertent flaps selection or landing gear selection, by increasing the attentional focus of the flight crew. However, the risk remains that such attentiongetters can also become routine. BEST"
+  },
+  {
+    "page": 21,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "PRACTICE During training sessions, instructors should be vigilant to identify cockpit control confusion and debrief the flight crew to raise their awareness of this behavior. This is more likely to occur during recurrent training and is less often seen during initial training sessions."
+  },
+  {
+    "page": 22,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Cockpit Control Confusion INFORMATION For more information on cockpit control confusion, the video Understanding and Managing Cockpit Control Confusion in Operations is available on the Airbus Worldwide Instructor News WIN website. Thank you to both easyJet and KLM for their contribution to this article. With effective speakup cultures and just and fair policies, flight crews were empowered to report several incidents that were studied to better understand the circumstances that contributed to cockpit control confusion. This allowed for more precise and targeted recommendations to reduce the risk of cockpit control confusion for all flight crews."
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "CONTRIBUTORS FLORENCE BURATTO Human Factors Expert for Flight Operations Customer Support IAN GOODWIN Safety Enhancement Manager Product Safety MICHEL RICHARME Synthetic Flight Instructor Customer Support LAURENT SPAGGIARI Human Factors Expert for Safety Enhancements Design Office MARTIN NIJHOF KLM ROYAL DUTCH AIRLINES Senior Flight Safety InvestigatorSenior Risk Analyst CAPT. JEROEN WOOLDERINK EASYJET Flight Operations Safety Captain Safety first 37 January 2024 021 The human mind creates routines for acquired skills in an effort to save cognitive resources for other tasks. When pilots are performing routine tasks in the cockpit, they may occasionally lose attentional control over the actions they are performing. This can lead to a cockpit control confusion scenario. Fatigue, overconfidence, distraction, and anticipation are some of the contributing factors to cockpit control confusion. A lack of attentional control and active thinking when performing the action causes the error, and not a lack of skills or knowledge. Cockpit control confusion"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "can happen on any aircraft type and to any pilot, regardless of their experience. It can be the case that more experienced pilots are even more likely to have cockpit control confusion due to the longer time they have spent performing repetitive and routine tasks. The most effective mitigation means are to always check the control before acting on it and to always check the result of the action. Reporting cockpit control confusion events, analyzing trends, raising awareness, and sharing best practices are other mitigation means to also take into account. Recommendations for pilots to prevent cockpit control confusion are available in the FCTM for all Airbus aircraft A300600, A310, A320 Family, A330A340 Family, A380, A350, and A220. The key point for pilots is to consciously maintain their focus on each action they perform. Operators who have also developed additional callouts for their flight crews observed a reduction in the"
+  },
+  {
+    "page": 23,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "number of reported cockpit control confusion events. The aircraft systems are resilient to many of the effects from cockpit control confusion. Their protections offer an effective safety barrier to prevent more serious situations from occurring. It is a timely reminder to apply the golden rules for pilots and always take action if things do not go as expected."
+  },
+  {
+    "page": 24,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Lightning Strikes Lightning Strikes Each inservice aircraft is struck by lightning at least once per year, on average. Even if the level of energy of lightning strikes is high, their effects on an aircraft are limited. This article explains the lightning phenomenon and why aircraft are prone to lightning strikes. It describes how aircraft are designed to limit the effects of a lightning strike and ensure that the safety of the flight is not impaired. It also recalls several safety precautions to take in flight and on the ground, and what must be done when an aircraft is struck by lightning."
+  },
+  {
+    "page": 25,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "LIGHTNING PHENOMENON Within storm clouds, thermal convection causes collisions between ice particles resulting in the transfer of electrons between them. This process leads to the accumulation of electrical charges inside the cloud. When the electrical tension between these charged areas reaches a critical point, it overcomes the insulating properties of the air that separates them, resulting in a lightning discharge. fig.1 . Lightning can happen 1 between cloud and ground, 2 inside a cloud, or 3 between two clouds. Earth experiences an average of approximately 44 lightning strikes every second. Safety first 37 January 2024 023 fig.1 Typical types of lightning"
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Lightning Strikes fig.2 Lightning initiation Lightning bolts A lightning bolt initiates with a column of ionized air fig.2 that generally 1 starts from the negative part of the cloud and moves towards the positively charged area. This column is called a leader. As it nears the positively charged area, 2 secondary leaders develop from it. 3 When the two leaders come into contact with each other, an electrical current flows to neutralize the opposite electrical charges accumulated in the two areas. There are often several successive discharges in a single lightning bolt. The discharge current can reach 200 000 A and the temperature inside the lightning channel can reach 30 000 C. Cloudtoground lightning bolts are usually the most powerful. Worldwide distribution of lightning strikes to ground The average worldwide frequency is 3 lightning strikes per square km per year strikekm\u00b2yr. However, there is a strong disparity of this"
+  },
+  {
+    "page": 26,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "value depending on the location on the planet. Based on a National Aeronautics and Space Administration NASA study, the regions more prone to lightning strikes are Central Africa and South America with more than 20 strikeskm\u00b2yr and more than 70 strikeskm\u00b2yr in Central Africa, reaching 158 strikeskm\u00b2yr in Congo. In comparison, oceanic areas have a frequency of less than 1 strikekm\u00b2yr reaching less than 0.1 strikekm\u00b2yr in the polar regions and South Pacific area fig.3 . fig.3 Worldwide lightning distribution from 1995 to 2003 with color range indicating the average annual number of lightning flashes per square kilometre. Credits National Oceanic and Atmospheric Administration NOAA Science and National Aeronautics and Space Administration NASA."
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "AIRCRAFT AND LIGHTNING STRIKES Using the 3 strikeskm\u00b2yr average value and an average aircraft surface of 300 m\u00b2, an aircraft should theoretically be struck by lightning once every 1 000 years. The operational reality is that an inservice aircraft will be struck by lightning on average once a year, or every 3 000 flight hours. This is 1 000 times the projected value above. This difference can be explained by the fact that an aircraft will tend to attract lightning in flight when it is in the proximity of a storms high electrical field fig.4 . If a lightning leader initiates close to an aircraft 1, some lightning leaders will also initiate from the aircraft extremities e.g. nose cone, wing tips, vertical tailplane toward the lightning leader 2 . If one aircraft leader joins with the lightning leader, the aircraft becomes part of the lightning channel 3, and continuing leaders"
+  },
+  {
+    "page": 27,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "initiate from the other extremities of the aircraft toward the positively charged area ground 4 . When one of these leaders nears this positively charged area, 5 new leaders initiate from it and 6 create lightning when joining the main leader. Safety first 37 January 2024 025 fig.4 How lightning strikes an aircraft."
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Lightning Strikes fig.5 Metallic foil integrated into composite structure left, conductive metallic strips on the radome centre, and bonding leads ensure electrical continuity between structural components right. Aircraft design considerations All large aircraft must be designed and certified to withstand lightning strikes without sustaining significant damage to their structure or effects on their systems that would adversely affect safety for the remainder of the flight. This includes protection of the airframe structure against the direct effects of lightning, and the protection of the electronic circuitry versus lightning current induced effects. Conductive structure The aircraft structure is designed to conduct the electrical current induced by a lightning strike. For composite fuselages or components, integrated conductive metallic foils and metallic strips are used to ensure this. All components of the aircraft structure metallic or composite must be bonded together with bonding leads or with fasteners to ensure electrical continuity fig.5 ."
+  },
+  {
+    "page": 28,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "This will enable the lightning current to travel through the aircraft structure without creating significant damage. Direct effects of a lightning strike are normally limited to the damage caused by the lightning strike at its initial point of contact. The observable effects of a lightning strike include Metallic components Burns, pitting, holes, and melt marks on the aircraft skin or structure, structural deformation, heat damage, and paint discoloration. Composite components Paint discoloration, skin punctures, fiber damage including fiber tufts or fiber delamination, loss or damage of copper foil mesh and metallic strips."
+  },
+  {
+    "page": 29,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "As the aircraft moves during the strike, and due to the pulsating discharge of the electrical current, the lightning attachment points on entry or exit can move along the surface of the aircraft creating the socalled multiple swept strokes up to 20 strokes fig.6 . They can also remain fixed on the rearmost parts of the aircraft known as a hangon attachment point, which is a single attachment point sustaining several discharges. lightning strike. Aircraft Lightning Attachment Zones Lightning attachment zones are identified depending on the probability and type of lightning attachment on the aircraft structure fig.7 . Safety first 37 January 2024 027 fig.6 Example of swept strokes and hangon attachment points shown on an A320 aircraft with the initial entry point of the fig.7 Lightning attachment zones shown on an A320 aircraft AMM extract"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Lightning Strikes Protection against the indirect effects of lightning strikes Electromagnetic fields related to a lightning strike can cause unwanted transient voltages and currents in the aircraft wiring and its systems. As required by the regulations, aircraft must be designed so that there is no perturbation of a critical or essential system in the case of a lightning strike that could temporarily or permanently affect its operation. The level of protection given to a particular system depends on the likelihood of the system being affected by lightning and the impact that a loss of this system would have on the safety of the flight. Protection from the indirect effects of lightning strikes is ensured by System redundancy Physical and electrical segregation of the redundant systems Electromagnetic protection on the electrical harness where required, using differential transmission lines, shielding and overshielding, and specific routing rules Electrical isolation or use of"
+  },
+  {
+    "page": 30,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "lightning surge arrestors specified inside equipment ports depending on their potential exposure to lightning strike effects Management of corrupted data by system software. INFORMATION Detailed information on the lightning phenomenon and its effect on aircraft can be found in the Lightning Protection of Aircraft Handbook created by Franklin A. Fisher and J. Anderson Plumer, available for download on the FAA Technical library. The standard ED91A Lightning Zoning and the SAE Aerospace Recommended Practice ARP ARP5414B Aircraft Lightning Zone, provides information on lightning strike zones and guidelines for locating them on particular aircraft. Lightning Protection of Aircraft Handbook FAA Technical library"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "LIGHTNING STRIKE PREVENTION SAFETY PRECAUTIONS Most of the reported lightning strike events on aircraft usually occur in flight between 5 000 ft and 15 000 ft, or when the aircraft is on the ground. Lightning Avoidance Inflight Flight crews should take advantage of all available means to avoid lightning conditions such as weather forecasts, use of the onboard weather radar, and ATC guidance. Certain weather radars are equipped with a lightning prediction function that provides additional indications to the flight crew of areas within a storm where an aircraft may be more prone to lightning strikes fig.8 . INFORMATION Information on the use of weather radar and storm avoidance can be found in A220 FCOM1 section 1606 and A320A330A340A350A380 FCTM Aircraft Systemsweather radar Safety first article Optimum use of weather radar published in July 2016 Airbus WIN video Operational Use of the Weather Radar published in November 2017 Safety first"
+  },
+  {
+    "page": 31,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "37 January 2024 029 fig.8 FCOM illustration of the Honeywell weather radar RDR4000 with 1 rain echo attenuation indication, 2 lightning prediction, and 3 hail prediction icons ikes an aircraft. Optimum use of weather radar Operational Use of the Weather Radar"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Lightning Strikes Safety Precautions when on Ground In the case of a storm with lightning activity when the aircraft is parked or stored outside for maintenance activities, the maintenance and ground servicing personnel should apply specific safety precautions to limit the consequences of a potential lightning strike. Aircraft electrical grounding earthing Grounding earthing the aircraft reduces the risk of injury to personnel and risk of damage to the aircraft in the case of a lightning strike. If the aircraft is not grounded, the lightning current can exit from any point of the aircraft structure. This is normally close to the landing gears where it can cause significant damage and a risk of serious injury. Any ground servicing equipment e.g. platforms, access stairs, cargo loaders, ground service carts, cargo loaders, and pushback vehicles that may be in contact with an aircraft that is not grounded when it is struck by"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "lightning, may also be damaged. A grounding cable with less than 500 mOhm of resistance and with a minimum cross section of 22 mm2 0.034 in2 must be attached to one of the aircraft grounding points. Suspension of maintenance and servicing activities Maintenance or ground servicing operations should be stopped pending the end of the storm and lightning conditions. Even if the aircraft is grounded, the resulting shockwave created by a lightning strike can cause injuries to ground personnel. Anyone working in the vicinity of the aircraft should not touch metal parts equipment or any other item connected to the aircraft. Disconnection of all external equipment Disconnection of external equipment e.g. external power supply, air conditioning carts, and other ground servicing vehicles prevents damage in the case of a lightning strike. In lightning conditions, ground operators should disconnect or remove their headsets and communicate with the crew in the cockpit"
+  },
+  {
+    "page": 32,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "using standard hand signals. Adherence to local regulations When available, the operators must review and follow the local airport or airline policy and procedures for managing safety when there is lightning and storms."
+  },
+  {
+    "page": 33,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Safety first 37 January 2024 031 INFORMATION More information and guidelines can be found in the International Air Transport Association IATA documentation IATA Airport Handling Manual, AHM 462 Safe Operating Practices In Aircraft Handling, section 11 11.3 Weather Terms and Definitions 11.5 Severe Weather Forecasting 11.6 Severe Weather Notification 1.6.2 Notification Methods 11.7.3 ThunderstormLightning 11.8 ThunderstormLightning Safety. IATA Ground Operations Manual, IGOM 3.3 Adverse Weather Conditions"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Lightning Strikes MANAGING LIGHTNING STRIKES When lightning strikes an aircraft, a specific process must be applied to detect any damage caused by the strike, evaluate the damage, and perform the necessary repair before returning the aircraft back into service. Informing Maintenance of a Lightning Strike Event In the case of a lightning strike, the flight crew must make a logbook entry to inform maintenance personnel of the event, so that they can perform the appropriate inspection and necessary repairs. The flight crew should provide as much information as possible such as the landing gear position when the strike happened, a description of any system malfunction during or after the strike, and a list of the ECAM EICAS for A220 alerts that may have been triggered. Inspection of the aircraft for damage Preparation of the inspection The maintenance personnel should gather all the information provided by the flight crew about"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "the event and print a Post Flight Report PFR to analyze any effect on the aircraft systems. Choice of inspection It is possible to choose between several types of post lightning strike inspection except for A220 and A300 aircraft. This enables flexibility depending on airline operations, time constraints, human resources, availability of ground support equipment, etc. Standard postlightning strike Inspection The standard inspection after a lightning strike is divided into several phases. The first phase being initial damage detection consisting of a thorough inspection of the entire surface of the aircraft and testing certain systems. The following phases are additional checks to be performed further to damage detection. Quick Release Inspection QRI The Quick Release Inspection QRI allows the operator to perform a reduced inspection to release the aircraft in a shorter time frame, and postpone the full standard inspection for a limited number of flight cycles when time and"
+  },
+  {
+    "page": 34,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "logistics permit. The QRI is only available for A300600, A310, A320 family, A330, A340, A350, and A380 aircraft. The QRI consists of inspecting the areas that are most prone to lightning strikes and testing certain systems. If no damage is found during the QRI, the aircraft can be dispatched for up to 50 or 200 Flight Cycles FC depending on the aircraft type. A full standard lightning strike inspection must be performed on the aircraft before the end of this grace period. If a new lightning strike occurs during the grace period, a new QRI must be performed, but the grace period applicable before a full inspection remains the 50 or 200 FC from the initial lightning strike event."
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Safety first 37 January 2024 033 1flightback inspection 2 FC This alternative was added in the A320 family AMM to enable further flexibility and allows a maximum of 2 FC ferry or revenue flight to return the aircraft to an airfield with sufficient manpower and logistics to perform a standard or quick release inspection. However, this procedure is not applicable if one of the following conditions occurred The flight crew reported a lightning flash with the sound of detonation The flight crew decided to divert the flight after a lightning strike event in flight There were Injuries to passengers andor crew members caused by the lightning strike event. The 1 flight back inspection consists of A visual Inspection of the Air DataInertial Reference System ADIRS probes and sensors at touching distance A visual inspection of the flight control surfaces from a 3m platform or passenger entry stairs A functional check"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "of the aileron and elevator servo controls A functional test of the flight control surfaces. The 1flightback inspection was made available for A350 aircraft in the 01NOV2023 revision and is under study for A330, A340, and A380 aircraft. InspectionbrTypeA220A300A300600brA310A320brFamilyA330A340brFamilyA350A380 StandardbrinspectionYESYESYESYESYESYESYES QRIbrQuickbrReleasebrInspectionNANA50 FC200 FC200 FC200 FC200 FC QRIbrQuickbrReleasebrInspectionNANANote If a new lightning strike occurred during the grace period,brthe grace period remains 200 FC or 50FCfrom the timebrof the initial lightning strike eventNote If a new lightning strike occurred during the grace period,brthe grace period remains 200 FC or 50FCfrom the timebrof the initial lightning strike eventNote If a new lightning strike occurred during the grace period,brthe grace period remains 200 FC or 50FCfrom the timebrof the initial lightning strike eventNote If a new lightning strike occurred during the grace period,brthe grace period remains 200 FC or 50FCfrom the timebrof the initial lightning strike eventNote If a new lightning strike occurred during"
+  },
+  {
+    "page": 35,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "the grace period,brthe grace period remains 200 FC or 50FCfrom the timebrof the initial lightning strike event 1 FlightbrBack2 FCNANANAYESUnder StudyYESUnder Study"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Lightning Strikes fig.9 SRM for Mechanics SRM4M application for Android and iOS Damage Evaluation Repair Damage due to lightning strikes should be repaired using an approved repair as per local authority regulations. Airbus recommends using the SRM or ASR for A350 or ASRP for A220 to evaluate and repair the damage. SRMASRASRP repairs are certified to be capable of withstanding additional lightning strikes. Damage outside of the SRMASRASRP limits When the lightning strike damage is outside of the SRM ASRASRP limits, it is necessary to obtain repair instructions either from Airbus via a Repair and Design Approval Form RDAF or a Repair Engineering Order REO for A220 aircraft, or via an instruction provided by an EASA PART 21 approved organization. To obtain the Airbus RDAFREO, the operator or repair organization should prepare a damage assessment as required in SRMASRASRP. INFORMATION The SRM for Mechanics SRM4M mobile application provides a"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "quick and easy way to use the SRM for A320 family aircraft. Report lightning strike events to Airbus Airbus analyzes any reported lightning strike events in order to further increase knowledge in this domain. Operators and repair organizations are encouraged to report lightning strike occurrences to Airbus even if no damage is found on the aircraft after the inspection. Operators can also participate in the forums and working groups organized by Airbus. For example, Airbus hosts a Lightning Strikes Expert Forum in order to exchange experience about managing lightning strikes with all operators. An SRM working group except A220 also meets regularly since 2014 to exchange experience about structural repair topics. INFORMATION Further information can be found in the AMMMP, SRMASRASRP documents available on the AirbusWorld portal and in the following published documents OIT 999.006615 OIT 999.000320 ATA 51 STRUCTURAL REPAIR MANUALS AND AIRCRAFT STRUCTURAL REPAIR MANUALS CONTINUOUS IMPROVEMENTS Safety"
+  },
+  {
+    "page": 36,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "first 18 Safe Operations with Composite Aircraft FAST 22 Lightning Strikes and Airbus FlyByWire Aircraft"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "CONTRIBUTORS AUDREY BIGAND Expert EMH Lightning Direct Effects CHIACHI CHEN Abnormal Events Engineer Overall AC InService Engineering ALEXANDRE GREKOV A220 Customer Services SMS Safety Officer DOMINIQUE GRISEL Cargo Guidance Manager BCV SMS Representative ROBERT KEBEL EMC and Lightning Protection Expert CHRISTELLE KUTYLA EMH Specialist RENAUD PUJOL HO SRM Development With Thanks to Diego ALONSO TABARES from Airport Operations Expert, Olivier DUROU from Particular Risk Analyses Expert, Ian GOODWIN from Product Safety Safety first 37 January 2024 035 Aircraft are often struck by lightning. Aircraft manufacturers must demonstrate that their aircraft remain safe after a lightning strike. Flight crews should avoid areas with lightning conditions as much as possible by using weather forecasts, onboard weather radar, and ATC guidance. When an aircraft is parked or stored outside in lightning conditions, it is important to apply precautionary measures such as electrically grounding the aircraft, pausing ground or maintenance operations, and disconnecting any"
+  },
+  {
+    "page": 37,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "external equipment. It is also important that all operators are familiar with the local airport regulations and procedures for severe storms and lightning events, and have their own policies in place for their flight crews, maintenance crews, and ground crews. For every lightning strike event, it is essential for flight crews to make an accurate logbook entry and for maintenance crews to adhere to the AMMMPAMP procedures to perform inspection and damage assessment. Any repair must be done using the SRM ASR on A350 and ASRP on A220. Operators should report all their lightning strike events to Airbus, even if there is no damage found in the post lightning strike inspection. This will provide data that contributes to further enhancing industry knowledge on the subject."
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inappropriate VS Target during Autoflight Mode Reversion Inappropriate VS Target during Autoflight Mode Reversion Two cases of inappropriate VS target during an autoflight reversion to VS mode after a goaround were recently reported to Airbus. In both cases, the inappropriate VS target resulted in a pitch down command of the autopilot with high thrust. The flight guidance used the previously selected VS value set during the preceding ILS glide slope intercept from above as a VS target for the mode reversion. This article describes one of these events in detail and explains the conditions that caused this autoflight behavior. It provides operational recommendations to flight crews to prevent and detect this situation. It also lists the system enhancements that were launched to avoid the use of an inappropriate VS or FPA target during a mode reversion of the flight guidance. Check the latest version of this article on safetyfirst.airbus.com"
+  },
+  {
+    "page": 38,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "and on the Safety first app for iOS and Android devices."
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "CASE STUDY Event Description An A320 aircraft was descending toward its destination airport in IMC and the flight crew prepared for an ILS approach. Late clearance from air traffic control meant that the aircraft was high. The aircraft captured the localizer, but was above the ILS glide slope fig.1. 1 At 3 500 ft, the aircraft was in OP DES I LOC mode with AP, FD, and autothrust ON. The selected altitude was 3 000 ft, the speed brakes were fully deployed, and speed was selected at 174 kt. Flaps configuration was CONF 2 and the landing gear was down. 2 At approximately 3 400 ft, the ALT mode engaged. 3 At 3 200 ft, the flight crew retracted the speed brakes and twice attempted to engage the VS mode by pulling the VSFPA knob, but the ALT mode reengaged 1 s after each attempt. 4 At 3 000 ft,"
+  },
+  {
+    "page": 39,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "the ALT mode engaged and the aircraft leveled off. Safety first 37 January 2024 037 fig.1 Event description 1 of 3"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inappropriate VS Target during Autoflight Mode Reversion 5 The flight crew then pulled the VSFPA knob to engage the VS mode and selected a VS value of 2 600 ftmin on the FCU. The aircraft began to descend. 6 At approximately 2 300 ft 1 600 ft RA, the aircraft was still too high above the glide slope and the flight crew pushed the thrust levers to TOGA to initiate a goaround with the autopilot engaged. The aircraft started to climb toward the 3 000 ft altitude that was still selected on the FCU. The NAV mode engaged fig.2 shortly after and 7 the PF moved the thrust levers back to the CLB detent Event description 2 of 3 at approximately 2 700 ft. 8 The ALT mode engaged at approximately 2 500 ft. 9 The flight crew immediately increased the altitude target from 3 000 ft to 5"
+  },
+  {
+    "page": 40,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "000 ft on the FCU. As a result, the flight guidance reverted to VS I HDG modes with associated alerts tripleclick sound, white box on FMA, and FD bars flashing for 10s. The aircraft pitch began to decrease. It climbed up to approximately 2 950 ft and then started to descend and accelerate. At 2 800 ft, the aircraft vertical speed reached 2 600 ftmin and remained constant until 10 the flight crew manually took over by pulling the sidestick. The aircraft reached 2 100 ft 1 400 ft RA and started to climb again. fig.3 Event description 3 of 3 The flight crew later reengaged the autopilot and successfully performed a second ILS approach."
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "Safety first 37 January 2024 039 Event Analysis Reversion to the previously selected VS value When the flight crew increased the selected altitude from 3 000 ft to 5 000 ft on the FCU in step 9, the ALT mode was engaged. This triggered a reversion to the VS mode as per flight guidance logic. Since the VS value was modified shortly before the goaround, it was still in the memory and displayed on the FCU. This led the VS mode to use this previously selected value instead of the current aircraft VS. We will describe this inappropriate behavior later in this article. Flight crew reaction It took more than 30 s from the mode reversion to VS 2600 in step 9, and 24 s from the start of the pitch down, for the flight crew to realize that the aircraft did not respond as expected. AUTOFLIGHT SYSTEM BEHAVIOR The"
+  },
+  {
+    "page": 41,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "event described above is due to a combination of two functions of the flight guidance system The VS or FPA preselection function and the reversion to VS or FPA modes. VS or FPA Target Preselection The VS or FPA target preselection enables the flight crew to preselect a VS or FPA target to be prepared to activate the associated flight guidance mode when appropriate. To do so, when the flight crew selects a VS or FPA target on the FCU, this preselected value is stored in the memory and remains displayed on the FCU for 45 s 10 s on A300, A310, and A300600 aircraft to activate the guidance mode later."
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inappropriate VS Target during Autoflight Mode Reversion INFORMATION The duration of the VS or FPA preselected value stored in the memory was increased from 10 s on A300, A300600, A310 aircraft to 45 s for the A320 family, A330, A340, A350, and A380 aircraft. It enables the flight crew to 1 preselect an FPA value earlier while the aircraft flies toward the Final Descent Point FDP during an approach using FPA guidance, in order to 2 anticipate the engagement of the FPA mode when the aircraft reaches the FDP. fig.3 Preselection of the FPA value is used during approach using FPA guidance Mode Reversion to VS or FPA modes The flight guidance automatic mode reversion to VS or FPA modes is a logic designed to maintain the current aircraft trajectory when the altitude selection by the flight crew is inconsistent with the objectives of the current guidance mode. In"
+  },
+  {
+    "page": 42,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "the event described in this article, the reversion was triggered by changing the target altitude while the autopilot was in the ALT altitude capture mode. FCOM DSCAUTO FLIGHT FLIGHT GUIDANCE APFD MODES VS FPA MODE provides all the conditions for reversion to VS or FPA modes. An Inappropriate Combination During a reversion to VS or FPA modes, the flight guidance VS or FPA target usually synchronizes with the current aircraft VS or FPA in order to maintain the aircraft trajectory. However, if a VS or FPA value is selected on the FCU and if the mode reversion happens within 45 s 10 s on A300600 and A310 aircraft, the flight guidance VS or FPA target synchronizes with this selected value. This inappropriate combination of the VS or FPA target preselection function with the mode reversion function may cause inappropriate behavior of the flight guidance as seen in the previous example."
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "The shorter time that the preselected value on A300600 and A310 aircraft is stored in the memory significantly reduces the probability of mode reversion to the selected value within 10 s after the selection. Several scenarios can lead to this inappropriate behavior, but not all aircraft are concerned due to some differences in their guidance logic. Scenario 1 Goaround during glide slope intercept from above A300600, A310 and A320 family aircraft only The most common scenario where the flight crew may face this issue is a goaround during or after a glide slope intercept from above, as in the example described earlier in this article. 1 A VS value is preselected, 2 VS mode is engaged and 3 the VS may be adjusted. 4 A goaround is then performed. 5 If the mode reversion happens within the 45 s after the VS value preselection or last VS modification, the inappropriate"
+  },
+  {
+    "page": 43,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "behavior will occur. Only A300600, A310, and A320 family aircraft are concerned. On A330, A340, A350, and A380 aircraft, the VS or FPA preselected value is canceled as soon as the VS or FPA is engaged. Safety first 37 January 2024 041 fig.5 Scenario 1 Goaround during glide slope intercept from above A300600 A310, and A320 family aircraft only"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inappropriate VS Target during Autoflight Mode Reversion Scenario 2 Goaround before glide slope intercept from above before engaging VS mode In this case, 1 a negative VS value is preselected in anticipation of a glide slope intercept from above due to possible late ATC clearance. 2 When cleared for approach, the flight crew presses the APPR pushbutton and GS mode engages, followed by GS mode. 3 A goaround is performed. 4 If a mode reversion happens less than 45 s after the VS preselection, the preselected negative VS value is used. fig.6 Scenario 2 Goaround before glide slope intercept from above before engaging VS mode All aircraft are concerned by this scenario, except A220 aircraft and A350 aircraft that are equipped with PRIM 14.1. because the VS or FPA selected value is reset at goaround engagement with PRIM 14.1. Scenario 3 Mode reversion due to the loss of an"
+  },
+  {
+    "page": 44,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "approach mode In this scenario, 1 a VS or FPA value was preselected, as it was for scenario 2, and 2 Approach mode is engaged when cleared by ATC. A mode reversion happens during the next 45 s after the preselection due to a loss of approach mode for reasons such as GS or FGS, APP DES or FINAL APP mode disengagement e.g. loss of ILS signal, MMR failure, loss of flight plan, etc. LOC or FLOC or NAV mode disengagement The flight crew selects a target altitude higher than the actual aircraft altitude on FCU in DES or OP DES mode."
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "In this case, the effect on the trajectory is generally limited due to an already descending trajectory. It may be more difficult for the flight crew to detect the behavior. Scenario 4 Visual manual approach using HUD When performing a visual manual approach using the Head Up Display HUD, the flight crew may select the FPA value corresponding to the final approach path on the FCU as a guidance fig.8. If a goaround is performed the FD will come ON and SRS mode will engage. If a mode reversion happens within 45s after the last selection of the FPA value, the guidance mode will revert to VS mode using VS value corresponding to the FPA selected value, typically around 700 ftmin for a 3 FPA. Safety first 37 January 2024 043 fig.7 Scenario 3 Mode reversion due to the loss of an approach mode fig.8 Selection of the FPA during"
+  },
+  {
+    "page": 45,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "a visual approach using FPA mode can also lead to the unintended behavior if a mode reversion happens within the next 45 s."
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inappropriate VS Target during Autoflight Mode Reversion OPERATIONAL CONSIDERATIONS Flight crews can identify an occurrence of an inappropriate VS target during autoflight mode reversion thanks to several cues. Aural and visual alerts When a reversion to VS or FPA mode occurs, the tripleclick except on A300600 and A310 aircraft, FD flashing and guidance mode boxing on the FMA triggers to attract the attention of the flight crew who can check the reversion parameters. Understand your FMA at all times Careful monitoring and understanding of the FMA, as stated in the Airbus Golden Rules for Pilots will enable the flight crew to detect the reversion to VS or FPA mode, and detect any inappropriate VS or FPA target value. Effect on the pitch fig.9 Several cues enable the flight crew to detect an inappropriate VS target during an autoflight mode reversion An unexpected pitch command by the autopilot can also"
+  },
+  {
+    "page": 46,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "be the sign of an inappropriate VS or FPA target after a mode reversion. Note that in scenario 3 described above mode reversion due to the loss of an approach mode, the unexpected autopilot pitch command may be limited and, therefore, difficult to perceive. Importance of the Pilot Monitoring The pilot monitoring plays an important role in detecting the issue and alerting the pilot flying when the pilot flying does not detect the inappropriate behavior. Take action if things do not go as expected If the inappropriate behavior occurs, the flight crew should take appropriate action as per the golden rules."
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "SYSTEM ENHANCEMENT System enhancements are available, or will be made available on most of the concerned aircraft to prevent the inappropriate combination of the VS or FPA Target Preselection function with the Mode Reversion function. Enhancement 1 Reset of the VS or FPA Preselected Value after VS or FPA Mode Engagement Whenever a VS or FPA target is preselected in the FCU, if the flight crew engages VS or FPA mode, the preset value is used for the guidance and is reset when the VS or FPA mode engages. It prevents the use of a preselected value in a subsequent reversion to VS or FPA as in the example described in this article but also in other phases of flight. This modification is already installed on A330, A340, A350 and A380 aircraft table 1. It is planned to be introduced on A320 family aircraft. No availability date was defined at"
+  },
+  {
+    "page": 47,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "the time of authoring of this article. Safety first 37 January 2024 045 table 1 Availability of the reset of the VS or FPA preset value after VS or FPA mode engagement AircraftA300brA300600brA310A320brFamilyA330A340A380A350A220 AvailabilityNot plannedTo bebrdefnedAlreadybrinstalledAlreadybrinstalledAlreadybrinstalledAlreadybrinstalledNA table 2 Availability of the reset of the VS or FPA Preselected value at goaround engagement Enhancement 2 Reset of the VS or FPA Preselected Value at Goaround Engagement This modification cancels any VS or FPA preset value when the flight crew performs a goaround. This prevents the use of an inappropriate VS of FPA value if VS or FPA mode was not engaged before the goaround. This enhancement was already implemented on A350 aircraft in PRIM P14.1 standard certified in December 2022. The enhancement will be introduced on A320 family, A330, and A380 aircraft table 2. AircraftA300brA300600brA310A320brFamilyA330A340A380A350A220 AvailabilityNot plannedTo bebrdefnedPlannedbron FMGECbrH8brQ1 2025Not plannedPlanned forbrPRIM P14PRIM P14.1brDEC 2022NA"
+  },
+  {
+    "page": 48,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "OPERATIONS Inappropriate VS Target during Autoflight Mode Reversion Enhancement 3 Reset of the VS or FPA Preselected or Selected Value in the Case of a Reversion to VS or FPA Mode table 3 Reset of the VS or FPA preselected or selected value in the case of a reversion to VS or FPA mode This enhancement ensures that the current VS or FPA is used during a mode reversion so that the current trajectory is maintained. This enhancement is planned to be installed on A320 family, A330, A350, and A380 aircraft see table 3. AircraftA300brA300600brA310A320brFamilyA330A340A380A350A220 AvailabilityNot plannedTo bebrdefnedTo bebrdefnedNot plannedPlanned forbrPRIM P14brBatch 8Planned forbrPRIM P15NA"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "CONTRIBUTORS THIERRY BOURRET Autoflight and Flight Operation Senior expert Design Office JEAN FOISNEAU Aircraft Safety Enhancement Manager Design Office MAXIME LANSONNEUR Director Safety Training and Flight Operations Customer Support GILBERT SAVARY Director Flight Operations and Training Standards Customer Support With thanks to Daniel LOPEZ FERNANDEZ from Product Safety, Laurent MOURE and Fabien PERRIN from the A300A310 Engineering, Thomas GOBEAUT and Marc LELOUER from the A300A310 Flight Operations Support. Safety first 37 January 2024 047 VS or FPA Target Preselection and Mode Reversion to VS or FPA mode are two useful functions of the flight guidance system. However, in certain circumstances, their combination may create inappropriate behavior of the flight guidance. System enhancements are available, or will be made available on most of the concerned aircraft to prevent the inappropriate combination of the two functions. The role of the pilot monitoring is especially important to support the pilot flying in detecting"
+  },
+  {
+    "page": 49,
+    "filepath": "/media/milan/2ebca60e-ba38-4888-8bdb-39dd15c47fac/SRM_Demo/data/raw/safety_first_37.pdf",
+    "text": "when an inappropriate reversion to VS or FPA mode occurs. The warning to listen and look for are the tripleclick except on A300600 and A310 aircraft, FD flashing, and guidance mode boxing on the FMA. These cues get the attention of the flight crew who can check the reversion parameters and take action if needed. To understand the FMA at all times and take action if things do not go as expected are two of the Airbus Golden Rules for Pilots that are very relevant to avoid the effects of inappropriate VS target during autoflight mode reversion."
+  }
+]
