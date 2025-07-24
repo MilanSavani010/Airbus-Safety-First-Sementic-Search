@@ -1,86 +1,80 @@
-"""
-extract.py  –  Step-2 of the SRM demo pipeline
-Tailored for the five sample SRM pages (png) you placed in data/raw/.
+from importlib.metadata import metadata
 
-Workflow
-1.  Read raw OCR text from 'staging' in srm_demo.db
-2.  Parse:
-      • section  – e.g. 'Wing Rib 12 — Crack near Leading Edge Panel'
-      • limit_mm – list of numeric millimetre limits found in the table
-3.  Write results to a fresh table 'srm' (over-writes each run)
-"""
+import pymupdf4llm
+from markdown import markdown
+from bs4 import BeautifulSoup
+import re
+from sentence_transformers import SentenceTransformer
+import numpy as np
+import faiss
 
-from __future__ import annotations
-import re, sqlite3, pandas as pd
-from pathlib import Path
-from src.config import DB_PATH
+model = SentenceTransformer('all-MiniLM-L6-v2')
 
-# ---------------------------------------------------------------------------
-# Regex helpers – tuned after looking at the OCR output of page1-5
-# ---------------------------------------------------------------------------
-
-RE_SECTION = re.compile(r"^(frame|wing|tail|cargo|nose)\b.*$", re.I | re.M)
-
-# e.g. '2 (0,8)'  OR  '2 (0.8)'  OR  '0.04'
-RE_MM = re.compile(r"\b(\d+(?:[.,]\d+)?)\s*(?=\(|mm|\s)", re.I)
-
-def clean(txt: str) -> str:
-    txt = txt.replace("O", "0")  # common OCR swap in tables
-    txt = txt.replace(" ", " ")  # nbsp to normal space
-    return re.sub(r"\s+", " ", txt.strip())
+def md_to_plain_text(md_text):
+    html = markdown(md_text)
+    soup = BeautifulSoup(html, features="html.parser")
+    return soup.get_text(separator="\n")
 
 
-def parse(row: pd.Series) -> dict:
-    raw = clean(row["text"].lower())
+def clean_text(text):
+    text = re.sub(r"\s+", " ", text)  # whitespace normalization
+    text = re.sub(r"[^a-zA-Z0-9,.!? ]", "", text)  # remove punctuation symbols
+    return text.strip()
 
-    # 1️⃣  section / subtitle
-    section = ""
-    m = RE_SECTION.search(raw)
-    if m:
-        # take the whole line the match sits on
-        section = raw.splitlines()[raw.count("\n", 0, m.start())].strip().title()
-
-    # 2️⃣  numeric limits (collect unique mm values)
-    limits = {val.replace(",", ".") for val in RE_MM.findall(raw)}
-    limits_sorted = ", ".join(sorted(limits, key=lambda x: float(x)))
-
-    return {
-        "fname":     row["fname"],
-        "section":   section,
-        "limit_mm":  limits_sorted,
-        "preview":   raw[:220] + "…"
-    }
+def word_level_chunking(text, max_words=150):
+    words = clean_text(text).split()
+    chunks = []
+    for i in range(0, len(words), max_words):
+        chunk = " ".join(words[i:i+max_words])
+        chunks.append(chunk)
+    return chunks
 
 
-# ---------------------------------------------------------------------------
-def main() -> None:
-    if not Path(DB_PATH).exists():
-        raise SystemExit(f"DB not found → {DB_PATH}. Run ingest first.")
 
-    with sqlite3.connect(DB_PATH) as con:
-        df = pd.read_sql("SELECT fname, text FROM staging", con)
-        if df.empty:
-            print("[EXTRACT] staging table empty – nothing to parse.")
-            return
+page_chunks = pymupdf4llm.to_markdown('../data/raw/safety_first_34.pdf',write_images=False,page_chunks=True)
 
-        parsed = pd.DataFrame(df.apply(parse, axis=1).tolist())
+chunked_pages = []
 
-        # (re)create the structured table
-        cur = con.cursor()
-        cur.execute("DROP TABLE IF EXISTS srm")
-        cur.execute("""
-            CREATE TABLE srm (
-              fname    TEXT PRIMARY KEY,
-              section  TEXT,
-              limit_mm TEXT,
-              preview  TEXT
-            )""")
-        parsed.to_sql("srm", con, if_exists="append", index=False)
+for page_chunk in page_chunks:
+    text = md_to_plain_text(page_chunk['text'])
+    cleaned = clean_text(page_chunk['text'])
+    chuncked_texts = word_level_chunking(cleaned,max_words=10)
 
-        print(f"[EXTRACT] Parsed {len(parsed)} docs ➜ table 'srm'")
-        # quick eyeball
-        print(parsed[["fname", "section", "limit_mm"]].to_markdown(index=False))
+    for chunk_text in chuncked_texts:
+        chunked_pages.append( {
+            "page":page_chunk['metadata']['page'],
+            "filepath":page_chunk['metadata']['file_path'],
+            "plain_text":chunk_text,
+        })
 
+texts = [chunk['plain_text'] for chunk in chunked_pages]
+embeddings = model.encode(texts,show_progress_bar=True)
+embeddings = np.array(embeddings).astype('float32')
 
-if __name__ == "__main__":
-    main()
+#number of chuncks
+#print(embeddings.shape[0])
+
+#index position to connect each vector to its corresponding metadata
+#print(embeddings.shape[1])
+
+dim = embeddings.shape[1]
+index = faiss.IndexFlatL2(dim)
+index.add(embeddings)
+print(index)
+metadata_map = {
+    i: {
+        "page": chunked_pages[i]['page'],
+        "filepath":chunked_pages[i]['filepath'],
+        "text":chunked_pages[i]['plain_text']
+    } for i in range(len(chunked_pages))
+}
+
+query = "Microbiological contamination"
+query_embed = model.encode([query]).astype("float32")
+D, I = index.search(query_embed, k=50)
+
+for idx in I[0]:
+    match = metadata_map[idx]
+    print(f"\nMatch Found:")
+    print(f"File: {match['filepath']} | Page: {match['page']}")
+    print(match["text"])
