@@ -14,5 +14,5 @@ def run_batch_pipeline():
     logger.info("Pipeline complete. All batches processed.")
 
 if __name__ == "__main__":
-    #run_batch_pipeline()
+    run_batch_pipeline()
     pass

@@ -28,7 +28,92 @@ The **SRM_Demo Dashboard** is a Streamlit-based frontend application for interac
    - Link to open the PDF (jumps directly to the relevant page).
 
 ---
+## Bird Eye View
+```mermaid
+    sequenceDiagram
+       participant User
+       participant Streamlit_Frontend as Streamlit Frontend (app.py)
+       participant Flask_Server as Flask Server (server.py)
+       participant Search_Engine as Search Engine (search_engine.py)
+       participant PDF_Storage as PDF Storage
+       
+   
+       User->>+Streamlit_Frontend: Enters query and clicks Search
+       Streamlit_Frontend->>+Flask_Server: HTTP GET /api/search
+       Flask_Server->>+Search_Engine: search_query_across_batches(query, top_k)
+       Search_Engine-->>-Flask_Server: List of search results
+       Flask_Server-->>-Streamlit_Frontend: JSON results
+       Streamlit_Frontend-->>User: Displays results & links to PDFs
+       
+       User->>+Streamlit_Frontend: Clicks Open PDF
+       Streamlit_Frontend->>+Flask_Server: HTTP GET /api/open-pdf
+       Flask_Server->>+PDF_Storage: Retrieve requested PDF
+       PDF_Storage-->>-Flask_Server: PDF File
+       Flask_Server-->>-Streamlit_Frontend: Serve PDF file for inline viewing
+       Streamlit_Frontend-->>User: Opens PDF for viewing
+   
 
+```
+```mermaid
+graph TD
+    %% Frontend Section
+    subgraph Frontend
+        A[app.py <br> Streamlit Interface: <br> Handles user input, displays results]
+    end
+
+    %% API Layer
+    subgraph API_Layer
+        B[server.py <br> Flask API Server: <br> Serves REST APIs for search and PDF retrieval]
+    end
+
+    %% Batch Processor Details
+    subgraph Batch_Processor["batch_processor.py <br> Batch PDF Processing"]
+        P1[Load PDF Chunks: <br> load_pdf_chunks_from_files]
+        P2[Prepare Chunks: <br> prepare_chunks]
+        P3[Embed Chunks: <br> embed_chunks]
+        P4[Save Embeddings: <br> save_index]
+        P5[Save Metadata: <br> save_metadata]
+        P6[Logging: <br> Use logger.py]
+    end
+
+    %% Document Processing (Other Components)
+    subgraph Document_Processing
+        D[search_engine.py <br> Loads indexes, performs search]
+        E[path_manager.py <br> Utilities for managing file paths]
+    end
+
+    %% Utilities Section
+    subgraph Utilities
+        F[logger.py <br> Centralized logging for all tasks]
+    end
+
+    %% Storage Layer
+    subgraph Storage
+        G[PDF Storage <br> Stores raw PDF files]
+        H[Index Data <br> FAISS Vector Indexes , Metadata JSONs]
+    end
+
+    %% Connecting the frontend
+    A --> B
+    B --> D
+    %% Retrieve specific PDFs
+    B --> G 
+    %% Access the index and metadata for search
+    D --> H 
+
+    %% Batch Processor Workflow
+    P1 --> P2
+    P2 --> P3
+    P3 --> P4
+    P3 --> P5
+    P4 --> H 
+    P5 --> H 
+    P6 --> F
+
+    %% Batch Processor Setup
+    E --> P1 
+    P1 --> G 
+```
 ## Installation and Setup
 
 1. Clone the repository:
