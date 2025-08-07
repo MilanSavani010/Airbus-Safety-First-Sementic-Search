@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 from pathlib import Path
 
-st.set_page_config(page_title="🔍 Document Search", layout="wide")
-st.title("📘 Semantic PDF Search")
+st.set_page_config(page_title="Document Search", layout="wide")
+st.title("Airbus - Safety First")
 
 query = st.text_input("Enter your query")
 match_count = st.slider("Results to show", 1, 10, 5)
@@ -11,6 +11,7 @@ match_count = st.slider("Results to show", 1, 10, 5)
 if st.button("Search") and query:
     res = requests.get("http://localhost:5000/api/search", params={
         "query": query,
+
         "top_k": match_count
     })
 
@@ -27,5 +28,5 @@ if st.button("Search") and query:
             st.subheader(f"{file} — Page {page}")
             st.markdown(f"`{snippet}`")
             st.markdown(f"[Open PDF File]({file_api})", unsafe_allow_html=True)
-            st.markdown("---")
+        st.markdown("---")
 
