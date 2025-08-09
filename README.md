@@ -28,7 +28,7 @@ The **SRM_Demo Dashboard** is a Streamlit-based frontend application for interac
    - Link to open the PDF (jumps directly to the relevant page).
 
 ---
-## Bird Eye View
+## User Interation Sequence Diagram
 ```mermaid
     sequenceDiagram
        participant User
@@ -54,6 +54,8 @@ The **SRM_Demo Dashboard** is a Streamlit-based frontend application for interac
    
 
 ```
+## Bird Eye View
+
 ```mermaid
 graph TD
     %% Frontend Section
