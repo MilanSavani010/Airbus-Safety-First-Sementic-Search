@@ -68,10 +68,11 @@ graph TD
 
     %% Batch Processor Details
     subgraph Batch_Processor["batch_processor.py <br> Batch PDF Processing"]
-        P1[Load PDF Chunks: <br> load_pdf_chunks_from_files]
-        P2[Prepare Chunks: <br> prepare_chunks]
-        P3[Embed Chunks: <br> embed_chunks]
-        P4[Save Embeddings: <br> save_index]
+        P1[Load PDF Chunks: <br> load_pdf_chunks_from_files pymupdf4llm pretrained model]
+
+        P2[Prepare Chunks: <br> prepare_chunks: Word level chunking,cleaning]
+        P3[Embed Chunks: <br> embed_chunks SentenceTransformer]
+        P4[Save Embeddings: <br> save_index FAISS Dence Vector Indenxing, Metadata mapping]
         P5[Save Metadata: <br> save_metadata]
         P6[Logging: <br> Use logger.py]
     end
